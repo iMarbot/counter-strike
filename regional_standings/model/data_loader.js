@@ -157,7 +157,7 @@ class DataLoader
 
     loadData( versionTimestamp = -1 )
     {
-        const data = fs.readFileSync( '../data/matchdata.json' );
+        const data = fs.readFileSync( '../data/matchdata LPDB.json' );
         const dataJson = JSON.parse( data );
 
         // initialize match list

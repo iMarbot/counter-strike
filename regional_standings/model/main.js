@@ -32,7 +32,7 @@ function run()
     console.log( '' );
     Ranking.displayRankings( teams, regions );
     console.log( '' );
-    console.log( '_Event data for Regional Standings provided by HLTV.org_' );
+    console.log( '_Event data for Regional Standings provided by Liquipedia.net_' );
 }
 
 run();
