@@ -1,4 +1,4 @@
 *.csv
 *.tmp
 .idea/
-regional_standings/data/matchdata LPDB.json
+*.json
