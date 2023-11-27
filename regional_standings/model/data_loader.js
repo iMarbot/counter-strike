@@ -41,6 +41,7 @@ class EventTeam {
         this.placement = prizeJson.placement;
         this.prize = prizeJson.prize;
         this.shared = prizeJson.shared;
+        this.lan = prizeJson.lan;
     }
 }
 

@@ -30,6 +30,7 @@ class TeamMatch {
         this.teamNumber = ( match.team1 === team ) ? 1 : 2;
         this.isWinner   = match.winningTeam === this.teamNumber;
         this.opponent   = ( this.teamNumber === 1 ) ? match.team2 : match.team1;
+        this.lan = match.lan;
     }
 }
 
@@ -149,8 +150,7 @@ class Team {
 
             // Also calculate wins on LAN
             team.wonMatches.forEach( wonMatch => {
-                let lan = wonMatch.team.eventMap.get( wonMatch.match.eventId ).event.lan;
-                team.lanWins += ( lan ? 1 : 0 ) * context.getTimestampModifier( wonMatch.match.matchStartTime );
+                team.lanWins += ( wonMatch.lan ? 1 : 0 ) * context.getTimestampModifier( wonMatch.match.matchStartTime );
             })
         } );
 
