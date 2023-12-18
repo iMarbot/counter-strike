@@ -1,54 +1,55 @@
-### Regional Standings for Asia as of 2023-12-10
+### Regional Standings for Asia as of 2023-12-17
 
-| Standing | Points | Team Name                        | Roster                                            |
+| Standing | Points | Team Name                    | Roster                                            |
 | -: | -: | :- | :- |
-|        1 |   1213 | TRAFFIC Tashkent Team            | icyvlone, fr0k, wetfy, kanshineF, Hitori          |
-|        2 |   1157 | The MongolZ                      | bLitz, Techno4K, 910, mzinho, Senzu               |
-|        3 |   1123 | Lynn Vision Gaming               | westmelon, z4kr, Starry, EmiliaQAQ, Jee           |
-|        4 |   1078 | ATOX Esports                     | kabal, dobu, MiQ, AccuracyTG, zesta               |
-|        5 |   1075 | TYLOO                            | advent, kaze, JamYoung, Moseyuh, Mercury          |
-|        6 |    973 | Marcos Gaming                    | Defaulter, Mcg1LLzZz, Gh0sTTTT, DiceDealer, Rossi |
-|        7 |    896 | The Huns Esports                 | nin9, Bart4k, sk0R, yAmi, ncl                     |
-|        8 |    896 | Firedup Gaming                   | LuciA, ChAmP, ghostxD, Catastr0phE, Nox           |
-|        9 |    886 | KingPins                         | Bhavi, Elvis, R2B2, EmbeR, reV3nnnn               |
-|       10 |    872 | Revenant Esports (Indian team)   | SpawN, f1redup, gump, CycloneF, shandarez         |
-|       11 |    871 | Nixuh                            | flexeeee, FROZ3N, bLazE, RustyYG, Fadey           |
-|       12 |    853 | Gods Reign                       | Ph1NNN, clouda, Crazy_Gamer, f1redup, CycloneF    |
-|       13 |    827 | NOM Esports                      | BluePho3nix, Zax1e, AMSALEM, dan1, ultimate       |
-|       14 |    826 | Eruption                         | fury5k, ariucle, ROUX, MagnumZ, NEUZ              |
-|       15 |    824 | Bravado Gaming                   | Doru, wilj, Triton, March, DropShot               |
-|       16 |    818 | Enigma Gaming                    | SpawN, Rider, Benzene, hattygOD, Catastr0phE      |
-|       17 |    803 | ATK Female                       | M3gzz, KayC, Creative28, ihatejess, queenza       |
-|       18 |    802 | NewHappy                         | SPine, TiGeR, L1haNg, tutu, 2X2X                  |
-|       19 |    781 | Wings Up Gaming                  | lan, gas, ChildKing, flying, Marek                |
-|       20 |    777 | Grayhound Gaming                 | Sico, INS, aliStair, Liazz, Vexite                |
-|       21 |    772 | Hyper5                           | Lyme, Pikalee, Soncam-1603, Shu, Pms              |
-|       22 |    744 | Noobs But Diligent               | salmon, chuzhongT, Gin, expSasiKi, xziii          |
-|       23 |    743 | Stacks of cash                   | ARTeMis, konii, hdizz, chickenloaf, soko          |
-|       24 |    735 | Rooster                          | asap, nettik, chelleos, Rackem, vanilla           |
-|       25 |    726 | KingPins                         | Bhavi, f1redup, DiceDealer, CycloneF, hattygOD    |
-|       26 |    723 | VERTEX Esports Club              | pz, BRACE, ADDICT, HaZR, Valiance                 |
-|       27 |    723 | GEUD Gaming                      | AccuracyTG, Breakk, laxiee, zesta, viva           |
-|       28 |    714 | Steel Helmet                     | AE, xiaosaGe, DD, 18yM, captainMo                 |
-|       29 |    699 | Team NKT                         | XigN, erkaSt, BnTeT, Gratisfaction, xerolte       |
-|       30 |    697 | LookingForOrg (Australian team)  | apocdud, sterling, Liki, SaVage, Hatz             |
-|       31 |    693 | Goliath Gaming                   | aw3some, tristanxa, .exe, slash, uDEADSHOT        |
-|       32 |    680 | DEWA United                      | klipp, Whiss, Jaytzyy, WasteOfAmmo, Albatross     |
-|       33 |    679 | Yarp                             | ar1a, Maddy, Noogz, stawbeli, kimbab              |
-|       34 |    679 | TYLOO                            | SLOWLY, Freeman, sk0R, emi, ROGA                  |
-|       35 |    660 | Antic Esports                    | Noisia, James, jokes, RaZ, kyson                  |
-|       36 |    657 | DXA Esports                      | Kiyo, lucas, Roflko, helix, Falcon                |
-|       37 |    654 | ROG Academy                      | arakyn, BrOCK, Smoakkk, SeeK, vrenyy              |
-|       38 |    647 | Mindfreak (Australian team)      | tucks, Forleks, supar, dangeR, dpr                |
-|       39 |    642 | Rare Atom                        | somebody, Summer, EXPRO, kory, phzy               |
-|       40 |    626 | Team Hong Kong (Female team)     | candid, MiyukiBB, Yilammm, Joker, Kim             |
-|       41 |    610 | Octagonal Disposition Gaming     | elernity, DaL1, Yolo267, rage, xziii              |
-|       42 |    609 | Clutch Gaming                    | IZR, clouden, ATTACKER, hasteka, flame            |
-|       43 |    608 | KZG                              | Hassie, KZXL, Samuukxs, Mingovi, Omichella        |
-|       44 |    608 | Stirlz's Angels                  | callum_murray, Drox, ObZen, swede, novax          |
-|       45 |    571 | Souls-Land                       | SundanceK1d, wh1mzzz, xrt, Kisynergy, Harborboy   |
-|       46 |    559 | MANTRA                           | Bones, cheeseball, Reapz, shaw, bizkit            |
-|       47 |    527 | 335CauGiay                       | Kayje, Hatred, FrostLi, Tal3nt, Pr0digy           |
-|       48 |    520 | Arcade Esports (Australian team) | JiNxZiE, harbor, PearL, Supers, endR              |
+|        1 |   1225 | The MongolZ                  | bLitz, Techno4K, 910, mzinho, Senzu               |
+|        2 |   1210 | TRAFFIC Tashkent Team        | icyvlone, fr0k, wetfy, kanshineF, Hitori          |
+|        3 |   1085 | Lynn Vision Gaming           | westmelon, z4kr, Starry, EmiliaQAQ, Jee           |
+|        4 |   1064 | ATOX Esports                 | dobu, kabal, MiQ, AccuracyTG, zesta               |
+|        5 |   1057 | TYLOO                        | advent, kaze, JamYoung, Moseyuh, Mercury          |
+|        6 |    928 | Marcos Gaming                | Defaulter, Mcg1LLzZz, Gh0sTTTT, DiceDealer, Rossi |
+|        7 |    868 | Nixuh                        | flexeeee, FROZ3N, bLazE, RustyYG, Fadey           |
+|        8 |    867 | The Huns Esports             | nin9, Bart4k, sk0R, yAmi, ncl                     |
+|        9 |    854 | Firedup Gaming               | LuciA, ChAmP, ghostxD, Catastr0phE, Nox           |
+|       10 |    851 | Revenant Esports             | SpawN, f1redup, gump, CycloneF, shandarez         |
+|       11 |    821 | Revenant Esports             | Bhavi, Elvis, R2B2, Benzene, hattygOD             |
+|       12 |    808 | NewHappy                     | SPine, TiGeR, L1haNg, tutu, 2X2X                  |
+|       13 |    800 | Bravado Gaming               | Doru, wilj, Triton, March, DropShot               |
+|       14 |    780 | ATK Female                   | M3gzz, KayC, Creative28, ihatejess, queenza       |
+|       15 |    770 | Gods Reign                   | Ph1NNN, clouda, Crazy_Gamer, f1redup, CycloneF    |
+|       16 |    770 | Wings Up Gaming              | lan, gas, ChildKing, flying, Marek                |
+|       17 |    768 | Enigma Gaming                | SpawN, Benzene, hattygOD, Catastr0phE, ghostxD    |
+|       18 |    768 | Eruption                     | fury5k, ariucle, ROUX, MagnumZ, NEUZ              |
+|       19 |    761 | Grayhound Gaming             | Sico, INS, aliStair, Liazz, Vexite                |
+|       20 |    752 | NOM Esports                  | BluePho3nix, Zax1e, AMSALEM, dan1, ultimate       |
+|       21 |    745 | Hyper5                       | Lyme, Pikalee, Shu, Pms, Guckj                    |
+|       22 |    736 | VERTEX Esports Club          | pz, BRACE, HaZR, Valiance, Roflko                 |
+|       23 |    733 | Noobs But Diligent           | salmon, chuzhongT, Gin, expSasiKi, xziii          |
+|       24 |    727 | Rooster                      | asap, nettik, chelleos, Rackem, vanilla           |
+|       25 |    718 | stacks of cash               | ARTeMis, konii, hdizz, Mandawg, epoh              |
+|       26 |    715 | GEUD Gaming                  | AccuracyTG, Breakk, laxiee, zesta, viva           |
+|       27 |    711 | LETUSWIN69                   | klipp, WasteOfAmmo, marsyA, XigN, xerolte         |
+|       28 |    699 | Steel Helmet                 | AE, xiaosaGe, DD, 18yM, captainMo                 |
+|       29 |    694 | yarp                         | ar1a, maddy, Noogz, stawbeli, Bones               |
+|       30 |    690 | LookingForOrg                | apocdud, sterling, Liki, SaVage, Hatz             |
+|       31 |    689 | Mindfreak                    | tucks, Forleks, supar, dangeR, dpr                |
+|       32 |    682 | Team NKT                     | XigN, erkaSt, BnTeT, Gratisfaction, xerolte       |
+|       33 |    682 | Goliath Gaming               | aw3some, tristanxa, .exe, slash, uDEADSHOT        |
+|       34 |    670 | Vantage Esports              | N1ghtraid, Omichella, KRAXYT, Kobe, vision        |
+|       35 |    668 | TYLOO                        | SLOWLY, Freeman, sk0R, emi, ROGA                  |
+|       36 |    665 | Rare Atom                    | somebody, Summer, EXPRO, kory, phzy               |
+|       37 |    650 | VYBN                         | dizzy, dyvo, Natural, TheM4N, Puppyy              |
+|       38 |    650 | Antic Esports                | Noisia, James, jokes, RaZ, kyson                  |
+|       39 |    641 | ROG Academy                  | arakyn, BrOCK, Smoakkk, SeeK, vrenyy              |
+|       40 |    624 | Souls-Land                   | SundanceK1d, wh1mzzz, xrt, Kisynergy, Harborboy   |
+|       41 |    611 | DXA Esports                  | Kiyo, lucas, Roflko, helix, Falcon                |
+|       42 |    609 | Team Hong Kong               | candid, MiyukiBB, Yilammm, Joker, Kim             |
+|       43 |    606 | Clutch Gaming                | IZR, clouden, ATTACKER, hasteka, flame            |
+|       44 |    605 | Stirlz's Angels              | callum_murray, Drox, ObZen, swede, novax          |
+|       45 |    598 | KZG                          | Hassie, KZXL, Samuukxs, Mingovi, constantinos     |
+|       46 |    596 | Octagonal Disposition Gaming | elernity, DaL1, Yolo267, rage, xziii              |
+|       47 |    555 | MANTRA                       | Bones, cheeseball, Reapz, shaw, bizkit            |
+|       48 |    517 | Arcade Esports               | JiNxZiE, harbor, PearL, Supers, endR              |
+|       49 |    513 | Team Vietnam                 | Kayje, Hatred, FrostLi, Tal3nt, Pr0digy           |
 
 _Event data for Regional Standings provided by Liquipedia.net_
