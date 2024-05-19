@@ -110,7 +110,7 @@ function displayRankings( teams, regions = [0,1,2], strDate ) {
     output += '\n' + tableString + '\n';
 
     output += formatLine( '', true );
-    output += formatLine( '_Event data for Regional Standings provided by HLTV.org_' );
+    output += formatLine( '_Event data for Regional Standings provided by Liquipedia.net_' );
 
     //console.log( output );
     return output;
@@ -271,7 +271,7 @@ function displayTeamRankingSummary( team, teams ){
     output += formatLine( `<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_` );
     output += formatLine( '', true );
     output += formatLine( '---', true );
-    output += formatLine( '_Event data for Regional Standings provided by HLTV.org_' );
+    output += formatLine( '_Event data for Regional Standings provided by Liquipedia.net_' );
 
     return output;
 }
