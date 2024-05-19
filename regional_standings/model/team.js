@@ -30,7 +30,7 @@ class TeamMatch {
         this.teamNumber = ( match.team1 === team ) ? 1 : 2;
         this.isWinner   = match.winningTeam === this.teamNumber;
         this.opponent   = ( this.teamNumber === 1 ) ? match.team2 : match.team1;
-        this.lan = match.lan;
+        this.isLAN = match.lan;
     }
 }
 
@@ -145,7 +145,7 @@ class Team {
                 // LAN
                 let id = wonMatch.match.umid;
                 let timestampModifier = context.getTimestampModifier( matchTime );
-                let lan = getLAN( wonMatch );
+                let lan = wonMatch.isLAN;
                 let matchContext = timestampModifier;
                 let scaledLan = lan * matchContext;
                 lanWins.push( { id: id, context: matchContext, base: lan, val: scaledLan } );  
