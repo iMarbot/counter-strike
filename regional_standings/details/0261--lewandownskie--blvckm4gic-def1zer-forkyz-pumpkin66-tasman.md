@@ -34,26 +34,26 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                           |
+| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |      414 | 2024-04-26 | CUBE BY SND                  | W   | 1.000      | 0.143        | 0.013 (0.002)    | 0.138 (0.020)    | false (0.000) |    17.74 | BLVCKM4GIC, def1zer, forkyz, Pumpkin66, tasman   |
-|           17 |      422 | 2024-04-26 | XGOD                         | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.056 (0.008)    | false (0.000) |     9.40 | BLVCKM4GIC, def1zer, forkyz, Pumpkin66, tasman   |
-|           16 |      429 | 2024-04-26 | ALLINNERS                    | L   | 1.000      | -            | -                | -                | -             |   -20.74 | BLVCKM4GIC, def1zer, forkyz, Pumpkin66, tasman   |
-|           15 |     2212 | 2024-03-15 | TEAM MAX (European mix-team) | L   | 0.859      | -            | -                | -                | -             |   -17.54 | BLVCKM4GIC, def1zer, Pumpkin66, tasman, TNDKingg |
-|           14 |     2304 | 2024-03-13 | Virtuoso Squad               | W   | 0.846      | 0.333        | 0.000 (0.000)    | 0.063 (0.018)    | false (0.000) |     5.07 | hahanz0, Maha, N1ghtMan, sinkieee, V0R4yn        |
-|           13 |     2402 | 2024-03-11 | ADEPTS                       | L   | 0.832      | -            | -                | -                | -             |   -13.04 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky         |
-|           12 |     2527 | 2024-03-08 | Clownfiesta                  | W   | 0.812      | 0.333        | 0.000 (0.000)    | 0.029 (0.008)    | false (0.000) |     6.61 | f1nch, Maison, Pepo, SOKER, WorldEdit            |
-|           11 |     3442 | 2024-02-18 | CUBE BY SND                  | L   | 0.685      | -            | -                | -                | -             |   -10.33 | Adaikz, dosikzz, mag1k3Y, OxygeN, rinn           |
-|           10 |     3508 | 2024-02-17 | NoMercy (Kazakh team)        | W   | 0.676      | 0.143        | 0.001 (0.000)    | 0.027 (0.003)    | false (0.000) |     7.44 | baytereQ, clovisz, confiden7, GetZati, m1te      |
-|            9 |     5050 | 2024-01-10 | RUSH B (Russian team)        | L   | 0.426      | -            | -                | -                | -             |    -4.43 | BLVCKM4GIC, def1zer, forkyz, tasman, TNDKingg    |
-|            8 |     5330 | 2023-12-18 | VaselineWorms                | L   | 0.270      | -            | -                | -                | -             |    -4.46 | aliot, kashl1d, Muk0s, relaxxie, zweih           |
-|            7 |     5374 | 2023-12-17 | FORZE Youngsters             | W   | 0.264      | 0.143        | 0.003 (0.000)    | 0.123 (0.005)    | false (0.000) |     4.34 | BLVCKM4GIC, def1zer, ICY, Pumpkin66, TNDKingg    |
-|            6 |     5397 | 2023-12-17 | TopTab Club                  | W   | 0.263      | 0.143        | -                | 0.065 (0.002)    | false (0.000) |     2.46 | BLVCKM4GIC, def1zer, ICY, Pumpkin66, TNDKingg    |
-|            5 |     5499 | 2023-12-16 | LF0                          | L   | 0.256      | -            | -                | -                | -             |    -4.36 | HUckLer, lesswill, SP1NT, SUROVIY666, Xerison    |
-|            4 |     5596 | 2023-12-15 | Temp (Kazakh team)           | W   | 0.249      | 0.143        | 0.004 (0.000)    | 0.001 (0.000)    | true (0.249)  |     3.15 | BLVCKM4GIC, def1zer, ICY, Pumpkin66, TNDKingg    |
-|            3 |     6402 | 2023-11-26 | Temp (Kazakh team)           | W   | 0.124      | 0.143        | 0.004 (0.000)    | 0.001 (0.000)    | false (0.000) |     1.60 | mag1k3Y, maison, plushax, smiley, w1nt3r         |
-|            2 |     7057 | 2023-11-11 | Temp (Kazakh team)           | W   | 0.025      | 0.143        | 0.004 (0.000)    | 0.001 (0.000)    | false (0.000) |     0.32 | mag1k3Y, maison, plushax, smiley, w1nt3r         |
-|            1 |     7071 | 2023-11-11 | HOTLINE                      | W   | 0.024      | 0.143        | 0.000 (0.000)    | -                | -             |     0.22 | BLVCKM4GIC, def1zer, ICY, Pumpkin66, TNDKingg    |
+|           18 |      414 | 2024-04-26 | CUBE BY SND                  | W   | 1.000      | 0.143        | 0.013 (0.002)    | 0.138 (0.020)    | 0 (0.000) |    17.74 | BLVCKM4GIC, def1zer, forkyz, Pumpkin66, tasman   |
+|           17 |      422 | 2024-04-26 | XGOD                         | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.056 (0.008)    | 0 (0.000) |     9.40 | BLVCKM4GIC, def1zer, forkyz, Pumpkin66, tasman   |
+|           16 |      429 | 2024-04-26 | ALLINNERS                    | L   | 1.000      | -            | -                | -                | -         |   -20.74 | BLVCKM4GIC, def1zer, forkyz, Pumpkin66, tasman   |
+|           15 |     2212 | 2024-03-15 | TEAM MAX (European mix-team) | L   | 0.859      | -            | -                | -                | -         |   -17.54 | BLVCKM4GIC, def1zer, Pumpkin66, tasman, TNDKingg |
+|           14 |     2304 | 2024-03-13 | Virtuoso Squad               | W   | 0.846      | 0.333        | 0.000 (0.000)    | 0.063 (0.018)    | 0 (0.000) |     5.07 | hahanz0, Maha, N1ghtMan, sinkieee, V0R4yn        |
+|           13 |     2402 | 2024-03-11 | ADEPTS                       | L   | 0.832      | -            | -                | -                | -         |   -13.04 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky         |
+|           12 |     2527 | 2024-03-08 | Clownfiesta                  | W   | 0.812      | 0.333        | 0.000 (0.000)    | 0.029 (0.008)    | 0 (0.000) |     6.61 | f1nch, Maison, Pepo, SOKER, WorldEdit            |
+|           11 |     3442 | 2024-02-18 | CUBE BY SND                  | L   | 0.685      | -            | -                | -                | -         |   -10.33 | Adaikz, dosikzz, mag1k3Y, OxygeN, rinn           |
+|           10 |     3508 | 2024-02-17 | NoMercy (Kazakh team)        | W   | 0.676      | 0.143        | 0.001 (0.000)    | 0.027 (0.003)    | 0 (0.000) |     7.44 | baytereQ, clovisz, confiden7, GetZati, m1te      |
+|            9 |     5050 | 2024-01-10 | RUSH B (Russian team)        | L   | 0.426      | -            | -                | -                | -         |    -4.43 | BLVCKM4GIC, def1zer, forkyz, tasman, TNDKingg    |
+|            8 |     5330 | 2023-12-18 | VaselineWorms                | L   | 0.270      | -            | -                | -                | -         |    -4.46 | aliot, kashl1d, Muk0s, relaxxie, zweih           |
+|            7 |     5374 | 2023-12-17 | FORZE Youngsters             | W   | 0.264      | 0.143        | 0.003 (0.000)    | 0.123 (0.005)    | 0 (0.000) |     4.34 | BLVCKM4GIC, def1zer, ICY, Pumpkin66, TNDKingg    |
+|            6 |     5397 | 2023-12-17 | TopTab Club                  | W   | 0.263      | 0.143        | -                | 0.065 (0.002)    | 0 (0.000) |     2.46 | BLVCKM4GIC, def1zer, ICY, Pumpkin66, TNDKingg    |
+|            5 |     5499 | 2023-12-16 | LF0                          | L   | 0.256      | -            | -                | -                | -         |    -4.36 | HUckLer, lesswill, SP1NT, SUROVIY666, Xerison    |
+|            4 |     5596 | 2023-12-15 | Temp (Kazakh team)           | W   | 0.249      | 0.143        | 0.004 (0.000)    | 0.001 (0.000)    | 1 (0.249) |     3.15 | BLVCKM4GIC, def1zer, ICY, Pumpkin66, TNDKingg    |
+|            3 |     6402 | 2023-11-26 | Temp (Kazakh team)           | W   | 0.124      | 0.143        | 0.004 (0.000)    | 0.001 (0.000)    | 0 (0.000) |     1.60 | mag1k3Y, maison, plushax, smiley, w1nt3r         |
+|            2 |     7057 | 2023-11-11 | Temp (Kazakh team)           | W   | 0.025      | 0.143        | 0.004 (0.000)    | 0.001 (0.000)    | 0 (0.000) |     0.32 | mag1k3Y, maison, plushax, smiley, w1nt3r         |
+|            1 |     7071 | 2023-11-11 | HOTLINE                      | W   | 0.024      | 0.143        | 0.000 (0.000)    | -                | -         |     0.22 | BLVCKM4GIC, def1zer, ICY, Pumpkin66, TNDKingg    |
 
 <br />
 <span id="table2"></span><br />

@@ -34,29 +34,29 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                      |
+| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |      107 | 2024-05-03 | ARCRED                       | L   | 1.000      | -            | -                | -                | -             |    -9.76 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
-|           20 |      178 | 2024-05-01 | SNOGARD Dragons              | W   | 1.000      | 0.143        | 0.009 (0.001)    | 0.117 (0.017)    | false (0.000) |    14.59 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
-|           19 |      825 | 2024-04-19 | GenOne                       | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.323 (0.120)    | false (0.000) |     9.98 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
-|           18 |     1212 | 2024-04-10 | Copenhagen Wolves            | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.417 (0.155)    | false (0.000) |    11.41 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
-|           17 |     1288 | 2024-04-09 | Rhyno Esports                | L   | 1.000      | -            | -                | -                | -             |   -10.09 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
-|           16 |     1329 | 2024-04-08 | TeamOrangeGaming             | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.140 (0.020)    | false (0.000) |    18.60 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
-|           15 |     1535 | 2024-04-03 | Sissi State Punks            | W   | 0.985      | 0.143        | 0.009 (0.001)    | 0.191 (0.027)    | false (0.000) |    15.95 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
-|           14 |     1811 | 2024-03-26 | Sashi Esport                 | L   | 0.932      | -            | -                | -                | -             |    -3.60 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
-|           13 |     2088 | 2024-03-18 | Turów Zgorzelec Esport       | L   | 0.878      | -            | -                | -                | -             |    -9.39 | AxEcHo, darko, kadziu, Markoś, xKacpersky   |
-|           12 |     2121 | 2024-03-17 | TEAM MAX (European mix-team) | W   | 0.872      | 0.333        | 0.000 (0.000)    | 0.116 (0.034)    | false (0.000) |     8.21 | kL1o, Malkiss, tAk, tooizera, zecco         |
-|           11 |     2209 | 2024-03-15 | Dynamo Eclot                 | L   | 0.859      | -            | -                | -                | -             |    -2.93 | j1NZO, Kre1N, Orbit, Tionix, Twiksar        |
-|           10 |     2400 | 2024-03-11 | Team OWL                     | W   | 0.832      | 0.333        | -                | 0.036 (0.010)    | false (0.000) |     5.89 | j1NZO, Kre1N, Orbit, Tionix, Twiksar        |
-|            9 |     2562 | 2024-03-07 | MST                          | W   | 0.806      | 0.333        | -                | 0.057 (0.015)    | false (0.000) |     4.32 | el_strongo, mikult, MQ666MQ, NerouK, wtfmen |
-|            8 |     4734 | 2024-01-17 | Guild Eagles                 | L   | 0.472      | -            | -                | -                | -             |    -1.83 | Kre1N, Orbit, S1M, Tionix, Twiksar          |
-|            7 |     6360 | 2023-11-27 | ALTERNATE aTTaX              | L   | 0.132      | -            | -                | -                | -             |    -0.44 | DreaM-, Kre1N, Orbit, Tionix, Twiksar       |
-|            6 |     6390 | 2023-11-26 | Reveal (German team)         | W   | 0.125      | 0.143        | 0.005 (0.000)    | 0.003 (0.000)    | false (0.000) |     1.59 | doxors, j1NZO, janfy, Miku, OneLion         |
-|            5 |     6400 | 2023-11-26 | ALTERNATE aTTaX              | L   | 0.124      | -            | -                | -                | -             |    -0.41 | DreaM-, Kre1N, Orbit, Tionix, Twiksar       |
-|            4 |     6441 | 2023-11-25 | Reveal (German team)         | W   | 0.117      | 0.143        | 0.005 (0.000)    | -                | false (0.000) |     1.51 | doxors, j1NZO, janfy, Miku, OneLion         |
-|            3 |     6624 | 2023-11-20 | RED (German team)            | W   | 0.086      | 0.143        | 0.003 (0.000)    | -                | -             |     1.04 | aerax, NaYz, syncD, w1doww, Yoshireax       |
-|            2 |     6732 | 2023-11-18 | THE SUSPECT                  | L   | 0.071      | -            | -                | -                | -             |    -1.21 | DreaM-, Kre1N, Orbit, Tionix, Twiksar       |
-|            1 |     6742 | 2023-11-18 | Wave Esports                 | W   | 0.070      | 0.242        | 0.004 (0.000)    | 0.113 (0.002)    | -             |     0.94 | DreaM-, Kre1N, Orbit, Tionix, Twiksar       |
+|           21 |      107 | 2024-05-03 | ARCRED                       | L   | 1.000      | -            | -                | -                | -         |    -9.76 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
+|           20 |      178 | 2024-05-01 | SNOGARD Dragons              | W   | 1.000      | 0.143        | 0.009 (0.001)    | 0.117 (0.017)    | 0 (0.000) |    14.59 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
+|           19 |      825 | 2024-04-19 | GenOne                       | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.323 (0.120)    | 0 (0.000) |     9.98 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
+|           18 |     1212 | 2024-04-10 | Copenhagen Wolves            | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.417 (0.155)    | 0 (0.000) |    11.41 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
+|           17 |     1288 | 2024-04-09 | Rhyno Esports                | L   | 1.000      | -            | -                | -                | -         |   -10.09 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
+|           16 |     1329 | 2024-04-08 | TeamOrangeGaming             | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.140 (0.020)    | 0 (0.000) |    18.60 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
+|           15 |     1535 | 2024-04-03 | Sissi State Punks            | W   | 0.985      | 0.143        | 0.009 (0.001)    | 0.191 (0.027)    | 0 (0.000) |    15.95 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
+|           14 |     1811 | 2024-03-26 | Sashi Esport                 | L   | 0.932      | -            | -                | -                | -         |    -3.60 | Kre1N, Orbit, SnacKZ1, Tionix, Twiksar      |
+|           13 |     2088 | 2024-03-18 | Turów Zgorzelec Esport       | L   | 0.878      | -            | -                | -                | -         |    -9.39 | AxEcHo, darko, kadziu, Markoś, xKacpersky   |
+|           12 |     2121 | 2024-03-17 | TEAM MAX (European mix-team) | W   | 0.872      | 0.333        | 0.000 (0.000)    | 0.116 (0.034)    | 0 (0.000) |     8.21 | kL1o, Malkiss, tAk, tooizera, zecco         |
+|           11 |     2209 | 2024-03-15 | Dynamo Eclot                 | L   | 0.859      | -            | -                | -                | -         |    -2.93 | j1NZO, Kre1N, Orbit, Tionix, Twiksar        |
+|           10 |     2400 | 2024-03-11 | Team OWL                     | W   | 0.832      | 0.333        | -                | 0.036 (0.010)    | 0 (0.000) |     5.89 | j1NZO, Kre1N, Orbit, Tionix, Twiksar        |
+|            9 |     2562 | 2024-03-07 | MST                          | W   | 0.806      | 0.333        | -                | 0.057 (0.015)    | 0 (0.000) |     4.32 | el_strongo, mikult, MQ666MQ, NerouK, wtfmen |
+|            8 |     4734 | 2024-01-17 | Guild Eagles                 | L   | 0.472      | -            | -                | -                | -         |    -1.83 | Kre1N, Orbit, S1M, Tionix, Twiksar          |
+|            7 |     6360 | 2023-11-27 | ALTERNATE aTTaX              | L   | 0.132      | -            | -                | -                | -         |    -0.44 | DreaM-, Kre1N, Orbit, Tionix, Twiksar       |
+|            6 |     6390 | 2023-11-26 | Reveal (German team)         | W   | 0.125      | 0.143        | 0.005 (0.000)    | 0.003 (0.000)    | 0 (0.000) |     1.59 | doxors, j1NZO, janfy, Miku, OneLion         |
+|            5 |     6400 | 2023-11-26 | ALTERNATE aTTaX              | L   | 0.124      | -            | -                | -                | -         |    -0.41 | DreaM-, Kre1N, Orbit, Tionix, Twiksar       |
+|            4 |     6441 | 2023-11-25 | Reveal (German team)         | W   | 0.117      | 0.143        | 0.005 (0.000)    | -                | 0 (0.000) |     1.51 | doxors, j1NZO, janfy, Miku, OneLion         |
+|            3 |     6624 | 2023-11-20 | RED (German team)            | W   | 0.086      | 0.143        | 0.003 (0.000)    | -                | -         |     1.04 | aerax, NaYz, syncD, w1doww, Yoshireax       |
+|            2 |     6732 | 2023-11-18 | THE SUSPECT                  | L   | 0.071      | -            | -                | -                | -         |    -1.21 | DreaM-, Kre1N, Orbit, Tionix, Twiksar       |
+|            1 |     6742 | 2023-11-18 | Wave Esports                 | W   | 0.070      | 0.242        | 0.004 (0.000)    | 0.113 (0.002)    | -         |     0.94 | DreaM-, Kre1N, Orbit, Tionix, Twiksar       |
 
 <br />
 <span id="table2"></span><br />

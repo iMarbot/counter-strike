@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     1937 | 2024-03-22 | SAGA Esports            | L   | 0.905      | -            | -                | -                | -             |   -12.60 | allee, Dabbehhh, detinate, peterr, Tony |
-|           14 |     2248 | 2024-03-14 | VALLEA                  | W   | 0.853      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.44 | allee, Dabbehhh, detinate, peterr, Tony |
-|           13 |     3479 | 2024-02-17 | DUSTY                   | W   | 0.679      | 0.143        | 0.015 (0.001)    | 0.233 (0.023)    | false (0.000) |    15.91 | allee, Dabbehhh, detinate, peterr, Tony |
-|           12 |     3567 | 2024-02-15 | ÍA Akranes              | W   | 0.666      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | false (0.000) |     5.88 | allee, Dabbehhh, detinate, peterr, Tony |
-|           11 |     3809 | 2024-02-08 | SAGA Esports            | W   | 0.619      | 0.143        | 0.006 (0.001)    | 0.133 (0.012)    | false (0.000) |    11.83 | allee, Dabbehhh, detinate, peterr, Tony |
-|           10 |     4063 | 2024-02-01 | ÍBV Esports             | W   | 0.573      | 0.143        | 0.000 (0.000)    | -                | false (0.000) |     5.57 | allee, Dabbehhh, detinate, peterr, Tony |
-|            9 |     4541 | 2024-01-20 | Breiðablik              | W   | 0.492      | 0.143        | 0.000 (0.000)    | 0.115 (0.008)    | false (0.000) |     7.53 | allee, Dabbehhh, detinate, peterr, Tony |
-|            8 |     4643 | 2024-01-18 | FH                      | W   | 0.479      | 0.143        | 0.000 (0.000)    | 0.040 (0.003)    | false (0.000) |     5.22 | allee, Dabbehhh, detinate, peterr, Tony |
-|            7 |     5866 | 2023-12-07 | Young Prodigies         | W   | 0.199      | 0.143        | 0.000 (0.000)    | 0.065 (0.002)    | false (0.000) |     2.22 | allee, Dabbehhh, detinate, peterr, Tony |
-|            6 |     6193 | 2023-11-30 | Ármann                  | W   | 0.153      | 0.143        | 0.000 (0.000)    | 0.097 (0.002)    | false (0.000) |     2.36 | allee, Dabbehhh, detinate, peterr, Tony |
-|            5 |     6663 | 2023-11-19 | DUSTY                   | L   | 0.079      | -            | -                | -                | -             |    -0.44 | allee, Dabbehhh, peterr, Rean, Tony     |
-|            4 |     6801 | 2023-11-16 | Ármann                  | W   | 0.059      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | false (0.000) |     0.66 | allee, Dabbehhh, peterr, Rean, Tony     |
-|            3 |     6911 | 2023-11-14 | AURORA (Icelandic team) | W   | 0.046      | 0.143        | -                | 0.037 (0.000)    | -             |     0.51 | allee, Dabbehhh, peterr, Rean, Tony     |
-|            2 |     6915 | 2023-11-14 | SAGA Esports            | L   | 0.046      | -            | -                | -                | -             |    -0.52 | allee, Dabbehhh, peterr, Rean, Tony     |
-|            1 |     7121 | 2023-11-09 | DUSTY                   | L   | 0.013      | -            | -                | -                | -             |    -0.07 | allee, Dabbehhh, detinate, peterr, Tony |
+|           15 |     1937 | 2024-03-22 | SAGA Esports            | L   | 0.905      | -            | -                | -                | -         |   -12.60 | allee, Dabbehhh, detinate, peterr, Tony |
+|           14 |     2248 | 2024-03-14 | VALLEA                  | W   | 0.853      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.44 | allee, Dabbehhh, detinate, peterr, Tony |
+|           13 |     3479 | 2024-02-17 | DUSTY                   | W   | 0.679      | 0.143        | 0.015 (0.001)    | 0.233 (0.023)    | 0 (0.000) |    15.91 | allee, Dabbehhh, detinate, peterr, Tony |
+|           12 |     3567 | 2024-02-15 | ÍA Akranes              | W   | 0.666      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     5.88 | allee, Dabbehhh, detinate, peterr, Tony |
+|           11 |     3809 | 2024-02-08 | SAGA Esports            | W   | 0.619      | 0.143        | 0.006 (0.001)    | 0.133 (0.012)    | 0 (0.000) |    11.83 | allee, Dabbehhh, detinate, peterr, Tony |
+|           10 |     4063 | 2024-02-01 | ÍBV Esports             | W   | 0.573      | 0.143        | 0.000 (0.000)    | -                | 0 (0.000) |     5.57 | allee, Dabbehhh, detinate, peterr, Tony |
+|            9 |     4541 | 2024-01-20 | Breiðablik              | W   | 0.492      | 0.143        | 0.000 (0.000)    | 0.115 (0.008)    | 0 (0.000) |     7.53 | allee, Dabbehhh, detinate, peterr, Tony |
+|            8 |     4643 | 2024-01-18 | FH                      | W   | 0.479      | 0.143        | 0.000 (0.000)    | 0.040 (0.003)    | 0 (0.000) |     5.22 | allee, Dabbehhh, detinate, peterr, Tony |
+|            7 |     5866 | 2023-12-07 | Young Prodigies         | W   | 0.199      | 0.143        | 0.000 (0.000)    | 0.065 (0.002)    | 0 (0.000) |     2.22 | allee, Dabbehhh, detinate, peterr, Tony |
+|            6 |     6193 | 2023-11-30 | Ármann                  | W   | 0.153      | 0.143        | 0.000 (0.000)    | 0.097 (0.002)    | 0 (0.000) |     2.36 | allee, Dabbehhh, detinate, peterr, Tony |
+|            5 |     6663 | 2023-11-19 | DUSTY                   | L   | 0.079      | -            | -                | -                | -         |    -0.44 | allee, Dabbehhh, peterr, Rean, Tony     |
+|            4 |     6801 | 2023-11-16 | Ármann                  | W   | 0.059      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     0.66 | allee, Dabbehhh, peterr, Rean, Tony     |
+|            3 |     6911 | 2023-11-14 | AURORA (Icelandic team) | W   | 0.046      | 0.143        | -                | 0.037 (0.000)    | -         |     0.51 | allee, Dabbehhh, peterr, Rean, Tony     |
+|            2 |     6915 | 2023-11-14 | SAGA Esports            | L   | 0.046      | -            | -                | -                | -         |    -0.52 | allee, Dabbehhh, peterr, Rean, Tony     |
+|            1 |     7121 | 2023-11-09 | DUSTY                   | L   | 0.013      | -            | -                | -                | -         |    -0.07 | allee, Dabbehhh, detinate, peterr, Tony |
 
 <br />
 <span id="table2"></span><br />

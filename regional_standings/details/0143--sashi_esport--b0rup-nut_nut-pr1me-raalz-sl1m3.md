@@ -34,35 +34,35 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                              |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           27 |     1507 | 2024-04-04 | GamerLegion Academy         | L   | 0.989      | -            | -                | -                | -             |   -10.55 | b0RUP, nut nut, PR1mE, raalz, sL1m3 |
-|           26 |     1679 | 2024-03-29 | Natus Vincere Junior        | L   | 0.949      | -            | -                | -                | -             |   -10.86 | b0RUP, JUGi, niko, nut nut, PR1mE   |
-|           25 |     1777 | 2024-03-27 | UNiTY esports (Slovak team) | W   | 0.936      | 0.333        | 0.055 (0.017)    | 0.727 (0.227)    | false (0.000) |    17.97 | b0RUP, JUGi, niko, nut nut, PR1mE   |
-|           24 |     1832 | 2024-03-26 | GamerLegion Academy         | L   | 0.930      | -            | -                | -                | -             |   -11.86 | b0RUP, JUGi, niko, nut nut, PR1mE   |
-|           23 |     1942 | 2024-03-22 | Sprout Academy              | W   | 0.904      | 0.333        | 0.000 (0.000)    | -                | false (0.000) |     5.55 | b0RUP, JUGi, niko, nut nut, PR1mE   |
-|           22 |     2159 | 2024-03-17 | Natus Vincere Junior        | L   | 0.869      | -            | -                | -                | -             |   -11.52 | b0RUP, JUGi, niko, nut nut, PR1mE   |
-|           21 |     2345 | 2024-03-13 | Sprout Academy              | W   | 0.843      | 0.333        | 0.000 (0.000)    | -                | false (0.000) |     4.63 | b0RUP, JUGi, niko, nut nut, PR1mE   |
-|           20 |     2414 | 2024-03-11 | WOPA Esport                 | W   | 0.832      | 0.143        | 0.009 (0.001)    | 0.485 (0.058)    | false (0.000) |    12.12 | b0RUP, JUGi, niko, nut nut, PR1mE   |
-|           19 |     2420 | 2024-03-11 | IMMAPROBLEM                 | W   | 0.832      | 0.143        | -                | 0.136 (0.016)    | false (0.000) |     5.66 | b0RUP, JUGi, niko, nut nut, PR1mE   |
-|           18 |     2858 | 2024-03-02 | ENTERPRISE esports          | L   | 0.772      | -            | -                | -                | -             |    -7.10 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|           17 |     2887 | 2024-03-02 | Passion UA                  | L   | 0.771      | -            | -                | -                | -             |    -8.69 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|           16 |     3003 | 2024-02-28 | Verdant                     | W   | 0.750      | 0.303        | 0.027 (0.006)    | 0.662 (0.150)    | false (0.000) |    16.18 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|           15 |     3057 | 2024-02-26 | Metizport                   | L   | 0.739      | -            | -                | -                | -             |    -3.79 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|           14 |     3186 | 2024-02-24 | Passion UA                  | L   | 0.723      | -            | -                | -                | -             |    -7.45 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|           13 |     3449 | 2024-02-18 | Viperio                     | L   | 0.685      | -            | -                | -                | -             |   -13.93 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|           12 |     3460 | 2024-02-18 | Natus Vincere Junior        | L   | 0.684      | -            | -                | -                | -             |   -10.29 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|           11 |     3547 | 2024-02-16 | Illuminar Gaming            | W   | 0.670      | 0.303        | 0.010 (0.002)    | 0.243 (0.049)    | false (0.000) |     9.58 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|           10 |     3599 | 2024-02-15 | Permitta Esports            | L   | 0.664      | -            | -                | -                | -             |    -5.79 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|            9 |     3653 | 2024-02-14 | BIG Academy                 | L   | 0.657      | -            | -                | -                | -             |    -9.33 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|            8 |     3759 | 2024-02-11 | Passion UA                  | W   | 0.636      | 0.303        | 0.114 (0.022)    | 0.980 (0.189)    | false (0.000) |    13.52 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|            7 |     3847 | 2024-02-07 | EXO Clan                    | W   | 0.610      | 0.303        | 0.019 (0.003)    | 0.418 (0.077)    | false (0.000) |    12.11 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
-|            6 |     3876 | 2024-02-05 | Team Atlantic               | L   | 0.599      | -            | -                | -                | -             |   -15.47 | b0RUP, Fessor, niko, nut nut, PR1mE |
-|            5 |     3883 | 2024-02-05 | Astralis Talent             | L   | 0.599      | -            | -                | -                | -             |    -5.90 | b0RUP, Fessor, niko, nut nut, PR1mE |
-|            4 |     3889 | 2024-02-05 | Preasy Esport               | W   | 0.599      | 0.143        | 0.007 (0.001)    | 0.525 (0.045)    | false (0.000) |     8.12 | b0RUP, Fessor, niko, nut nut, PR1mE |
-|            3 |     4453 | 2024-01-22 | Copenhagen Wolves           | L   | 0.506      | -            | -                | -                | -             |   -11.46 | b0RUP, Fessor, niko, nut nut, PR1mE |
-|            2 |     4460 | 2024-01-22 | IMMAPROBLEM                 | W   | 0.506      | 0.143        | -                | 0.136 (0.010)    | -             |     2.64 | b0RUP, Fessor, niko, nut nut, PR1mE |
-|            1 |     4464 | 2024-01-22 | XI Esport                   | W   | 0.505      | 0.143        | 0.002 (0.000)    | 0.313 (0.023)    | -             |     5.35 | b0RUP, Fessor, niko, nut nut, PR1mE |
+|           27 |     1507 | 2024-04-04 | GamerLegion Academy         | L   | 0.989      | -            | -                | -                | -         |   -10.55 | b0RUP, nut nut, PR1mE, raalz, sL1m3 |
+|           26 |     1679 | 2024-03-29 | Natus Vincere Junior        | L   | 0.949      | -            | -                | -                | -         |   -10.86 | b0RUP, JUGi, niko, nut nut, PR1mE   |
+|           25 |     1777 | 2024-03-27 | UNiTY esports (Slovak team) | W   | 0.936      | 0.333        | 0.055 (0.017)    | 0.727 (0.227)    | 0 (0.000) |    17.97 | b0RUP, JUGi, niko, nut nut, PR1mE   |
+|           24 |     1832 | 2024-03-26 | GamerLegion Academy         | L   | 0.930      | -            | -                | -                | -         |   -11.86 | b0RUP, JUGi, niko, nut nut, PR1mE   |
+|           23 |     1942 | 2024-03-22 | Sprout Academy              | W   | 0.904      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     5.55 | b0RUP, JUGi, niko, nut nut, PR1mE   |
+|           22 |     2159 | 2024-03-17 | Natus Vincere Junior        | L   | 0.869      | -            | -                | -                | -         |   -11.52 | b0RUP, JUGi, niko, nut nut, PR1mE   |
+|           21 |     2345 | 2024-03-13 | Sprout Academy              | W   | 0.843      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     4.63 | b0RUP, JUGi, niko, nut nut, PR1mE   |
+|           20 |     2414 | 2024-03-11 | WOPA Esport                 | W   | 0.832      | 0.143        | 0.009 (0.001)    | 0.485 (0.058)    | 0 (0.000) |    12.12 | b0RUP, JUGi, niko, nut nut, PR1mE   |
+|           19 |     2420 | 2024-03-11 | IMMAPROBLEM                 | W   | 0.832      | 0.143        | -                | 0.136 (0.016)    | 0 (0.000) |     5.66 | b0RUP, JUGi, niko, nut nut, PR1mE   |
+|           18 |     2858 | 2024-03-02 | ENTERPRISE esports          | L   | 0.772      | -            | -                | -                | -         |    -7.10 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|           17 |     2887 | 2024-03-02 | Passion UA                  | L   | 0.771      | -            | -                | -                | -         |    -8.69 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|           16 |     3003 | 2024-02-28 | Verdant                     | W   | 0.750      | 0.303        | 0.027 (0.006)    | 0.662 (0.150)    | 0 (0.000) |    16.18 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|           15 |     3057 | 2024-02-26 | Metizport                   | L   | 0.739      | -            | -                | -                | -         |    -3.79 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|           14 |     3186 | 2024-02-24 | Passion UA                  | L   | 0.723      | -            | -                | -                | -         |    -7.45 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|           13 |     3449 | 2024-02-18 | Viperio                     | L   | 0.685      | -            | -                | -                | -         |   -13.93 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|           12 |     3460 | 2024-02-18 | Natus Vincere Junior        | L   | 0.684      | -            | -                | -                | -         |   -10.29 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|           11 |     3547 | 2024-02-16 | Illuminar Gaming            | W   | 0.670      | 0.303        | 0.010 (0.002)    | 0.243 (0.049)    | 0 (0.000) |     9.58 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|           10 |     3599 | 2024-02-15 | Permitta Esports            | L   | 0.664      | -            | -                | -                | -         |    -5.79 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|            9 |     3653 | 2024-02-14 | BIG Academy                 | L   | 0.657      | -            | -                | -                | -         |    -9.33 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|            8 |     3759 | 2024-02-11 | Passion UA                  | W   | 0.636      | 0.303        | 0.114 (0.022)    | 0.980 (0.189)    | 0 (0.000) |    13.52 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|            7 |     3847 | 2024-02-07 | EXO Clan                    | W   | 0.610      | 0.303        | 0.019 (0.003)    | 0.418 (0.077)    | 0 (0.000) |    12.11 | b0RUP, n1Xen, niko, nut nut, PR1mE  |
+|            6 |     3876 | 2024-02-05 | Team Atlantic               | L   | 0.599      | -            | -                | -                | -         |   -15.47 | b0RUP, Fessor, niko, nut nut, PR1mE |
+|            5 |     3883 | 2024-02-05 | Astralis Talent             | L   | 0.599      | -            | -                | -                | -         |    -5.90 | b0RUP, Fessor, niko, nut nut, PR1mE |
+|            4 |     3889 | 2024-02-05 | Preasy Esport               | W   | 0.599      | 0.143        | 0.007 (0.001)    | 0.525 (0.045)    | 0 (0.000) |     8.12 | b0RUP, Fessor, niko, nut nut, PR1mE |
+|            3 |     4453 | 2024-01-22 | Copenhagen Wolves           | L   | 0.506      | -            | -                | -                | -         |   -11.46 | b0RUP, Fessor, niko, nut nut, PR1mE |
+|            2 |     4460 | 2024-01-22 | IMMAPROBLEM                 | W   | 0.506      | 0.143        | -                | 0.136 (0.010)    | -         |     2.64 | b0RUP, Fessor, niko, nut nut, PR1mE |
+|            1 |     4464 | 2024-01-22 | XI Esport                   | W   | 0.505      | 0.143        | 0.002 (0.000)    | 0.313 (0.023)    | -         |     5.35 | b0RUP, Fessor, niko, nut nut, PR1mE |
 
 <br />
 <span id="table2"></span><br />

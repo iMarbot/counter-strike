@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     1215 | 2024-04-10 | FORZE Esports                | L   | 1.000      | -            | -                | -                | -             |    -3.28 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|           13 |     1280 | 2024-04-09 | Betera Esports               | W   | 1.000      | 0.500        | 0.036 (0.018)    | 0.315 (0.157)    | false (0.000) |    21.19 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|           12 |     1480 | 2024-04-04 | 9Pandas                      | L   | 0.992      | -            | -                | -                | -             |    -2.83 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|           11 |     1572 | 2024-04-02 | KOI                          | L   | 0.979      | -            | -                | -                | -             |    -4.11 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|           10 |     1687 | 2024-03-28 | 9INE Academy                 | W   | 0.946      | 0.500        | 0.005 (0.002)    | 0.171 (0.081)    | false (0.000) |    11.49 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|            9 |     1745 | 2024-03-27 | Metizport                    | L   | 0.938      | -            | -                | -                | -             |    -2.74 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            8 |     1800 | 2024-03-26 | TBA.ECF                      | W   | 0.932      | 0.143        | 0.000 (0.000)    | 0.460 (0.061)    | false (0.000) |    15.33 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            7 |     2034 | 2024-03-20 | VP.Prodigy                   | L   | 0.890      | -            | -                | -                | -             |    -9.46 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            6 |     2789 | 2024-03-03 | The Chosen Few               | L   | 0.779      | -            | -                | -                | -             |    -8.89 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            5 |     2798 | 2024-03-03 | Nexus Gaming                 | W   | 0.778      | 0.143        | 0.031 (0.003)    | 0.772 (0.086)    | false (0.000) |    18.47 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            4 |     2837 | 2024-03-02 | Balkan Bears (Romanian team) | W   | 0.773      | 0.143        | 0.000 (0.000)    | 0.027 (0.003)    | false (0.000) |     6.41 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            3 |     2850 | 2024-03-02 | SIUUUU                       | W   | 0.772      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.45 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            2 |     4801 | 2024-01-16 | RUBY                         | L   | 0.465      | -            | -                | -                | -             |    -4.56 | interz, JACKZ, joel, MoDo, valde     |
-|            1 |     5033 | 2024-01-10 | HAVU Gaming                  | L   | 0.426      | -            | -                | -                | -             |    -4.02 | interz, JACKZ, joel, MoDo, valde     |
+|           14 |     1215 | 2024-04-10 | FORZE Esports                | L   | 1.000      | -            | -                | -                | -         |    -3.28 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|           13 |     1280 | 2024-04-09 | Betera Esports               | W   | 1.000      | 0.500        | 0.036 (0.018)    | 0.315 (0.157)    | 0 (0.000) |    21.19 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|           12 |     1480 | 2024-04-04 | 9Pandas                      | L   | 0.992      | -            | -                | -                | -         |    -2.83 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|           11 |     1572 | 2024-04-02 | KOI                          | L   | 0.979      | -            | -                | -                | -         |    -4.11 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|           10 |     1687 | 2024-03-28 | 9INE Academy                 | W   | 0.946      | 0.500        | 0.005 (0.002)    | 0.171 (0.081)    | 0 (0.000) |    11.49 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|            9 |     1745 | 2024-03-27 | Metizport                    | L   | 0.938      | -            | -                | -                | -         |    -2.74 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            8 |     1800 | 2024-03-26 | TBA.ECF                      | W   | 0.932      | 0.143        | 0.000 (0.000)    | 0.460 (0.061)    | 0 (0.000) |    15.33 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            7 |     2034 | 2024-03-20 | VP.Prodigy                   | L   | 0.890      | -            | -                | -                | -         |    -9.46 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            6 |     2789 | 2024-03-03 | The Chosen Few               | L   | 0.779      | -            | -                | -                | -         |    -8.89 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            5 |     2798 | 2024-03-03 | Nexus Gaming                 | W   | 0.778      | 0.143        | 0.031 (0.003)    | 0.772 (0.086)    | 0 (0.000) |    18.47 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            4 |     2837 | 2024-03-02 | Balkan Bears (Romanian team) | W   | 0.773      | 0.143        | 0.000 (0.000)    | 0.027 (0.003)    | 0 (0.000) |     6.41 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            3 |     2850 | 2024-03-02 | SIUUUU                       | W   | 0.772      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.45 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            2 |     4801 | 2024-01-16 | RUBY                         | L   | 0.465      | -            | -                | -                | -         |    -4.56 | interz, JACKZ, joel, MoDo, valde     |
+|            1 |     5033 | 2024-01-10 | HAVU Gaming                  | L   | 0.426      | -            | -                | -                | -         |    -4.02 | interz, JACKZ, joel, MoDo, valde     |
 
 <br />
 <span id="table2"></span><br />

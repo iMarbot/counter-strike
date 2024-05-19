@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                          |
+| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |      369 | 2024-04-27 | NIP Impact            | L   | 1.000      | -            | -                | -                | -             |   -13.65 | Aida, Emmsan, miLo, Waldee, xia |
-|           14 |      377 | 2024-04-27 | Nemesis (Female team) | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.035 (0.005)    | false (0.000) |     9.04 | Aida, Emmsan, miLo, Waldee, xia |
-|           13 |      814 | 2024-04-19 | Astralis Women        | W   | 1.000      | 0.331        | 0.007 (0.002)    | 0.101 (0.033)    | false (0.000) |    11.38 | Aida, Emmsan, miLo, Waldee, xia |
-|           12 |     1394 | 2024-04-06 | MAVKY                 | W   | 1.000      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.02 | Aida, Emmsan, miLo, Waldee, xia |
-|           11 |     1410 | 2024-04-06 | Team Pigeons          | L   | 1.000      | -            | -                | -                | -             |    -7.77 | Aida, Emmsan, miLo, Waldee, xia |
-|           10 |     1418 | 2024-04-06 | 1win Gang             | W   | 1.000      | 0.262        | 0.007 (0.002)    | 0.061 (0.016)    | false (0.000) |    12.35 | Aida, Emmsan, miLo, Waldee, xia |
-|            9 |     1482 | 2024-04-04 | BIG EQUIPA            | L   | 0.992      | -            | -                | -                | -             |   -13.83 | Aida, Emmsan, miLo, Waldee, xia |
-|            8 |     1734 | 2024-03-27 | Team Pigeons          | L   | 0.939      | -            | -                | -                | -             |    -7.85 | Aida, Emmsan, miLo, Waldee, xia |
-|            7 |     2020 | 2024-03-20 | NIP Impact            | L   | 0.892      | -            | -                | -                | -             |   -14.41 | Aida, Emmsan, miLo, Waldee, xia |
-|            6 |     2311 | 2024-03-13 | Guild Esports         | W   | 0.845      | 0.331        | 0.010 (0.003)    | 0.194 (0.054)    | false (0.000) |    13.64 | Aida, Emmsan, miLo, Waldee, xia |
-|            5 |     3111 | 2024-02-25 | NAVI Javelins         | L   | 0.730      | -            | -                | -                | -             |    -7.02 | Aida, Emmsan, miLo, Waldee, xia |
-|            4 |     3166 | 2024-02-24 | Team Spirit Female    | W   | 0.724      | 0.143        | 0.011 (0.001)    | 0.205 (0.021)    | false (0.000) |    11.51 | Aida, Emmsan, miLo, Waldee, xia |
-|            3 |     3176 | 2024-02-24 | FORZE Ladies          | W   | 0.723      | 0.143        | 0.002 (0.000)    | 0.057 (0.006)    | false (0.000) |     9.37 | Aida, Emmsan, miLo, Waldee, xia |
-|            2 |     3623 | 2024-02-14 | Nemesis (Female team) | W   | 0.658      | 0.143        | 0.000 (0.000)    | 0.051 (0.005)    | false (0.000) |     5.13 | Aida, Emmsan, miLo, Waldee, xia |
-|            1 |     6716 | 2023-11-18 | Team Spirit Female    | L   | 0.071      | -            | -                | -                | -             |    -1.10 | Lina, miLo, oxycet, Waldee, xia |
+|           15 |      369 | 2024-04-27 | NIP Impact            | L   | 1.000      | -            | -                | -                | -         |   -13.65 | Aida, Emmsan, miLo, Waldee, xia |
+|           14 |      377 | 2024-04-27 | Nemesis (Female team) | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.035 (0.005)    | 0 (0.000) |     9.04 | Aida, Emmsan, miLo, Waldee, xia |
+|           13 |      814 | 2024-04-19 | Astralis Women        | W   | 1.000      | 0.331        | 0.007 (0.002)    | 0.101 (0.033)    | 0 (0.000) |    11.38 | Aida, Emmsan, miLo, Waldee, xia |
+|           12 |     1394 | 2024-04-06 | MAVKY                 | W   | 1.000      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.02 | Aida, Emmsan, miLo, Waldee, xia |
+|           11 |     1410 | 2024-04-06 | Team Pigeons          | L   | 1.000      | -            | -                | -                | -         |    -7.77 | Aida, Emmsan, miLo, Waldee, xia |
+|           10 |     1418 | 2024-04-06 | 1win Gang             | W   | 1.000      | 0.262        | 0.007 (0.002)    | 0.061 (0.016)    | 0 (0.000) |    12.35 | Aida, Emmsan, miLo, Waldee, xia |
+|            9 |     1482 | 2024-04-04 | BIG EQUIPA            | L   | 0.992      | -            | -                | -                | -         |   -13.83 | Aida, Emmsan, miLo, Waldee, xia |
+|            8 |     1734 | 2024-03-27 | Team Pigeons          | L   | 0.939      | -            | -                | -                | -         |    -7.85 | Aida, Emmsan, miLo, Waldee, xia |
+|            7 |     2020 | 2024-03-20 | NIP Impact            | L   | 0.892      | -            | -                | -                | -         |   -14.41 | Aida, Emmsan, miLo, Waldee, xia |
+|            6 |     2311 | 2024-03-13 | Guild Esports         | W   | 0.845      | 0.331        | 0.010 (0.003)    | 0.194 (0.054)    | 0 (0.000) |    13.64 | Aida, Emmsan, miLo, Waldee, xia |
+|            5 |     3111 | 2024-02-25 | NAVI Javelins         | L   | 0.730      | -            | -                | -                | -         |    -7.02 | Aida, Emmsan, miLo, Waldee, xia |
+|            4 |     3166 | 2024-02-24 | Team Spirit Female    | W   | 0.724      | 0.143        | 0.011 (0.001)    | 0.205 (0.021)    | 0 (0.000) |    11.51 | Aida, Emmsan, miLo, Waldee, xia |
+|            3 |     3176 | 2024-02-24 | FORZE Ladies          | W   | 0.723      | 0.143        | 0.002 (0.000)    | 0.057 (0.006)    | 0 (0.000) |     9.37 | Aida, Emmsan, miLo, Waldee, xia |
+|            2 |     3623 | 2024-02-14 | Nemesis (Female team) | W   | 0.658      | 0.143        | 0.000 (0.000)    | 0.051 (0.005)    | 0 (0.000) |     5.13 | Aida, Emmsan, miLo, Waldee, xia |
+|            1 |     6716 | 2023-11-18 | Team Spirit Female    | L   | 0.071      | -            | -                | -                | -         |    -1.10 | Lina, miLo, oxycet, Waldee, xia |
 
 <br />
 <span id="table2"></span><br />

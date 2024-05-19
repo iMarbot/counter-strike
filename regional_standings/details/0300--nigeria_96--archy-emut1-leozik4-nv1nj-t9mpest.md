@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      337 | 2024-04-27 | Sharks Youngsters           | L   | 1.000      | -            | -                | -                | -             |   -16.43 | archy, emut1, leozik4, nv1nJ, t9mpest   |
-|           11 |      354 | 2024-04-27 | Floripa Stars               | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.181 (0.026)    | false (0.000) |    17.99 | archy, emut1, leozik4, nv1nJ, t9mpest   |
-|           10 |     1851 | 2024-03-24 | Yawara E-Sports             | L   | 0.919      | -            | -                | -                | -             |   -10.43 | deemO, leozik4, nv1nJ, predict, t9mpest |
-|            9 |     2006 | 2024-03-20 | Romanticos                  | L   | 0.894      | -            | -                | -                | -             |   -12.72 | deemO, leozik4, nv1nJ, predict, t9mpest |
-|            8 |     2045 | 2024-03-19 | 9z Academy                  | L   | 0.886      | -            | -                | -                | -             |   -14.12 | deemO, leozik4, nv1nJ, predict, t9mpest |
-|            7 |     3011 | 2024-02-27 | Hawks (Argentinian team)    | L   | 0.746      | -            | -                | -                | -             |   -10.57 | deemO, leozik4, nv1nJ, predict, t9mpest |
-|            6 |     3132 | 2024-02-24 | Hawks (Argentinian team)    | W   | 0.726      | 0.143        | 0.003 (0.000)    | 0.134 (0.014)    | false (0.000) |    12.50 | deemO, leozik4, nv1nJ, predict, t9mpest |
-|            5 |     3135 | 2024-02-24 | Floripa Stars               | W   | 0.726      | 0.143        | 0.001 (0.000)    | 0.181 (0.019)    | false (0.000) |    12.67 | deemO, leozik4, nv1nJ, predict, t9mpest |
-|            4 |     3392 | 2024-02-19 | Fluxo                       | L   | 0.694      | -            | -                | -                | -             |    -2.34 | leozik4, nv1nJ, predict, rN, t9mpest    |
-|            3 |     4209 | 2024-01-28 | New Legacy (Brazilian team) | W   | 0.546      | 0.143        | 0.000 (0.000)    | 0.038 (0.003)    | false (0.000) |     7.66 | archy, deemO, dudinho, leozik4, t9mpest |
-|            2 |     4993 | 2024-01-11 | TIMACETA                    | L   | 0.432      | -            | -                | -                | -             |    -6.20 | archy, dudinho, nv1nJ, sigma, t9mpest   |
-|            1 |     5031 | 2024-01-10 | EMC2 ESPORTS                | W   | 0.426      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.84 | archy, dudinho, nv1nJ, sigma, t9mpest   |
+|           12 |      337 | 2024-04-27 | Sharks Youngsters           | L   | 1.000      | -            | -                | -                | -         |   -16.43 | archy, emut1, leozik4, nv1nJ, t9mpest   |
+|           11 |      354 | 2024-04-27 | Floripa Stars               | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.181 (0.026)    | 0 (0.000) |    17.99 | archy, emut1, leozik4, nv1nJ, t9mpest   |
+|           10 |     1851 | 2024-03-24 | Yawara E-Sports             | L   | 0.919      | -            | -                | -                | -         |   -10.43 | deemO, leozik4, nv1nJ, predict, t9mpest |
+|            9 |     2006 | 2024-03-20 | Romanticos                  | L   | 0.894      | -            | -                | -                | -         |   -12.72 | deemO, leozik4, nv1nJ, predict, t9mpest |
+|            8 |     2045 | 2024-03-19 | 9z Academy                  | L   | 0.886      | -            | -                | -                | -         |   -14.12 | deemO, leozik4, nv1nJ, predict, t9mpest |
+|            7 |     3011 | 2024-02-27 | Hawks (Argentinian team)    | L   | 0.746      | -            | -                | -                | -         |   -10.57 | deemO, leozik4, nv1nJ, predict, t9mpest |
+|            6 |     3132 | 2024-02-24 | Hawks (Argentinian team)    | W   | 0.726      | 0.143        | 0.003 (0.000)    | 0.134 (0.014)    | 0 (0.000) |    12.50 | deemO, leozik4, nv1nJ, predict, t9mpest |
+|            5 |     3135 | 2024-02-24 | Floripa Stars               | W   | 0.726      | 0.143        | 0.001 (0.000)    | 0.181 (0.019)    | 0 (0.000) |    12.67 | deemO, leozik4, nv1nJ, predict, t9mpest |
+|            4 |     3392 | 2024-02-19 | Fluxo                       | L   | 0.694      | -            | -                | -                | -         |    -2.34 | leozik4, nv1nJ, predict, rN, t9mpest    |
+|            3 |     4209 | 2024-01-28 | New Legacy (Brazilian team) | W   | 0.546      | 0.143        | 0.000 (0.000)    | 0.038 (0.003)    | 0 (0.000) |     7.66 | archy, deemO, dudinho, leozik4, t9mpest |
+|            2 |     4993 | 2024-01-11 | TIMACETA                    | L   | 0.432      | -            | -                | -                | -         |    -6.20 | archy, dudinho, nv1nJ, sigma, t9mpest   |
+|            1 |     5031 | 2024-01-10 | EMC2 ESPORTS                | W   | 0.426      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.84 | archy, dudinho, nv1nJ, sigma, t9mpest   |
 
 <br />
 <span id="table2"></span><br />

@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |       14 | 2024-05-05 | LODIS       | W   | 1.000      | 0.371        | 0.002 (0.001)    | 0.139 (0.052)    | false (0.000) |    16.09 | delle, Fabbelit0, simpan, TIM, tvs   |
-|            9 |      191 | 2024-05-01 | ADEPTS      | W   | 1.000      | 0.371        | 0.002 (0.001)    | 0.116 (0.043)    | false (0.000) |    18.20 | delle, Fabbelit0, simpan, TIM, tvs   |
-|            8 |      409 | 2024-04-26 | TopTab Club | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.065 (0.024)    | false (0.000) |    15.14 | delle, Fabbelit0, simpan, TIM, tvs   |
-|            7 |      421 | 2024-04-26 | Team PeeP   | L   | 1.000      | -            | -                | -                | -             |   -20.04 | delle, Fabbelit0, simpan, TIM, tvs   |
-|            6 |     1032 | 2024-04-15 | EXO Clan    | L   | 1.000      | -            | -                | -                | -             |    -3.31 | delle, Fabbelit0, simpan, TIM, tvs   |
-|            5 |     1323 | 2024-04-08 | VP.Prodigy  | L   | 1.000      | -            | -                | -                | -             |    -4.89 | delle, Evarizta, Fabbelit0, TIM, tvs |
-|            4 |     1739 | 2024-03-27 | Kappa Borr  | W   | 0.939      | 0.143        | 0.000 (0.000)    | 0.119 (0.016)    | false (0.000) |    15.62 | delle, jocab, TIM, tvs, upE          |
-|            3 |     1932 | 2024-03-22 | Lilmix      | W   | 0.906      | 0.143        | 0.000 (0.000)    | 0.604 (0.078)    | false (0.000) |    18.03 | delle, jocab, TIM, tvs, upE          |
-|            2 |     2320 | 2024-03-13 | Full Kareta | W   | 0.845      | 0.143        | 0.000 (0.000)    | 0.035 (0.004)    | false (0.000) |     9.06 | delle, jocab, TIM, tvs, upE          |
-|            1 |     2509 | 2024-03-09 | Alliance    | L   | 0.817      | -            | -                | -                | -             |    -3.03 | delle, dezt, TIM, tvs, upE           |
+|           10 |       14 | 2024-05-05 | LODIS       | W   | 1.000      | 0.371        | 0.002 (0.001)    | 0.139 (0.052)    | 0 (0.000) |    16.09 | delle, Fabbelit0, simpan, TIM, tvs   |
+|            9 |      191 | 2024-05-01 | ADEPTS      | W   | 1.000      | 0.371        | 0.002 (0.001)    | 0.116 (0.043)    | 0 (0.000) |    18.20 | delle, Fabbelit0, simpan, TIM, tvs   |
+|            8 |      409 | 2024-04-26 | TopTab Club | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.065 (0.024)    | 0 (0.000) |    15.14 | delle, Fabbelit0, simpan, TIM, tvs   |
+|            7 |      421 | 2024-04-26 | Team PeeP   | L   | 1.000      | -            | -                | -                | -         |   -20.04 | delle, Fabbelit0, simpan, TIM, tvs   |
+|            6 |     1032 | 2024-04-15 | EXO Clan    | L   | 1.000      | -            | -                | -                | -         |    -3.31 | delle, Fabbelit0, simpan, TIM, tvs   |
+|            5 |     1323 | 2024-04-08 | VP.Prodigy  | L   | 1.000      | -            | -                | -                | -         |    -4.89 | delle, Evarizta, Fabbelit0, TIM, tvs |
+|            4 |     1739 | 2024-03-27 | Kappa Borr  | W   | 0.939      | 0.143        | 0.000 (0.000)    | 0.119 (0.016)    | 0 (0.000) |    15.62 | delle, jocab, TIM, tvs, upE          |
+|            3 |     1932 | 2024-03-22 | Lilmix      | W   | 0.906      | 0.143        | 0.000 (0.000)    | 0.604 (0.078)    | 0 (0.000) |    18.03 | delle, jocab, TIM, tvs, upE          |
+|            2 |     2320 | 2024-03-13 | Full Kareta | W   | 0.845      | 0.143        | 0.000 (0.000)    | 0.035 (0.004)    | 0 (0.000) |     9.06 | delle, jocab, TIM, tvs, upE          |
+|            1 |     2509 | 2024-03-09 | Alliance    | L   | 0.817      | -            | -                | -                | -         |    -3.03 | delle, dezt, TIM, tvs, upE           |
 
 <br />
 <span id="table2"></span><br />

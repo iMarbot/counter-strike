@@ -34,24 +34,24 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |     1270 | 2024-04-09 | MIBR                | L   | 1.000      | -            | -                | -                | -             |    -0.55 | delboNi, f4stzin, piria, shz, zqk     |
-|           15 |     1275 | 2024-04-09 | MIBR                | L   | 1.000      | -            | -                | -                | -             |    -0.55 | delboNi, f4stzin, piria, shz, zqk     |
-|           14 |     1435 | 2024-04-05 | 2Game Esports       | L   | 1.000      | -            | -                | -                | -             |   -24.13 | delboNi, f4stzin, piria, shz, zqk     |
-|           13 |     1437 | 2024-04-05 | 2Game Esports       | W   | 0.999      | 0.450        | -                | 0.188 (0.085)    | false (0.000) |     6.85 | delboNi, f4stzin, piria, shz, zqk     |
-|           12 |     1463 | 2024-04-04 | BESTIA              | W   | 0.994      | 0.450        | 0.026 (0.012)    | 0.423 (0.189)    | false (0.000) |    16.19 | delboNi, f4stzin, piria, shz, zqk     |
-|           11 |     1469 | 2024-04-04 | BESTIA              | L   | 0.993      | -            | -                | -                | -             |   -15.06 | delboNi, f4stzin, piria, shz, zqk     |
-|           10 |     2667 | 2024-03-05 | Case Esports        | W   | 0.794      | 0.450        | 0.027 (0.010)    | 0.401 (0.143)    | false (0.000) |    11.14 | delboNi, f4stzin, piria, shz, zqk     |
-|            9 |     2669 | 2024-03-05 | Case Esports        | W   | 0.793      | 0.450        | 0.027 (0.010)    | 0.401 (0.143)    | false (0.000) |    11.95 | delboNi, f4stzin, piria, shz, zqk     |
-|            8 |     3281 | 2024-02-21 | Galorys             | W   | 0.707      | 0.450        | 0.048 (0.015)    | 0.598 (0.190)    | false (0.000) |    11.53 | delboNi, f4stzin, piria, shz, zqk     |
-|            7 |     3284 | 2024-02-21 | Galorys             | W   | 0.707      | 0.450        | 0.048 (0.015)    | 0.598 (0.190)    | false (0.000) |    12.27 | delboNi, f4stzin, piria, shz, zqk     |
-|            6 |     3612 | 2024-02-14 | Corinthians Esports | W   | 0.660      | 0.450        | 0.005 (0.002)    | 0.346 (0.103)    | false (0.000) |     8.06 | delboNi, f4stzin, piria, shz, zqk     |
-|            5 |     3614 | 2024-02-14 | Corinthians Esports | W   | 0.660      | 0.450        | 0.005 (0.002)    | 0.346 (0.103)    | false (0.000) |     8.52 | delboNi, f4stzin, piria, shz, zqk     |
-|            4 |     3660 | 2024-02-13 | Team Solid          | W   | 0.654      | 0.450        | 0.138 (0.041)    | 0.275 (0.081)    | false (0.000) |    12.44 | delboNi, f4stzin, piria, shz, zqk     |
-|            3 |     3662 | 2024-02-13 | Team Solid          | W   | 0.653      | 0.450        | 0.138 (0.041)    | 0.275 (0.081)    | false (0.000) |    13.13 | delboNi, f4stzin, piria, shz, zqk     |
-|            2 |     6688 | 2023-11-18 | TIMACETA            | W   | 0.074      | 0.143        | 0.001 (0.000)    | -                | -             |     0.89 | bnc, farias, leleo, nyezin, will1ZERA |
-|            1 |     6690 | 2023-11-18 | AREA53              | W   | 0.074      | -            | -                | -                | -             |     0.46 | freitas, JMS, KLR, kxr, sickboyrare   |
+|           16 |     1270 | 2024-04-09 | MIBR                | L   | 1.000      | -            | -                | -                | -         |    -0.55 | delboNi, f4stzin, piria, shz, zqk     |
+|           15 |     1275 | 2024-04-09 | MIBR                | L   | 1.000      | -            | -                | -                | -         |    -0.55 | delboNi, f4stzin, piria, shz, zqk     |
+|           14 |     1435 | 2024-04-05 | 2Game Esports       | L   | 1.000      | -            | -                | -                | -         |   -24.13 | delboNi, f4stzin, piria, shz, zqk     |
+|           13 |     1437 | 2024-04-05 | 2Game Esports       | W   | 0.999      | 0.450        | -                | 0.188 (0.085)    | 0 (0.000) |     6.85 | delboNi, f4stzin, piria, shz, zqk     |
+|           12 |     1463 | 2024-04-04 | BESTIA              | W   | 0.994      | 0.450        | 0.026 (0.012)    | 0.423 (0.189)    | 0 (0.000) |    16.19 | delboNi, f4stzin, piria, shz, zqk     |
+|           11 |     1469 | 2024-04-04 | BESTIA              | L   | 0.993      | -            | -                | -                | -         |   -15.06 | delboNi, f4stzin, piria, shz, zqk     |
+|           10 |     2667 | 2024-03-05 | Case Esports        | W   | 0.794      | 0.450        | 0.027 (0.010)    | 0.401 (0.143)    | 0 (0.000) |    11.14 | delboNi, f4stzin, piria, shz, zqk     |
+|            9 |     2669 | 2024-03-05 | Case Esports        | W   | 0.793      | 0.450        | 0.027 (0.010)    | 0.401 (0.143)    | 0 (0.000) |    11.95 | delboNi, f4stzin, piria, shz, zqk     |
+|            8 |     3281 | 2024-02-21 | Galorys             | W   | 0.707      | 0.450        | 0.048 (0.015)    | 0.598 (0.190)    | 0 (0.000) |    11.53 | delboNi, f4stzin, piria, shz, zqk     |
+|            7 |     3284 | 2024-02-21 | Galorys             | W   | 0.707      | 0.450        | 0.048 (0.015)    | 0.598 (0.190)    | 0 (0.000) |    12.27 | delboNi, f4stzin, piria, shz, zqk     |
+|            6 |     3612 | 2024-02-14 | Corinthians Esports | W   | 0.660      | 0.450        | 0.005 (0.002)    | 0.346 (0.103)    | 0 (0.000) |     8.06 | delboNi, f4stzin, piria, shz, zqk     |
+|            5 |     3614 | 2024-02-14 | Corinthians Esports | W   | 0.660      | 0.450        | 0.005 (0.002)    | 0.346 (0.103)    | 0 (0.000) |     8.52 | delboNi, f4stzin, piria, shz, zqk     |
+|            4 |     3660 | 2024-02-13 | Team Solid          | W   | 0.654      | 0.450        | 0.138 (0.041)    | 0.275 (0.081)    | 0 (0.000) |    12.44 | delboNi, f4stzin, piria, shz, zqk     |
+|            3 |     3662 | 2024-02-13 | Team Solid          | W   | 0.653      | 0.450        | 0.138 (0.041)    | 0.275 (0.081)    | 0 (0.000) |    13.13 | delboNi, f4stzin, piria, shz, zqk     |
+|            2 |     6688 | 2023-11-18 | TIMACETA            | W   | 0.074      | 0.143        | 0.001 (0.000)    | -                | -         |     0.89 | bnc, farias, leleo, nyezin, will1ZERA |
+|            1 |     6690 | 2023-11-18 | AREA53              | W   | 0.074      | -            | -                | -                | -         |     0.46 | freitas, JMS, KLR, kxr, sickboyrare   |
 
 <br />
 <span id="table2"></span><br />

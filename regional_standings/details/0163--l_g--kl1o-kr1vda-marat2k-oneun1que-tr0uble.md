@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                       |
+| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      103 | 2024-05-03 | Lazer Cats               | W   | 1.000      | 0.289        | 0.003 (0.001)    | 0.070 (0.020)    | false (0.000) |    11.98 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|           11 |      140 | 2024-05-02 | XI Esport                | W   | 1.000      | 0.289        | 0.002 (0.001)    | 0.313 (0.090)    | false (0.000) |    12.54 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|           10 |      198 | 2024-05-01 | SINNERS Academy          | W   | 1.000      | 0.289        | 0.003 (0.001)    | 0.296 (0.086)    | false (0.000) |    13.35 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|            9 |      273 | 2024-04-29 | EP Genesis               | W   | 1.000      | 0.289        | 0.000 (0.000)    | 0.187 (0.054)    | false (0.000) |     8.92 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|            8 |      304 | 2024-04-28 | XI Esport                | L   | 1.000      | -            | -                | -                | -             |   -17.79 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|            7 |      540 | 2024-04-24 | 777 Esports              | W   | 1.000      | 0.289        | 0.032 (0.009)    | 0.550 (0.159)    | false (0.000) |    16.19 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|            6 |      721 | 2024-04-20 | ESportsBattle            | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.86 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|            5 |     1640 | 2024-03-30 | BLESSED (Ukrainian team) | L   | 0.957      | -            | -                | -                | -             |    -6.57 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|            4 |     1753 | 2024-03-27 | BLESSED (Ukrainian team) | L   | 0.938      | -            | -                | -                | -             |    -8.24 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|            3 |     1806 | 2024-03-26 | ZEROvariant              | W   | 0.932      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.11 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|            2 |     1861 | 2024-03-24 | DASH                     | W   | 0.918      | 0.143        | 0.000 (0.000)    | 0.251 (0.033)    | false (0.000) |    15.57 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
-|            1 |     2136 | 2024-03-17 | TBA.ECF                  | L   | 0.872      | -            | -                | -                | -             |   -12.76 | crickey, kr1vda, marat2k, OneUn1que, somnium |
+|           12 |      103 | 2024-05-03 | Lazer Cats               | W   | 1.000      | 0.289        | 0.003 (0.001)    | 0.070 (0.020)    | 0 (0.000) |    11.98 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|           11 |      140 | 2024-05-02 | XI Esport                | W   | 1.000      | 0.289        | 0.002 (0.001)    | 0.313 (0.090)    | 0 (0.000) |    12.54 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|           10 |      198 | 2024-05-01 | SINNERS Academy          | W   | 1.000      | 0.289        | 0.003 (0.001)    | 0.296 (0.086)    | 0 (0.000) |    13.35 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|            9 |      273 | 2024-04-29 | EP Genesis               | W   | 1.000      | 0.289        | 0.000 (0.000)    | 0.187 (0.054)    | 0 (0.000) |     8.92 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|            8 |      304 | 2024-04-28 | XI Esport                | L   | 1.000      | -            | -                | -                | -         |   -17.79 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|            7 |      540 | 2024-04-24 | 777 Esports              | W   | 1.000      | 0.289        | 0.032 (0.009)    | 0.550 (0.159)    | 0 (0.000) |    16.19 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|            6 |      721 | 2024-04-20 | ESportsBattle            | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.86 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|            5 |     1640 | 2024-03-30 | BLESSED (Ukrainian team) | L   | 0.957      | -            | -                | -                | -         |    -6.57 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|            4 |     1753 | 2024-03-27 | BLESSED (Ukrainian team) | L   | 0.938      | -            | -                | -                | -         |    -8.24 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|            3 |     1806 | 2024-03-26 | ZEROvariant              | W   | 0.932      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.11 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|            2 |     1861 | 2024-03-24 | DASH                     | W   | 0.918      | 0.143        | 0.000 (0.000)    | 0.251 (0.033)    | 0 (0.000) |    15.57 | kL1o, kr1vda, marat2k, OneUn1que, Tr0ublE    |
+|            1 |     2136 | 2024-03-17 | TBA.ECF                  | L   | 0.872      | -            | -                | -                | -         |   -12.76 | crickey, kr1vda, marat2k, OneUn1que, somnium |
 
 <br />
 <span id="table2"></span><br />

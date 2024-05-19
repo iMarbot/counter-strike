@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                         |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     5588 | 2023-12-15 | NOM Esports          | L   | 0.251      | -            | -                | -                | -             |    -3.44 | Chill, Dementor, DEPRESHN, Svedjehed, tAk      |
-|           13 |     5706 | 2023-12-11 | WOPA Esport          | L   | 0.223      | -            | -                | -                | -             |    -2.35 | Dementor, DEPRESHN, sh3nanigan, Svedjehed, tAk |
-|           12 |     5770 | 2023-12-09 | Ex-Anonymo Esports   | L   | 0.211      | -            | -                | -                | -             |    -2.18 | Chill, Dementor, DEPRESHN, Svedjehed, tAk      |
-|           11 |     5842 | 2023-12-08 | Sprout Academy       | W   | 0.204      | 0.303        | 0.000 (0.000)    | 0.001 (0.000)    | false (0.000) |     1.83 | Dementor, DEPRESHN, sh3nanigan, Svedjehed, tAk |
-|           10 |     6025 | 2023-12-04 | WOPA Esport          | L   | 0.176      | -            | -                | -                | -             |    -1.87 | Dementor, DEPRESHN, sh3nanigan, Svedjehed, tAk |
-|            9 |     6395 | 2023-11-26 | Kappa Bar            | L   | 0.125      | -            | -                | -                | -             |    -1.83 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
-|            8 |     6493 | 2023-11-24 | Natus Vincere Junior | W   | 0.110      | 0.303        | 0.025 (0.001)    | 0.492 (0.016)    | false (0.000) |     2.61 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
-|            7 |     6523 | 2023-11-23 | Illuminar Gaming     | L   | 0.104      | -            | -                | -                | -             |    -1.18 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
-|            6 |     6610 | 2023-11-21 | Astralis Talent      | W   | 0.089      | 0.303        | 0.030 (0.001)    | 0.613 (0.017)    | false (0.000) |     2.42 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
-|            5 |     6705 | 2023-11-18 | ENTERPRISE esports   | L   | 0.072      | -            | -                | -                | -             |    -0.35 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
-|            4 |     6810 | 2023-11-16 | Ex-Anonymo Esports   | W   | 0.059      | 0.143        | 0.019 (0.000)    | 0.295 (0.002)    | false (0.000) |     1.22 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
-|            3 |     6921 | 2023-11-14 | ENTERPRISE esports   | L   | 0.045      | -            | -                | -                | -             |    -0.22 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
-|            2 |     7022 | 2023-11-12 | Lazer Cats           | L   | 0.029      | -            | -                | -                | -             |    -0.50 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
-|            1 |     7206 | 2023-11-08 | Astralis Talent      | L   | 0.004      | -            | -                | -                | -             |    -0.01 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
+|           14 |     5588 | 2023-12-15 | NOM Esports          | L   | 0.251      | -            | -                | -                | -         |    -3.44 | Chill, Dementor, DEPRESHN, Svedjehed, tAk      |
+|           13 |     5706 | 2023-12-11 | WOPA Esport          | L   | 0.223      | -            | -                | -                | -         |    -2.35 | Dementor, DEPRESHN, sh3nanigan, Svedjehed, tAk |
+|           12 |     5770 | 2023-12-09 | Ex-Anonymo Esports   | L   | 0.211      | -            | -                | -                | -         |    -2.18 | Chill, Dementor, DEPRESHN, Svedjehed, tAk      |
+|           11 |     5842 | 2023-12-08 | Sprout Academy       | W   | 0.204      | 0.303        | 0.000 (0.000)    | 0.001 (0.000)    | 0 (0.000) |     1.83 | Dementor, DEPRESHN, sh3nanigan, Svedjehed, tAk |
+|           10 |     6025 | 2023-12-04 | WOPA Esport          | L   | 0.176      | -            | -                | -                | -         |    -1.87 | Dementor, DEPRESHN, sh3nanigan, Svedjehed, tAk |
+|            9 |     6395 | 2023-11-26 | Kappa Bar            | L   | 0.125      | -            | -                | -                | -         |    -1.83 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
+|            8 |     6493 | 2023-11-24 | Natus Vincere Junior | W   | 0.110      | 0.303        | 0.025 (0.001)    | 0.492 (0.016)    | 0 (0.000) |     2.61 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
+|            7 |     6523 | 2023-11-23 | Illuminar Gaming     | L   | 0.104      | -            | -                | -                | -         |    -1.18 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
+|            6 |     6610 | 2023-11-21 | Astralis Talent      | W   | 0.089      | 0.303        | 0.030 (0.001)    | 0.613 (0.017)    | 0 (0.000) |     2.42 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
+|            5 |     6705 | 2023-11-18 | ENTERPRISE esports   | L   | 0.072      | -            | -                | -                | -         |    -0.35 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
+|            4 |     6810 | 2023-11-16 | Ex-Anonymo Esports   | W   | 0.059      | 0.143        | 0.019 (0.000)    | 0.295 (0.002)    | 0 (0.000) |     1.22 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
+|            3 |     6921 | 2023-11-14 | ENTERPRISE esports   | L   | 0.045      | -            | -                | -                | -         |    -0.22 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
+|            2 |     7022 | 2023-11-12 | Lazer Cats           | L   | 0.029      | -            | -                | -                | -         |    -0.50 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
+|            1 |     7206 | 2023-11-08 | Astralis Talent      | L   | 0.004      | -            | -                | -                | -         |    -0.01 | delle, Dementor, DEPRESHN, Svedjehed, tAk      |
 
 <br />
 <span id="table2"></span><br />

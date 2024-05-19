@@ -34,25 +34,25 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                        |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |     1888 | 2024-03-23 | DUSTY           | L   | 0.912      | -            | -                | -                | -             |    -9.87 | ADHD, DOM, Tight, xZerq, Zolo |
-|           16 |     1937 | 2024-03-22 | Þór             | W   | 0.905      | 0.143        | 0.000 (0.000)    | 0.169 (0.022)    | true (0.905)  |    12.60 | ADHD, DOM, Tight, xZerq, Zolo |
-|           15 |     2264 | 2024-03-14 | FH              | W   | 0.852      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.56 | ADHD, DOM, Tight, xZerq, Zolo |
-|           14 |     3481 | 2024-02-17 | ÍBV Esports     | W   | 0.679      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.60 | ADHD, DOM, Tight, xZerq, Zolo |
-|           13 |     3669 | 2024-02-13 | Breiðablik      | L   | 0.652      | -            | -                | -                | -             |   -12.52 | ADHD, DOM, Tight, xZerq, Zolo |
-|           12 |     3809 | 2024-02-08 | Þór             | L   | 0.619      | -            | -                | -                | -             |   -11.83 | ADHD, DOM, Tight, xZerq, Zolo |
-|           11 |     4535 | 2024-01-20 | Young Prodigies | W   | 0.492      | 0.143        | 0.000 (0.000)    | 0.065 (0.005)    | false (0.000) |     3.66 | ADHD, DOM, Tight, xZerq, Zolo |
-|           10 |     4640 | 2024-01-18 | Ármann          | W   | 0.480      | 0.143        | 0.000 (0.000)    | 0.097 (0.007)    | false (0.000) |     5.35 | ADHD, DOM, Tight, xZerq, Zolo |
-|            9 |     4989 | 2024-01-11 | DUSTY           | L   | 0.432      | -            | -                | -                | -             |    -3.81 | ADHD, DOM, Tight, xZerq, Zolo |
-|            8 |     5976 | 2023-12-05 | ÍA Akranes      | W   | 0.186      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | false (0.000) |     1.40 | ADHD, DOM, Tight, xZerq, Zolo |
-|            7 |     6192 | 2023-11-30 | FH              | W   | 0.153      | 0.143        | 0.000 (0.000)    | 0.040 (0.001)    | false (0.000) |     1.14 | ADHD, DOM, Tight, xZerq, Zolo |
-|            6 |     6660 | 2023-11-19 | DUSTY           | L   | 0.079      | -            | -                | -                | -             |    -0.68 | ADHD, DOM, Tight, xZerq, Zolo |
-|            5 |     6662 | 2023-11-19 | Young Prodigies | W   | 0.079      | 0.143        | 0.000 (0.000)    | 0.065 (0.001)    | false (0.000) |     0.59 | ADHD, DOM, Tight, xZerq, Zolo |
-|            4 |     6910 | 2023-11-14 | Ármann          | W   | 0.046      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | false (0.000) |     0.34 | ADHD, DOM, Tight, xZerq, Zolo |
-|            3 |     6915 | 2023-11-14 | Þór             | W   | 0.046      | 0.143        | 0.000 (0.000)    | 0.169 (0.001)    | false (0.000) |     0.52 | ADHD, DOM, Tight, xZerq, Zolo |
-|            2 |     6950 | 2023-11-13 | ÍBV Esports     | W   | 0.039      | -            | -                | -                | -             |     0.29 | ADHD, DOM, Tight, xZerq, Zolo |
-|            1 |     7119 | 2023-11-09 | ÍBV Esports     | W   | 0.013      | -            | -                | -                | -             |     0.10 | ADHD, DOM, Tight, xZerq, Zolo |
+|           17 |     1888 | 2024-03-23 | DUSTY           | L   | 0.912      | -            | -                | -                | -         |    -9.87 | ADHD, DOM, Tight, xZerq, Zolo |
+|           16 |     1937 | 2024-03-22 | Þór             | W   | 0.905      | 0.143        | 0.000 (0.000)    | 0.169 (0.022)    | 1 (0.905) |    12.60 | ADHD, DOM, Tight, xZerq, Zolo |
+|           15 |     2264 | 2024-03-14 | FH              | W   | 0.852      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.56 | ADHD, DOM, Tight, xZerq, Zolo |
+|           14 |     3481 | 2024-02-17 | ÍBV Esports     | W   | 0.679      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.60 | ADHD, DOM, Tight, xZerq, Zolo |
+|           13 |     3669 | 2024-02-13 | Breiðablik      | L   | 0.652      | -            | -                | -                | -         |   -12.52 | ADHD, DOM, Tight, xZerq, Zolo |
+|           12 |     3809 | 2024-02-08 | Þór             | L   | 0.619      | -            | -                | -                | -         |   -11.83 | ADHD, DOM, Tight, xZerq, Zolo |
+|           11 |     4535 | 2024-01-20 | Young Prodigies | W   | 0.492      | 0.143        | 0.000 (0.000)    | 0.065 (0.005)    | 0 (0.000) |     3.66 | ADHD, DOM, Tight, xZerq, Zolo |
+|           10 |     4640 | 2024-01-18 | Ármann          | W   | 0.480      | 0.143        | 0.000 (0.000)    | 0.097 (0.007)    | 0 (0.000) |     5.35 | ADHD, DOM, Tight, xZerq, Zolo |
+|            9 |     4989 | 2024-01-11 | DUSTY           | L   | 0.432      | -            | -                | -                | -         |    -3.81 | ADHD, DOM, Tight, xZerq, Zolo |
+|            8 |     5976 | 2023-12-05 | ÍA Akranes      | W   | 0.186      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     1.40 | ADHD, DOM, Tight, xZerq, Zolo |
+|            7 |     6192 | 2023-11-30 | FH              | W   | 0.153      | 0.143        | 0.000 (0.000)    | 0.040 (0.001)    | 0 (0.000) |     1.14 | ADHD, DOM, Tight, xZerq, Zolo |
+|            6 |     6660 | 2023-11-19 | DUSTY           | L   | 0.079      | -            | -                | -                | -         |    -0.68 | ADHD, DOM, Tight, xZerq, Zolo |
+|            5 |     6662 | 2023-11-19 | Young Prodigies | W   | 0.079      | 0.143        | 0.000 (0.000)    | 0.065 (0.001)    | 0 (0.000) |     0.59 | ADHD, DOM, Tight, xZerq, Zolo |
+|            4 |     6910 | 2023-11-14 | Ármann          | W   | 0.046      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     0.34 | ADHD, DOM, Tight, xZerq, Zolo |
+|            3 |     6915 | 2023-11-14 | Þór             | W   | 0.046      | 0.143        | 0.000 (0.000)    | 0.169 (0.001)    | 0 (0.000) |     0.52 | ADHD, DOM, Tight, xZerq, Zolo |
+|            2 |     6950 | 2023-11-13 | ÍBV Esports     | W   | 0.039      | -            | -                | -                | -         |     0.29 | ADHD, DOM, Tight, xZerq, Zolo |
+|            1 |     7119 | 2023-11-09 | ÍBV Esports     | W   | 0.013      | -            | -                | -                | -         |     0.10 | ADHD, DOM, Tight, xZerq, Zolo |
 
 <br />
 <span id="table2"></span><br />

@@ -34,34 +34,34 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                             |
+| Match Played | Match ID | Date       | Opponent                       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           26 |     4449 | 2024-01-22 | BESTIA                         | L   | 0.507      | -            | -                | -                | -             |    -4.91 | mxa, n9xtz, pigo, r1see, urban0    |
-|           25 |     4738 | 2024-01-17 | Intense Game                   | W   | 0.472      | 0.143        | 0.008 (0.001)    | 0.372 (0.025)    | false (0.000) |     7.97 | mxa, n9xtz, pigo, r1see, urban0    |
-|           24 |     4829 | 2024-01-15 | RED Canids                     | L   | 0.460      | -            | -                | -                | -             |    -2.81 | mxa, n9xtz, pigo, r1see, urban0    |
-|           23 |     4984 | 2024-01-11 | Case Esports                   | L   | 0.433      | -            | -                | -                | -             |    -5.87 | mxa, n9xtz, pigo, r1see, urban0    |
-|           22 |     4990 | 2024-01-11 | Astral Aces Esports            | W   | 0.432      | 0.143        | 0.001 (0.000)    | 0.050 (0.003)    | false (0.000) |     5.70 | mxa, n9xtz, pigo, r1see, urban0    |
-|           21 |     5025 | 2024-01-10 | Opala SS                       | W   | 0.427      | -            | -                | -                | false (0.000) |     2.38 | mxa, n9xtz, pigo, r1see, urban0    |
-|           20 |     5340 | 2023-12-17 | TIMACETA                       | L   | 0.266      | -            | -                | -                | -             |    -4.42 | Lineko, n9xtz, pigo, r1see, urban0 |
-|           19 |     5569 | 2023-12-15 | WINDINGO                       | L   | 0.253      | -            | -                | -                | -             |    -4.36 | Lineko, n9xtz, pigo, r1see, urban0 |
-|           18 |     5613 | 2023-12-14 | Yawara E-Sports                | W   | 0.245      | 0.143        | 0.005 (0.000)    | 0.361 (0.013)    | false (0.000) |     4.32 | Lineko, n9xtz, pigo, r1see, urban0 |
-|           17 |     5629 | 2023-12-13 | Case Esports                   | W   | 0.240      | 0.143        | 0.010 (0.000)    | 0.142 (0.005)    | false (0.000) |     4.30 | Lineko, n9xtz, pigo, r1see, urban0 |
-|           16 |     5632 | 2023-12-13 | Patins da Ferrari              | L   | 0.240      | -            | -                | -                | -             |    -4.43 | Lineko, n9xtz, pigo, r1see, urban0 |
-|           15 |     5664 | 2023-12-12 | SOLOVE                         | W   | 0.233      | -            | -                | -                | false (0.000) |     3.18 | Lineko, n9xtz, pigo, r1see, urban0 |
-|           14 |     5668 | 2023-12-12 | Team Solid                     | L   | 0.232      | -            | -                | -                | -             |    -1.69 | mxa, n9xtz, pigo, r1see, urban0    |
-|           13 |     5686 | 2023-12-11 | Hype E-Sports (Brazilian team) | W   | 0.226      | -            | -                | -                | false (0.000) |     2.66 | Lineko, n9xtz, pigo, r1see, urban0 |
-|           12 |     5690 | 2023-12-11 | SOLOVE                         | W   | 0.226      | 0.262        | -                | 0.054 (0.003)    | false (0.000) |     3.15 | mxa, n9xtz, pigo, r1see, urban0    |
-|           11 |     5830 | 2023-12-08 | CEBOLOS                        | W   | 0.206      | 0.262        | 0.001 (0.000)    | 0.048 (0.003)    | false (0.000) |     2.63 | mxa, n9xtz, pigo, r1see, urban0    |
-|           10 |     5917 | 2023-12-06 | Team Solid                     | L   | 0.194      | -            | -                | -                | -             |    -1.38 | Lineko, n9xtz, pigo, r1see, urban0 |
-|            9 |     5922 | 2023-12-06 | W7m esports                    | W   | 0.192      | 0.143        | -                | 0.127 (0.004)    | false (0.000) |     2.44 | Lineko, n9xtz, pigo, r1see, urban0 |
-|            8 |     5978 | 2023-12-05 | WINDINGO                       | W   | 0.186      | 0.143        | 0.004 (0.000)    | -                | -             |     2.84 | Lineko, n9xtz, pigo, r1see, urban0 |
-|            7 |     6101 | 2023-12-02 | 9z Academy                     | W   | 0.165      | 0.143        | 0.003 (0.000)    | 0.237 (0.006)    | -             |     2.62 | mxa, n9xtz, pigo, r1see, urban0    |
-|            6 |     6155 | 2023-12-01 | Corinthians Esports            | W   | 0.159      | -            | -                | -                | -             |     2.29 | mxa, n9xtz, pigo, r1see, urban0    |
-|            5 |     6186 | 2023-11-30 | Team Solid                     | W   | 0.153      | 0.143        | 0.138 (0.003)    | 0.275 (0.006)    | -             |     3.83 | mxa, n9xtz, pigo, r1see, urban0    |
-|            4 |     6204 | 2023-11-30 | River Plate Gaming             | W   | 0.152      | 0.143        | 0.001 (0.000)    | -                | -             |     2.14 | mxa, n9xtz, pigo, r1see, urban0    |
-|            3 |     6857 | 2023-11-15 | Dusty Roots                    | W   | 0.053      | 0.143        | 0.005 (0.000)    | 0.352 (0.003)    | -             |     0.93 | Lineko, n9xtz, pigo, r1see, urban0 |
-|            2 |     7159 | 2023-11-08 | Case Esports                   | L   | 0.006      | -            | -                | -                | -             |    -0.09 | Lineko, n9xtz, pigo, r1see, urban0 |
-|            1 |     7160 | 2023-11-08 | Team Solid                     | L   | 0.006      | -            | -                | -                | -             |    -0.04 | Lineko, n9xtz, pigo, r1see, urban0 |
+|           26 |     4449 | 2024-01-22 | BESTIA                         | L   | 0.507      | -            | -                | -                | -         |    -4.91 | mxa, n9xtz, pigo, r1see, urban0    |
+|           25 |     4738 | 2024-01-17 | Intense Game                   | W   | 0.472      | 0.143        | 0.008 (0.001)    | 0.372 (0.025)    | 0 (0.000) |     7.97 | mxa, n9xtz, pigo, r1see, urban0    |
+|           24 |     4829 | 2024-01-15 | RED Canids                     | L   | 0.460      | -            | -                | -                | -         |    -2.81 | mxa, n9xtz, pigo, r1see, urban0    |
+|           23 |     4984 | 2024-01-11 | Case Esports                   | L   | 0.433      | -            | -                | -                | -         |    -5.87 | mxa, n9xtz, pigo, r1see, urban0    |
+|           22 |     4990 | 2024-01-11 | Astral Aces Esports            | W   | 0.432      | 0.143        | 0.001 (0.000)    | 0.050 (0.003)    | 0 (0.000) |     5.70 | mxa, n9xtz, pigo, r1see, urban0    |
+|           21 |     5025 | 2024-01-10 | Opala SS                       | W   | 0.427      | -            | -                | -                | 0 (0.000) |     2.38 | mxa, n9xtz, pigo, r1see, urban0    |
+|           20 |     5340 | 2023-12-17 | TIMACETA                       | L   | 0.266      | -            | -                | -                | -         |    -4.42 | Lineko, n9xtz, pigo, r1see, urban0 |
+|           19 |     5569 | 2023-12-15 | WINDINGO                       | L   | 0.253      | -            | -                | -                | -         |    -4.36 | Lineko, n9xtz, pigo, r1see, urban0 |
+|           18 |     5613 | 2023-12-14 | Yawara E-Sports                | W   | 0.245      | 0.143        | 0.005 (0.000)    | 0.361 (0.013)    | 0 (0.000) |     4.32 | Lineko, n9xtz, pigo, r1see, urban0 |
+|           17 |     5629 | 2023-12-13 | Case Esports                   | W   | 0.240      | 0.143        | 0.010 (0.000)    | 0.142 (0.005)    | 0 (0.000) |     4.30 | Lineko, n9xtz, pigo, r1see, urban0 |
+|           16 |     5632 | 2023-12-13 | Patins da Ferrari              | L   | 0.240      | -            | -                | -                | -         |    -4.43 | Lineko, n9xtz, pigo, r1see, urban0 |
+|           15 |     5664 | 2023-12-12 | SOLOVE                         | W   | 0.233      | -            | -                | -                | 0 (0.000) |     3.18 | Lineko, n9xtz, pigo, r1see, urban0 |
+|           14 |     5668 | 2023-12-12 | Team Solid                     | L   | 0.232      | -            | -                | -                | -         |    -1.69 | mxa, n9xtz, pigo, r1see, urban0    |
+|           13 |     5686 | 2023-12-11 | Hype E-Sports (Brazilian team) | W   | 0.226      | -            | -                | -                | 0 (0.000) |     2.66 | Lineko, n9xtz, pigo, r1see, urban0 |
+|           12 |     5690 | 2023-12-11 | SOLOVE                         | W   | 0.226      | 0.262        | -                | 0.054 (0.003)    | 0 (0.000) |     3.15 | mxa, n9xtz, pigo, r1see, urban0    |
+|           11 |     5830 | 2023-12-08 | CEBOLOS                        | W   | 0.206      | 0.262        | 0.001 (0.000)    | 0.048 (0.003)    | 0 (0.000) |     2.63 | mxa, n9xtz, pigo, r1see, urban0    |
+|           10 |     5917 | 2023-12-06 | Team Solid                     | L   | 0.194      | -            | -                | -                | -         |    -1.38 | Lineko, n9xtz, pigo, r1see, urban0 |
+|            9 |     5922 | 2023-12-06 | W7m esports                    | W   | 0.192      | 0.143        | -                | 0.127 (0.004)    | 0 (0.000) |     2.44 | Lineko, n9xtz, pigo, r1see, urban0 |
+|            8 |     5978 | 2023-12-05 | WINDINGO                       | W   | 0.186      | 0.143        | 0.004 (0.000)    | -                | -         |     2.84 | Lineko, n9xtz, pigo, r1see, urban0 |
+|            7 |     6101 | 2023-12-02 | 9z Academy                     | W   | 0.165      | 0.143        | 0.003 (0.000)    | 0.237 (0.006)    | -         |     2.62 | mxa, n9xtz, pigo, r1see, urban0    |
+|            6 |     6155 | 2023-12-01 | Corinthians Esports            | W   | 0.159      | -            | -                | -                | -         |     2.29 | mxa, n9xtz, pigo, r1see, urban0    |
+|            5 |     6186 | 2023-11-30 | Team Solid                     | W   | 0.153      | 0.143        | 0.138 (0.003)    | 0.275 (0.006)    | -         |     3.83 | mxa, n9xtz, pigo, r1see, urban0    |
+|            4 |     6204 | 2023-11-30 | River Plate Gaming             | W   | 0.152      | 0.143        | 0.001 (0.000)    | -                | -         |     2.14 | mxa, n9xtz, pigo, r1see, urban0    |
+|            3 |     6857 | 2023-11-15 | Dusty Roots                    | W   | 0.053      | 0.143        | 0.005 (0.000)    | 0.352 (0.003)    | -         |     0.93 | Lineko, n9xtz, pigo, r1see, urban0 |
+|            2 |     7159 | 2023-11-08 | Case Esports                   | L   | 0.006      | -            | -                | -                | -         |    -0.09 | Lineko, n9xtz, pigo, r1see, urban0 |
+|            1 |     7160 | 2023-11-08 | Team Solid                     | L   | 0.006      | -            | -                | -                | -         |    -0.04 | Lineko, n9xtz, pigo, r1see, urban0 |
 
 <br />
 <span id="table2"></span><br />

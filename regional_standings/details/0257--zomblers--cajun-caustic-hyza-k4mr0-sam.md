@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                             |
+| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      983 | 2024-04-16 | NRG                        | L   | 1.000      | -            | -                | -                | -             |   -11.44 | CAJUN, caustic, hyza, K4mr0, sam   |
-|            9 |     2389 | 2024-03-11 | Pryde                      | W   | 0.834      | 0.371        | 0.000 (0.000)    | 0.043 (0.013)    | false (0.000) |     5.14 | CAJUN, caustic, K4mr0, Marro, sam  |
-|            8 |     2442 | 2024-03-10 | KingsOfTheNorth            | W   | 0.827      | 0.371        | 0.004 (0.001)    | 0.026 (0.008)    | false (0.000) |    12.20 | CAJUN, caustic, K4mr0, Marro, sam  |
-|            7 |     3558 | 2024-02-15 | Limitless                  | L   | 0.667      | -            | -                | -                | -             |    -9.73 | CAJUN, K4mr0, Marro, sam, seziwana |
-|            6 |     4299 | 2024-01-26 | Limitless                  | L   | 0.534      | -            | -                | -                | -             |    -8.04 | CAJUN, K4mr0, Marro, sam, X-23     |
-|            5 |     4637 | 2024-01-18 | Nouns Esports              | L   | 0.480      | -            | -                | -                | -             |    -8.11 | CAJUN, K4mr0, Marro, sam, seziwana |
-|            4 |     4683 | 2024-01-17 | FPL Friends                | W   | 0.474      | 0.143        | 0.005 (0.000)    | 0.028 (0.002)    | false (0.000) |     7.51 | CAJUN, K4mr0, Marro, sam, seziwana |
-|            3 |     4822 | 2024-01-15 | Party Astronauts           | L   | 0.461      | -            | -                | -                | -             |    -4.66 | CAJUN, K4mr0, Marro, sam, seziwana |
-|            2 |     5020 | 2024-01-10 | MIGHT                      | L   | 0.428      | -            | -                | -                | -             |    -5.82 | CAJUN, K4mr0, Marro, sam, seziwana |
-|            1 |     5137 | 2024-01-08 | LAG Gaming (American team) | W   | 0.415      | 0.143        | 0.033 (0.002)    | 0.405 (0.024)    | false (0.000) |    10.81 | CAJUN, K4mr0, Marro, sam, seziwana |
+|           10 |      983 | 2024-04-16 | NRG                        | L   | 1.000      | -            | -                | -                | -         |   -11.44 | CAJUN, caustic, hyza, K4mr0, sam   |
+|            9 |     2389 | 2024-03-11 | Pryde                      | W   | 0.834      | 0.371        | 0.000 (0.000)    | 0.043 (0.013)    | 0 (0.000) |     5.14 | CAJUN, caustic, K4mr0, Marro, sam  |
+|            8 |     2442 | 2024-03-10 | KingsOfTheNorth            | W   | 0.827      | 0.371        | 0.004 (0.001)    | 0.026 (0.008)    | 0 (0.000) |    12.20 | CAJUN, caustic, K4mr0, Marro, sam  |
+|            7 |     3558 | 2024-02-15 | Limitless                  | L   | 0.667      | -            | -                | -                | -         |    -9.73 | CAJUN, K4mr0, Marro, sam, seziwana |
+|            6 |     4299 | 2024-01-26 | Limitless                  | L   | 0.534      | -            | -                | -                | -         |    -8.04 | CAJUN, K4mr0, Marro, sam, X-23     |
+|            5 |     4637 | 2024-01-18 | Nouns Esports              | L   | 0.480      | -            | -                | -                | -         |    -8.11 | CAJUN, K4mr0, Marro, sam, seziwana |
+|            4 |     4683 | 2024-01-17 | FPL Friends                | W   | 0.474      | 0.143        | 0.005 (0.000)    | 0.028 (0.002)    | 0 (0.000) |     7.51 | CAJUN, K4mr0, Marro, sam, seziwana |
+|            3 |     4822 | 2024-01-15 | Party Astronauts           | L   | 0.461      | -            | -                | -                | -         |    -4.66 | CAJUN, K4mr0, Marro, sam, seziwana |
+|            2 |     5020 | 2024-01-10 | MIGHT                      | L   | 0.428      | -            | -                | -                | -         |    -5.82 | CAJUN, K4mr0, Marro, sam, seziwana |
+|            1 |     5137 | 2024-01-08 | LAG Gaming (American team) | W   | 0.415      | 0.143        | 0.033 (0.002)    | 0.405 (0.024)    | 0 (0.000) |    10.81 | CAJUN, K4mr0, Marro, sam, seziwana |
 
 <br />
 <span id="table2"></span><br />

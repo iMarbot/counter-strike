@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                             |
+| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |     3489 | 2024-02-17 | FH                      | W   | 0.679      | 0.143        | 0.000 (0.000)    | 0.040 (0.004)    | false (0.000) |    10.29 | Blick, E1nar, Pressi, RuflU, Vrhex |
-|           12 |     3572 | 2024-02-15 | Ármann                  | L   | 0.666      | -            | -                | -                | -             |    -7.04 | Blick, E1nar, Pressi, RuflU, Vrhex |
-|           11 |     3854 | 2024-02-06 | DUSTY                   | L   | 0.606      | -            | -                | -                | -             |    -2.47 | Blick, E1nar, Pressi, RuflU, Vrhex |
-|           10 |     4133 | 2024-01-30 | ÍA Akranes              | W   | 0.559      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | false (0.000) |     8.37 | Blick, E1nar, Pressi, RuflU, Vrhex |
-|            9 |     4535 | 2024-01-20 | SAGA Esports            | L   | 0.492      | -            | -                | -                | -             |    -3.66 | Blick, E1nar, Pressi, RuflU, Vrhex |
-|            8 |     4784 | 2024-01-16 | ÍBV Esports             | W   | 0.466      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.18 | Blick, E1nar, Pressi, RuflU, Vrhex |
-|            7 |     5075 | 2024-01-09 | Breiðablik              | L   | 0.419      | -            | -                | -                | -             |    -4.67 | Blick, E1nar, Pressi, RuflU, Vrhex |
-|            6 |     5866 | 2023-12-07 | Þór                     | L   | 0.199      | -            | -                | -                | -             |    -2.22 | Blick, E1nar, Pressi, RuflU, Vrhex |
-|            5 |     6298 | 2023-11-28 | AURORA (Icelandic team) | W   | 0.139      | 0.143        | 0.000 (0.000)    | 0.037 (0.001)    | false (0.000) |     2.18 | Blick, E1nar, Pressi, RuflU, Vrhex |
-|            4 |     6662 | 2023-11-19 | SAGA Esports            | L   | 0.079      | -            | -                | -                | -             |    -0.59 | Blick, dezt, Pressi, Vrhex, yz0    |
-|            3 |     6802 | 2023-11-16 | FH                      | W   | 0.059      | 0.143        | 0.000 (0.000)    | 0.040 (0.000)    | false (0.000) |     0.93 | Blick, dezt, Pressi, Vrhex, yz0    |
-|            2 |     6912 | 2023-11-14 | DUSTY                   | L   | 0.046      | -            | -                | -                | -             |    -0.15 | Blick, dezt, Pressi, Vrhex, yz0    |
-|            1 |     6917 | 2023-11-14 | FH                      | W   | 0.046      | 0.143        | 0.000 (0.000)    | 0.040 (0.000)    | false (0.000) |     0.72 | Blick, dezt, Pressi, Vrhex, yz0    |
+|           13 |     3489 | 2024-02-17 | FH                      | W   | 0.679      | 0.143        | 0.000 (0.000)    | 0.040 (0.004)    | 0 (0.000) |    10.29 | Blick, E1nar, Pressi, RuflU, Vrhex |
+|           12 |     3572 | 2024-02-15 | Ármann                  | L   | 0.666      | -            | -                | -                | -         |    -7.04 | Blick, E1nar, Pressi, RuflU, Vrhex |
+|           11 |     3854 | 2024-02-06 | DUSTY                   | L   | 0.606      | -            | -                | -                | -         |    -2.47 | Blick, E1nar, Pressi, RuflU, Vrhex |
+|           10 |     4133 | 2024-01-30 | ÍA Akranes              | W   | 0.559      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     8.37 | Blick, E1nar, Pressi, RuflU, Vrhex |
+|            9 |     4535 | 2024-01-20 | SAGA Esports            | L   | 0.492      | -            | -                | -                | -         |    -3.66 | Blick, E1nar, Pressi, RuflU, Vrhex |
+|            8 |     4784 | 2024-01-16 | ÍBV Esports             | W   | 0.466      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.18 | Blick, E1nar, Pressi, RuflU, Vrhex |
+|            7 |     5075 | 2024-01-09 | Breiðablik              | L   | 0.419      | -            | -                | -                | -         |    -4.67 | Blick, E1nar, Pressi, RuflU, Vrhex |
+|            6 |     5866 | 2023-12-07 | Þór                     | L   | 0.199      | -            | -                | -                | -         |    -2.22 | Blick, E1nar, Pressi, RuflU, Vrhex |
+|            5 |     6298 | 2023-11-28 | AURORA (Icelandic team) | W   | 0.139      | 0.143        | 0.000 (0.000)    | 0.037 (0.001)    | 0 (0.000) |     2.18 | Blick, E1nar, Pressi, RuflU, Vrhex |
+|            4 |     6662 | 2023-11-19 | SAGA Esports            | L   | 0.079      | -            | -                | -                | -         |    -0.59 | Blick, dezt, Pressi, Vrhex, yz0    |
+|            3 |     6802 | 2023-11-16 | FH                      | W   | 0.059      | 0.143        | 0.000 (0.000)    | 0.040 (0.000)    | 0 (0.000) |     0.93 | Blick, dezt, Pressi, Vrhex, yz0    |
+|            2 |     6912 | 2023-11-14 | DUSTY                   | L   | 0.046      | -            | -                | -                | -         |    -0.15 | Blick, dezt, Pressi, Vrhex, yz0    |
+|            1 |     6917 | 2023-11-14 | FH                      | W   | 0.046      | 0.143        | 0.000 (0.000)    | 0.040 (0.000)    | 0 (0.000) |     0.72 | Blick, dezt, Pressi, Vrhex, yz0    |
 
 <br />
 <span id="table2"></span><br />

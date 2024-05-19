@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      969 | 2024-04-17 | DXA Esports                      | L   | 1.000      | -            | -                | -                | -             |    -8.46 | 74LOR, harbor, Phek, Rhyu, vanillaicey     |
-|           12 |     1998 | 2024-03-21 | Altered Edge                     | L   | 0.896      | -            | -                | -                | -             |    -8.20 | deStiny, Phek, rev, Rhyu, vanillaicey      |
-|           11 |     2229 | 2024-03-15 | Arcade Esports (Australian team) | W   | 0.856      | 0.270        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     9.00 | deStiny, Phek, rev, Rhyu, vanillaicey      |
-|           10 |     2344 | 2024-03-13 | Underground Esports Club         | W   | 0.843      | 0.270        | 0.000 (0.000)    | 0.112 (0.026)    | false (0.000) |    15.54 | deStiny, Phek, rev, Rhyu, vanillaicey      |
-|            9 |     2544 | 2024-03-08 | MANTRA                           | L   | 0.810      | -            | -                | -                | -             |    -6.36 | deStiny, Phek, rev, Rhyu, vanillaicey      |
-|            8 |     3383 | 2024-02-20 | Arcade Esports (Australian team) | W   | 0.696      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     8.22 | harbor, HudzM, JiNxZiE, mag1c, PearL       |
-|            7 |     3701 | 2024-02-12 | Jehovah witness                  | L   | 0.649      | -            | -                | -                | -             |    -9.30 | badge, DickStacy, mswag, stevie, Texta     |
-|            6 |     4403 | 2024-01-24 | Rooster                          | L   | 0.516      | -            | -                | -                | -             |    -2.09 | 74LOR, COOOOOOFFEE, Phek, vanillaicey, ws  |
-|            5 |     4407 | 2024-01-24 | Antic Esports                    | W   | 0.516      | 0.143        | 0.000 (0.000)    | 0.068 (0.005)    | false (0.000) |    10.33 | 74LOR, COOOOOOFFEE, Phek, vanillaicey, ws  |
-|            4 |     4762 | 2024-01-17 | PatatiPatata                     | L   | 0.469      | -            | -                | -                | -             |    -9.17 | Dronerin, LeveL, MONSTRAOOO, RMZER4, shnzt |
-|            3 |     4855 | 2024-01-14 | StevosFirstCS2                   | W   | 0.456      | 0.143        | 0.000 (0.000)    | 0.032 (0.002)    | false (0.000) |     7.41 | 74LOR, Phek, sivart, vanillaicey, ws       |
-|            2 |     4908 | 2024-01-12 | DXA Esports                      | L   | 0.442      | -            | -                | -                | -             |    -2.75 | 74LOR, Phek, sivart, vanillaicey, ws       |
-|            1 |     4960 | 2024-01-11 | The Edgers                       | W   | 0.435      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.26 | denz, E1F, r1ley, Tandoura, YBN fOReMan    |
+|           13 |      969 | 2024-04-17 | DXA Esports                      | L   | 1.000      | -            | -                | -                | -         |    -8.46 | 74LOR, harbor, Phek, Rhyu, vanillaicey     |
+|           12 |     1998 | 2024-03-21 | Altered Edge                     | L   | 0.896      | -            | -                | -                | -         |    -8.20 | deStiny, Phek, rev, Rhyu, vanillaicey      |
+|           11 |     2229 | 2024-03-15 | Arcade Esports (Australian team) | W   | 0.856      | 0.270        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.00 | deStiny, Phek, rev, Rhyu, vanillaicey      |
+|           10 |     2344 | 2024-03-13 | Underground Esports Club         | W   | 0.843      | 0.270        | 0.000 (0.000)    | 0.112 (0.026)    | 0 (0.000) |    15.54 | deStiny, Phek, rev, Rhyu, vanillaicey      |
+|            9 |     2544 | 2024-03-08 | MANTRA                           | L   | 0.810      | -            | -                | -                | -         |    -6.36 | deStiny, Phek, rev, Rhyu, vanillaicey      |
+|            8 |     3383 | 2024-02-20 | Arcade Esports (Australian team) | W   | 0.696      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.22 | harbor, HudzM, JiNxZiE, mag1c, PearL       |
+|            7 |     3701 | 2024-02-12 | Jehovah witness                  | L   | 0.649      | -            | -                | -                | -         |    -9.30 | badge, DickStacy, mswag, stevie, Texta     |
+|            6 |     4403 | 2024-01-24 | Rooster                          | L   | 0.516      | -            | -                | -                | -         |    -2.09 | 74LOR, COOOOOOFFEE, Phek, vanillaicey, ws  |
+|            5 |     4407 | 2024-01-24 | Antic Esports                    | W   | 0.516      | 0.143        | 0.000 (0.000)    | 0.068 (0.005)    | 0 (0.000) |    10.33 | 74LOR, COOOOOOFFEE, Phek, vanillaicey, ws  |
+|            4 |     4762 | 2024-01-17 | PatatiPatata                     | L   | 0.469      | -            | -                | -                | -         |    -9.17 | Dronerin, LeveL, MONSTRAOOO, RMZER4, shnzt |
+|            3 |     4855 | 2024-01-14 | StevosFirstCS2                   | W   | 0.456      | 0.143        | 0.000 (0.000)    | 0.032 (0.002)    | 0 (0.000) |     7.41 | 74LOR, Phek, sivart, vanillaicey, ws       |
+|            2 |     4908 | 2024-01-12 | DXA Esports                      | L   | 0.442      | -            | -                | -                | -         |    -2.75 | 74LOR, Phek, sivart, vanillaicey, ws       |
+|            1 |     4960 | 2024-01-11 | The Edgers                       | W   | 0.435      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.26 | denz, E1F, r1ley, Tandoura, YBN fOReMan    |
 
 <br />
 <span id="table2"></span><br />

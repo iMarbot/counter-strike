@@ -34,49 +34,49 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins     | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           41 |       17 | 2024-05-05 | Monte              | L   | 1.000      | -            | -                | -                | -            |   -21.51 | chelo, FalleN, KSCERATO, kye, yuurih |
-|           40 |       63 | 2024-05-04 | ENCE               | W   | 1.000      | 0.889        | 0.377 (0.335)    | 0.352 (0.313)    | true (1.000) |    12.83 | chelo, FalleN, KSCERATO, kye, yuurih |
-|           39 |      110 | 2024-05-03 | Bad News Kangaroos | W   | 1.000      | 0.889        | 0.071 (0.063)    | 0.238 (0.212)    | true (1.000) |     1.70 | chelo, FalleN, KSCERATO, kye, yuurih |
-|           38 |      195 | 2024-05-01 | FORZE Esports      | L   | 1.000      | -            | -                | -                | -            |   -27.03 | chelo, FalleN, KSCERATO, kye, yuurih |
-|           37 |      234 | 2024-04-30 | Team Liquid        | L   | 1.000      | -            | -                | -                | -            |   -18.82 | chelo, FalleN, KSCERATO, kye, yuurih |
-|           36 |      793 | 2024-04-19 | MIBR               | L   | 1.000      | -            | -                | -                | -            |   -12.03 | chelo, FalleN, KSCERATO, kye, yuurih |
-|           35 |      834 | 2024-04-19 | Metizport          | W   | 1.000      | 0.589        | 0.188 (0.111)    | 1.000 (0.589)    | true (1.000) |     3.05 | chelo, FalleN, KSCERATO, kye, yuurih |
-|           34 |      866 | 2024-04-18 | 9z Team            | L   | 1.000      | -            | -                | -                | -            |   -29.75 | chelo, FalleN, KSCERATO, kye, yuurih |
-|           33 |     1307 | 2024-04-09 | HEROIC             | L   | 1.000      | -            | -                | -                | -            |   -11.49 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           32 |     1345 | 2024-04-08 | MOUZ               | L   | 1.000      | -            | -                | -                | -            |    -4.45 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           31 |     1358 | 2024-04-07 | Lynn Vision Gaming | W   | 1.000      | 0.624        | 0.155 (0.097)    | 0.554 (0.346)    | true (1.000) |     4.42 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           30 |     1934 | 2024-03-22 | Gaimin Gladiators  | L   | 0.905      | -            | -                | -                | -            |   -20.88 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           29 |     1964 | 2024-03-21 | FaZe Clan          | L   | 0.899      | -            | -                | -                | -            |    -3.01 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           28 |     1986 | 2024-03-21 | G2 Esports         | L   | 0.898      | -            | -                | -                | -            |    -4.26 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           27 |     2025 | 2024-03-20 | SAW                | W   | 0.892      | 1.000        | 0.263 (0.234)    | 0.590 (0.526)    | true (0.892) |    10.14 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           26 |     2057 | 2024-03-19 | ENCE               | W   | 0.885      | 1.000        | 0.377 (0.334)    | 0.352 (0.311)    | true (0.885) |    11.29 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           25 |     2089 | 2024-03-18 | KOI                | W   | 0.878      | 1.000        | 0.066 (0.058)    | 0.537 (0.472)    | true (0.878) |     2.07 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           24 |     2113 | 2024-03-17 | Lynn Vision Gaming | L   | 0.873      | -            | -                | -                | -            |   -23.14 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           23 |     2137 | 2024-03-17 | Legacy             | L   | 0.871      | -            | -                | -                | -            |   -25.31 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           22 |     2781 | 2024-03-03 | Complexity Gaming  | W   | 0.779      | -            | -                | -                | true (0.779) |     9.08 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           21 |     2871 | 2024-03-02 | Team Liquid        | W   | 0.772      | 0.143        | -                | 0.546 (0.060)    | true (0.772) |     5.81 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           20 |     2908 | 2024-03-01 | Nouns Esports      | W   | 0.766      | 0.143        | -                | 0.475 (0.052)    | true (0.766) |     0.19 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           19 |     3194 | 2024-02-23 | 9z Team            | L   | 0.720      | -            | -                | -                | -            |   -21.89 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           18 |     3230 | 2024-02-22 | 9z Team            | W   | 0.713      | -            | -                | -                | -            |     0.70 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           17 |     3237 | 2024-02-22 | Imperial Esports   | W   | 0.712      | 0.143        | 0.674 (0.069)    | 0.549 (0.056)    | -            |     9.52 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           16 |     3769 | 2024-02-10 | Metizport          | L   | 0.632      | -            | -                | -                | -            |   -19.10 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           15 |     3778 | 2024-02-10 | Metizport          | L   | 0.631      | -            | -                | -                | -            |   -19.22 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           14 |     4067 | 2024-02-01 | Apeks              | L   | 0.572      | -            | -                | -                | -            |   -14.45 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           13 |     4107 | 2024-01-31 | The MongolZ        | L   | 0.565      | -            | -                | -                | -            |    -9.63 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           12 |     5844 | 2023-12-08 | Team Spirit        | L   | 0.204      | -            | -                | -                | -            |    -1.76 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           11 |     5889 | 2023-12-07 | Astralis           | W   | 0.198      | -            | -                | -                | -            |     2.12 | arT, chelo, FalleN, KSCERATO, yuurih |
-|           10 |     5940 | 2023-12-06 | Team Spirit        | L   | 0.191      | -            | -                | -                | -            |    -1.63 | arT, chelo, FalleN, KSCERATO, yuurih |
-|            9 |     6041 | 2023-12-03 | Apeks              | W   | 0.171      | -            | -                | -                | -            |     1.07 | arT, chelo, FalleN, KSCERATO, yuurih |
-|            8 |     6107 | 2023-12-02 | HAVU Gaming        | W   | 0.165      | -            | -                | -                | -            |     0.06 | arT, chelo, FalleN, KSCERATO, yuurih |
-|            7 |     6160 | 2023-12-01 | MOUZ               | W   | 0.159      | 0.589        | 0.891 (0.083)    | -                | -            |     3.81 | arT, chelo, FalleN, KSCERATO, yuurih |
-|            6 |     6210 | 2023-11-30 | Apeks              | L   | 0.151      | -            | -                | -                | -            |    -3.83 | arT, chelo, FalleN, KSCERATO, yuurih |
-|            5 |     6217 | 2023-11-30 | Complexity Gaming  | W   | 0.151      | -            | -                | -                | -            |     1.59 | arT, chelo, FalleN, KSCERATO, yuurih |
-|            4 |     6674 | 2023-11-19 | 9Pandas            | L   | 0.077      | -            | -                | -                | -            |    -2.32 | arT, chelo, FalleN, KSCERATO, yuurih |
-|            3 |     6728 | 2023-11-18 | Aurora Gaming      | W   | 0.071      | 0.500        | 1.000 (0.035)    | -                | -            |     1.00 | arT, chelo, FalleN, KSCERATO, yuurih |
-|            2 |     6774 | 2023-11-17 | Eternal Fire       | L   | 0.065      | -            | -                | -                | -            |    -0.65 | arT, chelo, FalleN, KSCERATO, yuurih |
-|            1 |     6805 | 2023-11-16 | Aurora Gaming      | W   | 0.059      | -            | -                | -                | -            |     0.84 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           41 |       17 | 2024-05-05 | Monte              | L   | 1.000      | -            | -                | -                | -         |   -21.51 | chelo, FalleN, KSCERATO, kye, yuurih |
+|           40 |       63 | 2024-05-04 | ENCE               | W   | 1.000      | 0.889        | 0.377 (0.335)    | 0.352 (0.313)    | 1 (1.000) |    12.83 | chelo, FalleN, KSCERATO, kye, yuurih |
+|           39 |      110 | 2024-05-03 | Bad News Kangaroos | W   | 1.000      | 0.889        | 0.071 (0.063)    | 0.238 (0.212)    | 1 (1.000) |     1.70 | chelo, FalleN, KSCERATO, kye, yuurih |
+|           38 |      195 | 2024-05-01 | FORZE Esports      | L   | 1.000      | -            | -                | -                | -         |   -27.03 | chelo, FalleN, KSCERATO, kye, yuurih |
+|           37 |      234 | 2024-04-30 | Team Liquid        | L   | 1.000      | -            | -                | -                | -         |   -18.82 | chelo, FalleN, KSCERATO, kye, yuurih |
+|           36 |      793 | 2024-04-19 | MIBR               | L   | 1.000      | -            | -                | -                | -         |   -12.03 | chelo, FalleN, KSCERATO, kye, yuurih |
+|           35 |      834 | 2024-04-19 | Metizport          | W   | 1.000      | 0.589        | 0.188 (0.111)    | 1.000 (0.589)    | 1 (1.000) |     3.05 | chelo, FalleN, KSCERATO, kye, yuurih |
+|           34 |      866 | 2024-04-18 | 9z Team            | L   | 1.000      | -            | -                | -                | -         |   -29.75 | chelo, FalleN, KSCERATO, kye, yuurih |
+|           33 |     1307 | 2024-04-09 | HEROIC             | L   | 1.000      | -            | -                | -                | -         |   -11.49 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           32 |     1345 | 2024-04-08 | MOUZ               | L   | 1.000      | -            | -                | -                | -         |    -4.45 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           31 |     1358 | 2024-04-07 | Lynn Vision Gaming | W   | 1.000      | 0.624        | 0.155 (0.097)    | 0.554 (0.346)    | 1 (1.000) |     4.42 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           30 |     1934 | 2024-03-22 | Gaimin Gladiators  | L   | 0.905      | -            | -                | -                | -         |   -20.88 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           29 |     1964 | 2024-03-21 | FaZe Clan          | L   | 0.899      | -            | -                | -                | -         |    -3.01 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           28 |     1986 | 2024-03-21 | G2 Esports         | L   | 0.898      | -            | -                | -                | -         |    -4.26 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           27 |     2025 | 2024-03-20 | SAW                | W   | 0.892      | 1.000        | 0.263 (0.234)    | 0.590 (0.526)    | 1 (0.892) |    10.14 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           26 |     2057 | 2024-03-19 | ENCE               | W   | 0.885      | 1.000        | 0.377 (0.334)    | 0.352 (0.311)    | 1 (0.885) |    11.29 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           25 |     2089 | 2024-03-18 | KOI                | W   | 0.878      | 1.000        | 0.066 (0.058)    | 0.537 (0.472)    | 1 (0.878) |     2.07 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           24 |     2113 | 2024-03-17 | Lynn Vision Gaming | L   | 0.873      | -            | -                | -                | -         |   -23.14 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           23 |     2137 | 2024-03-17 | Legacy             | L   | 0.871      | -            | -                | -                | -         |   -25.31 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           22 |     2781 | 2024-03-03 | Complexity Gaming  | W   | 0.779      | -            | -                | -                | 1 (0.779) |     9.08 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           21 |     2871 | 2024-03-02 | Team Liquid        | W   | 0.772      | 0.143        | -                | 0.546 (0.060)    | 1 (0.772) |     5.81 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           20 |     2908 | 2024-03-01 | Nouns Esports      | W   | 0.766      | 0.143        | -                | 0.475 (0.052)    | 1 (0.766) |     0.19 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           19 |     3194 | 2024-02-23 | 9z Team            | L   | 0.720      | -            | -                | -                | -         |   -21.89 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           18 |     3230 | 2024-02-22 | 9z Team            | W   | 0.713      | -            | -                | -                | -         |     0.70 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           17 |     3237 | 2024-02-22 | Imperial Esports   | W   | 0.712      | 0.143        | 0.674 (0.069)    | 0.549 (0.056)    | -         |     9.52 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           16 |     3769 | 2024-02-10 | Metizport          | L   | 0.632      | -            | -                | -                | -         |   -19.10 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           15 |     3778 | 2024-02-10 | Metizport          | L   | 0.631      | -            | -                | -                | -         |   -19.22 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           14 |     4067 | 2024-02-01 | Apeks              | L   | 0.572      | -            | -                | -                | -         |   -14.45 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           13 |     4107 | 2024-01-31 | The MongolZ        | L   | 0.565      | -            | -                | -                | -         |    -9.63 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           12 |     5844 | 2023-12-08 | Team Spirit        | L   | 0.204      | -            | -                | -                | -         |    -1.76 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           11 |     5889 | 2023-12-07 | Astralis           | W   | 0.198      | -            | -                | -                | -         |     2.12 | arT, chelo, FalleN, KSCERATO, yuurih |
+|           10 |     5940 | 2023-12-06 | Team Spirit        | L   | 0.191      | -            | -                | -                | -         |    -1.63 | arT, chelo, FalleN, KSCERATO, yuurih |
+|            9 |     6041 | 2023-12-03 | Apeks              | W   | 0.171      | -            | -                | -                | -         |     1.07 | arT, chelo, FalleN, KSCERATO, yuurih |
+|            8 |     6107 | 2023-12-02 | HAVU Gaming        | W   | 0.165      | -            | -                | -                | -         |     0.06 | arT, chelo, FalleN, KSCERATO, yuurih |
+|            7 |     6160 | 2023-12-01 | MOUZ               | W   | 0.159      | 0.589        | 0.891 (0.083)    | -                | -         |     3.81 | arT, chelo, FalleN, KSCERATO, yuurih |
+|            6 |     6210 | 2023-11-30 | Apeks              | L   | 0.151      | -            | -                | -                | -         |    -3.83 | arT, chelo, FalleN, KSCERATO, yuurih |
+|            5 |     6217 | 2023-11-30 | Complexity Gaming  | W   | 0.151      | -            | -                | -                | -         |     1.59 | arT, chelo, FalleN, KSCERATO, yuurih |
+|            4 |     6674 | 2023-11-19 | 9Pandas            | L   | 0.077      | -            | -                | -                | -         |    -2.32 | arT, chelo, FalleN, KSCERATO, yuurih |
+|            3 |     6728 | 2023-11-18 | Aurora Gaming      | W   | 0.071      | 0.500        | 1.000 (0.035)    | -                | -         |     1.00 | arT, chelo, FalleN, KSCERATO, yuurih |
+|            2 |     6774 | 2023-11-17 | Eternal Fire       | L   | 0.065      | -            | -                | -                | -         |    -0.65 | arT, chelo, FalleN, KSCERATO, yuurih |
+|            1 |     6805 | 2023-11-16 | Aurora Gaming      | W   | 0.059      | -            | -                | -                | -         |     0.84 | arT, chelo, FalleN, KSCERATO, yuurih |
 
 <br />
 <span id="table2"></span><br />

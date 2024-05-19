@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      414 | 2024-04-26 | Lewandownskie               | L   | 1.000      | -            | -                | -                | -             |   -17.74 | alkarenn, dosikzz, maison, OxygeN, rinn    |
-|            9 |      423 | 2024-04-26 | ALLINNERS                   | L   | 1.000      | -            | -                | -                | -             |   -22.69 | alkarenn, dosikzz, maison, OxygeN, rinn    |
-|            8 |      428 | 2024-04-26 | XGOD                        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.056 (0.008)    | false (0.000) |     6.77 | alkarenn, dosikzz, maison, OxygeN, rinn    |
-|            7 |     3303 | 2024-02-21 | EVO-Cyber                   | W   | 0.705      | 0.143        | 0.004 (0.000)    | 0.048 (0.005)    | false (0.000) |     9.25 | Adaikz, dosikzz, mag1k3Y, OxygeN, rinn     |
-|            6 |     3353 | 2024-02-20 | Troublemakers (Kyrgyz team) | W   | 0.698      | 0.143        | 0.001 (0.000)    | 0.116 (0.012)    | false (0.000) |    10.53 | Adaikz, dosikzz, mag1k3Y, OxygeN, rinn     |
-|            5 |     3442 | 2024-02-18 | Lewandownskie               | W   | 0.685      | 0.143        | 0.004 (0.000)    | 0.181 (0.018)    | false (0.000) |    10.33 | Adaikz, dosikzz, mag1k3Y, OxygeN, rinn     |
-|            4 |     3502 | 2024-02-17 | STEALTH (Kazakh team)       | W   | 0.677      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.62 | d1aszz, dART, Gilzerra, Goodlikee, kaelz7z |
-|            3 |     6071 | 2023-12-02 | STEALTH (Kazakh team)       | L   | 0.169      | -            | -                | -                | -             |    -2.63 | alkarenn, dosikzz, OxygeN, rinn, syph0     |
-|            2 |     6131 | 2023-12-02 | Temp (Kazakh team)          | W   | 0.163      | 0.342        | 0.004 (0.000)    | 0.001 (0.000)    | true (0.163)  |     2.02 | alkarenn, dosikzz, OxygeN, rinn, syph0     |
-|            1 |     6147 | 2023-12-01 | Depo                        | L   | 0.162      | -            | -                | -                | -             |    -1.85 | alkarenn, dosikzz, OxygeN, rinn, syph0     |
+|           10 |      414 | 2024-04-26 | Lewandownskie               | L   | 1.000      | -            | -                | -                | -         |   -17.74 | alkarenn, dosikzz, maison, OxygeN, rinn    |
+|            9 |      423 | 2024-04-26 | ALLINNERS                   | L   | 1.000      | -            | -                | -                | -         |   -22.69 | alkarenn, dosikzz, maison, OxygeN, rinn    |
+|            8 |      428 | 2024-04-26 | XGOD                        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.056 (0.008)    | 0 (0.000) |     6.77 | alkarenn, dosikzz, maison, OxygeN, rinn    |
+|            7 |     3303 | 2024-02-21 | EVO-Cyber                   | W   | 0.705      | 0.143        | 0.004 (0.000)    | 0.048 (0.005)    | 0 (0.000) |     9.25 | Adaikz, dosikzz, mag1k3Y, OxygeN, rinn     |
+|            6 |     3353 | 2024-02-20 | Troublemakers (Kyrgyz team) | W   | 0.698      | 0.143        | 0.001 (0.000)    | 0.116 (0.012)    | 0 (0.000) |    10.53 | Adaikz, dosikzz, mag1k3Y, OxygeN, rinn     |
+|            5 |     3442 | 2024-02-18 | Lewandownskie               | W   | 0.685      | 0.143        | 0.004 (0.000)    | 0.181 (0.018)    | 0 (0.000) |    10.33 | Adaikz, dosikzz, mag1k3Y, OxygeN, rinn     |
+|            4 |     3502 | 2024-02-17 | STEALTH (Kazakh team)       | W   | 0.677      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.62 | d1aszz, dART, Gilzerra, Goodlikee, kaelz7z |
+|            3 |     6071 | 2023-12-02 | STEALTH (Kazakh team)       | L   | 0.169      | -            | -                | -                | -         |    -2.63 | alkarenn, dosikzz, OxygeN, rinn, syph0     |
+|            2 |     6131 | 2023-12-02 | Temp (Kazakh team)          | W   | 0.163      | 0.342        | 0.004 (0.000)    | 0.001 (0.000)    | 1 (0.163) |     2.02 | alkarenn, dosikzz, OxygeN, rinn, syph0     |
+|            1 |     6147 | 2023-12-01 | Depo                        | L   | 0.162      | -            | -                | -                | -         |    -1.85 | alkarenn, dosikzz, OxygeN, rinn, syph0     |
 
 <br />
 <span id="table2"></span><br />

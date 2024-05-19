@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |     1337 | 2024-04-08 | Team Solid       | L   | 1.000      | -            | -                | -                | -             |    -6.59 | abizz, BK1, nasher, relentless, zock |
-|           12 |     1400 | 2024-04-06 | ODDIK            | L   | 1.000      | -            | -                | -                | -             |    -4.58 | abizz, BK1, nasher, relentless, zock |
-|           11 |     2259 | 2024-03-14 | Romanticos       | L   | 0.852      | -            | -                | -                | -             |   -10.73 | abizz, BK1, KAISER, naz, relentless  |
-|           10 |     2378 | 2024-03-12 | Case Esports     | L   | 0.837      | -            | -                | -                | -             |    -5.97 | abizz, BK1, KAISER, naz, relentless  |
-|            9 |     2466 | 2024-03-10 | ODDIK            | W   | 0.824      | 0.435        | 0.015 (0.005)    | 0.402 (0.144)    | false (0.000) |    22.05 | abizz, BK1, KAISER, naz, relentless  |
-|            8 |     2524 | 2024-03-08 | MIBR             | L   | 0.812      | -            | -                | -                | -             |    -0.10 | abizz, BK1, KAISER, naz, relentless  |
-|            7 |     3318 | 2024-02-21 | Imperial Esports | L   | 0.704      | -            | -                | -                | -             |    -0.10 | abizz, BK1, KAISER, naz, relentless  |
-|            6 |     3389 | 2024-02-19 | Case Esports     | L   | 0.694      | -            | -                | -                | -             |    -4.15 | abizz, BK1, KAISER, naz, relentless  |
-|            5 |     3455 | 2024-02-18 | 9z Team          | W   | 0.684      | 0.435        | 0.057 (0.017)    | 0.376 (0.112)    | false (0.000) |    19.54 | abizz, BK1, KAISER, naz, relentless  |
-|            4 |     3540 | 2024-02-16 | Flamengo Esports | W   | 0.671      | 0.435        | 0.000 (0.000)    | 0.101 (0.030)    | false (0.000) |    10.11 | abizz, BK1, KAISER, naz, relentless  |
-|            3 |     3708 | 2024-02-12 | 9z Team          | L   | 0.646      | -            | -                | -                | -             |    -1.68 | abizz, BK1, KAISER, naz, relentless  |
-|            2 |     4207 | 2024-01-28 | Imperial Esports | L   | 0.546      | -            | -                | -                | -             |    -0.07 | abizz, BK1, KAISER, naz, relentless  |
-|            1 |     4240 | 2024-01-27 | Martians         | W   | 0.540      | 0.143        | 0.001 (0.000)    | 0.108 (0.008)    | false (0.000) |    10.45 | abizz, BK1, KAISER, naz, relentless  |
+|           13 |     1337 | 2024-04-08 | Team Solid       | L   | 1.000      | -            | -                | -                | -         |    -6.59 | abizz, BK1, nasher, relentless, zock |
+|           12 |     1400 | 2024-04-06 | ODDIK            | L   | 1.000      | -            | -                | -                | -         |    -4.58 | abizz, BK1, nasher, relentless, zock |
+|           11 |     2259 | 2024-03-14 | Romanticos       | L   | 0.852      | -            | -                | -                | -         |   -10.73 | abizz, BK1, KAISER, naz, relentless  |
+|           10 |     2378 | 2024-03-12 | Case Esports     | L   | 0.837      | -            | -                | -                | -         |    -5.97 | abizz, BK1, KAISER, naz, relentless  |
+|            9 |     2466 | 2024-03-10 | ODDIK            | W   | 0.824      | 0.435        | 0.015 (0.005)    | 0.402 (0.144)    | 0 (0.000) |    22.05 | abizz, BK1, KAISER, naz, relentless  |
+|            8 |     2524 | 2024-03-08 | MIBR             | L   | 0.812      | -            | -                | -                | -         |    -0.10 | abizz, BK1, KAISER, naz, relentless  |
+|            7 |     3318 | 2024-02-21 | Imperial Esports | L   | 0.704      | -            | -                | -                | -         |    -0.10 | abizz, BK1, KAISER, naz, relentless  |
+|            6 |     3389 | 2024-02-19 | Case Esports     | L   | 0.694      | -            | -                | -                | -         |    -4.15 | abizz, BK1, KAISER, naz, relentless  |
+|            5 |     3455 | 2024-02-18 | 9z Team          | W   | 0.684      | 0.435        | 0.057 (0.017)    | 0.376 (0.112)    | 0 (0.000) |    19.54 | abizz, BK1, KAISER, naz, relentless  |
+|            4 |     3540 | 2024-02-16 | Flamengo Esports | W   | 0.671      | 0.435        | 0.000 (0.000)    | 0.101 (0.030)    | 0 (0.000) |    10.11 | abizz, BK1, KAISER, naz, relentless  |
+|            3 |     3708 | 2024-02-12 | 9z Team          | L   | 0.646      | -            | -                | -                | -         |    -1.68 | abizz, BK1, KAISER, naz, relentless  |
+|            2 |     4207 | 2024-01-28 | Imperial Esports | L   | 0.546      | -            | -                | -                | -         |    -0.07 | abizz, BK1, KAISER, naz, relentless  |
+|            1 |     4240 | 2024-01-27 | Martians         | W   | 0.540      | 0.143        | 0.001 (0.000)    | 0.108 (0.008)    | 0 (0.000) |    10.45 | abizz, BK1, KAISER, naz, relentless  |
 
 <br />
 <span id="table2"></span><br />

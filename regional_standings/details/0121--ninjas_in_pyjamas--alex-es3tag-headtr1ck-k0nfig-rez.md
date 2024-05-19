@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     3596 | 2024-02-15 | SAW                 | L   | 0.664      | -            | -                | -                | -             |    -0.62 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|           11 |     3632 | 2024-02-14 | AMKAL ESPORTS       | L   | 0.658      | -            | -                | -                | -             |    -2.09 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|           10 |     3640 | 2024-02-14 | Eternal Fire        | L   | 0.657      | -            | -                | -                | -             |    -0.09 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|            9 |     4190 | 2024-01-29 | Dynamo Eclot        | L   | 0.553      | -            | -                | -                | -             |    -2.46 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|            8 |     4328 | 2024-01-26 | G2 Esports          | L   | 0.531      | -            | -                | -                | -             |    -0.04 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|            7 |     4435 | 2024-01-23 | Complexity Gaming   | W   | 0.511      | 0.581        | 0.271 (0.081)    | 0.274 (0.081)    | true (0.511)  |    15.81 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|            6 |     4490 | 2024-01-22 | G2 Esports          | L   | 0.503      | -            | -                | -                | -             |    -0.04 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|            5 |     4694 | 2024-01-17 | 500                 | L   | 0.473      | -            | -                | -                | -             |    -7.45 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|            4 |     4698 | 2024-01-17 | Team Spirit Academy | W   | 0.473      | 0.143        | 0.021 (0.001)    | 0.422 (0.028)    | false (0.000) |     7.81 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|            3 |     4725 | 2024-01-17 | CYBERSHOKE Esports  | W   | 0.472      | 0.143        | 0.004 (0.000)    | 0.220 (0.015)    | false (0.000) |     5.88 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|            2 |     6534 | 2023-11-23 | Natus Vincere       | L   | 0.103      | -            | -                | -                | -             |    -0.01 | alex, es3tag, headtr1ck, k0nfig, REZ |
-|            1 |     6576 | 2023-11-22 | FaZe Clan           | L   | 0.096      | -            | -                | -                | -             |    -0.00 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|           12 |     3596 | 2024-02-15 | SAW                 | L   | 0.664      | -            | -                | -                | -         |    -0.62 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|           11 |     3632 | 2024-02-14 | AMKAL ESPORTS       | L   | 0.658      | -            | -                | -                | -         |    -2.09 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|           10 |     3640 | 2024-02-14 | Eternal Fire        | L   | 0.657      | -            | -                | -                | -         |    -0.09 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|            9 |     4190 | 2024-01-29 | Dynamo Eclot        | L   | 0.553      | -            | -                | -                | -         |    -2.46 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|            8 |     4328 | 2024-01-26 | G2 Esports          | L   | 0.531      | -            | -                | -                | -         |    -0.04 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|            7 |     4435 | 2024-01-23 | Complexity Gaming   | W   | 0.511      | 0.581        | 0.271 (0.081)    | 0.274 (0.081)    | 1 (0.511) |    15.81 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|            6 |     4490 | 2024-01-22 | G2 Esports          | L   | 0.503      | -            | -                | -                | -         |    -0.04 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|            5 |     4694 | 2024-01-17 | 500                 | L   | 0.473      | -            | -                | -                | -         |    -7.45 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|            4 |     4698 | 2024-01-17 | Team Spirit Academy | W   | 0.473      | 0.143        | 0.021 (0.001)    | 0.422 (0.028)    | 0 (0.000) |     7.81 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|            3 |     4725 | 2024-01-17 | CYBERSHOKE Esports  | W   | 0.472      | 0.143        | 0.004 (0.000)    | 0.220 (0.015)    | 0 (0.000) |     5.88 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|            2 |     6534 | 2023-11-23 | Natus Vincere       | L   | 0.103      | -            | -                | -                | -         |    -0.01 | alex, es3tag, headtr1ck, k0nfig, REZ |
+|            1 |     6576 | 2023-11-22 | FaZe Clan           | L   | 0.096      | -            | -                | -                | -         |    -0.00 | alex, es3tag, headtr1ck, k0nfig, REZ |
 
 <br />
 <span id="table2"></span><br />

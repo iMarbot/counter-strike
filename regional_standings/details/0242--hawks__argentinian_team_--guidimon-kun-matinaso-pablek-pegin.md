@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     1839 | 2024-03-25 | MIBR Academy            | L   | 0.926      | -            | -                | -                | -             |   -12.48 | guidimon, KUN, matinaso, pablek, pegin  |
-|           10 |     1929 | 2024-03-22 | Bombril 1001 Utilidades | L   | 0.906      | -            | -                | -                | -             |   -13.20 | guidimon, KUN, matinaso, pablek, pegin  |
-|            9 |     2009 | 2024-03-20 | Intense Game            | L   | 0.893      | -            | -                | -                | -             |   -12.59 | guidimon, KUN, matinaso, pablek, pegin  |
-|            8 |     2018 | 2024-03-20 | Sharks Youngsters       | W   | 0.892      | 0.143        | 0.004 (0.000)    | 0.211 (0.027)    | false (0.000) |    11.93 | guidimon, KUN, matinaso, pablek, pegin  |
-|            7 |     3011 | 2024-02-27 | NIGERIA 96              | W   | 0.746      | 0.143        | 0.002 (0.000)    | 0.095 (0.010)    | false (0.000) |    10.57 | guidimon, KUN, nacho, nasher, pablek    |
-|            6 |     3095 | 2024-02-25 | SoJoga Academy          | W   | 0.732      | 0.143        | 0.001 (0.000)    | 0.109 (0.011)    | false (0.000) |    11.09 | Colt, k1not1, Patoz1k, pkN, telezin     |
-|            5 |     3132 | 2024-02-24 | NIGERIA 96              | L   | 0.726      | -            | -                | -                | -             |   -12.50 | deemO, leozik4, nv1nJ, predict, t9mpest |
-|            4 |     3136 | 2024-02-24 | Myth e-Sports           | W   | 0.726      | 0.143        | 0.000 (0.000)    | 0.070 (0.007)    | false (0.000) |    10.36 | guidimon, KUN, nacho, nasher, pablek    |
-|            3 |     3141 | 2024-02-24 | SoJoga Academy          | W   | 0.726      | 0.143        | 0.001 (0.000)    | 0.109 (0.011)    | false (0.000) |    10.68 | guidimon, KUN, nacho, nasher, pablek    |
-|            2 |     3148 | 2024-02-24 | MIBR Female             | W   | 0.725      | 0.143        | 0.027 (0.003)    | 0.199 (0.021)    | false (0.000) |    14.13 | Babs, dani, ferzy, khizha, REGIANE      |
-|            1 |     3393 | 2024-02-19 | 9z Team                 | L   | 0.694      | -            | -                | -                | -             |    -3.19 | guidimon, KUN, nacho, nasher, pablek    |
+|           11 |     1839 | 2024-03-25 | MIBR Academy            | L   | 0.926      | -            | -                | -                | -         |   -12.48 | guidimon, KUN, matinaso, pablek, pegin  |
+|           10 |     1929 | 2024-03-22 | Bombril 1001 Utilidades | L   | 0.906      | -            | -                | -                | -         |   -13.20 | guidimon, KUN, matinaso, pablek, pegin  |
+|            9 |     2009 | 2024-03-20 | Intense Game            | L   | 0.893      | -            | -                | -                | -         |   -12.59 | guidimon, KUN, matinaso, pablek, pegin  |
+|            8 |     2018 | 2024-03-20 | Sharks Youngsters       | W   | 0.892      | 0.143        | 0.004 (0.000)    | 0.211 (0.027)    | 0 (0.000) |    11.93 | guidimon, KUN, matinaso, pablek, pegin  |
+|            7 |     3011 | 2024-02-27 | NIGERIA 96              | W   | 0.746      | 0.143        | 0.002 (0.000)    | 0.095 (0.010)    | 0 (0.000) |    10.57 | guidimon, KUN, nacho, nasher, pablek    |
+|            6 |     3095 | 2024-02-25 | SoJoga Academy          | W   | 0.732      | 0.143        | 0.001 (0.000)    | 0.109 (0.011)    | 0 (0.000) |    11.09 | Colt, k1not1, Patoz1k, pkN, telezin     |
+|            5 |     3132 | 2024-02-24 | NIGERIA 96              | L   | 0.726      | -            | -                | -                | -         |   -12.50 | deemO, leozik4, nv1nJ, predict, t9mpest |
+|            4 |     3136 | 2024-02-24 | Myth e-Sports           | W   | 0.726      | 0.143        | 0.000 (0.000)    | 0.070 (0.007)    | 0 (0.000) |    10.36 | guidimon, KUN, nacho, nasher, pablek    |
+|            3 |     3141 | 2024-02-24 | SoJoga Academy          | W   | 0.726      | 0.143        | 0.001 (0.000)    | 0.109 (0.011)    | 0 (0.000) |    10.68 | guidimon, KUN, nacho, nasher, pablek    |
+|            2 |     3148 | 2024-02-24 | MIBR Female             | W   | 0.725      | 0.143        | 0.027 (0.003)    | 0.199 (0.021)    | 0 (0.000) |    14.13 | Babs, dani, ferzy, khizha, REGIANE      |
+|            1 |     3393 | 2024-02-19 | 9z Team                 | L   | 0.694      | -            | -                | -                | -         |    -3.19 | guidimon, KUN, nacho, nasher, pablek    |
 
 <br />
 <span id="table2"></span><br />

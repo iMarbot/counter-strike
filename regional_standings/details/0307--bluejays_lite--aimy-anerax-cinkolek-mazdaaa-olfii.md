@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                 |
+| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     4311 | 2024-01-26 | Preasy Esport         | L   | 0.532      | -            | -                | -                | -             |    -4.31 | aimy, ANeraX, cinkolEK, mazdaaa, olfii |
-|            9 |     4352 | 2024-01-25 | AVEZ                  | W   | 0.525      | 0.289        | 0.000 (0.000)    | 0.017 (0.003)    | false (0.000) |     5.50 | aimy, ANeraX, cinkolEK, mazdaaa, olfii |
-|            8 |     4463 | 2024-01-22 | Dynamo Eclot Thunders | W   | 0.505      | 0.289        | 0.000 (0.000)    | 0.035 (0.005)    | false (0.000) |     3.83 | aimy, ANeraX, cinkolEK, mazdaaa, olfii |
-|            7 |     4673 | 2024-01-18 | AVEZ                  | L   | 0.478      | -            | -                | -                | -             |   -10.06 | aimy, ANeraX, cinkolEK, mazdaaa, olfii |
-|            6 |     5666 | 2023-12-12 | Rhyno Esports         | L   | 0.232      | -            | -                | -                | -             |    -1.00 | aimy, ANeraX, m1ght, mazdaaa, olfii    |
-|            5 |     5688 | 2023-12-11 | ROSOMAHA              | W   | 0.226      | 0.333        | 0.000 (0.000)    | 0.136 (0.010)    | false (0.000) |     3.71 | aimy, ANeraX, m1ght, mazdaaa, olfii    |
-|            4 |     5721 | 2023-12-10 | ENTERPRISE esports    | W   | 0.218      | 0.333        | 0.000 (0.000)    | 0.017 (0.001)    | false (0.000) |     2.81 | aimy, ANeraX, m1ght, mazdaaa, olfii    |
-|            3 |     5879 | 2023-12-07 | Passion UA            | L   | 0.199      | -            | -                | -                | -             |    -0.58 | aimy, ANeraX, m1ght, mazdaaa, olfii    |
-|            2 |     5968 | 2023-12-05 | ZOTIX                 | W   | 0.186      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     1.42 | aimy, ANeraX, m1ght, mazdaaa, olfii    |
-|            1 |     6463 | 2023-11-24 | Back2TheGame          | W   | 0.112      | 0.143        | 0.004 (0.000)    | 0.009 (0.000)    | true (0.112)  |     1.96 | All3n, Gontar, MAT1, showk, tein       |
+|           10 |     4311 | 2024-01-26 | Preasy Esport         | L   | 0.532      | -            | -                | -                | -         |    -4.31 | aimy, ANeraX, cinkolEK, mazdaaa, olfii |
+|            9 |     4352 | 2024-01-25 | AVEZ                  | W   | 0.525      | 0.289        | 0.000 (0.000)    | 0.017 (0.003)    | 0 (0.000) |     5.50 | aimy, ANeraX, cinkolEK, mazdaaa, olfii |
+|            8 |     4463 | 2024-01-22 | Dynamo Eclot Thunders | W   | 0.505      | 0.289        | 0.000 (0.000)    | 0.035 (0.005)    | 0 (0.000) |     3.83 | aimy, ANeraX, cinkolEK, mazdaaa, olfii |
+|            7 |     4673 | 2024-01-18 | AVEZ                  | L   | 0.478      | -            | -                | -                | -         |   -10.06 | aimy, ANeraX, cinkolEK, mazdaaa, olfii |
+|            6 |     5666 | 2023-12-12 | Rhyno Esports         | L   | 0.232      | -            | -                | -                | -         |    -1.00 | aimy, ANeraX, m1ght, mazdaaa, olfii    |
+|            5 |     5688 | 2023-12-11 | ROSOMAHA              | W   | 0.226      | 0.333        | 0.000 (0.000)    | 0.136 (0.010)    | 0 (0.000) |     3.71 | aimy, ANeraX, m1ght, mazdaaa, olfii    |
+|            4 |     5721 | 2023-12-10 | ENTERPRISE esports    | W   | 0.218      | 0.333        | 0.000 (0.000)    | 0.017 (0.001)    | 0 (0.000) |     2.81 | aimy, ANeraX, m1ght, mazdaaa, olfii    |
+|            3 |     5879 | 2023-12-07 | Passion UA            | L   | 0.199      | -            | -                | -                | -         |    -0.58 | aimy, ANeraX, m1ght, mazdaaa, olfii    |
+|            2 |     5968 | 2023-12-05 | ZOTIX                 | W   | 0.186      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.42 | aimy, ANeraX, m1ght, mazdaaa, olfii    |
+|            1 |     6463 | 2023-11-24 | Back2TheGame          | W   | 0.112      | 0.143        | 0.004 (0.000)    | 0.009 (0.000)    | 1 (0.112) |     1.96 | All3n, Gontar, MAT1, showk, tein       |
 
 <br />
 <span id="table2"></span><br />

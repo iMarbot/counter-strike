@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                                |
+| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      294 | 2024-04-29 | True Rippers     | L   | 1.000      | -            | -                | -                | -             |   -10.14 | clouda, CycloneF, hattygOD, Rider, SpawN              |
-|            9 |     1680 | 2024-03-29 | Grayfox Esports  | L   | 0.949      | -            | -                | -                | -             |   -16.94 | clouda, EmbeR, hattygOD, Rider, SpawN                 |
-|            8 |     1700 | 2024-03-28 | Gods Reign       | L   | 0.944      | -            | -                | -                | -             |    -8.63 | clouda, EmbeR, hattygOD, Rider, SpawN                 |
-|            7 |     1706 | 2024-03-28 | 2ez Gaming       | W   | 0.943      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.94 | clouda, EmbeR, hattygOD, Rider, SpawN                 |
-|            6 |     4567 | 2024-01-20 | Marcos Gaming    | W   | 0.490      | 0.143        | 0.086 (0.006)    | 0.087 (0.006)    | true (0.490)  |     9.80 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn                   |
-|            5 |     6535 | 2023-11-22 | Marcos Gaming    | W   | 0.102      | 0.143        | 0.086 (0.001)    | 0.087 (0.001)    | false (0.000) |     2.07 | Bhavi, Elvis, EmbeR, R2B2, reV3nnnn                   |
-|            4 |     6609 | 2023-11-21 | Marcos Gaming    | L   | 0.090      | -            | -                | -                | -             |    -1.01 | Benzene, Catastr0phE, hattygOD, Rider, SpawN          |
-|            3 |     6654 | 2023-11-20 | Wasted Potential | W   | 0.083      | 0.143        | 0.000 (0.000)    | 0.012 (0.000)    | false (0.000) |     0.81 | 3vilpr1nc3, HeadshotSpeciaL, lynX, Owned, YellowFlash |
-|            2 |     6683 | 2023-11-19 | ROG Academy      | W   | 0.076      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | false (0.000) |     0.55 | arakyn, BrOCK, SeeK, Smoakkk, vrenyy                  |
-|            1 |     7205 | 2023-11-08 | Gods Reign       | W   | 0.004      | 0.143        | 0.174 (0.000)    | 0.479 (0.000)    | false (0.000) |     0.09 | Benzene, hattygOD, N1kace, Rider, SpawN               |
+|           10 |      294 | 2024-04-29 | True Rippers     | L   | 1.000      | -            | -                | -                | -         |   -10.14 | clouda, CycloneF, hattygOD, Rider, SpawN              |
+|            9 |     1680 | 2024-03-29 | Grayfox Esports  | L   | 0.949      | -            | -                | -                | -         |   -16.94 | clouda, EmbeR, hattygOD, Rider, SpawN                 |
+|            8 |     1700 | 2024-03-28 | Gods Reign       | L   | 0.944      | -            | -                | -                | -         |    -8.63 | clouda, EmbeR, hattygOD, Rider, SpawN                 |
+|            7 |     1706 | 2024-03-28 | 2ez Gaming       | W   | 0.943      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.94 | clouda, EmbeR, hattygOD, Rider, SpawN                 |
+|            6 |     4567 | 2024-01-20 | Marcos Gaming    | W   | 0.490      | 0.143        | 0.086 (0.006)    | 0.087 (0.006)    | 1 (0.490) |     9.80 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn                   |
+|            5 |     6535 | 2023-11-22 | Marcos Gaming    | W   | 0.102      | 0.143        | 0.086 (0.001)    | 0.087 (0.001)    | 0 (0.000) |     2.07 | Bhavi, Elvis, EmbeR, R2B2, reV3nnnn                   |
+|            4 |     6609 | 2023-11-21 | Marcos Gaming    | L   | 0.090      | -            | -                | -                | -         |    -1.01 | Benzene, Catastr0phE, hattygOD, Rider, SpawN          |
+|            3 |     6654 | 2023-11-20 | Wasted Potential | W   | 0.083      | 0.143        | 0.000 (0.000)    | 0.012 (0.000)    | 0 (0.000) |     0.81 | 3vilpr1nc3, HeadshotSpeciaL, lynX, Owned, YellowFlash |
+|            2 |     6683 | 2023-11-19 | ROG Academy      | W   | 0.076      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     0.55 | arakyn, BrOCK, SeeK, Smoakkk, vrenyy                  |
+|            1 |     7205 | 2023-11-08 | Gods Reign       | W   | 0.004      | 0.143        | 0.174 (0.000)    | 0.479 (0.000)    | 0 (0.000) |     0.09 | Benzene, hattygOD, N1kace, Rider, SpawN               |
 
 <br />
 <span id="table2"></span><br />

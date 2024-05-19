@@ -34,33 +34,33 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           25 |     2225 | 2024-03-15 | The Huns Esports   | L   | 0.857      | -            | -                | -                | -             |    -9.55 | Bobosaur, cool4st, MAIROLLS, xerolte, XigN |
-|           24 |     2333 | 2024-03-13 | BrodyyygiNR        | W   | 0.844      | 0.250        | 0.000 (0.000)    | 0.028 (0.006)    | false (0.000) |     2.66 | Bobosaur, cool4st, MAIROLLS, xerolte, XigN |
-|           23 |     2431 | 2024-03-11 | Gotham Mafia       | W   | 0.830      | 0.250        | 0.000 (0.000)    | -                | false (0.000) |     2.55 | Bobosaur, cool4st, MAIROLLS, xerolte, XigN |
-|           22 |     2540 | 2024-03-08 | Noobs But Diligent | L   | 0.810      | -            | -                | -                | -             |   -13.38 | Bobosaur, cool4st, MAIROLLS, xerolte, XigN |
-|           21 |     2645 | 2024-03-06 | OneTwoThree        | W   | 0.797      | 0.250        | 0.000 (0.000)    | 0.028 (0.006)    | false (0.000) |     2.33 | Bobosaur, cool4st, MAIROLLS, xerolte, XigN |
-|           20 |     3691 | 2024-02-13 | Myth Avenue Gaming | L   | 0.650      | -            | -                | -                | -             |   -12.62 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|           19 |     3706 | 2024-02-12 | SEAW               | W   | 0.649      | 0.303        | 0.000 (0.000)    | 0.067 (0.013)    | false (0.000) |     2.70 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|           18 |     3836 | 2024-02-07 | Drippy Lab         | W   | 0.616      | 0.303        | -                | 0.033 (0.006)    | false (0.000) |     1.71 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|           17 |     3940 | 2024-02-03 | Grayfox Esports    | W   | 0.589      | 0.303        | 0.010 (0.002)    | 0.264 (0.047)    | false (0.000) |     6.58 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|           16 |     4121 | 2024-01-31 | Rare Atom          | L   | 0.564      | -            | -                | -                | -             |    -8.98 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|           15 |     4125 | 2024-01-31 | ATOX Esports       | L   | 0.563      | -            | -                | -                | -             |    -3.29 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|           14 |     4129 | 2024-01-31 | Lynn Vision Gaming | W   | 0.562      | 0.143        | 0.155 (0.012)    | 0.554 (0.045)    | false (0.000) |    16.52 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|           13 |     4232 | 2024-01-27 | The MongolZ        | L   | 0.542      | -            | -                | -                | -             |    -0.17 | cool4st, dobu, MiQ, xerolte, XigN          |
-|           12 |     4290 | 2024-01-27 | E9 esports         | W   | 0.536      | 0.435        | 0.021 (0.005)    | 0.124 (0.029)    | true (0.536)  |     7.57 | cool4st, dobu, MiQ, xerolte, XigN          |
-|           11 |     4335 | 2024-01-26 | Lynn Vision Gaming | L   | 0.530      | -            | -                | -                | -             |    -1.05 | cool4st, dobu, MiQ, xerolte, XigN          |
-|           10 |     4338 | 2024-01-26 | E9 esports         | W   | 0.530      | 0.435        | 0.021 (0.005)    | 0.124 (0.029)    | true (0.530)  |     7.62 | cool4st, dobu, MiQ, xerolte, XigN          |
-|            9 |     4369 | 2024-01-24 | The Huns Esports   | W   | 0.522      | 0.143        | 0.002 (0.000)    | 0.434 (0.032)    | false (0.000) |    11.39 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|            8 |     4371 | 2024-01-24 | Myth Avenue Gaming | W   | 0.522      | 0.143        | 0.012 (0.001)    | 0.302 (0.023)    | -             |     6.92 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|            7 |     4572 | 2024-01-20 | The Huns Esports   | L   | 0.489      | -            | -                | -                | -             |    -5.15 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|            6 |     4620 | 2024-01-19 | The MongolZ        | L   | 0.483      | -            | -                | -                | -             |    -0.12 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|            5 |     4835 | 2024-01-15 | Tseg Taslal        | W   | 0.457      | -            | -                | -                | -             |     1.59 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|            4 |     4839 | 2024-01-15 | The Huns Esports   | L   | 0.456      | -            | -                | -                | -             |    -4.50 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|            3 |     4846 | 2024-01-15 | SO5URUU            | W   | 0.456      | -            | -                | -                | -             |     1.55 | cool4st, fr0k, icyvlone, xerolte, XigN     |
-|            2 |     5201 | 2024-01-03 | Wings Up Gaming    | L   | 0.382      | -            | -                | -                | -             |    -7.00 | cool4st, icyvlone, marsyA, xerolte, XigN   |
-|            1 |     5241 | 2024-01-02 | ATOX Esports       | L   | 0.370      | -            | -                | -                | -             |    -1.75 | cool4st, icyvlone, marsyA, xerolte, XigN   |
+|           25 |     2225 | 2024-03-15 | The Huns Esports   | L   | 0.857      | -            | -                | -                | -         |    -9.55 | Bobosaur, cool4st, MAIROLLS, xerolte, XigN |
+|           24 |     2333 | 2024-03-13 | BrodyyygiNR        | W   | 0.844      | 0.250        | 0.000 (0.000)    | 0.028 (0.006)    | 0 (0.000) |     2.66 | Bobosaur, cool4st, MAIROLLS, xerolte, XigN |
+|           23 |     2431 | 2024-03-11 | Gotham Mafia       | W   | 0.830      | 0.250        | 0.000 (0.000)    | -                | 0 (0.000) |     2.55 | Bobosaur, cool4st, MAIROLLS, xerolte, XigN |
+|           22 |     2540 | 2024-03-08 | Noobs But Diligent | L   | 0.810      | -            | -                | -                | -         |   -13.38 | Bobosaur, cool4st, MAIROLLS, xerolte, XigN |
+|           21 |     2645 | 2024-03-06 | OneTwoThree        | W   | 0.797      | 0.250        | 0.000 (0.000)    | 0.028 (0.006)    | 0 (0.000) |     2.33 | Bobosaur, cool4st, MAIROLLS, xerolte, XigN |
+|           20 |     3691 | 2024-02-13 | Myth Avenue Gaming | L   | 0.650      | -            | -                | -                | -         |   -12.62 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|           19 |     3706 | 2024-02-12 | SEAW               | W   | 0.649      | 0.303        | 0.000 (0.000)    | 0.067 (0.013)    | 0 (0.000) |     2.70 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|           18 |     3836 | 2024-02-07 | Drippy Lab         | W   | 0.616      | 0.303        | -                | 0.033 (0.006)    | 0 (0.000) |     1.71 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|           17 |     3940 | 2024-02-03 | Grayfox Esports    | W   | 0.589      | 0.303        | 0.010 (0.002)    | 0.264 (0.047)    | 0 (0.000) |     6.58 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|           16 |     4121 | 2024-01-31 | Rare Atom          | L   | 0.564      | -            | -                | -                | -         |    -8.98 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|           15 |     4125 | 2024-01-31 | ATOX Esports       | L   | 0.563      | -            | -                | -                | -         |    -3.29 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|           14 |     4129 | 2024-01-31 | Lynn Vision Gaming | W   | 0.562      | 0.143        | 0.155 (0.012)    | 0.554 (0.045)    | 0 (0.000) |    16.52 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|           13 |     4232 | 2024-01-27 | The MongolZ        | L   | 0.542      | -            | -                | -                | -         |    -0.17 | cool4st, dobu, MiQ, xerolte, XigN          |
+|           12 |     4290 | 2024-01-27 | E9 esports         | W   | 0.536      | 0.435        | 0.021 (0.005)    | 0.124 (0.029)    | 1 (0.536) |     7.57 | cool4st, dobu, MiQ, xerolte, XigN          |
+|           11 |     4335 | 2024-01-26 | Lynn Vision Gaming | L   | 0.530      | -            | -                | -                | -         |    -1.05 | cool4st, dobu, MiQ, xerolte, XigN          |
+|           10 |     4338 | 2024-01-26 | E9 esports         | W   | 0.530      | 0.435        | 0.021 (0.005)    | 0.124 (0.029)    | 1 (0.530) |     7.62 | cool4st, dobu, MiQ, xerolte, XigN          |
+|            9 |     4369 | 2024-01-24 | The Huns Esports   | W   | 0.522      | 0.143        | 0.002 (0.000)    | 0.434 (0.032)    | 0 (0.000) |    11.39 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|            8 |     4371 | 2024-01-24 | Myth Avenue Gaming | W   | 0.522      | 0.143        | 0.012 (0.001)    | 0.302 (0.023)    | -         |     6.92 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|            7 |     4572 | 2024-01-20 | The Huns Esports   | L   | 0.489      | -            | -                | -                | -         |    -5.15 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|            6 |     4620 | 2024-01-19 | The MongolZ        | L   | 0.483      | -            | -                | -                | -         |    -0.12 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|            5 |     4835 | 2024-01-15 | Tseg Taslal        | W   | 0.457      | -            | -                | -                | -         |     1.59 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|            4 |     4839 | 2024-01-15 | The Huns Esports   | L   | 0.456      | -            | -                | -                | -         |    -4.50 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|            3 |     4846 | 2024-01-15 | SO5URUU            | W   | 0.456      | -            | -                | -                | -         |     1.55 | cool4st, fr0k, icyvlone, xerolte, XigN     |
+|            2 |     5201 | 2024-01-03 | Wings Up Gaming    | L   | 0.382      | -            | -                | -                | -         |    -7.00 | cool4st, icyvlone, marsyA, xerolte, XigN   |
+|            1 |     5241 | 2024-01-02 | ATOX Esports       | L   | 0.370      | -            | -                | -                | -         |    -1.75 | cool4st, icyvlone, marsyA, xerolte, XigN   |
 
 <br />
 <span id="table2"></span><br />

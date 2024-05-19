@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                      |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     4894 | 2024-01-13 | MOUZ NXT             | W   | 0.444      | 0.303        | 0.215 (0.029)    | 1.000 (0.135)    | false (0.000) |    12.98 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
-|            9 |     4895 | 2024-01-13 | Natus Vincere Junior | W   | 0.443      | 0.333        | 0.025 (0.004)    | 0.492 (0.073)    | false (0.000) |    10.73 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
-|            8 |     5039 | 2024-01-10 | SINNERS Esports      | L   | 0.426      | -            | -                | -                | -             |    -1.48 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
-|            7 |     5047 | 2024-01-10 | Rebels Gaming        | W   | 0.426      | 0.143        | 0.121 (0.007)    | 0.376 (0.023)    | false (0.000) |    12.87 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
-|            6 |     5101 | 2024-01-09 | Zero Tenacity        | L   | 0.418      | -            | -                | -                | -             |    -1.63 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
-|            5 |     5119 | 2024-01-09 | SSX                  | W   | 0.418      | 0.143        | 0.001 (0.000)    | 0.017 (0.001)    | false (0.000) |     7.12 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
-|            4 |     5128 | 2024-01-09 | Zero Tenacity        | L   | 0.417      | -            | -                | -                | -             |    -1.60 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
-|            3 |     5157 | 2024-01-08 | Monte Gen            | W   | 0.409      | 0.303        | 0.019 (0.002)    | 0.155 (0.019)    | false (0.000) |     9.91 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
-|            2 |     5188 | 2024-01-05 | Natus Vincere Junior | W   | 0.390      | 0.333        | 0.025 (0.003)    | 0.492 (0.064)    | false (0.000) |     9.85 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
-|            1 |     5199 | 2024-01-04 | Zero Tenacity        | W   | 0.383      | 0.303        | 0.095 (0.011)    | 1.000 (0.116)    | false (0.000) |    10.77 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
+|           10 |     4894 | 2024-01-13 | MOUZ NXT             | W   | 0.444      | 0.303        | 0.215 (0.029)    | 1.000 (0.135)    | 0 (0.000) |    12.98 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
+|            9 |     4895 | 2024-01-13 | Natus Vincere Junior | W   | 0.443      | 0.333        | 0.025 (0.004)    | 0.492 (0.073)    | 0 (0.000) |    10.73 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
+|            8 |     5039 | 2024-01-10 | SINNERS Esports      | L   | 0.426      | -            | -                | -                | -         |    -1.48 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
+|            7 |     5047 | 2024-01-10 | Rebels Gaming        | W   | 0.426      | 0.143        | 0.121 (0.007)    | 0.376 (0.023)    | 0 (0.000) |    12.87 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
+|            6 |     5101 | 2024-01-09 | Zero Tenacity        | L   | 0.418      | -            | -                | -                | -         |    -1.63 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
+|            5 |     5119 | 2024-01-09 | SSX                  | W   | 0.418      | 0.143        | 0.001 (0.000)    | 0.017 (0.001)    | 0 (0.000) |     7.12 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
+|            4 |     5128 | 2024-01-09 | Zero Tenacity        | L   | 0.417      | -            | -                | -                | -         |    -1.60 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
+|            3 |     5157 | 2024-01-08 | Monte Gen            | W   | 0.409      | 0.303        | 0.019 (0.002)    | 0.155 (0.019)    | 0 (0.000) |     9.91 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
+|            2 |     5188 | 2024-01-05 | Natus Vincere Junior | W   | 0.390      | 0.333        | 0.025 (0.003)    | 0.492 (0.064)    | 0 (0.000) |     9.85 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
+|            1 |     5199 | 2024-01-04 | Zero Tenacity        | W   | 0.383      | 0.303        | 0.095 (0.011)    | 1.000 (0.116)    | 0 (0.000) |    10.77 | Chill, consss, KWERTZZ, Python, Wonderful_Y |
 
 <br />
 <span id="table2"></span><br />

@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                             |
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      824 | 2024-04-19 | Onyx Ravens   | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.140 (0.020)    | false (0.000) |    19.03 | ISSAA, Kjaerbye, m1N1, phzy, ViTaL |
-|           11 |      840 | 2024-04-19 | VC esport     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | false (0.000) |    11.72 | ISSAA, Kjaerbye, m1N1, phzy, ViTaL |
-|           10 |      876 | 2024-04-18 | Onyx Ravens   | L   | 1.000      | -            | -                | -                | -             |   -11.69 | ISSAA, Kjaerbye, m1N1, phzy, ViTaL |
-|            9 |      890 | 2024-04-18 | VC esport     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | false (0.000) |    11.60 | ISSAA, Kjaerbye, m1N1, phzy, ViTaL |
-|            8 |     3047 | 2024-02-27 | FlyQuest      | L   | 0.743      | -            | -                | -                | -             |    -0.27 | DavCost, El1an, ISSAA, m1N1, ViTaL |
-|            7 |     3051 | 2024-02-26 | Twisted Minds | W   | 0.741      | 0.143        | 0.001 (0.000)    | 0.076 (0.008)    | true (0.741)  |    12.45 | DavCost, El1an, ISSAA, m1N1, ViTaL |
-|            6 |     3084 | 2024-02-25 | TYLOO         | L   | 0.735      | -            | -                | -                | -             |    -1.39 | DavCost, El1an, ISSAA, m1N1, ViTaL |
-|            5 |     4206 | 2024-01-28 | Onyx Ravens   | W   | 0.546      | 0.143        | 0.007 (0.001)    | 0.140 (0.011)    | false (0.000) |    11.13 | DavCost, El1an, ISSAA, m1N1, ViTaL |
-|            4 |     4214 | 2024-01-28 | Twisted Minds | W   | 0.545      | 0.143        | 0.001 (0.000)    | 0.076 (0.006)    | false (0.000) |     9.96 | DavCost, El1an, ISSAA, m1N1, ViTaL |
-|            3 |     4264 | 2024-01-27 | Team Shush    | W   | 0.539      | 0.143        | 0.000 (0.000)    | 0.019 (0.001)    | false (0.000) |     6.88 | DavCost, El1an, ISSAA, m1N1, ViTaL |
-|            2 |     4313 | 2024-01-26 | Onyx Ravens   | L   | 0.532      | -            | -                | -                | -             |    -5.34 | DavCost, El1an, ISSAA, m1N1, ViTaL |
-|            1 |     4322 | 2024-01-26 | Twisted Minds | W   | 0.531      | 0.143        | 0.001 (0.000)    | 0.076 (0.006)    | false (0.000) |     9.78 | DavCost, El1an, ISSAA, m1N1, ViTaL |
+|           12 |      824 | 2024-04-19 | Onyx Ravens   | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.140 (0.020)    | 0 (0.000) |    19.03 | ISSAA, Kjaerbye, m1N1, phzy, ViTaL |
+|           11 |      840 | 2024-04-19 | VC esport     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | 0 (0.000) |    11.72 | ISSAA, Kjaerbye, m1N1, phzy, ViTaL |
+|           10 |      876 | 2024-04-18 | Onyx Ravens   | L   | 1.000      | -            | -                | -                | -         |   -11.69 | ISSAA, Kjaerbye, m1N1, phzy, ViTaL |
+|            9 |      890 | 2024-04-18 | VC esport     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | 0 (0.000) |    11.60 | ISSAA, Kjaerbye, m1N1, phzy, ViTaL |
+|            8 |     3047 | 2024-02-27 | FlyQuest      | L   | 0.743      | -            | -                | -                | -         |    -0.27 | DavCost, El1an, ISSAA, m1N1, ViTaL |
+|            7 |     3051 | 2024-02-26 | Twisted Minds | W   | 0.741      | 0.143        | 0.001 (0.000)    | 0.076 (0.008)    | 1 (0.741) |    12.45 | DavCost, El1an, ISSAA, m1N1, ViTaL |
+|            6 |     3084 | 2024-02-25 | TYLOO         | L   | 0.735      | -            | -                | -                | -         |    -1.39 | DavCost, El1an, ISSAA, m1N1, ViTaL |
+|            5 |     4206 | 2024-01-28 | Onyx Ravens   | W   | 0.546      | 0.143        | 0.007 (0.001)    | 0.140 (0.011)    | 0 (0.000) |    11.13 | DavCost, El1an, ISSAA, m1N1, ViTaL |
+|            4 |     4214 | 2024-01-28 | Twisted Minds | W   | 0.545      | 0.143        | 0.001 (0.000)    | 0.076 (0.006)    | 0 (0.000) |     9.96 | DavCost, El1an, ISSAA, m1N1, ViTaL |
+|            3 |     4264 | 2024-01-27 | Team Shush    | W   | 0.539      | 0.143        | 0.000 (0.000)    | 0.019 (0.001)    | 0 (0.000) |     6.88 | DavCost, El1an, ISSAA, m1N1, ViTaL |
+|            2 |     4313 | 2024-01-26 | Onyx Ravens   | L   | 0.532      | -            | -                | -                | -         |    -5.34 | DavCost, El1an, ISSAA, m1N1, ViTaL |
+|            1 |     4322 | 2024-01-26 | Twisted Minds | W   | 0.531      | 0.143        | 0.001 (0.000)    | 0.076 (0.006)    | 0 (0.000) |     9.78 | DavCost, El1an, ISSAA, m1N1, ViTaL |
 
 <br />
 <span id="table2"></span><br />

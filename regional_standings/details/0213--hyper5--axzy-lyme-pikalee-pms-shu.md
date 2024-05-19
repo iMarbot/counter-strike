@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     5279 | 2023-12-23 | Những Chàng Trai Đeo Kính | L   | 0.303      | -            | -                | -                | -             |    -4.25 | axZy, Lyme, Pikalee, pms, Shu        |
-|           13 |     5404 | 2023-12-16 | EZ Esport                 | W   | 0.262      | 0.143        | 0.000 (0.000)    | 0.045 (0.002)    | true (0.262)  |     3.74 | Lyme, Pikalee, pms, Richard, Shu     |
-|           12 |     5413 | 2023-12-16 | Cao Huyết Áp              | W   | 0.262      | 0.143        | 0.000 (0.000)    | 0.027 (0.001)    | true (0.262)  |     3.42 | Lyme, Pikalee, pms, Richard, Shu     |
-|           11 |     5419 | 2023-12-16 | BiuTiPhuCanTri            | W   | 0.261      | 0.143        | 0.000 (0.000)    | 0.009 (0.000)    | true (0.261)  |     3.08 | Lyme, Pikalee, pms, Richard, Shu     |
-|           10 |     5513 | 2023-12-16 | TUCNA                     | W   | 0.256      | 0.143        | 0.000 (0.000)    | 0.018 (0.001)    | true (0.256)  |     2.23 | Lyme, Pikalee, pms, Richard, Shu     |
-|            9 |     5531 | 2023-12-15 | TUCNA                     | W   | 0.255      | 0.143        | 0.000 (0.000)    | 0.018 (0.001)    | true (0.255)  |     2.24 | Lyme, Pikalee, pms, Richard, Shu     |
-|            8 |     5551 | 2023-12-15 | 1PinG                     | W   | 0.254      | 0.143        | 0.000 (0.000)    | 0.009 (0.000)    | true (0.254)  |     1.41 | Lyme, Pikalee, pms, Richard, Shu     |
-|            7 |     5591 | 2023-12-15 | The QUBE Esports          | L   | 0.250      | -            | -                | -                | -             |    -2.84 | Guckj, Lyme, Pikalee, pms, Shu       |
-|            6 |     5777 | 2023-12-09 | RAVENS (Japanese team)    | W   | 0.210      | 0.250        | 0.000 (0.000)    | 0.007 (0.000)    | false (0.000) |     1.10 | Guckj, Lyme, Pikalee, pms, Shu       |
-|            5 |     5894 | 2023-12-07 | Aravt                     | L   | 0.197      | -            | -                | -                | -             |    -4.29 | Guckj, Lyme, Pikalee, pms, Shu       |
-|            4 |     5997 | 2023-12-05 | Guardian 5                | W   | 0.184      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     0.93 | Guckj, Lyme, Pikalee, pms, Shu       |
-|            3 |     6070 | 2023-12-02 | Những Chàng Trai Đeo Kính | L   | 0.169      | -            | -                | -                | -             |    -2.41 | Lyme, Pikalee, pms, Shu, Soncam-1603 |
-|            2 |     6072 | 2023-12-02 | ONS                       | W   | 0.168      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     1.28 | Lyme, Pikalee, pms, Shu, Soncam-1603 |
-|            1 |     6848 | 2023-11-16 | ATOX Esports              | L   | 0.056      | -            | -                | -                | -             |    -0.17 | Lyme, Pikalee, Pms, Shu, Soncam-1603 |
+|           14 |     5279 | 2023-12-23 | Những Chàng Trai Đeo Kính | L   | 0.303      | -            | -                | -                | -         |    -4.25 | axZy, Lyme, Pikalee, pms, Shu        |
+|           13 |     5404 | 2023-12-16 | EZ Esport                 | W   | 0.262      | 0.143        | 0.000 (0.000)    | 0.045 (0.002)    | 1 (0.262) |     3.74 | Lyme, Pikalee, pms, Richard, Shu     |
+|           12 |     5413 | 2023-12-16 | Cao Huyết Áp              | W   | 0.262      | 0.143        | 0.000 (0.000)    | 0.027 (0.001)    | 1 (0.262) |     3.42 | Lyme, Pikalee, pms, Richard, Shu     |
+|           11 |     5419 | 2023-12-16 | BiuTiPhuCanTri            | W   | 0.261      | 0.143        | 0.000 (0.000)    | 0.009 (0.000)    | 1 (0.261) |     3.08 | Lyme, Pikalee, pms, Richard, Shu     |
+|           10 |     5513 | 2023-12-16 | TUCNA                     | W   | 0.256      | 0.143        | 0.000 (0.000)    | 0.018 (0.001)    | 1 (0.256) |     2.23 | Lyme, Pikalee, pms, Richard, Shu     |
+|            9 |     5531 | 2023-12-15 | TUCNA                     | W   | 0.255      | 0.143        | 0.000 (0.000)    | 0.018 (0.001)    | 1 (0.255) |     2.24 | Lyme, Pikalee, pms, Richard, Shu     |
+|            8 |     5551 | 2023-12-15 | 1PinG                     | W   | 0.254      | 0.143        | 0.000 (0.000)    | 0.009 (0.000)    | 1 (0.254) |     1.41 | Lyme, Pikalee, pms, Richard, Shu     |
+|            7 |     5591 | 2023-12-15 | The QUBE Esports          | L   | 0.250      | -            | -                | -                | -         |    -2.84 | Guckj, Lyme, Pikalee, pms, Shu       |
+|            6 |     5777 | 2023-12-09 | RAVENS (Japanese team)    | W   | 0.210      | 0.250        | 0.000 (0.000)    | 0.007 (0.000)    | 0 (0.000) |     1.10 | Guckj, Lyme, Pikalee, pms, Shu       |
+|            5 |     5894 | 2023-12-07 | Aravt                     | L   | 0.197      | -            | -                | -                | -         |    -4.29 | Guckj, Lyme, Pikalee, pms, Shu       |
+|            4 |     5997 | 2023-12-05 | Guardian 5                | W   | 0.184      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.93 | Guckj, Lyme, Pikalee, pms, Shu       |
+|            3 |     6070 | 2023-12-02 | Những Chàng Trai Đeo Kính | L   | 0.169      | -            | -                | -                | -         |    -2.41 | Lyme, Pikalee, pms, Shu, Soncam-1603 |
+|            2 |     6072 | 2023-12-02 | ONS                       | W   | 0.168      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.28 | Lyme, Pikalee, pms, Shu, Soncam-1603 |
+|            1 |     6848 | 2023-11-16 | ATOX Esports              | L   | 0.056      | -            | -                | -                | -         |    -0.17 | Lyme, Pikalee, Pms, Shu, Soncam-1603 |
 
 <br />
 <span id="table2"></span><br />

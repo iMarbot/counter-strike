@@ -34,24 +34,24 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                 |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |      492 | 2024-04-25 | V1dar Gaming       | L   | 1.000      | -            | -                | -                | -             |   -14.63 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|           15 |      545 | 2024-04-24 | EXO Clan           | L   | 1.000      | -            | -                | -                | -             |    -4.66 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|           14 |      739 | 2024-04-20 | System5            | L   | 1.000      | -            | -                | -                | -             |   -19.68 | Chill, keen, P4TriCK, Python, T4gg3D   |
-|           13 |      823 | 2024-04-19 | ENTERPRISE esports | L   | 1.000      | -            | -                | -                | -             |    -5.79 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|           12 |      934 | 2024-04-17 | Aurora Gaming      | L   | 1.000      | -            | -                | -                | -             |    -0.27 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|           11 |     1137 | 2024-04-12 | Permitta Esports   | L   | 1.000      | -            | -                | -                | -             |    -5.66 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|           10 |     1174 | 2024-04-11 | AVEZ               | L   | 1.000      | -            | -                | -                | -             |   -16.20 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|            9 |     1210 | 2024-04-10 | M1 Gaming          | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.035 (0.005)    | false (0.000) |    12.72 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|            8 |     1284 | 2024-04-09 | DEEZ NUTS          | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.094 (0.013)    | false (0.000) |    16.77 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|            7 |     1529 | 2024-04-03 | KOI                | L   | 0.985      | -            | -                | -                | -             |    -2.70 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|            6 |     1543 | 2024-04-03 | 9Pandas            | L   | 0.984      | -            | -                | -                | -             |    -1.99 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|            5 |     1581 | 2024-04-02 | Apeks Rebels       | W   | 0.977      | 0.289        | 0.005 (0.002)    | 0.071 (0.020)    | false (0.000) |    16.33 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|            4 |     1622 | 2024-03-31 | Metizport X        | W   | 0.964      | 0.289        | 0.000 (0.000)    | 0.300 (0.084)    | false (0.000) |    12.62 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|            3 |     1634 | 2024-03-30 | SINNERS Academy    | L   | 0.958      | -            | -                | -                | -             |   -14.29 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|            2 |     1687 | 2024-03-28 | TSM                | L   | 0.946      | -            | -                | -                | -             |   -11.49 | Bambosh, hypex, Sterzig, tomiko, zEden |
-|            1 |     1842 | 2024-03-25 | EPIC DUDES         | W   | 0.925      | 0.289        | 0.000 (0.000)    | 0.033 (0.009)    | false (0.000) |     5.84 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|           16 |      492 | 2024-04-25 | V1dar Gaming       | L   | 1.000      | -            | -                | -                | -         |   -14.63 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|           15 |      545 | 2024-04-24 | EXO Clan           | L   | 1.000      | -            | -                | -                | -         |    -4.66 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|           14 |      739 | 2024-04-20 | System5            | L   | 1.000      | -            | -                | -                | -         |   -19.68 | Chill, keen, P4TriCK, Python, T4gg3D   |
+|           13 |      823 | 2024-04-19 | ENTERPRISE esports | L   | 1.000      | -            | -                | -                | -         |    -5.79 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|           12 |      934 | 2024-04-17 | Aurora Gaming      | L   | 1.000      | -            | -                | -                | -         |    -0.27 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|           11 |     1137 | 2024-04-12 | Permitta Esports   | L   | 1.000      | -            | -                | -                | -         |    -5.66 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|           10 |     1174 | 2024-04-11 | AVEZ               | L   | 1.000      | -            | -                | -                | -         |   -16.20 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|            9 |     1210 | 2024-04-10 | M1 Gaming          | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.035 (0.005)    | 0 (0.000) |    12.72 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|            8 |     1284 | 2024-04-09 | DEEZ NUTS          | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.094 (0.013)    | 0 (0.000) |    16.77 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|            7 |     1529 | 2024-04-03 | KOI                | L   | 0.985      | -            | -                | -                | -         |    -2.70 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|            6 |     1543 | 2024-04-03 | 9Pandas            | L   | 0.984      | -            | -                | -                | -         |    -1.99 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|            5 |     1581 | 2024-04-02 | Apeks Rebels       | W   | 0.977      | 0.289        | 0.005 (0.002)    | 0.071 (0.020)    | 0 (0.000) |    16.33 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|            4 |     1622 | 2024-03-31 | Metizport X        | W   | 0.964      | 0.289        | 0.000 (0.000)    | 0.300 (0.084)    | 0 (0.000) |    12.62 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|            3 |     1634 | 2024-03-30 | SINNERS Academy    | L   | 0.958      | -            | -                | -                | -         |   -14.29 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|            2 |     1687 | 2024-03-28 | TSM                | L   | 0.946      | -            | -                | -                | -         |   -11.49 | Bambosh, hypex, Sterzig, tomiko, zEden |
+|            1 |     1842 | 2024-03-25 | EPIC DUDES         | W   | 0.925      | 0.289        | 0.000 (0.000)    | 0.033 (0.009)    | 0 (0.000) |     5.84 | Bambosh, hypex, Sterzig, tomiko, zEden |
 
 <br />
 <span id="table2"></span><br />

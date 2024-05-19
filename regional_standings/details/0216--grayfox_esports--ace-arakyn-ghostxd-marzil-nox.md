@@ -34,30 +34,30 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           22 |     1440 | 2024-04-05 | Made In 4No            | W   | 0.998      | 0.270        | 0.025 (0.007)    | 0.126 (0.034)    | false (0.000) |    17.57 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           21 |     1615 | 2024-03-31 | R8 Esports             | W   | 0.965      | 0.242        | 0.002 (0.001)    | 0.008 (0.002)    | false (0.000) |     9.56 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           20 |     1672 | 2024-03-29 | True Rippers           | L   | 0.950      | -            | -                | -                | -             |    -8.91 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           19 |     1680 | 2024-03-29 | Carnival Gaming        | W   | 0.949      | 0.143        | 0.013 (0.002)    | 0.056 (0.008)    | false (0.000) |    16.94 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           18 |     1701 | 2024-03-28 | Frag Theory            | W   | 0.944      | 0.143        | 0.000 (0.000)    | 0.033 (0.004)    | false (0.000) |     5.86 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           17 |     1707 | 2024-03-28 | Marcos Gaming          | L   | 0.943      | -            | -                | -                | -             |   -11.72 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           16 |     1871 | 2024-03-23 | Gods Reign             | L   | 0.915      | -            | -                | -                | -             |    -7.11 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           15 |     2772 | 2024-03-04 | Gods Reign             | L   | 0.783      | -            | -                | -                | -             |    -7.00 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           14 |     2819 | 2024-03-03 | Marcos Gaming          | L   | 0.776      | -            | -                | -                | -             |   -10.99 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           13 |     2896 | 2024-03-02 | Crescent (Indian team) | W   | 0.770      | 0.143        | 0.000 (0.000)    | 0.027 (0.003)    | false (0.000) |     3.94 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           12 |     3115 | 2024-02-25 | Gods Reign             | L   | 0.729      | -            | -                | -                | -             |    -6.73 | Ace, arakyN, ghostxD, Marzil, Nox       |
-|           11 |     3647 | 2024-02-14 | TyPuCTbl               | L   | 0.657      | -            | -                | -                | -             |   -12.71 | arakyN, Marzil, Nox, SeeK, SH4DY        |
-|           10 |     3807 | 2024-02-09 | Enigma Gaming          | W   | 0.622      | 0.303        | 0.001 (0.000)    | 0.068 (0.013)    | false (0.000) |     9.34 | Ace, arakyN, Marzil, Nox, SeeK          |
-|            9 |     3910 | 2024-02-05 | Drippy Lab             | W   | 0.596      | 0.303        | 0.000 (0.000)    | 0.033 (0.006)    | false (0.000) |     2.96 | Ace, arakyN, Marzil, Nox, SeeK          |
-|            8 |     3940 | 2024-02-03 | Team NKT               | L   | 0.589      | -            | -                | -                | -             |    -6.58 | Ace, arakyN, Marzil, Nox, SeeK          |
-|            7 |     4002 | 2024-02-03 | SR Nacague             | W   | 0.583      | 0.303        | 0.000 (0.000)    | 0.022 (0.004)    | false (0.000) |     2.77 | Ace, arakyN, Marzil, Nox, SeeK          |
-|            6 |     4330 | 2024-01-26 | Enigma Gaming          | W   | 0.531      | 0.143        | 0.001 (0.000)    | 0.068 (0.005)    | false (0.000) |     7.75 | Ace, arakyN, Marzil, Nox, SeeK          |
-|            5 |     4397 | 2024-01-24 | Local Esports          | W   | 0.517      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.66 | Ace, arakyN, Marzil, Nox, SeeK          |
-|            4 |     4515 | 2024-01-21 | True Rippers           | L   | 0.496      | -            | -                | -                | -             |    -4.42 | Ace, arakyN, Marzil, Nox, SeeK          |
-|            3 |     4520 | 2024-01-20 | Frag Theory            | W   | 0.495      | -            | -                | -                | -             |     2.52 | Ace, arakyN, Marzil, Nox, SeeK          |
-|            2 |     6653 | 2023-11-20 | True Rippers           | L   | 0.083      | -            | -                | -                | -             |    -0.76 | ghostxD, LuciA, Marzil, Rite2ace, SH4DY |
-|            1 |     6680 | 2023-11-19 | Team Respect           | W   | 0.077      | -            | -                | -                | -             |     0.39 | ghostxD, LuciA, Marzil, Rite2ace, SH4DY |
+|           22 |     1440 | 2024-04-05 | Made In 4No            | W   | 0.998      | 0.270        | 0.025 (0.007)    | 0.126 (0.034)    | 0 (0.000) |    17.57 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           21 |     1615 | 2024-03-31 | R8 Esports             | W   | 0.965      | 0.242        | 0.002 (0.001)    | 0.008 (0.002)    | 0 (0.000) |     9.56 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           20 |     1672 | 2024-03-29 | True Rippers           | L   | 0.950      | -            | -                | -                | -         |    -8.91 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           19 |     1680 | 2024-03-29 | Carnival Gaming        | W   | 0.949      | 0.143        | 0.013 (0.002)    | 0.056 (0.008)    | 0 (0.000) |    16.94 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           18 |     1701 | 2024-03-28 | Frag Theory            | W   | 0.944      | 0.143        | 0.000 (0.000)    | 0.033 (0.004)    | 0 (0.000) |     5.86 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           17 |     1707 | 2024-03-28 | Marcos Gaming          | L   | 0.943      | -            | -                | -                | -         |   -11.72 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           16 |     1871 | 2024-03-23 | Gods Reign             | L   | 0.915      | -            | -                | -                | -         |    -7.11 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           15 |     2772 | 2024-03-04 | Gods Reign             | L   | 0.783      | -            | -                | -                | -         |    -7.00 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           14 |     2819 | 2024-03-03 | Marcos Gaming          | L   | 0.776      | -            | -                | -                | -         |   -10.99 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           13 |     2896 | 2024-03-02 | Crescent (Indian team) | W   | 0.770      | 0.143        | 0.000 (0.000)    | 0.027 (0.003)    | 0 (0.000) |     3.94 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           12 |     3115 | 2024-02-25 | Gods Reign             | L   | 0.729      | -            | -                | -                | -         |    -6.73 | Ace, arakyN, ghostxD, Marzil, Nox       |
+|           11 |     3647 | 2024-02-14 | TyPuCTbl               | L   | 0.657      | -            | -                | -                | -         |   -12.71 | arakyN, Marzil, Nox, SeeK, SH4DY        |
+|           10 |     3807 | 2024-02-09 | Enigma Gaming          | W   | 0.622      | 0.303        | 0.001 (0.000)    | 0.068 (0.013)    | 0 (0.000) |     9.34 | Ace, arakyN, Marzil, Nox, SeeK          |
+|            9 |     3910 | 2024-02-05 | Drippy Lab             | W   | 0.596      | 0.303        | 0.000 (0.000)    | 0.033 (0.006)    | 0 (0.000) |     2.96 | Ace, arakyN, Marzil, Nox, SeeK          |
+|            8 |     3940 | 2024-02-03 | Team NKT               | L   | 0.589      | -            | -                | -                | -         |    -6.58 | Ace, arakyN, Marzil, Nox, SeeK          |
+|            7 |     4002 | 2024-02-03 | SR Nacague             | W   | 0.583      | 0.303        | 0.000 (0.000)    | 0.022 (0.004)    | 0 (0.000) |     2.77 | Ace, arakyN, Marzil, Nox, SeeK          |
+|            6 |     4330 | 2024-01-26 | Enigma Gaming          | W   | 0.531      | 0.143        | 0.001 (0.000)    | 0.068 (0.005)    | 0 (0.000) |     7.75 | Ace, arakyN, Marzil, Nox, SeeK          |
+|            5 |     4397 | 2024-01-24 | Local Esports          | W   | 0.517      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.66 | Ace, arakyN, Marzil, Nox, SeeK          |
+|            4 |     4515 | 2024-01-21 | True Rippers           | L   | 0.496      | -            | -                | -                | -         |    -4.42 | Ace, arakyN, Marzil, Nox, SeeK          |
+|            3 |     4520 | 2024-01-20 | Frag Theory            | W   | 0.495      | -            | -                | -                | -         |     2.52 | Ace, arakyN, Marzil, Nox, SeeK          |
+|            2 |     6653 | 2023-11-20 | True Rippers           | L   | 0.083      | -            | -                | -                | -         |    -0.76 | ghostxD, LuciA, Marzil, Rite2ace, SH4DY |
+|            1 |     6680 | 2023-11-19 | Team Respect           | W   | 0.077      | -            | -                | -                | -         |     0.39 | ghostxD, LuciA, Marzil, Rite2ace, SH4DY |
 
 <br />
 <span id="table2"></span><br />

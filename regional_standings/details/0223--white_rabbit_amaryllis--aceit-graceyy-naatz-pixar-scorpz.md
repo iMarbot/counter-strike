@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |       54 | 2024-05-04 | ATK Female             | W   | 1.000      | 0.233        | 0.011 (0.003)    | 0.201 (0.047)    | false (0.000) |    18.64 | aCeit, Graceyy, nAAtz, Pixar, scorpz    |
-|           13 |       67 | 2024-05-04 | Aperture Gaming Female | W   | 1.000      | 0.233        | 0.001 (0.000)    | 0.000 (0.000)    | false (0.000) |     8.85 | aCeit, Graceyy, nAAtz, Pixar, scorpz    |
-|           12 |     1397 | 2024-04-06 | ATK Female             | L   | 1.000      | -            | -                | -                | -             |   -12.98 | aCeit, avo, Graceyy, Pixar, Va1n        |
-|           11 |     1402 | 2024-04-06 | INVICTTA               | W   | 1.000      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.30 | aCeit, avo, Graceyy, Pixar, Va1n        |
-|           10 |     2175 | 2024-03-16 | Aperture Gaming Female | W   | 0.865      | 0.233        | 0.001 (0.000)    | 0.000 (0.000)    | false (0.000) |     8.20 | aCeit, avo, Graceyy, kanakikene, Pixar  |
-|            9 |     2881 | 2024-03-02 | ATK Female             | L   | 0.771      | -            | -                | -                | -             |   -10.57 | aCeit, avo, Graceyy, Pixar, Va1n        |
-|            8 |     2891 | 2024-03-02 | I T G I R L            | W   | 0.770      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.30 | aCeit, avo, Graceyy, Pixar, Va1n        |
-|            7 |     3156 | 2024-02-24 | ATK Female             | L   | 0.725      | -            | -                | -                | -             |   -10.60 | aCeit, EmmaD1lemma, mu, Pixar, scorpz   |
-|            6 |     3161 | 2024-02-24 | INVICTTA               | W   | 0.724      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.87 | aCeit, EmmaD1lemma, mu, Pixar, scorpz   |
-|            5 |     3971 | 2024-02-03 | ATK Female             | L   | 0.585      | -            | -                | -                | -             |    -9.07 | aCeit, EmmaD1lemma, mu, Pixar, scorpz   |
-|            4 |     3992 | 2024-02-03 | INVICTTA               | W   | 0.584      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.09 | aCeit, EmmaD1lemma, mu, Pixar, scorpz   |
-|            3 |     4265 | 2024-01-27 | ATK Female             | W   | 0.538      | 0.233        | 0.011 (0.001)    | 0.201 (0.025)    | false (0.000) |     8.79 | Graceyy, mu, nAAtz, scorpz, Starlight   |
-|            2 |     6119 | 2023-12-02 | ATK Female             | L   | 0.164      | -            | -                | -                | -             |    -2.47 | aCeit, Graceyy, Pixar, Queen_za, scorpz |
-|            1 |     6717 | 2023-11-18 | ATK Female             | L   | 0.071      | -            | -                | -                | -             |    -1.08 | Graceyy, mu, Pixar, Queen_za, scorpz    |
+|           14 |       54 | 2024-05-04 | ATK Female             | W   | 1.000      | 0.233        | 0.011 (0.003)    | 0.201 (0.047)    | 0 (0.000) |    18.64 | aCeit, Graceyy, nAAtz, Pixar, scorpz    |
+|           13 |       67 | 2024-05-04 | Aperture Gaming Female | W   | 1.000      | 0.233        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.85 | aCeit, Graceyy, nAAtz, Pixar, scorpz    |
+|           12 |     1397 | 2024-04-06 | ATK Female             | L   | 1.000      | -            | -                | -                | -         |   -12.98 | aCeit, avo, Graceyy, Pixar, Va1n        |
+|           11 |     1402 | 2024-04-06 | INVICTTA               | W   | 1.000      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.30 | aCeit, avo, Graceyy, Pixar, Va1n        |
+|           10 |     2175 | 2024-03-16 | Aperture Gaming Female | W   | 0.865      | 0.233        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.20 | aCeit, avo, Graceyy, kanakikene, Pixar  |
+|            9 |     2881 | 2024-03-02 | ATK Female             | L   | 0.771      | -            | -                | -                | -         |   -10.57 | aCeit, avo, Graceyy, Pixar, Va1n        |
+|            8 |     2891 | 2024-03-02 | I T G I R L            | W   | 0.770      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.30 | aCeit, avo, Graceyy, Pixar, Va1n        |
+|            7 |     3156 | 2024-02-24 | ATK Female             | L   | 0.725      | -            | -                | -                | -         |   -10.60 | aCeit, EmmaD1lemma, mu, Pixar, scorpz   |
+|            6 |     3161 | 2024-02-24 | INVICTTA               | W   | 0.724      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.87 | aCeit, EmmaD1lemma, mu, Pixar, scorpz   |
+|            5 |     3971 | 2024-02-03 | ATK Female             | L   | 0.585      | -            | -                | -                | -         |    -9.07 | aCeit, EmmaD1lemma, mu, Pixar, scorpz   |
+|            4 |     3992 | 2024-02-03 | INVICTTA               | W   | 0.584      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.09 | aCeit, EmmaD1lemma, mu, Pixar, scorpz   |
+|            3 |     4265 | 2024-01-27 | ATK Female             | W   | 0.538      | 0.233        | 0.011 (0.001)    | 0.201 (0.025)    | 0 (0.000) |     8.79 | Graceyy, mu, nAAtz, scorpz, Starlight   |
+|            2 |     6119 | 2023-12-02 | ATK Female             | L   | 0.164      | -            | -                | -                | -         |    -2.47 | aCeit, Graceyy, Pixar, Queen_za, scorpz |
+|            1 |     6717 | 2023-11-18 | ATK Female             | L   | 0.071      | -            | -                | -                | -         |    -1.08 | Graceyy, mu, Pixar, Queen_za, scorpz    |
 
 <br />
 <span id="table2"></span><br />

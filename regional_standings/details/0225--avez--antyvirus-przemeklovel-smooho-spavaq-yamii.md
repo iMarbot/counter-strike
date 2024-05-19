@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                          |
+| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      832 | 2024-04-19 | ThunderFlash             | L   | 1.000      | -            | -                | -                | -             |   -11.69 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
-|           12 |     1047 | 2024-04-15 | M1 Gaming                | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.035 (0.005)    | false (0.000) |    12.82 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
-|           11 |     1174 | 2024-04-11 | 9INE Academy             | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.171 (0.024)    | false (0.000) |    16.20 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
-|           10 |     1231 | 2024-04-10 | DEEZ NUTS                | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.094 (0.013)    | false (0.000) |    16.64 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
-|            9 |     1277 | 2024-04-09 | Permitta Esports         | L   | 1.000      | -            | -                | -                | -             |    -6.42 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
-|            8 |     2533 | 2024-03-08 | GamerLegion Academy      | L   | 0.811      | -            | -                | -                | -             |    -7.34 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
-|            7 |     2577 | 2024-03-07 | BLESSED (Ukrainian team) | L   | 0.804      | -            | -                | -                | -             |    -5.53 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
-|            6 |     3145 | 2024-02-24 | KOMNATA                  | L   | 0.725      | -            | -                | -                | -             |   -11.74 | hotd0g, jcobbb, killkapi, misho, nawrot         |
-|            5 |     4089 | 2024-02-01 | EXO Clan                 | L   | 0.570      | -            | -                | -                | -             |    -4.49 | Adam9130, AwaykeN, bevve, dobbo, Duplicate      |
-|            4 |     4149 | 2024-01-30 | Natus Vincere Youth      | W   | 0.558      | 0.289        | 0.013 (0.002)    | 0.306 (0.049)    | false (0.000) |    10.19 | cmtry, dziugss, froz1k, qzr, UNBR0KEN           |
-|            3 |     4196 | 2024-01-29 | Sashi Academy            | L   | 0.552      | -            | -                | -                | -             |    -9.15 | AntyVirus, przemeklovel, SpavaQ, stussyy, Yamii |
-|            2 |     4386 | 2024-01-24 | Begrip Gaming            | W   | 0.518      | 0.289        | 0.001 (0.000)    | 0.196 (0.029)    | false (0.000) |     7.34 | Ariant0, Karma, Reedz, shateri, titulus         |
-|            1 |     4816 | 2024-01-16 | Young Gods               | W   | 0.465      | 0.289        | 0.000 (0.000)    | 0.204 (0.028)    | false (0.000) |     3.63 | Cham, Focus, MaiL09, viz, Wonder                |
+|           13 |      832 | 2024-04-19 | ThunderFlash             | L   | 1.000      | -            | -                | -                | -         |   -11.69 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
+|           12 |     1047 | 2024-04-15 | M1 Gaming                | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.035 (0.005)    | 0 (0.000) |    12.82 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
+|           11 |     1174 | 2024-04-11 | 9INE Academy             | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.171 (0.024)    | 0 (0.000) |    16.20 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
+|           10 |     1231 | 2024-04-10 | DEEZ NUTS                | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.094 (0.013)    | 0 (0.000) |    16.64 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
+|            9 |     1277 | 2024-04-09 | Permitta Esports         | L   | 1.000      | -            | -                | -                | -         |    -6.42 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
+|            8 |     2533 | 2024-03-08 | GamerLegion Academy      | L   | 0.811      | -            | -                | -                | -         |    -7.34 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
+|            7 |     2577 | 2024-03-07 | BLESSED (Ukrainian team) | L   | 0.804      | -            | -                | -                | -         |    -5.53 | AntyVirus, przemeklovel, smooho, SpavaQ, Yamii  |
+|            6 |     3145 | 2024-02-24 | KOMNATA                  | L   | 0.725      | -            | -                | -                | -         |   -11.74 | hotd0g, jcobbb, killkapi, misho, nawrot         |
+|            5 |     4089 | 2024-02-01 | EXO Clan                 | L   | 0.570      | -            | -                | -                | -         |    -4.49 | Adam9130, AwaykeN, bevve, dobbo, Duplicate      |
+|            4 |     4149 | 2024-01-30 | Natus Vincere Youth      | W   | 0.558      | 0.289        | 0.013 (0.002)    | 0.306 (0.049)    | 0 (0.000) |    10.19 | cmtry, dziugss, froz1k, qzr, UNBR0KEN           |
+|            3 |     4196 | 2024-01-29 | Sashi Academy            | L   | 0.552      | -            | -                | -                | -         |    -9.15 | AntyVirus, przemeklovel, SpavaQ, stussyy, Yamii |
+|            2 |     4386 | 2024-01-24 | Begrip Gaming            | W   | 0.518      | 0.289        | 0.001 (0.000)    | 0.196 (0.029)    | 0 (0.000) |     7.34 | Ariant0, Karma, Reedz, shateri, titulus         |
+|            1 |     4816 | 2024-01-16 | Young Gods               | W   | 0.465      | 0.289        | 0.000 (0.000)    | 0.204 (0.028)    | 0 (0.000) |     3.63 | Cham, Focus, MaiL09, viz, Wonder                |
 
 <br />
 <span id="table2"></span><br />

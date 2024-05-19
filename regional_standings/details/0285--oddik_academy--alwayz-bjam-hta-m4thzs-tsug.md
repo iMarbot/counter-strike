@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      333 | 2024-04-27 | Sharks Youngsters          | L   | 1.000      | -            | -                | -                | -             |   -16.37 | alwayz, bjam, hta, m4thzs, tsug       |
-|           12 |      339 | 2024-04-27 | Full House Gaming          | L   | 1.000      | -            | -                | -                | -             |   -15.45 | alwayz, bjam, hta, m4thzs, tsug       |
-|           11 |      346 | 2024-04-27 | Atrix Esports              | W   | 1.000      | 0.143        | 0.010 (0.001)    | 0.165 (0.024)    | false (0.000) |    16.99 | alwayz, bjam, hta, m4thzs, tsug       |
-|           10 |      352 | 2024-04-27 | MIBR Female                | W   | 1.000      | 0.143        | 0.027 (0.004)    | 0.199 (0.028)    | false (0.000) |    19.22 | alwayz, bjam, hta, m4thzs, tsug       |
-|            9 |      995 | 2024-04-16 | Dusty Roots                | L   | 1.000      | -            | -                | -                | -             |   -14.86 | alwayz, bjam, hta, m4thzs, tsug       |
-|            8 |     1093 | 2024-04-13 | Corinthians Esports        | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.346 (0.049)    | false (0.000) |    17.11 | alwayz, bjam, hta, m4thzs, tsug       |
-|            7 |     1095 | 2024-04-13 | Sensei Team                | L   | 1.000      | -            | -                | -                | -             |   -11.72 | alwayz, bjam, hta, m4thzs, tsug       |
-|            6 |     1132 | 2024-04-12 | Sharks Youngsters          | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.211 (0.030)    | false (0.000) |    15.68 | alwayz, bjam, hta, m4thzs, tsug       |
-|            5 |     1890 | 2024-03-23 | Formula 1 (Brazilian team) | L   | 0.912      | -            | -                | -                | -             |   -19.58 | alwayz, bjam, hta, m4thzs, tsug       |
-|            4 |     1900 | 2024-03-23 | Corinthians Esports        | L   | 0.912      | -            | -                | -                | -             |   -13.53 | alwayz, bjam, hta, m4thzs, tsug       |
-|            3 |     4205 | 2024-01-28 | Romanticos                 | L   | 0.546      | -            | -                | -                | -             |    -7.88 | Lukita, ronazik, Skr, Tatu, will1ZERA |
-|            2 |     4245 | 2024-01-27 | Yawara E-Sports            | L   | 0.540      | -            | -                | -                | -             |    -6.83 | j0w, lash, PremiuM, ritz, stAx        |
-|            1 |     4260 | 2024-01-27 | 2Game Esports B            | W   | 0.539      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.11 | alwayz, bjam, gaard, hta, tsug        |
+|           13 |      333 | 2024-04-27 | Sharks Youngsters          | L   | 1.000      | -            | -                | -                | -         |   -16.37 | alwayz, bjam, hta, m4thzs, tsug       |
+|           12 |      339 | 2024-04-27 | Full House Gaming          | L   | 1.000      | -            | -                | -                | -         |   -15.45 | alwayz, bjam, hta, m4thzs, tsug       |
+|           11 |      346 | 2024-04-27 | Atrix Esports              | W   | 1.000      | 0.143        | 0.010 (0.001)    | 0.165 (0.024)    | 0 (0.000) |    16.99 | alwayz, bjam, hta, m4thzs, tsug       |
+|           10 |      352 | 2024-04-27 | MIBR Female                | W   | 1.000      | 0.143        | 0.027 (0.004)    | 0.199 (0.028)    | 0 (0.000) |    19.22 | alwayz, bjam, hta, m4thzs, tsug       |
+|            9 |      995 | 2024-04-16 | Dusty Roots                | L   | 1.000      | -            | -                | -                | -         |   -14.86 | alwayz, bjam, hta, m4thzs, tsug       |
+|            8 |     1093 | 2024-04-13 | Corinthians Esports        | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.346 (0.049)    | 0 (0.000) |    17.11 | alwayz, bjam, hta, m4thzs, tsug       |
+|            7 |     1095 | 2024-04-13 | Sensei Team                | L   | 1.000      | -            | -                | -                | -         |   -11.72 | alwayz, bjam, hta, m4thzs, tsug       |
+|            6 |     1132 | 2024-04-12 | Sharks Youngsters          | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.211 (0.030)    | 0 (0.000) |    15.68 | alwayz, bjam, hta, m4thzs, tsug       |
+|            5 |     1890 | 2024-03-23 | Formula 1 (Brazilian team) | L   | 0.912      | -            | -                | -                | -         |   -19.58 | alwayz, bjam, hta, m4thzs, tsug       |
+|            4 |     1900 | 2024-03-23 | Corinthians Esports        | L   | 0.912      | -            | -                | -                | -         |   -13.53 | alwayz, bjam, hta, m4thzs, tsug       |
+|            3 |     4205 | 2024-01-28 | Romanticos                 | L   | 0.546      | -            | -                | -                | -         |    -7.88 | Lukita, ronazik, Skr, Tatu, will1ZERA |
+|            2 |     4245 | 2024-01-27 | Yawara E-Sports            | L   | 0.540      | -            | -                | -                | -         |    -6.83 | j0w, lash, PremiuM, ritz, stAx        |
+|            1 |     4260 | 2024-01-27 | 2Game Esports B            | W   | 0.539      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.11 | alwayz, bjam, gaard, hta, tsug        |
 
 <br />
 <span id="table2"></span><br />

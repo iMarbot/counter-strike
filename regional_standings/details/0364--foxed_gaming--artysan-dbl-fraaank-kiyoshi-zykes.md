@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent                        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |      309 | 2024-04-28 | Static                          | L   | 1.000      | -            | -                | -                | -             |    -9.77 | artysan, DBL, Fraaank, kiyoshi, zykes |
-|           14 |      603 | 2024-04-22 | Vanir                           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | false (0.000) |    15.70 | artysan, DBL, Fraaank, kiyoshi, zykes |
-|           13 |      805 | 2024-04-19 | Static                          | L   | 1.000      | -            | -                | -                | -             |   -10.07 | artysan, B3NJ1, DBL, kiyoshi, Strope  |
-|           12 |      808 | 2024-04-19 | TOOMUCHVIDEOGAMES               | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.161 (0.023)    | false (0.000) |    24.14 | artysan, B3NJ1, DBL, kiyoshi, Strope  |
-|           11 |     1050 | 2024-04-15 | INFURITY Gaming                 | L   | 1.000      | -            | -                | -                | -             |   -10.56 | artysan, DBL, Fraaank, kiyoshi, zykes |
-|           10 |     1331 | 2024-04-08 | Apeks Legends                   | L   | 1.000      | -            | -                | -                | -             |   -15.23 | artysan, DBL, Fraaank, kiyoshi, zykes |
-|            9 |     2090 | 2024-03-18 | Metizport X                     | L   | 0.878      | -            | -                | -                | -             |    -7.08 | artysan, DBL, Fraaank, kiyoshi, zykes |
-|            8 |     2315 | 2024-03-13 | En av de lette                  | L   | 0.845      | -            | -                | -                | -             |    -3.00 | DBL, Fraaank, kiyoshi, sido, zykes    |
-|            7 |     2373 | 2024-03-12 | Nordix Esport                   | L   | 0.838      | -            | -                | -                | -             |   -11.52 | Brave, DBL, Fraaank, kiyoshi, zykes   |
-|            6 |     2416 | 2024-03-11 | Nordix Esport                   | L   | 0.832      | -            | -                | -                | -             |   -12.31 | artysan, DBL, Fraaank, kiyoshi, zykes |
-|            5 |     2451 | 2024-03-10 | 777 Esports                     | L   | 0.825      | -            | -                | -                | -             |    -3.27 | artysan, DBL, Fraaank, kiyoshi, zykes |
-|            4 |     2613 | 2024-03-06 | Center Gaming                   | L   | 0.799      | -            | -                | -                | -             |   -13.11 | DBL, Fraaank, kiyoshi, sido, zykes    |
-|            3 |     3719 | 2024-02-12 | Bitfix Gaming                   | W   | 0.645      | 0.143        | 0.000 (0.000)    | 0.031 (0.003)    | false (0.000) |     9.62 | artysan, DBL, Fraaank, kiyoshi, zykes |
-|            2 |     3887 | 2024-02-05 | Wizard esports (Norwegian team) | W   | 0.599      | 0.143        | 0.000 (0.000)    | 0.122 (0.010)    | false (0.000) |     9.29 | artysan, DBL, Fraaank, kiyoshi, zykes |
-|            1 |     3966 | 2024-02-03 | EYEBALLERS                      | L   | 0.585      | -            | -                | -                | -             |    -0.83 | artysan, DBL, Fraaank, kiyoshi, zykes |
+|           15 |      309 | 2024-04-28 | Static                          | L   | 1.000      | -            | -                | -                | -         |    -9.77 | artysan, DBL, Fraaank, kiyoshi, zykes |
+|           14 |      603 | 2024-04-22 | Vanir                           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | 0 (0.000) |    15.70 | artysan, DBL, Fraaank, kiyoshi, zykes |
+|           13 |      805 | 2024-04-19 | Static                          | L   | 1.000      | -            | -                | -                | -         |   -10.07 | artysan, B3NJ1, DBL, kiyoshi, Strope  |
+|           12 |      808 | 2024-04-19 | TOOMUCHVIDEOGAMES               | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.161 (0.023)    | 0 (0.000) |    24.14 | artysan, B3NJ1, DBL, kiyoshi, Strope  |
+|           11 |     1050 | 2024-04-15 | INFURITY Gaming                 | L   | 1.000      | -            | -                | -                | -         |   -10.56 | artysan, DBL, Fraaank, kiyoshi, zykes |
+|           10 |     1331 | 2024-04-08 | Apeks Legends                   | L   | 1.000      | -            | -                | -                | -         |   -15.23 | artysan, DBL, Fraaank, kiyoshi, zykes |
+|            9 |     2090 | 2024-03-18 | Metizport X                     | L   | 0.878      | -            | -                | -                | -         |    -7.08 | artysan, DBL, Fraaank, kiyoshi, zykes |
+|            8 |     2315 | 2024-03-13 | En av de lette                  | L   | 0.845      | -            | -                | -                | -         |    -3.00 | DBL, Fraaank, kiyoshi, sido, zykes    |
+|            7 |     2373 | 2024-03-12 | Nordix Esport                   | L   | 0.838      | -            | -                | -                | -         |   -11.52 | Brave, DBL, Fraaank, kiyoshi, zykes   |
+|            6 |     2416 | 2024-03-11 | Nordix Esport                   | L   | 0.832      | -            | -                | -                | -         |   -12.31 | artysan, DBL, Fraaank, kiyoshi, zykes |
+|            5 |     2451 | 2024-03-10 | 777 Esports                     | L   | 0.825      | -            | -                | -                | -         |    -3.27 | artysan, DBL, Fraaank, kiyoshi, zykes |
+|            4 |     2613 | 2024-03-06 | Center Gaming                   | L   | 0.799      | -            | -                | -                | -         |   -13.11 | DBL, Fraaank, kiyoshi, sido, zykes    |
+|            3 |     3719 | 2024-02-12 | Bitfix Gaming                   | W   | 0.645      | 0.143        | 0.000 (0.000)    | 0.031 (0.003)    | 0 (0.000) |     9.62 | artysan, DBL, Fraaank, kiyoshi, zykes |
+|            2 |     3887 | 2024-02-05 | Wizard esports (Norwegian team) | W   | 0.599      | 0.143        | 0.000 (0.000)    | 0.122 (0.010)    | 0 (0.000) |     9.29 | artysan, DBL, Fraaank, kiyoshi, zykes |
+|            1 |     3966 | 2024-02-03 | EYEBALLERS                      | L   | 0.585      | -            | -                | -                | -         |    -0.83 | artysan, DBL, Fraaank, kiyoshi, zykes |
 
 <br />
 <span id="table2"></span><br />

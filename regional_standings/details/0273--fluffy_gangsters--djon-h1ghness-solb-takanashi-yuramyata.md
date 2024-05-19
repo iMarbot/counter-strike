@@ -34,25 +34,25 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                         |
+| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |      517 | 2024-04-24 | LOADING (French team)  | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.070 (0.026)    | false (0.000) |     6.70 | Djon, h1ghnesS, SoLb, takanashi, yuramyata     |
-|           16 |      601 | 2024-04-22 | LOG Esports            | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.24 | Djon, h1ghnesS, SoLb, takanashi, yuramyata     |
-|           15 |      821 | 2024-04-19 | Dynamo Eclot           | L   | 1.000      | -            | -                | -                | -             |    -3.04 | Djon, h1ghnesS, SoLb, takanashi, yuramyata     |
-|           14 |     1036 | 2024-04-15 | Aurora Young Blud      | W   | 1.000      | 0.371        | 0.017 (0.006)    | 0.422 (0.157)    | false (0.000) |    21.09 | Djon, h1ghnesS, SoLb, takanashi, yuramyata     |
-|           13 |     2934 | 2024-02-29 | GODSENT                | L   | 0.759      | -            | -                | -                | -             |    -6.19 | bobeksde, eraa, Golden, Plopski, RuStY         |
-|           12 |     2943 | 2024-02-29 | GenOne                 | L   | 0.759      | -            | -                | -                | -             |   -12.51 | AMANEK, bibu, Graviti, Kursy, Razzmo           |
-|           11 |     3289 | 2024-02-21 | Team Secret            | W   | 0.706      | 0.371        | 0.000 (0.000)    | 0.368 (0.097)    | false (0.000) |    13.73 | b1st, Djon, h1ghnesS, mo5kow, takanashi        |
-|           10 |     3399 | 2024-02-19 | Lausanne-Sport Esports | W   | 0.692      | 0.371        | 0.004 (0.001)    | 0.241 (0.062)    | false (0.000) |    14.71 | b1st, Djon, h1ghnesS, mo5kow, takanashi        |
-|            9 |     3634 | 2024-02-14 | ILIN                   | W   | 0.658      | 0.371        | 0.000 (0.000)    | 0.348 (0.085)    | false (0.000) |    10.05 | abiraju, aviva, bogemtdarf, fineshine, lampada |
-|            8 |     3710 | 2024-02-12 | Lajtbitexe             | W   | 0.646      | 0.371        | 0.000 (0.000)    | 0.033 (0.008)    | false (0.000) |     9.17 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko  |
-|            7 |     3732 | 2024-02-12 | Soda Gaming            | W   | 0.644      | 0.371        | 0.009 (0.002)    | 0.182 (0.043)    | false (0.000) |    14.82 | b1st, Djon, h1ghnesS, mo5kow, takanashi        |
-|            6 |     3797 | 2024-02-09 | DMS                    | L   | 0.624      | -            | -                | -                | -             |    -7.60 | AW, H1te, kAlash, sFade8, sm3t                 |
-|            5 |     3878 | 2024-02-05 | Ex-Hot Headed Gaming   | W   | 0.599      | 0.371        | 0.000 (0.000)    | 0.117 (0.026)    | false (0.000) |     7.90 | b1st, Djon, h1ghnesS, mo5kow, takanashi        |
-|            4 |     4024 | 2024-02-02 | Endpoint               | L   | 0.578      | -            | -                | -                | -             |    -3.15 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher      |
-|            3 |     4081 | 2024-02-01 | ARCRED                 | W   | 0.571      | 0.371        | 0.004 (0.001)    | 0.825 (0.175)    | false (0.000) |    14.84 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx         |
-|            2 |     4310 | 2024-01-26 | 9Pandas                | L   | 0.532      | -            | -                | -                | -             |    -0.60 | clax, d1Ledez, glowiing, iDISBALANCE, seized   |
-|            1 |     4320 | 2024-01-26 | Entropiq               | L   | 0.531      | -            | -                | -                | -             |    -3.28 | c0llins, Marix, mwlky, Oxygen, tiziaN          |
+|           17 |      517 | 2024-04-24 | LOADING (French team)  | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.070 (0.026)    | 0 (0.000) |     6.70 | Djon, h1ghnesS, SoLb, takanashi, yuramyata     |
+|           16 |      601 | 2024-04-22 | LOG Esports            | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.24 | Djon, h1ghnesS, SoLb, takanashi, yuramyata     |
+|           15 |      821 | 2024-04-19 | Dynamo Eclot           | L   | 1.000      | -            | -                | -                | -         |    -3.04 | Djon, h1ghnesS, SoLb, takanashi, yuramyata     |
+|           14 |     1036 | 2024-04-15 | Aurora Young Blud      | W   | 1.000      | 0.371        | 0.017 (0.006)    | 0.422 (0.157)    | 0 (0.000) |    21.09 | Djon, h1ghnesS, SoLb, takanashi, yuramyata     |
+|           13 |     2934 | 2024-02-29 | GODSENT                | L   | 0.759      | -            | -                | -                | -         |    -6.19 | bobeksde, eraa, Golden, Plopski, RuStY         |
+|           12 |     2943 | 2024-02-29 | GenOne                 | L   | 0.759      | -            | -                | -                | -         |   -12.51 | AMANEK, bibu, Graviti, Kursy, Razzmo           |
+|           11 |     3289 | 2024-02-21 | Team Secret            | W   | 0.706      | 0.371        | 0.000 (0.000)    | 0.368 (0.097)    | 0 (0.000) |    13.73 | b1st, Djon, h1ghnesS, mo5kow, takanashi        |
+|           10 |     3399 | 2024-02-19 | Lausanne-Sport Esports | W   | 0.692      | 0.371        | 0.004 (0.001)    | 0.241 (0.062)    | 0 (0.000) |    14.71 | b1st, Djon, h1ghnesS, mo5kow, takanashi        |
+|            9 |     3634 | 2024-02-14 | ILIN                   | W   | 0.658      | 0.371        | 0.000 (0.000)    | 0.348 (0.085)    | 0 (0.000) |    10.05 | abiraju, aviva, bogemtdarf, fineshine, lampada |
+|            8 |     3710 | 2024-02-12 | Lajtbitexe             | W   | 0.646      | 0.371        | 0.000 (0.000)    | 0.033 (0.008)    | 0 (0.000) |     9.17 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko  |
+|            7 |     3732 | 2024-02-12 | Soda Gaming            | W   | 0.644      | 0.371        | 0.009 (0.002)    | 0.182 (0.043)    | 0 (0.000) |    14.82 | b1st, Djon, h1ghnesS, mo5kow, takanashi        |
+|            6 |     3797 | 2024-02-09 | DMS                    | L   | 0.624      | -            | -                | -                | -         |    -7.60 | AW, H1te, kAlash, sFade8, sm3t                 |
+|            5 |     3878 | 2024-02-05 | Ex-Hot Headed Gaming   | W   | 0.599      | 0.371        | 0.000 (0.000)    | 0.117 (0.026)    | 0 (0.000) |     7.90 | b1st, Djon, h1ghnesS, mo5kow, takanashi        |
+|            4 |     4024 | 2024-02-02 | Endpoint               | L   | 0.578      | -            | -                | -                | -         |    -3.15 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher      |
+|            3 |     4081 | 2024-02-01 | ARCRED                 | W   | 0.571      | 0.371        | 0.004 (0.001)    | 0.825 (0.175)    | 0 (0.000) |    14.84 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx         |
+|            2 |     4310 | 2024-01-26 | 9Pandas                | L   | 0.532      | -            | -                | -                | -         |    -0.60 | clax, d1Ledez, glowiing, iDISBALANCE, seized   |
+|            1 |     4320 | 2024-01-26 | Entropiq               | L   | 0.531      | -            | -                | -                | -         |    -3.28 | c0llins, Marix, mwlky, Oxygen, tiziaN          |
 
 <br />
 <span id="table2"></span><br />

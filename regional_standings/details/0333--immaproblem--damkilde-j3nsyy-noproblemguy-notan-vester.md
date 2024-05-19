@@ -34,32 +34,32 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                        |
+| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           24 |      268 | 2024-04-29 | XI Esport           | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.313 (0.045)    | false (0.000) |    21.52 | Damkilde, J3nsyy, NoProblemGuy, notaN, vester |
-|           23 |      595 | 2024-04-22 | Sashi Academy       | L   | 1.000      | -            | -                | -                | -             |   -11.73 | Damkilde, J3nsyy, NoProblemGuy, notaN, vester |
-|           22 |      598 | 2024-04-22 | Preasy Esport       | L   | 1.000      | -            | -                | -                | -             |    -9.37 | Damkilde, J3nsyy, NoProblemGuy, notaN, vester |
-|           21 |      604 | 2024-04-22 | Astralis Talent     | L   | 1.000      | -            | -                | -                | -             |    -5.08 | Damkilde, J3nsyy, NoProblemGuy, notaN, vester |
-|           20 |     1033 | 2024-04-15 | Sashi Esport        | L   | 1.000      | -            | -                | -                | -             |    -1.48 | Damkilde, J3nsyy, NoProblemGuy, notaN, vester |
-|           19 |     2081 | 2024-03-18 | Kronjyllands Esport | W   | 0.879      | 0.143        | 0.000 (0.000)    | 0.035 (0.004)    | false (0.000) |    11.65 | daxy, J3nsyy, NoProblemGuy, notaN, vester     |
-|           18 |     2412 | 2024-03-11 | Team Atlantic       | L   | 0.832      | -            | -                | -                | -             |   -12.54 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|           17 |     2420 | 2024-03-11 | Sashi Esport        | L   | 0.832      | -            | -                | -                | -             |    -5.66 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|           16 |     2601 | 2024-03-06 | Copenhagen Wolves   | L   | 0.799      | -            | -                | -                | -             |    -9.54 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|           15 |     2607 | 2024-03-06 | Preasy Esport       | L   | 0.799      | -            | -                | -                | -             |    -6.79 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|           14 |     2625 | 2024-03-06 | Astralis Talent     | W   | 0.798      | 0.143        | 0.030 (0.003)    | 0.613 (0.070)    | false (0.000) |    22.40 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|           13 |     2691 | 2024-03-05 | XI Esport           | W   | 0.792      | 0.143        | 0.002 (0.000)    | 0.313 (0.035)    | false (0.000) |    17.35 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|           12 |     2700 | 2024-03-05 | WOPA Esport         | L   | 0.792      | -            | -                | -                | -             |    -5.92 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|           11 |     2731 | 2024-03-04 | Pera Esports        | L   | 0.786      | -            | -                | -                | -             |    -2.72 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|           10 |     2835 | 2024-03-02 | Lilmix              | L   | 0.773      | -            | -                | -                | -             |    -8.85 | Brillo, dex, poiii, quix, zyyx                |
-|            9 |     3064 | 2024-02-26 | GODSENT             | L   | 0.739      | -            | -                | -                | -             |    -4.44 | Damkilde, daxy, J3nsyy, notaN, vester         |
-|            8 |     3858 | 2024-02-06 | XI Esport           | L   | 0.605      | -            | -                | -                | -             |    -5.96 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|            7 |     3859 | 2024-02-06 | Team Atlantic       | W   | 0.605      | 0.143        | 0.000 (0.000)    | 0.122 (0.011)    | false (0.000) |     9.29 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|            6 |     3877 | 2024-02-05 | Copenhagen Wolves   | W   | 0.599      | 0.143        | 0.000 (0.000)    | 0.417 (0.036)    | false (0.000) |    12.37 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|            5 |     3884 | 2024-02-05 | Preasy Esport       | L   | 0.599      | -            | -                | -                | -             |    -4.33 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|            4 |     4452 | 2024-01-22 | Astralis Talent     | W   | 0.506      | 0.143        | 0.030 (0.002)    | 0.613 (0.044)    | false (0.000) |    14.61 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|            3 |     4460 | 2024-01-22 | Sashi Esport        | L   | 0.506      | -            | -                | -                | -             |    -2.64 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|            2 |     6965 | 2023-11-13 | WOPA Esport         | L   | 0.039      | -            | -                | -                | -             |    -0.24 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
-|            1 |     6974 | 2023-11-13 | XI Esport           | W   | 0.038      | 0.143        | 0.002 (0.000)    | 0.313 (0.002)    | false (0.000) |     0.86 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|           24 |      268 | 2024-04-29 | XI Esport           | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.313 (0.045)    | 0 (0.000) |    21.52 | Damkilde, J3nsyy, NoProblemGuy, notaN, vester |
+|           23 |      595 | 2024-04-22 | Sashi Academy       | L   | 1.000      | -            | -                | -                | -         |   -11.73 | Damkilde, J3nsyy, NoProblemGuy, notaN, vester |
+|           22 |      598 | 2024-04-22 | Preasy Esport       | L   | 1.000      | -            | -                | -                | -         |    -9.37 | Damkilde, J3nsyy, NoProblemGuy, notaN, vester |
+|           21 |      604 | 2024-04-22 | Astralis Talent     | L   | 1.000      | -            | -                | -                | -         |    -5.08 | Damkilde, J3nsyy, NoProblemGuy, notaN, vester |
+|           20 |     1033 | 2024-04-15 | Sashi Esport        | L   | 1.000      | -            | -                | -                | -         |    -1.48 | Damkilde, J3nsyy, NoProblemGuy, notaN, vester |
+|           19 |     2081 | 2024-03-18 | Kronjyllands Esport | W   | 0.879      | 0.143        | 0.000 (0.000)    | 0.035 (0.004)    | 0 (0.000) |    11.65 | daxy, J3nsyy, NoProblemGuy, notaN, vester     |
+|           18 |     2412 | 2024-03-11 | Team Atlantic       | L   | 0.832      | -            | -                | -                | -         |   -12.54 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|           17 |     2420 | 2024-03-11 | Sashi Esport        | L   | 0.832      | -            | -                | -                | -         |    -5.66 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|           16 |     2601 | 2024-03-06 | Copenhagen Wolves   | L   | 0.799      | -            | -                | -                | -         |    -9.54 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|           15 |     2607 | 2024-03-06 | Preasy Esport       | L   | 0.799      | -            | -                | -                | -         |    -6.79 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|           14 |     2625 | 2024-03-06 | Astralis Talent     | W   | 0.798      | 0.143        | 0.030 (0.003)    | 0.613 (0.070)    | 0 (0.000) |    22.40 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|           13 |     2691 | 2024-03-05 | XI Esport           | W   | 0.792      | 0.143        | 0.002 (0.000)    | 0.313 (0.035)    | 0 (0.000) |    17.35 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|           12 |     2700 | 2024-03-05 | WOPA Esport         | L   | 0.792      | -            | -                | -                | -         |    -5.92 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|           11 |     2731 | 2024-03-04 | Pera Esports        | L   | 0.786      | -            | -                | -                | -         |    -2.72 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|           10 |     2835 | 2024-03-02 | Lilmix              | L   | 0.773      | -            | -                | -                | -         |    -8.85 | Brillo, dex, poiii, quix, zyyx                |
+|            9 |     3064 | 2024-02-26 | GODSENT             | L   | 0.739      | -            | -                | -                | -         |    -4.44 | Damkilde, daxy, J3nsyy, notaN, vester         |
+|            8 |     3858 | 2024-02-06 | XI Esport           | L   | 0.605      | -            | -                | -                | -         |    -5.96 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|            7 |     3859 | 2024-02-06 | Team Atlantic       | W   | 0.605      | 0.143        | 0.000 (0.000)    | 0.122 (0.011)    | 0 (0.000) |     9.29 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|            6 |     3877 | 2024-02-05 | Copenhagen Wolves   | W   | 0.599      | 0.143        | 0.000 (0.000)    | 0.417 (0.036)    | 0 (0.000) |    12.37 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|            5 |     3884 | 2024-02-05 | Preasy Esport       | L   | 0.599      | -            | -                | -                | -         |    -4.33 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|            4 |     4452 | 2024-01-22 | Astralis Talent     | W   | 0.506      | 0.143        | 0.030 (0.002)    | 0.613 (0.044)    | 0 (0.000) |    14.61 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|            3 |     4460 | 2024-01-22 | Sashi Esport        | L   | 0.506      | -            | -                | -                | -         |    -2.64 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|            2 |     6965 | 2023-11-13 | WOPA Esport         | L   | 0.039      | -            | -                | -                | -         |    -0.24 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
+|            1 |     6974 | 2023-11-13 | XI Esport           | W   | 0.038      | 0.143        | 0.002 (0.000)    | 0.313 (0.002)    | 0 (0.000) |     0.86 | Damkilde, daxy, NoProblemGuy, notaN, vester   |
 
 <br />
 <span id="table2"></span><br />

@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                            |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     2492 | 2024-03-09 | Team Solid         | L   | 0.818      | -            | -                | -                | -             |    -6.14 | JonY BoY, MRN1, nbl, roy, tutehen |
-|           10 |     2552 | 2024-03-07 | RED Canids         | L   | 0.807      | -            | -                | -                | -             |    -3.49 | JonY BoY, MRN1, nbl, roy, tutehen |
-|            9 |     3391 | 2024-02-19 | Team Solid         | L   | 0.694      | -            | -                | -                | -             |    -5.62 | JonY BoY, MRN1, nbl, roy, tutehen |
-|            8 |     5145 | 2024-01-08 | TIMACETA           | L   | 0.414      | -            | -                | -                | -             |    -6.01 | JonY BoY, MRN1, nbl, roy, tutehen |
-|            7 |     5343 | 2023-12-17 | Case Esports       | L   | 0.266      | -            | -                | -                | -             |    -3.17 | JonY BoY, MRN1, nbl, roy, tutehen |
-|            6 |     5571 | 2023-12-15 | 9z Academy         | W   | 0.253      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     1.65 | JonY BoY, MRN1, nbl, roy, tutehen |
-|            5 |     6088 | 2023-12-02 | River Plate Gaming | W   | 0.166      | 0.284        | 0.001 (0.000)    | 0.015 (0.001)    | true (0.166)  |     2.46 | JonY BoY, MRN1, nbl, roy, tutehen |
-|            4 |     6196 | 2023-11-30 | Dusty Roots        | W   | 0.152      | 0.284        | 0.005 (0.000)    | 0.352 (0.015)    | false (0.000) |     2.76 | JonY BoY, MRN1, nbl, roy, tutehen |
-|            3 |     6232 | 2023-11-29 | Maycam Evolve      | W   | 0.147      | 0.284        | 0.000 (0.000)    | 0.005 (0.000)    | false (0.000) |     0.99 | JonY BoY, MRN1, nbl, roy, tutehen |
-|            2 |     6287 | 2023-11-28 | River Plate Gaming | L   | 0.141      | -            | -                | -                | -             |    -2.34 | JonY BoY, MRN1, nbl, roy, tutehen |
-|            1 |     6345 | 2023-11-27 | Daotsu Esports     | W   | 0.134      | 0.284        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     0.90 | JonY BoY, MRN1, nbl, roy, tutehen |
+|           11 |     2492 | 2024-03-09 | Team Solid         | L   | 0.818      | -            | -                | -                | -         |    -6.14 | JonY BoY, MRN1, nbl, roy, tutehen |
+|           10 |     2552 | 2024-03-07 | RED Canids         | L   | 0.807      | -            | -                | -                | -         |    -3.49 | JonY BoY, MRN1, nbl, roy, tutehen |
+|            9 |     3391 | 2024-02-19 | Team Solid         | L   | 0.694      | -            | -                | -                | -         |    -5.62 | JonY BoY, MRN1, nbl, roy, tutehen |
+|            8 |     5145 | 2024-01-08 | TIMACETA           | L   | 0.414      | -            | -                | -                | -         |    -6.01 | JonY BoY, MRN1, nbl, roy, tutehen |
+|            7 |     5343 | 2023-12-17 | Case Esports       | L   | 0.266      | -            | -                | -                | -         |    -3.17 | JonY BoY, MRN1, nbl, roy, tutehen |
+|            6 |     5571 | 2023-12-15 | 9z Academy         | W   | 0.253      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.65 | JonY BoY, MRN1, nbl, roy, tutehen |
+|            5 |     6088 | 2023-12-02 | River Plate Gaming | W   | 0.166      | 0.284        | 0.001 (0.000)    | 0.015 (0.001)    | 1 (0.166) |     2.46 | JonY BoY, MRN1, nbl, roy, tutehen |
+|            4 |     6196 | 2023-11-30 | Dusty Roots        | W   | 0.152      | 0.284        | 0.005 (0.000)    | 0.352 (0.015)    | 0 (0.000) |     2.76 | JonY BoY, MRN1, nbl, roy, tutehen |
+|            3 |     6232 | 2023-11-29 | Maycam Evolve      | W   | 0.147      | 0.284        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     0.99 | JonY BoY, MRN1, nbl, roy, tutehen |
+|            2 |     6287 | 2023-11-28 | River Plate Gaming | L   | 0.141      | -            | -                | -                | -         |    -2.34 | JonY BoY, MRN1, nbl, roy, tutehen |
+|            1 |     6345 | 2023-11-27 | Daotsu Esports     | W   | 0.134      | 0.284        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.90 | JonY BoY, MRN1, nbl, roy, tutehen |
 
 <br />
 <span id="table2"></span><br />

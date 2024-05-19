@@ -34,35 +34,35 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                        |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           27 |      447 | 2024-04-26 | Rooster                     | L   | 1.000      | -            | -                | -                | -             |    -8.63 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs     |
-|           26 |      454 | 2024-04-25 | MIBR                        | L   | 1.000      | -            | -                | -                | -             |    -0.19 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs     |
-|           25 |      959 | 2024-04-17 | Mindfreak (Australian team) | L   | 1.000      | -            | -                | -                | -             |   -12.66 | Hassie, Jynx, KRAXYT, Mingovi, Samuukxs       |
-|           24 |      980 | 2024-04-17 | Altered Edge                | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.138 (0.020)    | false (0.000) |    13.69 | Hassie, Jynx, KRAXYT, Mingovi, Samuukxs       |
-|           23 |     1247 | 2024-04-10 | Canon Event                 | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.035 (0.012)    | false (0.000) |     4.36 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           22 |     1253 | 2024-04-10 | Canon Event                 | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.035 (0.012)    | false (0.000) |     4.55 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           21 |     1551 | 2024-04-03 | Vantage Esports             | L   | 0.983      | -            | -                | -                | -             |   -17.44 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           20 |     1559 | 2024-04-03 | Vantage Esports             | L   | 0.983      | -            | -                | -                | -             |   -18.96 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           19 |     1921 | 2024-03-23 | VexX Gaming                 | W   | 0.909      | 0.143        | 0.010 (0.001)    | 0.390 (0.051)    | true (0.909)  |    16.15 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           18 |     1924 | 2024-03-23 | DXA Esports                 | L   | 0.909      | -            | -                | -                | -             |   -14.62 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           17 |     2109 | 2024-03-18 | VexX Gaming                 | W   | 0.876      | 0.143        | 0.010 (0.001)    | 0.390 (0.049)    | false (0.000) |    16.55 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           16 |     2236 | 2024-03-15 | VexX Gaming                 | L   | 0.856      | -            | -                | -                | -             |   -11.00 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           15 |     2286 | 2024-03-14 | LE-LUX Esports              | W   | 0.849      | 0.143        | 0.001 (0.000)    | 0.114 (0.014)    | false (0.000) |     9.89 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           14 |     2650 | 2024-03-06 | VexX Gaming                 | L   | 0.797      | -            | -                | -                | -             |   -10.89 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           13 |     2653 | 2024-03-06 | VexX Gaming                 | L   | 0.796      | -            | -                | -                | -             |   -11.68 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
-|           12 |     3378 | 2024-02-20 | Altered Edge                | L   | 0.696      | -            | -                | -                | -             |   -13.00 | dpr, Hassie, KZXL, Mingovi, Samuukxs          |
-|           11 |     3384 | 2024-02-19 | Underground Esports Club    | W   | 0.696      | 0.143        | 0.000 (0.000)    | 0.112 (0.011)    | false (0.000) |     6.22 | dpr, Hassie, KZXL, Mingovi, Samuukxs          |
-|           10 |     3468 | 2024-02-18 | VexX Gaming                 | L   | 0.683      | -            | -                | -                | -             |   -11.10 | dpr, Hassie, Lexon, Mingovi, Samuukxs         |
-|            9 |     3609 | 2024-02-14 | Vantage Esports             | W   | 0.662      | 0.143        | 0.000 (0.000)    | 0.236 (0.022)    | false (0.000) |     6.28 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
-|            8 |     3657 | 2024-02-13 | Mindfreak (Australian team) | W   | 0.656      | 0.143        | 0.001 (0.000)    | 0.299 (0.028)    | false (0.000) |     9.73 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
-|            7 |     3696 | 2024-02-13 | TEAM RKON                   | W   | 0.649      | 0.143        | -                | 0.092 (0.009)    | false (0.000) |     4.54 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
-|            6 |     3702 | 2024-02-12 | Golf Club                   | W   | 0.649      | 0.143        | 0.000 (0.000)    | -                | -             |     6.55 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
-|            5 |     3761 | 2024-02-11 | Mindfreak (Australian team) | L   | 0.636      | -            | -                | -                | -             |   -10.57 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
-|            4 |     4404 | 2024-01-24 | Vantage Esports             | L   | 0.516      | -            | -                | -                | -             |   -11.41 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
-|            3 |     4842 | 2024-01-15 | Mindfreak (Australian team) | L   | 0.456      | -            | -                | -                | -             |    -8.25 | constantinos, Hassie, Mingovi, pain, Samuukxs |
-|            2 |     4966 | 2024-01-11 | 500x                        | L   | 0.435      | -            | -                | -                | -             |   -10.98 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
-|            1 |     6755 | 2023-11-17 | Rooster                     | L   | 0.069      | -            | -                | -                | -             |    -0.82 | alecc, KRAXYT, Mingovi, Omichella, Samuukxs   |
+|           27 |      447 | 2024-04-26 | Rooster                     | L   | 1.000      | -            | -                | -                | -         |    -8.63 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs     |
+|           26 |      454 | 2024-04-25 | MIBR                        | L   | 1.000      | -            | -                | -                | -         |    -0.19 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs     |
+|           25 |      959 | 2024-04-17 | Mindfreak (Australian team) | L   | 1.000      | -            | -                | -                | -         |   -12.66 | Hassie, Jynx, KRAXYT, Mingovi, Samuukxs       |
+|           24 |      980 | 2024-04-17 | Altered Edge                | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.138 (0.020)    | 0 (0.000) |    13.69 | Hassie, Jynx, KRAXYT, Mingovi, Samuukxs       |
+|           23 |     1247 | 2024-04-10 | Canon Event                 | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.035 (0.012)    | 0 (0.000) |     4.36 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           22 |     1253 | 2024-04-10 | Canon Event                 | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.035 (0.012)    | 0 (0.000) |     4.55 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           21 |     1551 | 2024-04-03 | Vantage Esports             | L   | 0.983      | -            | -                | -                | -         |   -17.44 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           20 |     1559 | 2024-04-03 | Vantage Esports             | L   | 0.983      | -            | -                | -                | -         |   -18.96 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           19 |     1921 | 2024-03-23 | VexX Gaming                 | W   | 0.909      | 0.143        | 0.010 (0.001)    | 0.390 (0.051)    | 1 (0.909) |    16.15 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           18 |     1924 | 2024-03-23 | DXA Esports                 | L   | 0.909      | -            | -                | -                | -         |   -14.62 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           17 |     2109 | 2024-03-18 | VexX Gaming                 | W   | 0.876      | 0.143        | 0.010 (0.001)    | 0.390 (0.049)    | 0 (0.000) |    16.55 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           16 |     2236 | 2024-03-15 | VexX Gaming                 | L   | 0.856      | -            | -                | -                | -         |   -11.00 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           15 |     2286 | 2024-03-14 | LE-LUX Esports              | W   | 0.849      | 0.143        | 0.001 (0.000)    | 0.114 (0.014)    | 0 (0.000) |     9.89 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           14 |     2650 | 2024-03-06 | VexX Gaming                 | L   | 0.797      | -            | -                | -                | -         |   -10.89 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           13 |     2653 | 2024-03-06 | VexX Gaming                 | L   | 0.796      | -            | -                | -                | -         |   -11.68 | Hassie, KRAXYT, KZXL, Mingovi, Samuukxs       |
+|           12 |     3378 | 2024-02-20 | Altered Edge                | L   | 0.696      | -            | -                | -                | -         |   -13.00 | dpr, Hassie, KZXL, Mingovi, Samuukxs          |
+|           11 |     3384 | 2024-02-19 | Underground Esports Club    | W   | 0.696      | 0.143        | 0.000 (0.000)    | 0.112 (0.011)    | 0 (0.000) |     6.22 | dpr, Hassie, KZXL, Mingovi, Samuukxs          |
+|           10 |     3468 | 2024-02-18 | VexX Gaming                 | L   | 0.683      | -            | -                | -                | -         |   -11.10 | dpr, Hassie, Lexon, Mingovi, Samuukxs         |
+|            9 |     3609 | 2024-02-14 | Vantage Esports             | W   | 0.662      | 0.143        | 0.000 (0.000)    | 0.236 (0.022)    | 0 (0.000) |     6.28 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
+|            8 |     3657 | 2024-02-13 | Mindfreak (Australian team) | W   | 0.656      | 0.143        | 0.001 (0.000)    | 0.299 (0.028)    | 0 (0.000) |     9.73 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
+|            7 |     3696 | 2024-02-13 | TEAM RKON                   | W   | 0.649      | 0.143        | -                | 0.092 (0.009)    | 0 (0.000) |     4.54 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
+|            6 |     3702 | 2024-02-12 | Golf Club                   | W   | 0.649      | 0.143        | 0.000 (0.000)    | -                | -         |     6.55 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
+|            5 |     3761 | 2024-02-11 | Mindfreak (Australian team) | L   | 0.636      | -            | -                | -                | -         |   -10.57 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
+|            4 |     4404 | 2024-01-24 | Vantage Esports             | L   | 0.516      | -            | -                | -                | -         |   -11.41 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
+|            3 |     4842 | 2024-01-15 | Mindfreak (Australian team) | L   | 0.456      | -            | -                | -                | -         |    -8.25 | constantinos, Hassie, Mingovi, pain, Samuukxs |
+|            2 |     4966 | 2024-01-11 | 500x                        | L   | 0.435      | -            | -                | -                | -         |   -10.98 | Hassie, KZXL, Mingovi, pain, Samuukxs         |
+|            1 |     6755 | 2023-11-17 | Rooster                     | L   | 0.069      | -            | -                | -                | -         |    -0.82 | alecc, KRAXYT, Mingovi, Omichella, Samuukxs   |
 
 <br />
 <span id="table2"></span><br />

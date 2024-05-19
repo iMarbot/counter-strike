@@ -34,27 +34,27 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                         |
+| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           19 |       25 | 2024-05-05 | FlyQuest                 | L   | 1.000      | -            | -                | -                | -             |    -6.34 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
-|           18 |       60 | 2024-05-04 | HEROIC                   | W   | 1.000      | 0.889        | 0.243 (0.216)    | 0.537 (0.478)    | true (1.000)  |    29.01 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
-|           17 |      101 | 2024-05-03 | BOSS                     | W   | 1.000      | 0.889        | 0.051 (0.045)    | 0.293 (0.260)    | true (1.000)  |     6.04 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
-|           16 |      150 | 2024-05-02 | Pera Esports             | L   | 1.000      | -            | -                | -                | -             |   -25.38 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
-|           15 |      243 | 2024-04-30 | HEROIC                   | L   | 1.000      | -            | -                | -                | -             |    -1.98 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
-|           14 |      931 | 2024-04-17 | 3DMAX                    | W   | 1.000      | 0.143        | 0.062 (0.009)    | 0.393 (0.056)    | false (0.000) |     7.85 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|           13 |     1146 | 2024-04-12 | OG                       | L   | 1.000      | -            | -                | -                | -             |    -7.99 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|           12 |     1177 | 2024-04-11 | BetBoom Team             | L   | 1.000      | -            | -                | -                | -             |    -6.35 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|           11 |     1286 | 2024-04-09 | Gods Reign               | W   | 1.000      | 0.687        | 0.174 (0.120)    | 0.479 (0.329)    | false (0.000) |     5.71 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|           10 |     1481 | 2024-04-04 | Aurora Gaming            | L   | 0.992      | -            | -                | -                | -             |    -3.47 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            9 |     1496 | 2024-04-04 | Metizport                | W   | 0.991      | 0.143        | 0.188 (0.027)    | 1.000 (0.142)    | false (0.000) |    15.36 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            8 |     1531 | 2024-04-03 | Aurora Gaming            | L   | 0.985      | -            | -                | -                | -             |    -3.30 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            7 |     1556 | 2024-04-03 | Team Sampi               | L   | 0.983      | -            | -                | -                | -             |   -21.56 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            6 |     1574 | 2024-04-02 | BLESSED (Ukrainian team) | W   | 0.978      | 0.143        | 0.018 (0.003)    | 0.781 (0.109)    | false (0.000) |     8.10 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            5 |     1583 | 2024-04-02 | Monte                    | W   | 0.977      | 0.143        | 0.199 (0.028)    | 0.378 (0.053)    | false (0.000) |    21.90 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            4 |     1729 | 2024-03-27 | 500                      | W   | 0.939      | 0.143        | -                | 0.660 (0.089)    | false (0.000) |     7.08 | alex, BluePho3nix, maxster, REZ, Silence       |
-|            3 |     1738 | 2024-03-27 | Verdant                  | W   | 0.939      | 0.143        | 0.027 (0.004)    | 0.662 (0.089)    | false (0.000) |     6.91 | alex, BluePho3nix, maxster, REZ, Silence       |
-|            2 |     1752 | 2024-03-27 | Raptors Esports Club     | W   | 0.938      | 0.143        | 0.017 (0.002)    | -                | false (0.000) |     5.26 | alex, BluePho3nix, maxster, REZ, Silence       |
-|            1 |     1805 | 2024-03-26 | Zero Tenacity            | W   | 0.932      | 0.143        | 0.095 (0.013)    | 1.000 (0.133)    | -             |     7.95 | alex, BluePho3nix, maxster, REZ, Silence       |
+|           19 |       25 | 2024-05-05 | FlyQuest                 | L   | 1.000      | -            | -                | -                | -         |    -6.34 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
+|           18 |       60 | 2024-05-04 | HEROIC                   | W   | 1.000      | 0.889        | 0.243 (0.216)    | 0.537 (0.478)    | 1 (1.000) |    29.01 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
+|           17 |      101 | 2024-05-03 | BOSS                     | W   | 1.000      | 0.889        | 0.051 (0.045)    | 0.293 (0.260)    | 1 (1.000) |     6.04 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
+|           16 |      150 | 2024-05-02 | Pera Esports             | L   | 1.000      | -            | -                | -                | -         |   -25.38 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
+|           15 |      243 | 2024-04-30 | HEROIC                   | L   | 1.000      | -            | -                | -                | -         |    -1.98 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
+|           14 |      931 | 2024-04-17 | 3DMAX                    | W   | 1.000      | 0.143        | 0.062 (0.009)    | 0.393 (0.056)    | 0 (0.000) |     7.85 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|           13 |     1146 | 2024-04-12 | OG                       | L   | 1.000      | -            | -                | -                | -         |    -7.99 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|           12 |     1177 | 2024-04-11 | BetBoom Team             | L   | 1.000      | -            | -                | -                | -         |    -6.35 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|           11 |     1286 | 2024-04-09 | Gods Reign               | W   | 1.000      | 0.687        | 0.174 (0.120)    | 0.479 (0.329)    | 0 (0.000) |     5.71 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|           10 |     1481 | 2024-04-04 | Aurora Gaming            | L   | 0.992      | -            | -                | -                | -         |    -3.47 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            9 |     1496 | 2024-04-04 | Metizport                | W   | 0.991      | 0.143        | 0.188 (0.027)    | 1.000 (0.142)    | 0 (0.000) |    15.36 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            8 |     1531 | 2024-04-03 | Aurora Gaming            | L   | 0.985      | -            | -                | -                | -         |    -3.30 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            7 |     1556 | 2024-04-03 | Team Sampi               | L   | 0.983      | -            | -                | -                | -         |   -21.56 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            6 |     1574 | 2024-04-02 | BLESSED (Ukrainian team) | W   | 0.978      | 0.143        | 0.018 (0.003)    | 0.781 (0.109)    | 0 (0.000) |     8.10 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            5 |     1583 | 2024-04-02 | Monte                    | W   | 0.977      | 0.143        | 0.199 (0.028)    | 0.378 (0.053)    | 0 (0.000) |    21.90 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            4 |     1729 | 2024-03-27 | 500                      | W   | 0.939      | 0.143        | -                | 0.660 (0.089)    | 0 (0.000) |     7.08 | alex, BluePho3nix, maxster, REZ, Silence       |
+|            3 |     1738 | 2024-03-27 | Verdant                  | W   | 0.939      | 0.143        | 0.027 (0.004)    | 0.662 (0.089)    | 0 (0.000) |     6.91 | alex, BluePho3nix, maxster, REZ, Silence       |
+|            2 |     1752 | 2024-03-27 | Raptors Esports Club     | W   | 0.938      | 0.143        | 0.017 (0.002)    | -                | 0 (0.000) |     5.26 | alex, BluePho3nix, maxster, REZ, Silence       |
+|            1 |     1805 | 2024-03-26 | Zero Tenacity            | W   | 0.932      | 0.143        | 0.095 (0.013)    | 1.000 (0.133)    | -         |     7.95 | alex, BluePho3nix, maxster, REZ, Silence       |
 
 <br />
 <span id="table2"></span><br />

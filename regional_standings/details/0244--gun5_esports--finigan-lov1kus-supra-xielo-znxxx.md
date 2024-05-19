@@ -34,25 +34,25 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                    |
+| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |     4697 | 2024-01-17 | Sprout                   | L   | 0.473      | -            | -                | -                | -             |   -10.83 | FinigaN, lov1kus, supra, xiELO, znxxX     |
-|           16 |     4711 | 2024-01-17 | VaselineWorms            | W   | 0.473      | 0.143        | 0.001 (0.000)    | 0.164 (0.011)    | false (0.000) |     7.34 | FinigaN, lov1kus, supra, xiELO, znxxX     |
-|           15 |     4730 | 2024-01-17 | Ex-KRC Genk Esports      | W   | 0.472      | 0.143        | 0.008 (0.001)    | 0.181 (0.012)    | false (0.000) |    10.25 | FinigaN, lov1kus, supra, xiELO, znxxX     |
-|           14 |     4789 | 2024-01-16 | Endpoint                 | L   | 0.466      | -            | -                | -                | -             |    -3.95 | FinigaN, lov1kus, supra, xiELO, znxxX     |
-|           13 |     4814 | 2024-01-16 | 777 Esports              | W   | 0.465      | 0.143        | 0.032 (0.002)    | 0.550 (0.037)    | false (0.000) |     9.11 | FinigaN, lov1kus, supra, xiELO, znxxX     |
-|           12 |     5044 | 2024-01-10 | HEROIC                   | L   | 0.426      | -            | -                | -                | -             |    -0.04 | FinigaN, lov1kus, supra, xiELO, znxxX     |
-|           11 |     5061 | 2024-01-10 | BLESSED (Ukrainian team) | W   | 0.426      | 0.143        | 0.018 (0.001)    | 0.781 (0.047)    | false (0.000) |     9.84 | FinigaN, lov1kus, supra, xiELO, znxxX     |
-|           10 |     5314 | 2023-12-19 | Pera Esports             | L   | 0.278      | -            | -                | -                | -             |    -1.55 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
-|            9 |     5316 | 2023-12-19 | Metizport                | L   | 0.277      | -            | -                | -                | -             |    -1.01 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
-|            8 |     5320 | 2023-12-19 | Soda Gaming              | W   | 0.277      | 0.333        | 0.009 (0.001)    | 0.182 (0.017)    | false (0.000) |     5.80 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
-|            7 |     5453 | 2023-12-16 | EYEBALLERS               | L   | 0.259      | -            | -                | -                | -             |    -1.24 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
-|            6 |     6710 | 2023-11-18 | Team Spirit Academy      | L   | 0.072      | -            | -                | -                | -             |    -0.67 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
-|            5 |     7017 | 2023-11-12 | Entropiq                 | W   | 0.030      | 0.143        | 0.001 (0.000)    | 0.436 (0.002)    | false (0.000) |     0.65 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
-|            4 |     7073 | 2023-11-11 | GenOne                   | W   | 0.023      | 0.143        | 0.000 (0.000)    | 0.035 (0.000)    | false (0.000) |     0.34 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
-|            3 |     7118 | 2023-11-09 | Insilio                  | W   | 0.013      | 0.143        | 0.020 (0.000)    | 0.875 (0.002)    | false (0.000) |     0.34 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
-|            2 |     7120 | 2023-11-09 | Nemiga Gaming            | W   | 0.013      | 0.143        | 0.680 (0.001)    | 0.910 (0.002)    | false (0.000) |     0.39 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
-|            1 |     7128 | 2023-11-09 | Verdant                  | L   | 0.012      | -            | -                | -                | -             |    -0.04 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
+|           17 |     4697 | 2024-01-17 | Sprout                   | L   | 0.473      | -            | -                | -                | -         |   -10.83 | FinigaN, lov1kus, supra, xiELO, znxxX     |
+|           16 |     4711 | 2024-01-17 | VaselineWorms            | W   | 0.473      | 0.143        | 0.001 (0.000)    | 0.164 (0.011)    | 0 (0.000) |     7.34 | FinigaN, lov1kus, supra, xiELO, znxxX     |
+|           15 |     4730 | 2024-01-17 | Ex-KRC Genk Esports      | W   | 0.472      | 0.143        | 0.008 (0.001)    | 0.181 (0.012)    | 0 (0.000) |    10.25 | FinigaN, lov1kus, supra, xiELO, znxxX     |
+|           14 |     4789 | 2024-01-16 | Endpoint                 | L   | 0.466      | -            | -                | -                | -         |    -3.95 | FinigaN, lov1kus, supra, xiELO, znxxX     |
+|           13 |     4814 | 2024-01-16 | 777 Esports              | W   | 0.465      | 0.143        | 0.032 (0.002)    | 0.550 (0.037)    | 0 (0.000) |     9.11 | FinigaN, lov1kus, supra, xiELO, znxxX     |
+|           12 |     5044 | 2024-01-10 | HEROIC                   | L   | 0.426      | -            | -                | -                | -         |    -0.04 | FinigaN, lov1kus, supra, xiELO, znxxX     |
+|           11 |     5061 | 2024-01-10 | BLESSED (Ukrainian team) | W   | 0.426      | 0.143        | 0.018 (0.001)    | 0.781 (0.047)    | 0 (0.000) |     9.84 | FinigaN, lov1kus, supra, xiELO, znxxX     |
+|           10 |     5314 | 2023-12-19 | Pera Esports             | L   | 0.278      | -            | -                | -                | -         |    -1.55 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
+|            9 |     5316 | 2023-12-19 | Metizport                | L   | 0.277      | -            | -                | -                | -         |    -1.01 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
+|            8 |     5320 | 2023-12-19 | Soda Gaming              | W   | 0.277      | 0.333        | 0.009 (0.001)    | 0.182 (0.017)    | 0 (0.000) |     5.80 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
+|            7 |     5453 | 2023-12-16 | EYEBALLERS               | L   | 0.259      | -            | -                | -                | -         |    -1.24 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
+|            6 |     6710 | 2023-11-18 | Team Spirit Academy      | L   | 0.072      | -            | -                | -                | -         |    -0.67 | FinigaN, lov1kus, ResoLuxe, supra, xiELO  |
+|            5 |     7017 | 2023-11-12 | Entropiq                 | W   | 0.030      | 0.143        | 0.001 (0.000)    | 0.436 (0.002)    | 0 (0.000) |     0.65 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
+|            4 |     7073 | 2023-11-11 | GenOne                   | W   | 0.023      | 0.143        | 0.000 (0.000)    | 0.035 (0.000)    | 0 (0.000) |     0.34 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
+|            3 |     7118 | 2023-11-09 | Insilio                  | W   | 0.013      | 0.143        | 0.020 (0.000)    | 0.875 (0.002)    | 0 (0.000) |     0.34 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
+|            2 |     7120 | 2023-11-09 | Nemiga Gaming            | W   | 0.013      | 0.143        | 0.680 (0.001)    | 0.910 (0.002)    | 0 (0.000) |     0.39 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
+|            1 |     7128 | 2023-11-09 | Verdant                  | L   | 0.012      | -            | -                | -                | -         |    -0.04 | FinigaN, L1GH7n1nG, lov1kus, supra, xiELO |
 
 <br />
 <span id="table2"></span><br />

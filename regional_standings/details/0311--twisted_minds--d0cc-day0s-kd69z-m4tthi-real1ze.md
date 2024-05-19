@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                        |
+| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     3051 | 2024-02-26 | JiJieHao                  | L   | 0.741      | -            | -                | -                | -             |   -12.45 | D0cC, day0s, KD69z, m4tthi, REAL1ZE           |
-|           10 |     3085 | 2024-02-25 | Lynn Vision Gaming        | L   | 0.735      | -            | -                | -                | -             |    -0.68 | D0cC, day0s, KD69z, m4tthi, REAL1ZE           |
-|            9 |     4214 | 2024-01-28 | JiJieHao                  | L   | 0.545      | -            | -                | -                | -             |    -9.96 | D0cC, day0s, KD69z, m4tthi, SpAwNnS           |
-|            8 |     4263 | 2024-01-27 | Bravado Gaming            | W   | 0.539      | 0.143        | 0.000 (0.000)    | 0.048 (0.004)    | false (0.000) |     8.37 | D0cC, day0s, KD69z, m4tthi, SpAwNnS           |
-|            7 |     4273 | 2024-01-27 | Nixuh                     | W   | 0.538      | 0.143        | 0.004 (0.000)    | 0.115 (0.009)    | false (0.000) |     9.49 | D0cC, day0s, KD69z, m4tthi, SpAwNnS           |
-|            6 |     4322 | 2024-01-26 | JiJieHao                  | L   | 0.531      | -            | -                | -                | -             |    -9.78 | D0cC, day0s, KD69z, m4tthi, SpAwNnS           |
-|            5 |     4727 | 2024-01-17 | RUBY                      | L   | 0.472      | -            | -                | -                | -             |    -3.00 | D0cC, day0s, KD69z, m4tthi, SpAwNnS           |
-|            4 |     5080 | 2024-01-09 | Major Abusers             | W   | 0.419      | 0.143        | 0.000 (0.000)    | 0.014 (0.001)    | false (0.000) |     4.29 | N0R1, REAL1ZE, Revol, Senpai, x1ron           |
-|            3 |     5124 | 2024-01-09 | 15 Average Gaming         | L   | 0.418      | -            | -                | -                | -             |    -8.59 | Joker, Lambdacore, Maxwell, Qweall, Ruskovvvv |
-|            2 |     5149 | 2024-01-08 | PLASMA RAPID              | W   | 0.412      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.92 | B1zaaD, Djme1ster, ShizzleS, SoLiD, Zinou     |
-|            1 |     5587 | 2023-12-15 | Nevermind (Algerian team) | W   | 0.251      | 0.249        | 0.001 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.90 | D0cC, day0s, Fessor, KD69z, SpAwNnS           |
+|           11 |     3051 | 2024-02-26 | JiJieHao                  | L   | 0.741      | -            | -                | -                | -         |   -12.45 | D0cC, day0s, KD69z, m4tthi, REAL1ZE           |
+|           10 |     3085 | 2024-02-25 | Lynn Vision Gaming        | L   | 0.735      | -            | -                | -                | -         |    -0.68 | D0cC, day0s, KD69z, m4tthi, REAL1ZE           |
+|            9 |     4214 | 2024-01-28 | JiJieHao                  | L   | 0.545      | -            | -                | -                | -         |    -9.96 | D0cC, day0s, KD69z, m4tthi, SpAwNnS           |
+|            8 |     4263 | 2024-01-27 | Bravado Gaming            | W   | 0.539      | 0.143        | 0.000 (0.000)    | 0.048 (0.004)    | 0 (0.000) |     8.37 | D0cC, day0s, KD69z, m4tthi, SpAwNnS           |
+|            7 |     4273 | 2024-01-27 | Nixuh                     | W   | 0.538      | 0.143        | 0.004 (0.000)    | 0.115 (0.009)    | 0 (0.000) |     9.49 | D0cC, day0s, KD69z, m4tthi, SpAwNnS           |
+|            6 |     4322 | 2024-01-26 | JiJieHao                  | L   | 0.531      | -            | -                | -                | -         |    -9.78 | D0cC, day0s, KD69z, m4tthi, SpAwNnS           |
+|            5 |     4727 | 2024-01-17 | RUBY                      | L   | 0.472      | -            | -                | -                | -         |    -3.00 | D0cC, day0s, KD69z, m4tthi, SpAwNnS           |
+|            4 |     5080 | 2024-01-09 | Major Abusers             | W   | 0.419      | 0.143        | 0.000 (0.000)    | 0.014 (0.001)    | 0 (0.000) |     4.29 | N0R1, REAL1ZE, Revol, Senpai, x1ron           |
+|            3 |     5124 | 2024-01-09 | 15 Average Gaming         | L   | 0.418      | -            | -                | -                | -         |    -8.59 | Joker, Lambdacore, Maxwell, Qweall, Ruskovvvv |
+|            2 |     5149 | 2024-01-08 | PLASMA RAPID              | W   | 0.412      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.92 | B1zaaD, Djme1ster, ShizzleS, SoLiD, Zinou     |
+|            1 |     5587 | 2023-12-15 | Nevermind (Algerian team) | W   | 0.251      | 0.249        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.90 | D0cC, day0s, Fessor, KD69z, SpAwNnS           |
 
 <br />
 <span id="table2"></span><br />

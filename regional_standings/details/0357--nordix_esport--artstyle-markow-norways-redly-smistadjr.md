@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                      |
+| Match Played | Match ID | Date       | Opponent                        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |      310 | 2024-04-28 | Vanir                           | L   | 1.000      | -            | -                | -                | -             |   -18.56 | artstyle, markow, Norways, Redly, Smistadjr |
-|           14 |      610 | 2024-04-22 | INFURITY Gaming                 | L   | 1.000      | -            | -                | -                | -             |   -14.12 | artstyle, markow, Norways, Redly, Smistadjr |
-|           13 |      651 | 2024-04-21 | En av de lette                  | L   | 1.000      | -            | -                | -                | -             |    -5.06 | artstyle, markow, Norways, Redly, Smistadjr |
-|           12 |     1048 | 2024-04-15 | Apeks Legends                   | L   | 1.000      | -            | -                | -                | -             |   -18.29 | artstyle, markow, Norways, Redly, Smistadjr |
-|           11 |     1227 | 2024-04-10 | Metizport X                     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.300 (0.043)    | false (0.000) |    20.25 | artstyle, markow, Norways, Redly, Smistadjr |
-|           10 |     2087 | 2024-03-18 | 777 Esports                     | L   | 0.879      | -            | -                | -                | -             |    -4.18 | artstyle, markow, Norways, Redly, Smistadjr |
-|            9 |     2140 | 2024-03-17 | En av de lette                  | L   | 0.871      | -            | -                | -                | -             |    -4.57 | artstyle, markow, Norways, Redly, Smistadjr |
-|            8 |     2167 | 2024-03-16 | Static                          | W   | 0.865      | 0.143        | 0.000 (0.000)    | 0.226 (0.028)    | false (0.000) |    15.05 | artstyle, markow, Norways, Redly, Smistadjr |
-|            7 |     2316 | 2024-03-13 | Center Gaming                   | W   | 0.845      | 0.143        | 0.000 (0.000)    | 0.028 (0.003)    | false (0.000) |    11.66 | artstyle, markow, Norways, Redly, Smistadjr |
-|            6 |     2373 | 2024-03-12 | Foxed Gaming                    | W   | 0.838      | 0.143        | 0.000 (0.000)    | 0.114 (0.014)    | false (0.000) |    11.52 | artstyle, markow, Norways, Redly, Smistadjr |
-|            5 |     2416 | 2024-03-11 | Foxed Gaming                    | W   | 0.832      | 0.143        | 0.000 (0.000)    | 0.114 (0.014)    | false (0.000) |    12.31 | artstyle, markow, Norways, Redly, Smistadjr |
-|            4 |     2612 | 2024-03-06 | En av de lette                  | L   | 0.799      | -            | -                | -                | -             |    -3.53 | artstyle, markow, Norways, Redly, Smistadjr |
-|            3 |     2760 | 2024-03-04 | Bitfix Gaming                   | W   | 0.785      | 0.143        | 0.000 (0.000)    | 0.031 (0.003)    | false (0.000) |    11.39 | artstyle, markow, Norways, Redly, Smistadjr |
-|            2 |     3721 | 2024-02-12 | Wizard esports (Norwegian team) | L   | 0.645      | -            | -                | -                | -             |   -10.69 | artstyle, markow, Norways, Redly, Smistadjr |
-|            1 |     3896 | 2024-02-05 | Static                          | W   | 0.598      | 0.143        | 0.000 (0.000)    | 0.226 (0.019)    | false (0.000) |    12.03 | artstyle, markow, Norways, Redly, Smistadjr |
+|           15 |      310 | 2024-04-28 | Vanir                           | L   | 1.000      | -            | -                | -                | -         |   -18.56 | artstyle, markow, Norways, Redly, Smistadjr |
+|           14 |      610 | 2024-04-22 | INFURITY Gaming                 | L   | 1.000      | -            | -                | -                | -         |   -14.12 | artstyle, markow, Norways, Redly, Smistadjr |
+|           13 |      651 | 2024-04-21 | En av de lette                  | L   | 1.000      | -            | -                | -                | -         |    -5.06 | artstyle, markow, Norways, Redly, Smistadjr |
+|           12 |     1048 | 2024-04-15 | Apeks Legends                   | L   | 1.000      | -            | -                | -                | -         |   -18.29 | artstyle, markow, Norways, Redly, Smistadjr |
+|           11 |     1227 | 2024-04-10 | Metizport X                     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.300 (0.043)    | 0 (0.000) |    20.25 | artstyle, markow, Norways, Redly, Smistadjr |
+|           10 |     2087 | 2024-03-18 | 777 Esports                     | L   | 0.879      | -            | -                | -                | -         |    -4.18 | artstyle, markow, Norways, Redly, Smistadjr |
+|            9 |     2140 | 2024-03-17 | En av de lette                  | L   | 0.871      | -            | -                | -                | -         |    -4.57 | artstyle, markow, Norways, Redly, Smistadjr |
+|            8 |     2167 | 2024-03-16 | Static                          | W   | 0.865      | 0.143        | 0.000 (0.000)    | 0.226 (0.028)    | 0 (0.000) |    15.05 | artstyle, markow, Norways, Redly, Smistadjr |
+|            7 |     2316 | 2024-03-13 | Center Gaming                   | W   | 0.845      | 0.143        | 0.000 (0.000)    | 0.028 (0.003)    | 0 (0.000) |    11.66 | artstyle, markow, Norways, Redly, Smistadjr |
+|            6 |     2373 | 2024-03-12 | Foxed Gaming                    | W   | 0.838      | 0.143        | 0.000 (0.000)    | 0.114 (0.014)    | 0 (0.000) |    11.52 | artstyle, markow, Norways, Redly, Smistadjr |
+|            5 |     2416 | 2024-03-11 | Foxed Gaming                    | W   | 0.832      | 0.143        | 0.000 (0.000)    | 0.114 (0.014)    | 0 (0.000) |    12.31 | artstyle, markow, Norways, Redly, Smistadjr |
+|            4 |     2612 | 2024-03-06 | En av de lette                  | L   | 0.799      | -            | -                | -                | -         |    -3.53 | artstyle, markow, Norways, Redly, Smistadjr |
+|            3 |     2760 | 2024-03-04 | Bitfix Gaming                   | W   | 0.785      | 0.143        | 0.000 (0.000)    | 0.031 (0.003)    | 0 (0.000) |    11.39 | artstyle, markow, Norways, Redly, Smistadjr |
+|            2 |     3721 | 2024-02-12 | Wizard esports (Norwegian team) | L   | 0.645      | -            | -                | -                | -         |   -10.69 | artstyle, markow, Norways, Redly, Smistadjr |
+|            1 |     3896 | 2024-02-05 | Static                          | W   | 0.598      | 0.143        | 0.000 (0.000)    | 0.226 (0.019)    | 0 (0.000) |    12.03 | artstyle, markow, Norways, Redly, Smistadjr |
 
 <br />
 <span id="table2"></span><br />

@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                             |
+| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      624 | 2024-04-21 | Walmart Door Greeters | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.035 (0.005)    | true (1.000)  |    12.53 | Cyrix, Lake, Momo, Pluto, Tender   |
-|            9 |      628 | 2024-04-21 | Strife Esports        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | true (1.000)  |     3.58 | Cyrix, Lake, Momo, Pluto, Tender   |
-|            8 |     4867 | 2024-01-14 | Elevate               | L   | 0.453      | -            | -                | -                | -             |    -6.62 | Momo, onter, Pluto, Tender, WOOHOO |
-|            7 |     4906 | 2024-01-12 | Rocket                | L   | 0.442      | -            | -                | -                | -             |    -8.27 | Calix, Momo, onter, Pluto, Tender  |
-|            6 |     4912 | 2024-01-12 | BOSS                  | L   | 0.441      | -            | -                | -                | -             |    -4.57 | Calix, Momo, onter, Pluto, Tender  |
-|            5 |     4954 | 2024-01-12 | Rocket                | L   | 0.436      | -            | -                | -                | -             |    -8.54 | Calix, Momo, onter, Pluto, Tender  |
-|            4 |     4959 | 2024-01-11 | FLUFFY AIMERS         | W   | 0.436      | 0.143        | 0.004 (0.000)    | 0.103 (0.006)    | false (0.000) |     5.17 | Calix, Momo, onter, Pluto, Tender  |
-|            3 |     4979 | 2024-01-11 | Take Flyte            | W   | 0.434      | 0.143        | 0.004 (0.000)    | 0.279 (0.017)    | false (0.000) |     5.68 | Calix, Momo, onter, Pluto, Tender  |
-|            2 |     5023 | 2024-01-10 | Team Lampa            | W   | 0.428      | 0.143        | 0.000 (0.000)    | 0.018 (0.001)    | false (0.000) |     2.36 | Calix, Momo, onter, Pluto, Tender  |
-|            1 |     5131 | 2024-01-08 | MOLEGAN               | L   | 0.415      | -            | -                | -                | -             |   -10.83 | Calix, Momo, onter, Pluto, Tender  |
+|           10 |      624 | 2024-04-21 | Walmart Door Greeters | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.035 (0.005)    | 1 (1.000) |    12.53 | Cyrix, Lake, Momo, Pluto, Tender   |
+|            9 |      628 | 2024-04-21 | Strife Esports        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | 1 (1.000) |     3.58 | Cyrix, Lake, Momo, Pluto, Tender   |
+|            8 |     4867 | 2024-01-14 | Elevate               | L   | 0.453      | -            | -                | -                | -         |    -6.62 | Momo, onter, Pluto, Tender, WOOHOO |
+|            7 |     4906 | 2024-01-12 | Rocket                | L   | 0.442      | -            | -                | -                | -         |    -8.27 | Calix, Momo, onter, Pluto, Tender  |
+|            6 |     4912 | 2024-01-12 | BOSS                  | L   | 0.441      | -            | -                | -                | -         |    -4.57 | Calix, Momo, onter, Pluto, Tender  |
+|            5 |     4954 | 2024-01-12 | Rocket                | L   | 0.436      | -            | -                | -                | -         |    -8.54 | Calix, Momo, onter, Pluto, Tender  |
+|            4 |     4959 | 2024-01-11 | FLUFFY AIMERS         | W   | 0.436      | 0.143        | 0.004 (0.000)    | 0.103 (0.006)    | 0 (0.000) |     5.17 | Calix, Momo, onter, Pluto, Tender  |
+|            3 |     4979 | 2024-01-11 | Take Flyte            | W   | 0.434      | 0.143        | 0.004 (0.000)    | 0.279 (0.017)    | 0 (0.000) |     5.68 | Calix, Momo, onter, Pluto, Tender  |
+|            2 |     5023 | 2024-01-10 | Team Lampa            | W   | 0.428      | 0.143        | 0.000 (0.000)    | 0.018 (0.001)    | 0 (0.000) |     2.36 | Calix, Momo, onter, Pluto, Tender  |
+|            1 |     5131 | 2024-01-08 | MOLEGAN               | L   | 0.415      | -            | -                | -                | -         |   -10.83 | Calix, Momo, onter, Pluto, Tender  |
 
 <br />
 <span id="table2"></span><br />

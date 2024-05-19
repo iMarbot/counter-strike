@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |       38 | 2024-05-04 | Limitless Angels     | L   | 1.000      | -            | -                | -                | -             |   -15.33 | ashe, daria, katalyyst, lunari, toasty   |
-|           10 |      791 | 2024-04-19 | FlyQuest RED         | L   | 1.000      | -            | -                | -                | -             |    -8.69 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            9 |     1085 | 2024-04-13 | Shimmer              | L   | 1.000      | -            | -                | -                | -             |   -10.53 | ashe, katalyyst, Knopk@, lunari, toasty  |
-|            8 |     1163 | 2024-04-11 | Limitless Angels     | L   | 1.000      | -            | -                | -                | -             |   -15.28 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            7 |     1718 | 2024-03-27 | Team Karma           | L   | 0.940      | -            | -                | -                | -             |   -14.85 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            6 |     1957 | 2024-03-21 | COVEN                | W   | 0.900      | 0.322        | 0.006 (0.002)    | 0.000 (0.000)    | false (0.000) |     8.39 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            5 |     2161 | 2024-03-16 | Radiant Rebels       | W   | 0.867      | 0.250        | 0.001 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.79 | ashe, jesscas, katalyyst, lunari, Rice   |
-|            4 |     2242 | 2024-03-14 | Shimmer              | L   | 0.854      | -            | -                | -                | -             |   -12.09 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            3 |     2596 | 2024-03-06 | Wanted Goons Bandits | W   | 0.800      | 0.322        | 0.007 (0.002)    | 0.038 (0.010)    | false (0.000) |    11.33 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            2 |     2822 | 2024-03-02 | FlyQuest RED         | L   | 0.774      | -            | -                | -                | -             |   -10.49 | ashe, jesscas, katalyyst, lunari, Rice   |
-|            1 |     3663 | 2024-02-13 | COVEN                | W   | 0.653      | 0.143        | 0.006 (0.001)    | 0.000 (0.000)    | false (0.000) |     6.59 | ashe, jesscas, katalyyst, lunari, Rice   |
+|           11 |       38 | 2024-05-04 | Limitless Angels     | L   | 1.000      | -            | -                | -                | -         |   -15.33 | ashe, daria, katalyyst, lunari, toasty   |
+|           10 |      791 | 2024-04-19 | FlyQuest RED         | L   | 1.000      | -            | -                | -                | -         |    -8.69 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            9 |     1085 | 2024-04-13 | Shimmer              | L   | 1.000      | -            | -                | -                | -         |   -10.53 | ashe, katalyyst, Knopk@, lunari, toasty  |
+|            8 |     1163 | 2024-04-11 | Limitless Angels     | L   | 1.000      | -            | -                | -                | -         |   -15.28 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            7 |     1718 | 2024-03-27 | Team Karma           | L   | 0.940      | -            | -                | -                | -         |   -14.85 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            6 |     1957 | 2024-03-21 | COVEN                | W   | 0.900      | 0.322        | 0.006 (0.002)    | 0.000 (0.000)    | 0 (0.000) |     8.39 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            5 |     2161 | 2024-03-16 | Radiant Rebels       | W   | 0.867      | 0.250        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.79 | ashe, jesscas, katalyyst, lunari, Rice   |
+|            4 |     2242 | 2024-03-14 | Shimmer              | L   | 0.854      | -            | -                | -                | -         |   -12.09 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            3 |     2596 | 2024-03-06 | Wanted Goons Bandits | W   | 0.800      | 0.322        | 0.007 (0.002)    | 0.038 (0.010)    | 0 (0.000) |    11.33 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            2 |     2822 | 2024-03-02 | FlyQuest RED         | L   | 0.774      | -            | -                | -                | -         |   -10.49 | ashe, jesscas, katalyyst, lunari, Rice   |
+|            1 |     3663 | 2024-02-13 | COVEN                | W   | 0.653      | 0.143        | 0.006 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     6.59 | ashe, jesscas, katalyyst, lunari, Rice   |
 
 <br />
 <span id="table2"></span><br />

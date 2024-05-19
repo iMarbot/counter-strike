@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                      |
+| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      980 | 2024-04-17 | KZG                              | L   | 1.000      | -            | -                | -                | -             |   -13.69 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
-|           12 |     1869 | 2024-03-24 | MANTRA                           | L   | 0.916      | -            | -                | -                | -             |   -12.31 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
-|           11 |     1998 | 2024-03-21 | Blitz (Australian team)          | W   | 0.896      | 0.270        | 0.000 (0.000)    | 0.109 (0.026)    | false (0.000) |     8.20 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
-|           10 |     2185 | 2024-03-16 | MANTRA                           | L   | 0.863      | -            | -                | -                | -             |   -12.24 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
-|            9 |     2346 | 2024-03-13 | Arcade Esports (Australian team) | W   | 0.843      | 0.270        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.50 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
-|            8 |     2585 | 2024-03-07 | CSTWO TEAM                       | W   | 0.803      | 0.270        | 0.000 (0.000)    | 0.029 (0.006)    | false (0.000) |     4.61 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
-|            7 |     3377 | 2024-02-20 | VexX Gaming                      | L   | 0.696      | -            | -                | -                | -             |    -8.78 | BROJVHS, Havoc, luffy, Mr Shark, Winnieeeee |
-|            6 |     3378 | 2024-02-20 | KZG                              | W   | 0.696      | 0.143        | 0.020 (0.002)    | 0.249 (0.025)    | false (0.000) |    13.00 | BROJVHS, Havoc, luffy, Mr Shark, Winnieeeee |
-|            5 |     3382 | 2024-02-20 | DXA Esports                      | W   | 0.696      | 0.143        | 0.010 (0.001)    | 0.266 (0.026)    | false (0.000) |    13.16 | BROJVHS, Havoc, luffy, Mr Shark, Winnieeeee |
-|            4 |     3471 | 2024-02-17 | FlyQuest                         | L   | 0.682      | -            | -                | -                | -             |    -0.34 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
-|            3 |     5901 | 2023-12-07 | TEAM RKON                        | L   | 0.196      | -            | -                | -                | -             |    -4.34 | ElephanT, Havoc, Rahley, Scr1pt, Winnieeeee |
-|            2 |     5950 | 2023-12-06 | Golf Club                        | L   | 0.190      | -            | -                | -                | -             |    -3.60 | ElephanT, Havoc, Rahley, Scr1pt, Winnieeeee |
-|            1 |     6227 | 2023-11-30 | Mindfreak (Australian team)      | L   | 0.149      | -            | -                | -                | -             |    -2.32 | ElephanT, Havoc, Rahley, Scr1pt, Winnieeeee |
+|           13 |      980 | 2024-04-17 | KZG                              | L   | 1.000      | -            | -                | -                | -         |   -13.69 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
+|           12 |     1869 | 2024-03-24 | MANTRA                           | L   | 0.916      | -            | -                | -                | -         |   -12.31 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
+|           11 |     1998 | 2024-03-21 | Blitz (Australian team)          | W   | 0.896      | 0.270        | 0.000 (0.000)    | 0.109 (0.026)    | 0 (0.000) |     8.20 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
+|           10 |     2185 | 2024-03-16 | MANTRA                           | L   | 0.863      | -            | -                | -                | -         |   -12.24 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
+|            9 |     2346 | 2024-03-13 | Arcade Esports (Australian team) | W   | 0.843      | 0.270        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.50 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
+|            8 |     2585 | 2024-03-07 | CSTWO TEAM                       | W   | 0.803      | 0.270        | 0.000 (0.000)    | 0.029 (0.006)    | 0 (0.000) |     4.61 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
+|            7 |     3377 | 2024-02-20 | VexX Gaming                      | L   | 0.696      | -            | -                | -                | -         |    -8.78 | BROJVHS, Havoc, luffy, Mr Shark, Winnieeeee |
+|            6 |     3378 | 2024-02-20 | KZG                              | W   | 0.696      | 0.143        | 0.020 (0.002)    | 0.249 (0.025)    | 0 (0.000) |    13.00 | BROJVHS, Havoc, luffy, Mr Shark, Winnieeeee |
+|            5 |     3382 | 2024-02-20 | DXA Esports                      | W   | 0.696      | 0.143        | 0.010 (0.001)    | 0.266 (0.026)    | 0 (0.000) |    13.16 | BROJVHS, Havoc, luffy, Mr Shark, Winnieeeee |
+|            4 |     3471 | 2024-02-17 | FlyQuest                         | L   | 0.682      | -            | -                | -                | -         |    -0.34 | Havoc, Mr Shark, Rahley, Scr1pt, Winnieeeee |
+|            3 |     5901 | 2023-12-07 | TEAM RKON                        | L   | 0.196      | -            | -                | -                | -         |    -4.34 | ElephanT, Havoc, Rahley, Scr1pt, Winnieeeee |
+|            2 |     5950 | 2023-12-06 | Golf Club                        | L   | 0.190      | -            | -                | -                | -         |    -3.60 | ElephanT, Havoc, Rahley, Scr1pt, Winnieeeee |
+|            1 |     6227 | 2023-11-30 | Mindfreak (Australian team)      | L   | 0.149      | -            | -                | -                | -         |    -2.32 | ElephanT, Havoc, Rahley, Scr1pt, Winnieeeee |
 
 <br />
 <span id="table2"></span><br />

@@ -34,42 +34,42 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                      |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           34 |      110 | 2024-05-03 | FURIA Esports               | L   | 1.000      | -            | -                | -                | -             |    -1.70 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           33 |      206 | 2024-05-01 | ENCE                        | L   | 1.000      | -            | -                | -                | -             |    -2.26 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           32 |      251 | 2024-04-30 | MOUZ                        | L   | 1.000      | -            | -                | -                | -             |    -0.17 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           31 |      769 | 2024-04-20 | FlyQuest                    | L   | 1.000      | -            | -                | -                | -             |    -2.17 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           30 |      783 | 2024-04-19 | Rooster                     | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.312 (0.045)    | false (0.000) |    12.54 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           29 |      847 | 2024-04-19 | Mindfreak (Australian team) | W   | 1.000      | 0.143        | -                | 0.299 (0.043)    | false (0.000) |     9.49 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           28 |      856 | 2024-04-18 | Rooster                     | L   | 1.000      | -            | -                | -                | -             |   -17.50 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           27 |     1248 | 2024-04-10 | Rooster                     | W   | 1.000      | 0.333        | 0.031 (0.010)    | 0.312 (0.104)    | false (0.000) |    14.15 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           26 |     1254 | 2024-04-10 | Rooster                     | L   | 1.000      | -            | -                | -                | -             |   -17.50 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           25 |     1554 | 2024-04-03 | DXA Esports                 | W   | 0.983      | 0.333        | 0.010 (0.003)    | 0.266 (0.087)    | false (0.000) |     6.15 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           24 |     1558 | 2024-04-03 | DXA Esports                 | W   | 0.983      | 0.333        | 0.010 (0.003)    | 0.266 (0.087)    | false (0.000) |     6.50 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           23 |     1773 | 2024-03-27 | Mindfreak (Australian team) | L   | 0.937      | -            | -                | -                | -             |   -23.29 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           22 |     1774 | 2024-03-27 | Mindfreak (Australian team) | W   | 0.936      | 0.333        | 0.001 (0.000)    | 0.299 (0.093)    | false (0.000) |     5.81 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           21 |     1922 | 2024-03-23 | DXA Esports                 | W   | 0.909      | 0.143        | 0.010 (0.001)    | -                | true (0.909)  |     5.90 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           20 |     1925 | 2024-03-23 | VexX Gaming                 | W   | 0.909      | 0.143        | 0.010 (0.001)    | 0.390 (0.051)    | true (0.909)  |     7.80 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           19 |     2036 | 2024-03-20 | Canon Event                 | W   | 0.889      | -            | -                | -                | false (0.000) |     1.24 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           18 |     2037 | 2024-03-20 | Canon Event                 | W   | 0.889      | -            | -                | -                | -             |     1.26 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           17 |     2188 | 2024-03-15 | Gods Reign                  | L   | 0.862      | -            | -                | -                | -             |   -16.75 | ADDICT, HaZR, pz, Valiance, yourwombat      |
-|           16 |     2237 | 2024-03-14 | Garuda Wisnu Voyage         | W   | 0.855      | 0.435        | 0.014 (0.005)    | -                | true (0.855)  |     2.72 | ADDICT, HaZR, pz, Valiance, yourwombat      |
-|           15 |     2289 | 2024-03-14 | Aurora Gaming               | L   | 0.849      | -            | -                | -                | -             |    -1.14 | ADDICT, HaZR, pz, Valiance, yourwombat      |
-|           14 |     2651 | 2024-03-06 | Vantage Esports             | W   | 0.797      | 0.333        | -                | 0.236 (0.063)    | -             |     3.13 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           13 |     2654 | 2024-03-06 | Vantage Esports             | W   | 0.796      | 0.333        | -                | 0.236 (0.063)    | -             |     3.22 | ADDICT, BRACE, damyo, HaZR, pz              |
-|           12 |     3226 | 2024-02-22 | Rooster                     | L   | 0.715      | -            | -                | -                | -             |   -14.04 | ADDICT, BRACE, Hatz, HaZR, pz               |
-|           11 |     3266 | 2024-02-22 | Vantage Esports             | W   | 0.710      | -            | -                | -                | -             |     2.76 | ADDICT, BRACE, Hatz, HaZR, pz               |
-|           10 |     3270 | 2024-02-21 | FlyQuest                    | L   | 0.708      | -            | -                | -                | -             |    -1.84 | ADDICT, BRACE, Hatz, HaZR, pz               |
-|            9 |     3740 | 2024-02-11 | Mindfreak (Australian team) | W   | 0.642      | -            | -                | -                | -             |     4.05 | ADDICT, Hatz, HaZR, pz, Valiance            |
-|            8 |     3762 | 2024-02-11 | VexX Gaming                 | W   | 0.636      | 0.143        | 0.010 (0.001)    | 0.390 (0.035)    | -             |     3.93 | ADDICT, Hatz, HaZR, pz, Valiance            |
-|            7 |     5515 | 2023-12-16 | The Art of War              | W   | 0.256      | -            | -                | -                | -             |     0.65 | AnGod, rekonz, SkulL, sunshinez, viridian   |
-|            6 |     6087 | 2023-12-02 | Zero Tenacity               | L   | 0.166      | -            | -                | -                | -             |    -2.48 | ADDICT, BRACE, HaZR, pz, Valiance           |
-|            5 |     6170 | 2023-12-01 | Guild Eagles                | L   | 0.156      | -            | -                | -                | -             |    -1.93 | ADDICT, BRACE, HaZR, pz, Valiance           |
-|            4 |     6608 | 2023-11-21 | FlyQuest                    | L   | 0.090      | -            | -                | -                | -             |    -0.24 | ADDICT, BRACE, HaZR, pz, Valiance           |
-|            3 |     6612 | 2023-11-20 | Rooster                     | W   | 0.089      | 0.143        | 0.031 (0.000)    | -                | -             |     1.00 | ADDICT, BRACE, HaZR, pz, Valiance           |
-|            2 |     6652 | 2023-11-20 | Vantage Esports             | W   | 0.083      | -            | -                | -                | -             |     0.32 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
-|            1 |     6687 | 2023-11-18 | Rooster                     | L   | 0.075      | -            | -                | -                | -             |    -1.52 | ADDICT, BRACE, HaZR, pz, Valiance           |
+|           34 |      110 | 2024-05-03 | FURIA Esports               | L   | 1.000      | -            | -                | -                | -         |    -1.70 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           33 |      206 | 2024-05-01 | ENCE                        | L   | 1.000      | -            | -                | -                | -         |    -2.26 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           32 |      251 | 2024-04-30 | MOUZ                        | L   | 1.000      | -            | -                | -                | -         |    -0.17 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           31 |      769 | 2024-04-20 | FlyQuest                    | L   | 1.000      | -            | -                | -                | -         |    -2.17 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           30 |      783 | 2024-04-19 | Rooster                     | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.312 (0.045)    | 0 (0.000) |    12.54 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           29 |      847 | 2024-04-19 | Mindfreak (Australian team) | W   | 1.000      | 0.143        | -                | 0.299 (0.043)    | 0 (0.000) |     9.49 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           28 |      856 | 2024-04-18 | Rooster                     | L   | 1.000      | -            | -                | -                | -         |   -17.50 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           27 |     1248 | 2024-04-10 | Rooster                     | W   | 1.000      | 0.333        | 0.031 (0.010)    | 0.312 (0.104)    | 0 (0.000) |    14.15 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           26 |     1254 | 2024-04-10 | Rooster                     | L   | 1.000      | -            | -                | -                | -         |   -17.50 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           25 |     1554 | 2024-04-03 | DXA Esports                 | W   | 0.983      | 0.333        | 0.010 (0.003)    | 0.266 (0.087)    | 0 (0.000) |     6.15 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           24 |     1558 | 2024-04-03 | DXA Esports                 | W   | 0.983      | 0.333        | 0.010 (0.003)    | 0.266 (0.087)    | 0 (0.000) |     6.50 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           23 |     1773 | 2024-03-27 | Mindfreak (Australian team) | L   | 0.937      | -            | -                | -                | -         |   -23.29 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           22 |     1774 | 2024-03-27 | Mindfreak (Australian team) | W   | 0.936      | 0.333        | 0.001 (0.000)    | 0.299 (0.093)    | 0 (0.000) |     5.81 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           21 |     1922 | 2024-03-23 | DXA Esports                 | W   | 0.909      | 0.143        | 0.010 (0.001)    | -                | 1 (0.909) |     5.90 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           20 |     1925 | 2024-03-23 | VexX Gaming                 | W   | 0.909      | 0.143        | 0.010 (0.001)    | 0.390 (0.051)    | 1 (0.909) |     7.80 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           19 |     2036 | 2024-03-20 | Canon Event                 | W   | 0.889      | -            | -                | -                | 0 (0.000) |     1.24 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           18 |     2037 | 2024-03-20 | Canon Event                 | W   | 0.889      | -            | -                | -                | -         |     1.26 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           17 |     2188 | 2024-03-15 | Gods Reign                  | L   | 0.862      | -            | -                | -                | -         |   -16.75 | ADDICT, HaZR, pz, Valiance, yourwombat      |
+|           16 |     2237 | 2024-03-14 | Garuda Wisnu Voyage         | W   | 0.855      | 0.435        | 0.014 (0.005)    | -                | 1 (0.855) |     2.72 | ADDICT, HaZR, pz, Valiance, yourwombat      |
+|           15 |     2289 | 2024-03-14 | Aurora Gaming               | L   | 0.849      | -            | -                | -                | -         |    -1.14 | ADDICT, HaZR, pz, Valiance, yourwombat      |
+|           14 |     2651 | 2024-03-06 | Vantage Esports             | W   | 0.797      | 0.333        | -                | 0.236 (0.063)    | -         |     3.13 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           13 |     2654 | 2024-03-06 | Vantage Esports             | W   | 0.796      | 0.333        | -                | 0.236 (0.063)    | -         |     3.22 | ADDICT, BRACE, damyo, HaZR, pz              |
+|           12 |     3226 | 2024-02-22 | Rooster                     | L   | 0.715      | -            | -                | -                | -         |   -14.04 | ADDICT, BRACE, Hatz, HaZR, pz               |
+|           11 |     3266 | 2024-02-22 | Vantage Esports             | W   | 0.710      | -            | -                | -                | -         |     2.76 | ADDICT, BRACE, Hatz, HaZR, pz               |
+|           10 |     3270 | 2024-02-21 | FlyQuest                    | L   | 0.708      | -            | -                | -                | -         |    -1.84 | ADDICT, BRACE, Hatz, HaZR, pz               |
+|            9 |     3740 | 2024-02-11 | Mindfreak (Australian team) | W   | 0.642      | -            | -                | -                | -         |     4.05 | ADDICT, Hatz, HaZR, pz, Valiance            |
+|            8 |     3762 | 2024-02-11 | VexX Gaming                 | W   | 0.636      | 0.143        | 0.010 (0.001)    | 0.390 (0.035)    | -         |     3.93 | ADDICT, Hatz, HaZR, pz, Valiance            |
+|            7 |     5515 | 2023-12-16 | The Art of War              | W   | 0.256      | -            | -                | -                | -         |     0.65 | AnGod, rekonz, SkulL, sunshinez, viridian   |
+|            6 |     6087 | 2023-12-02 | Zero Tenacity               | L   | 0.166      | -            | -                | -                | -         |    -2.48 | ADDICT, BRACE, HaZR, pz, Valiance           |
+|            5 |     6170 | 2023-12-01 | Guild Eagles                | L   | 0.156      | -            | -                | -                | -         |    -1.93 | ADDICT, BRACE, HaZR, pz, Valiance           |
+|            4 |     6608 | 2023-11-21 | FlyQuest                    | L   | 0.090      | -            | -                | -                | -         |    -0.24 | ADDICT, BRACE, HaZR, pz, Valiance           |
+|            3 |     6612 | 2023-11-20 | Rooster                     | W   | 0.089      | 0.143        | 0.031 (0.000)    | -                | -         |     1.00 | ADDICT, BRACE, HaZR, pz, Valiance           |
+|            2 |     6652 | 2023-11-20 | Vantage Esports             | W   | 0.083      | -            | -                | -                | -         |     0.32 | Kobe, KRAXYT, Mingovi, N1ghtraid, Omichella |
+|            1 |     6687 | 2023-11-18 | Rooster                     | L   | 0.075      | -            | -                | -                | -         |    -1.52 | ADDICT, BRACE, HaZR, pz, Valiance           |
 
 <br />
 <span id="table2"></span><br />

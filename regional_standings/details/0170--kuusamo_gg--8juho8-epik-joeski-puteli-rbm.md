@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                            |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      484 | 2024-04-25 | XI Esport          | L   | 1.000      | -            | -                | -                | -             |   -20.32 | 8Juho8, epik, joeski, Puteli, rbm |
-|           10 |      635 | 2024-04-21 | DUSTY              | W   | 1.000      | 0.289        | 0.015 (0.004)    | 0.233 (0.067)    | false (0.000) |    12.85 | 8Juho8, epik, joeski, Puteli, rbm |
-|            9 |      948 | 2024-04-17 | XI Esport          | L   | 1.000      | -            | -                | -                | -             |   -20.64 | 8Juho8, epik, joeski, Puteli, rbm |
-|            8 |     1906 | 2024-03-23 | Johnny Speeds      | L   | 0.912      | -            | -                | -                | -             |   -11.00 | 8Juho8, epik, joeski, Puteli, rbm |
-|            7 |     1907 | 2024-03-23 | KILLBOX            | W   | 0.911      | 0.143        | 0.000 (0.000)    | 0.032 (0.004)    | false (0.000) |     4.66 | 8Juho8, epik, joeski, Puteli, rbm |
-|            6 |     1912 | 2024-03-23 | RektGeT            | W   | 0.911      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.90 | 8Juho8, epik, joeski, Puteli, rbm |
-|            5 |     2868 | 2024-03-02 | ENCE Prospects     | W   | 0.772      | 0.143        | 0.003 (0.000)    | 0.027 (0.003)    | true (0.772)  |     8.27 | 8Juho8, epik, Ounli, Puteli, rbm  |
-|            4 |     2897 | 2024-03-02 | SatulanHaistelijat | W   | 0.770      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | true (0.770)  |     2.60 | 8Juho8, epik, Ounli, Puteli, rbm  |
-|            3 |     3203 | 2024-02-23 | RoundsGG           | L   | 0.719      | -            | -                | -                | -             |   -13.19 | 8Juho8, epik, joeski, Puteli, rbm |
-|            2 |     3208 | 2024-02-23 | ENCE Prospects     | W   | 0.719      | 0.143        | 0.003 (0.000)    | 0.027 (0.003)    | true (0.719)  |     7.60 | 8Juho8, epik, joeski, Puteli, rbm |
-|            1 |     3239 | 2024-02-22 | RoundsGG           | L   | 0.712      | -            | -                | -                | -             |   -13.65 | 8Juho8, epik, joeski, Puteli, rbm |
+|           11 |      484 | 2024-04-25 | XI Esport          | L   | 1.000      | -            | -                | -                | -         |   -20.32 | 8Juho8, epik, joeski, Puteli, rbm |
+|           10 |      635 | 2024-04-21 | DUSTY              | W   | 1.000      | 0.289        | 0.015 (0.004)    | 0.233 (0.067)    | 0 (0.000) |    12.85 | 8Juho8, epik, joeski, Puteli, rbm |
+|            9 |      948 | 2024-04-17 | XI Esport          | L   | 1.000      | -            | -                | -                | -         |   -20.64 | 8Juho8, epik, joeski, Puteli, rbm |
+|            8 |     1906 | 2024-03-23 | Johnny Speeds      | L   | 0.912      | -            | -                | -                | -         |   -11.00 | 8Juho8, epik, joeski, Puteli, rbm |
+|            7 |     1907 | 2024-03-23 | KILLBOX            | W   | 0.911      | 0.143        | 0.000 (0.000)    | 0.032 (0.004)    | 0 (0.000) |     4.66 | 8Juho8, epik, joeski, Puteli, rbm |
+|            6 |     1912 | 2024-03-23 | RektGeT            | W   | 0.911      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.90 | 8Juho8, epik, joeski, Puteli, rbm |
+|            5 |     2868 | 2024-03-02 | ENCE Prospects     | W   | 0.772      | 0.143        | 0.003 (0.000)    | 0.027 (0.003)    | 1 (0.772) |     8.27 | 8Juho8, epik, Ounli, Puteli, rbm  |
+|            4 |     2897 | 2024-03-02 | SatulanHaistelijat | W   | 0.770      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.770) |     2.60 | 8Juho8, epik, Ounli, Puteli, rbm  |
+|            3 |     3203 | 2024-02-23 | RoundsGG           | L   | 0.719      | -            | -                | -                | -         |   -13.19 | 8Juho8, epik, joeski, Puteli, rbm |
+|            2 |     3208 | 2024-02-23 | ENCE Prospects     | W   | 0.719      | 0.143        | 0.003 (0.000)    | 0.027 (0.003)    | 1 (0.719) |     7.60 | 8Juho8, epik, joeski, Puteli, rbm |
+|            1 |     3239 | 2024-02-22 | RoundsGG           | L   | 0.712      | -            | -                | -                | -         |   -13.65 | 8Juho8, epik, joeski, Puteli, rbm |
 
 <br />
 <span id="table2"></span><br />

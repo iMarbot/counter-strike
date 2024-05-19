@@ -34,26 +34,26 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                         |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |     3800 | 2024-02-09 | Betera Esports       | L   | 0.624      | -            | -                | -                | -             |   -10.37 | Gizmy, leen, n0te, ryu, shield |
-|           17 |     3830 | 2024-02-08 | Passion UA           | W   | 0.617      | 0.333        | 0.114 (0.024)    | 0.980 (0.202)    | false (0.000) |    12.69 | Gizmy, leen, n0te, ryu, shield |
-|           16 |     4122 | 2024-01-31 | MOUZ NXT             | W   | 0.564      | 0.333        | 0.215 (0.040)    | 1.000 (0.188)    | false (0.000) |    14.27 | Gizmy, leen, n0te, ryu, shield |
-|           15 |     4203 | 2024-01-29 | Team Secret          | W   | 0.550      | 0.333        | -                | 0.368 (0.067)    | false (0.000) |     4.32 | Gizmy, leen, n0te, ryu, shield |
-|           14 |     4570 | 2024-01-20 | MOUZ NXT             | L   | 0.489      | -            | -                | -                | -             |    -2.90 | Gizmy, leen, n0te, ryu, shield |
-|           13 |     4675 | 2024-01-18 | WOPA Esport          | W   | 0.477      | 0.303        | 0.009 (0.001)    | 0.485 (0.070)    | false (0.000) |     6.06 | Gizmy, leen, n0te, ryu, shield |
-|           12 |     4817 | 2024-01-16 | Natus Vincere Junior | W   | 0.464      | 0.303        | 0.025 (0.003)    | 0.492 (0.069)    | false (0.000) |     7.34 | Gizmy, leen, n0te, ryu, shield |
-|           11 |     4870 | 2024-01-14 | Passion UA           | W   | 0.450      | 0.303        | 0.114 (0.016)    | 0.980 (0.133)    | false (0.000) |    10.23 | Gizmy, leen, n0te, ryu, shield |
-|           10 |     5011 | 2024-01-11 | Zero Tenacity        | W   | 0.430      | 0.303        | 0.095 (0.012)    | 1.000 (0.130)    | false (0.000) |     9.16 | Gizmy, leen, n0te, ryu, shield |
-|            9 |     5157 | 2024-01-08 | The Prodigies        | L   | 0.409      | -            | -                | -                | -             |    -9.91 | Gizmy, leen, n0te, ryu, shield |
-|            8 |     5185 | 2024-01-05 | Nexus Gaming         | W   | 0.391      | 0.303        | 0.031 (0.004)    | 0.772 (0.091)    | false (0.000) |     8.08 | Gizmy, leen, n0te, ryu, shield |
-|            7 |     5832 | 2023-12-08 | GamerLegion Academy  | W   | 0.205      | 0.289        | 0.043 (0.003)    | 0.567 (0.034)    | false (0.000) |     3.91 | Gizmy, leen, n0te, ryu, shield |
-|            6 |     5883 | 2023-12-07 | Begrip Gaming        | W   | 0.199      | -            | -                | -                | false (0.000) |     1.85 | Gizmy, leen, n0te, ryu, shield |
-|            5 |     5926 | 2023-12-06 | FALKE ESPORTS        | W   | 0.192      | -            | -                | -                | -             |     0.98 | Gizmy, leen, n0te, ryu, shield |
-|            4 |     5994 | 2023-12-05 | SINNERS Academy      | W   | 0.184      | 0.289        | 0.003 (0.000)    | 0.296 (0.016)    | -             |     2.05 | Gizmy, leen, n0te, ryu, shield |
-|            3 |     6018 | 2023-12-04 | Begrip Gaming        | L   | 0.178      | -            | -                | -                | -             |    -3.97 | Gizmy, leen, n0te, ryu, shield |
-|            2 |     6157 | 2023-12-01 | SINNERS Academy      | W   | 0.159      | 0.289        | 0.003 (0.000)    | -                | -             |     1.74 | Gizmy, leen, n0te, ryu, shield |
-|            1 |     6398 | 2023-11-26 | Team 7AM             | W   | 0.124      | -            | -                | -                | -             |     0.60 | Gizmy, leen, n0te, ryu, shield |
+|           18 |     3800 | 2024-02-09 | Betera Esports       | L   | 0.624      | -            | -                | -                | -         |   -10.37 | Gizmy, leen, n0te, ryu, shield |
+|           17 |     3830 | 2024-02-08 | Passion UA           | W   | 0.617      | 0.333        | 0.114 (0.024)    | 0.980 (0.202)    | 0 (0.000) |    12.69 | Gizmy, leen, n0te, ryu, shield |
+|           16 |     4122 | 2024-01-31 | MOUZ NXT             | W   | 0.564      | 0.333        | 0.215 (0.040)    | 1.000 (0.188)    | 0 (0.000) |    14.27 | Gizmy, leen, n0te, ryu, shield |
+|           15 |     4203 | 2024-01-29 | Team Secret          | W   | 0.550      | 0.333        | -                | 0.368 (0.067)    | 0 (0.000) |     4.32 | Gizmy, leen, n0te, ryu, shield |
+|           14 |     4570 | 2024-01-20 | MOUZ NXT             | L   | 0.489      | -            | -                | -                | -         |    -2.90 | Gizmy, leen, n0te, ryu, shield |
+|           13 |     4675 | 2024-01-18 | WOPA Esport          | W   | 0.477      | 0.303        | 0.009 (0.001)    | 0.485 (0.070)    | 0 (0.000) |     6.06 | Gizmy, leen, n0te, ryu, shield |
+|           12 |     4817 | 2024-01-16 | Natus Vincere Junior | W   | 0.464      | 0.303        | 0.025 (0.003)    | 0.492 (0.069)    | 0 (0.000) |     7.34 | Gizmy, leen, n0te, ryu, shield |
+|           11 |     4870 | 2024-01-14 | Passion UA           | W   | 0.450      | 0.303        | 0.114 (0.016)    | 0.980 (0.133)    | 0 (0.000) |    10.23 | Gizmy, leen, n0te, ryu, shield |
+|           10 |     5011 | 2024-01-11 | Zero Tenacity        | W   | 0.430      | 0.303        | 0.095 (0.012)    | 1.000 (0.130)    | 0 (0.000) |     9.16 | Gizmy, leen, n0te, ryu, shield |
+|            9 |     5157 | 2024-01-08 | The Prodigies        | L   | 0.409      | -            | -                | -                | -         |    -9.91 | Gizmy, leen, n0te, ryu, shield |
+|            8 |     5185 | 2024-01-05 | Nexus Gaming         | W   | 0.391      | 0.303        | 0.031 (0.004)    | 0.772 (0.091)    | 0 (0.000) |     8.08 | Gizmy, leen, n0te, ryu, shield |
+|            7 |     5832 | 2023-12-08 | GamerLegion Academy  | W   | 0.205      | 0.289        | 0.043 (0.003)    | 0.567 (0.034)    | 0 (0.000) |     3.91 | Gizmy, leen, n0te, ryu, shield |
+|            6 |     5883 | 2023-12-07 | Begrip Gaming        | W   | 0.199      | -            | -                | -                | 0 (0.000) |     1.85 | Gizmy, leen, n0te, ryu, shield |
+|            5 |     5926 | 2023-12-06 | FALKE ESPORTS        | W   | 0.192      | -            | -                | -                | -         |     0.98 | Gizmy, leen, n0te, ryu, shield |
+|            4 |     5994 | 2023-12-05 | SINNERS Academy      | W   | 0.184      | 0.289        | 0.003 (0.000)    | 0.296 (0.016)    | -         |     2.05 | Gizmy, leen, n0te, ryu, shield |
+|            3 |     6018 | 2023-12-04 | Begrip Gaming        | L   | 0.178      | -            | -                | -                | -         |    -3.97 | Gizmy, leen, n0te, ryu, shield |
+|            2 |     6157 | 2023-12-01 | SINNERS Academy      | W   | 0.159      | 0.289        | 0.003 (0.000)    | -                | -         |     1.74 | Gizmy, leen, n0te, ryu, shield |
+|            1 |     6398 | 2023-11-26 | Team 7AM             | W   | 0.124      | -            | -                | -                | -         |     0.60 | Gizmy, leen, n0te, ryu, shield |
 
 <br />
 <span id="table2"></span><br />

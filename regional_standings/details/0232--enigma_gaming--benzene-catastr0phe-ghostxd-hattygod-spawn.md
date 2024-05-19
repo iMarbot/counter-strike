@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                         |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     3807 | 2024-02-09 | Grayfox Esports    | L   | 0.622      | -            | -                | -                | -             |    -9.34 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
-|           10 |     4120 | 2024-01-31 | Firedup Gaming     | W   | 0.564      | 0.143        | 0.000 (0.000)    | 0.019 (0.002)    | false (0.000) |     4.76 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
-|            9 |     4202 | 2024-01-29 | Marcos Gaming      | W   | 0.550      | 0.143        | 0.086 (0.007)    | 0.087 (0.007)    | false (0.000) |    11.67 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
-|            8 |     4227 | 2024-01-28 | True Rippers       | L   | 0.543      | -            | -                | -                | -             |    -4.45 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
-|            7 |     4285 | 2024-01-27 | Gods Reign         | W   | 0.537      | 0.143        | 0.174 (0.013)    | 0.479 (0.037)    | false (0.000) |    13.54 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
-|            6 |     4330 | 2024-01-26 | Grayfox Esports    | L   | 0.531      | -            | -                | -                | -             |    -7.75 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
-|            5 |     4359 | 2024-01-25 | Firedup Gaming     | W   | 0.524      | 0.143        | 0.000 (0.000)    | 0.019 (0.001)    | false (0.000) |     4.82 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
-|            4 |     4764 | 2024-01-17 | Myth Avenue Gaming | L   | 0.469      | -            | -                | -                | -             |    -6.48 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
-|            3 |     5297 | 2023-12-21 | Wasted Potential   | W   | 0.291      | 0.143        | 0.000 (0.000)    | 0.012 (0.001)    | false (0.000) |     3.44 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
-|            2 |     5305 | 2023-12-20 | Marcos Gaming      | W   | 0.284      | 0.143        | 0.086 (0.003)    | 0.087 (0.004)    | false (0.000) |     6.42 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
-|            1 |     5408 | 2023-12-16 | Marcos Gaming      | L   | 0.262      | -            | -                | -                | -             |    -2.41 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|           11 |     3807 | 2024-02-09 | Grayfox Esports    | L   | 0.622      | -            | -                | -                | -         |    -9.34 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|           10 |     4120 | 2024-01-31 | Firedup Gaming     | W   | 0.564      | 0.143        | 0.000 (0.000)    | 0.019 (0.002)    | 0 (0.000) |     4.76 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|            9 |     4202 | 2024-01-29 | Marcos Gaming      | W   | 0.550      | 0.143        | 0.086 (0.007)    | 0.087 (0.007)    | 0 (0.000) |    11.67 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|            8 |     4227 | 2024-01-28 | True Rippers       | L   | 0.543      | -            | -                | -                | -         |    -4.45 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|            7 |     4285 | 2024-01-27 | Gods Reign         | W   | 0.537      | 0.143        | 0.174 (0.013)    | 0.479 (0.037)    | 0 (0.000) |    13.54 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|            6 |     4330 | 2024-01-26 | Grayfox Esports    | L   | 0.531      | -            | -                | -                | -         |    -7.75 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|            5 |     4359 | 2024-01-25 | Firedup Gaming     | W   | 0.524      | 0.143        | 0.000 (0.000)    | 0.019 (0.001)    | 0 (0.000) |     4.82 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|            4 |     4764 | 2024-01-17 | Myth Avenue Gaming | L   | 0.469      | -            | -                | -                | -         |    -6.48 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|            3 |     5297 | 2023-12-21 | Wasted Potential   | W   | 0.291      | 0.143        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     3.44 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|            2 |     5305 | 2023-12-20 | Marcos Gaming      | W   | 0.284      | 0.143        | 0.086 (0.003)    | 0.087 (0.004)    | 0 (0.000) |     6.42 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
+|            1 |     5408 | 2023-12-16 | Marcos Gaming      | L   | 0.262      | -            | -                | -                | -         |    -2.41 | Benzene, Catastr0phE, ghostxD, hattygOD, SpawN |
 
 <br />
 <span id="table2"></span><br />

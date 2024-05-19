@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                             |
+| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      413 | 2024-04-26 | Intense Game           | L   | 1.000      | -            | -                | -                | -             |   -15.74 | honda, JLK, ksloks, realz1n, rem1x |
-|           10 |      500 | 2024-04-24 | Bounty Hunters Esports | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.276 (0.039)    | false (0.000) |    10.54 | honda, JLK, ksloks, realz1n, rem1x |
-|            9 |      501 | 2024-04-24 | Seleção do BT          | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | false (0.000) |     3.97 | honda, JLK, ksloks, realz1n, rem1x |
-|            8 |      506 | 2024-04-24 | Dusty Roots            | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.352 (0.050)    | false (0.000) |    12.06 | honda, JLK, ksloks, realz1n, rem1x |
-|            7 |     1164 | 2024-04-11 | Galorys                | W   | 1.000      | 0.143        | 0.048 (0.007)    | 0.598 (0.085)    | false (0.000) |    21.41 | honda, JLK, ksloks, realz1n, rem1x |
-|            6 |     1276 | 2024-04-09 | Bounty Hunters Esports | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.276 (0.039)    | false (0.000) |    10.06 | honda, JLK, ksloks, realz1n, rem1x |
-|            5 |     1475 | 2024-04-04 | Yawara E-Sports        | W   | 0.992      | 0.143        | 0.005 (0.001)    | 0.361 (0.051)    | false (0.000) |    16.34 | honda, JLK, ksloks, realz1n, rem1x |
-|            4 |     1598 | 2024-04-01 | 2024                   | W   | 0.972      | 0.143        | 0.001 (0.000)    | 0.130 (0.018)    | false (0.000) |    12.04 | honda, JLK, ksloks, realz1n, rem1x |
-|            3 |     1838 | 2024-03-25 | Intense Game           | L   | 0.926      | -            | -                | -                | -             |   -12.69 | honda, JLK, ksloks, realz1n, rem1x |
-|            2 |     1961 | 2024-03-21 | Corinthians Esports    | L   | 0.899      | -            | -                | -                | -             |   -16.44 | honda, JLK, ksloks, realz1n, rem1x |
-|            1 |     1971 | 2024-03-21 | Dusty Roots            | W   | 0.899      | 0.143        | 0.005 (0.001)    | 0.352 (0.045)    | false (0.000) |    12.78 | honda, JLK, ksloks, realz1n, rem1x |
+|           11 |      413 | 2024-04-26 | Intense Game           | L   | 1.000      | -            | -                | -                | -         |   -15.74 | honda, JLK, ksloks, realz1n, rem1x |
+|           10 |      500 | 2024-04-24 | Bounty Hunters Esports | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.276 (0.039)    | 0 (0.000) |    10.54 | honda, JLK, ksloks, realz1n, rem1x |
+|            9 |      501 | 2024-04-24 | Seleção do BT          | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | 0 (0.000) |     3.97 | honda, JLK, ksloks, realz1n, rem1x |
+|            8 |      506 | 2024-04-24 | Dusty Roots            | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.352 (0.050)    | 0 (0.000) |    12.06 | honda, JLK, ksloks, realz1n, rem1x |
+|            7 |     1164 | 2024-04-11 | Galorys                | W   | 1.000      | 0.143        | 0.048 (0.007)    | 0.598 (0.085)    | 0 (0.000) |    21.41 | honda, JLK, ksloks, realz1n, rem1x |
+|            6 |     1276 | 2024-04-09 | Bounty Hunters Esports | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.276 (0.039)    | 0 (0.000) |    10.06 | honda, JLK, ksloks, realz1n, rem1x |
+|            5 |     1475 | 2024-04-04 | Yawara E-Sports        | W   | 0.992      | 0.143        | 0.005 (0.001)    | 0.361 (0.051)    | 0 (0.000) |    16.34 | honda, JLK, ksloks, realz1n, rem1x |
+|            4 |     1598 | 2024-04-01 | 2024                   | W   | 0.972      | 0.143        | 0.001 (0.000)    | 0.130 (0.018)    | 0 (0.000) |    12.04 | honda, JLK, ksloks, realz1n, rem1x |
+|            3 |     1838 | 2024-03-25 | Intense Game           | L   | 0.926      | -            | -                | -                | -         |   -12.69 | honda, JLK, ksloks, realz1n, rem1x |
+|            2 |     1961 | 2024-03-21 | Corinthians Esports    | L   | 0.899      | -            | -                | -                | -         |   -16.44 | honda, JLK, ksloks, realz1n, rem1x |
+|            1 |     1971 | 2024-03-21 | Dusty Roots            | W   | 0.899      | 0.143        | 0.005 (0.001)    | 0.352 (0.045)    | 0 (0.000) |    12.78 | honda, JLK, ksloks, realz1n, rem1x |
 
 <br />
 <span id="table2"></span><br />

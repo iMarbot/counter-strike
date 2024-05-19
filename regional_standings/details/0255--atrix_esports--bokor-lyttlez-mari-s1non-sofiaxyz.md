@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                 |
+| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      343 | 2024-04-27 | FURIA Esports Female      | L   | 1.000      | -            | -                | -                | -             |   -10.89 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|           13 |      346 | 2024-04-27 | ODDIK Academy             | L   | 1.000      | -            | -                | -                | -             |   -16.99 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|           12 |      799 | 2024-04-19 | Illusion (Brazilian team) | W   | 1.000      | 0.332        | 0.008 (0.003)    | 0.035 (0.012)    | false (0.000) |    12.05 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|           11 |     1165 | 2024-04-11 | DIVINA Female             | W   | 1.000      | 0.332        | 0.009 (0.003)    | 0.078 (0.026)    | false (0.000) |    15.30 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|           10 |     1470 | 2024-04-04 | MIBR Female               | L   | 0.993      | -            | -                | -                | -             |   -14.40 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|            9 |     1853 | 2024-03-24 | Rocket.GG                 | L   | 0.919      | -            | -                | -                | -             |   -16.11 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|            8 |     1854 | 2024-03-24 | NIGERIA ACADEMY           | W   | 0.919      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.59 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|            7 |     1877 | 2024-03-23 | Bulls 95                  | W   | 0.914      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.87 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|            6 |     1958 | 2024-03-21 | FURIA Esports Female      | L   | 0.900      | -            | -                | -                | -             |    -9.15 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|            5 |     2247 | 2024-03-14 | GENKID4M4                 | W   | 0.853      | 0.332        | 0.008 (0.002)    | 0.052 (0.015)    | false (0.000) |    13.36 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|            4 |     2599 | 2024-03-06 | Fluxo Demons              | L   | 0.800      | -            | -                | -                | -             |    -6.21 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|            3 |     4530 | 2024-01-20 | Baludinhas                | L   | 0.493      | -            | -                | -                | -             |    -8.60 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
-|            2 |     6767 | 2023-11-17 | MIBR Female               | L   | 0.065      | -            | -                | -                | -             |    -0.88 | bokor, LyttleZ, mari, s1non, yodinha2k |
-|            1 |     6798 | 2023-11-16 | Fluxo Demons              | L   | 0.060      | -            | -                | -                | -             |    -0.38 | bokor, LyttleZ, mari, s1non, yodinha2k |
+|           14 |      343 | 2024-04-27 | FURIA Esports Female      | L   | 1.000      | -            | -                | -                | -         |   -10.89 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|           13 |      346 | 2024-04-27 | ODDIK Academy             | L   | 1.000      | -            | -                | -                | -         |   -16.99 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|           12 |      799 | 2024-04-19 | Illusion (Brazilian team) | W   | 1.000      | 0.332        | 0.008 (0.003)    | 0.035 (0.012)    | 0 (0.000) |    12.05 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|           11 |     1165 | 2024-04-11 | DIVINA Female             | W   | 1.000      | 0.332        | 0.009 (0.003)    | 0.078 (0.026)    | 0 (0.000) |    15.30 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|           10 |     1470 | 2024-04-04 | MIBR Female               | L   | 0.993      | -            | -                | -                | -         |   -14.40 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|            9 |     1853 | 2024-03-24 | Rocket.GG                 | L   | 0.919      | -            | -                | -                | -         |   -16.11 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|            8 |     1854 | 2024-03-24 | NIGERIA ACADEMY           | W   | 0.919      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.59 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|            7 |     1877 | 2024-03-23 | Bulls 95                  | W   | 0.914      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.87 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|            6 |     1958 | 2024-03-21 | FURIA Esports Female      | L   | 0.900      | -            | -                | -                | -         |    -9.15 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|            5 |     2247 | 2024-03-14 | GENKID4M4                 | W   | 0.853      | 0.332        | 0.008 (0.002)    | 0.052 (0.015)    | 0 (0.000) |    13.36 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|            4 |     2599 | 2024-03-06 | Fluxo Demons              | L   | 0.800      | -            | -                | -                | -         |    -6.21 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|            3 |     4530 | 2024-01-20 | Baludinhas                | L   | 0.493      | -            | -                | -                | -         |    -8.60 | bokor, LyttleZ, mari, s1non, sofiaxyz  |
+|            2 |     6767 | 2023-11-17 | MIBR Female               | L   | 0.065      | -            | -                | -                | -         |    -0.88 | bokor, LyttleZ, mari, s1non, yodinha2k |
+|            1 |     6798 | 2023-11-16 | Fluxo Demons              | L   | 0.060      | -            | -                | -                | -         |    -0.38 | bokor, LyttleZ, mari, s1non, yodinha2k |
 
 <br />
 <span id="table2"></span><br />

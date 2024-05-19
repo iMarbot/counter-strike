@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     3561 | 2024-02-15 | E-Xolos LAZER  | L   | 0.667      | -            | -                | -                | -             |   -13.98 | history, JOTA, leo_drk, short, t9rnay |
-|           13 |     4295 | 2024-01-26 | Carpe Diem     | L   | 0.534      | -            | -                | -                | -             |    -5.02 | history, JOTA, leo_drk, short, t9rnay |
-|           12 |     4298 | 2024-01-26 | Revenge Nation | W   | 0.534      | 0.143        | 0.043 (0.003)    | 0.123 (0.009)    | false (0.000) |    12.46 | history, JOTA, leo_drk, short, t9rnay |
-|           11 |     4414 | 2024-01-23 | MIGHT          | L   | 0.514      | -            | -                | -                | -             |    -3.70 | history, JOTA, leo_drk, short, t9rnay |
-|           10 |     4687 | 2024-01-17 | Carpe Diem     | L   | 0.474      | -            | -                | -                | -             |    -4.12 | history, JOTA, leo_drk, short, t9rnay |
-|            9 |     4821 | 2024-01-15 | Team Liquid    | L   | 0.461      | -            | -                | -                | -             |    -0.12 | history, JOTA, leo_drk, short, t9rnay |
-|            8 |     4872 | 2024-01-13 | FLUFFY AIMERS  | W   | 0.448      | 0.143        | 0.004 (0.000)    | 0.103 (0.007)    | false (0.000) |    10.03 | history, JOTA, leo_drk, short, t9rnay |
-|            7 |     4905 | 2024-01-12 | Elevate        | L   | 0.442      | -            | -                | -                | -             |    -2.62 | history, JOTA, leo_drk, short, t9rnay |
-|            6 |     4913 | 2024-01-12 | Carpe Diem     | L   | 0.441      | -            | -                | -                | -             |    -3.42 | history, JOTA, leo_drk, short, t9rnay |
-|            5 |     4963 | 2024-01-11 | Rocket         | L   | 0.435      | -            | -                | -                | -             |    -4.00 | history, JOTA, leo_drk, short, t9rnay |
-|            4 |     4975 | 2024-01-11 | Xiaoma Gaming  | W   | 0.434      | 0.143        | 0.012 (0.001)    | 0.059 (0.004)    | false (0.000) |     8.57 | history, JOTA, leo_drk, short, t9rnay |
-|            3 |     5064 | 2024-01-09 | Team Liquid    | L   | 0.421      | -            | -                | -                | -             |    -0.10 | history, JOTA, leo_drk, short, t9rnay |
-|            2 |     5158 | 2024-01-07 | Limitless      | W   | 0.408      | 0.143        | 0.001 (0.000)    | 0.177 (0.010)    | false (0.000) |     9.10 | history, JOTA, leo_drk, short, t9rnay |
-|            1 |     6290 | 2023-11-28 | BESTIA         | L   | 0.140      | -            | -                | -                | -             |    -0.69 | bt0, JOTA, short, steel, t9rnay       |
+|           14 |     3561 | 2024-02-15 | E-Xolos LAZER  | L   | 0.667      | -            | -                | -                | -         |   -13.98 | history, JOTA, leo_drk, short, t9rnay |
+|           13 |     4295 | 2024-01-26 | Carpe Diem     | L   | 0.534      | -            | -                | -                | -         |    -5.02 | history, JOTA, leo_drk, short, t9rnay |
+|           12 |     4298 | 2024-01-26 | Revenge Nation | W   | 0.534      | 0.143        | 0.043 (0.003)    | 0.123 (0.009)    | 0 (0.000) |    12.46 | history, JOTA, leo_drk, short, t9rnay |
+|           11 |     4414 | 2024-01-23 | MIGHT          | L   | 0.514      | -            | -                | -                | -         |    -3.70 | history, JOTA, leo_drk, short, t9rnay |
+|           10 |     4687 | 2024-01-17 | Carpe Diem     | L   | 0.474      | -            | -                | -                | -         |    -4.12 | history, JOTA, leo_drk, short, t9rnay |
+|            9 |     4821 | 2024-01-15 | Team Liquid    | L   | 0.461      | -            | -                | -                | -         |    -0.12 | history, JOTA, leo_drk, short, t9rnay |
+|            8 |     4872 | 2024-01-13 | FLUFFY AIMERS  | W   | 0.448      | 0.143        | 0.004 (0.000)    | 0.103 (0.007)    | 0 (0.000) |    10.03 | history, JOTA, leo_drk, short, t9rnay |
+|            7 |     4905 | 2024-01-12 | Elevate        | L   | 0.442      | -            | -                | -                | -         |    -2.62 | history, JOTA, leo_drk, short, t9rnay |
+|            6 |     4913 | 2024-01-12 | Carpe Diem     | L   | 0.441      | -            | -                | -                | -         |    -3.42 | history, JOTA, leo_drk, short, t9rnay |
+|            5 |     4963 | 2024-01-11 | Rocket         | L   | 0.435      | -            | -                | -                | -         |    -4.00 | history, JOTA, leo_drk, short, t9rnay |
+|            4 |     4975 | 2024-01-11 | Xiaoma Gaming  | W   | 0.434      | 0.143        | 0.012 (0.001)    | 0.059 (0.004)    | 0 (0.000) |     8.57 | history, JOTA, leo_drk, short, t9rnay |
+|            3 |     5064 | 2024-01-09 | Team Liquid    | L   | 0.421      | -            | -                | -                | -         |    -0.10 | history, JOTA, leo_drk, short, t9rnay |
+|            2 |     5158 | 2024-01-07 | Limitless      | W   | 0.408      | 0.143        | 0.001 (0.000)    | 0.177 (0.010)    | 0 (0.000) |     9.10 | history, JOTA, leo_drk, short, t9rnay |
+|            1 |     6290 | 2023-11-28 | BESTIA         | L   | 0.140      | -            | -                | -                | -         |    -0.69 | bt0, JOTA, short, steel, t9rnay       |
 
 <br />
 <span id="table2"></span><br />

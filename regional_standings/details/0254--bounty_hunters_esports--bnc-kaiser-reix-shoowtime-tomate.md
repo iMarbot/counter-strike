@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      398 | 2024-04-26 | FURIA Esports Female     | W   | 1.000      | 0.143        | 0.048 (0.007)    | 0.205 (0.029)    | false (0.000) |    22.32 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|           13 |      500 | 2024-04-24 | Vikings KR               | L   | 1.000      | -            | -                | -                | -             |   -10.54 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|           12 |      504 | 2024-04-24 | Corinthians Esports      | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.346 (0.049)    | false (0.000) |    16.13 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|           11 |      507 | 2024-04-24 | Hawks (Argentinian team) | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | false (0.000) |     6.73 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|           10 |      677 | 2024-04-20 | ODDIK                    | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.402 (0.057)    | false (0.000) |    25.27 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|            9 |      679 | 2024-04-20 | Bombril 1001 Utilidades  | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.157 (0.022)    | false (0.000) |    22.15 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|            8 |      994 | 2024-04-16 | MIBR                     | L   | 1.000      | -            | -                | -                | -             |    -0.13 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|            7 |     1276 | 2024-04-09 | Vikings KR               | L   | 1.000      | -            | -                | -                | -             |   -10.06 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|            6 |     1324 | 2024-04-08 | RED Canids               | L   | 1.000      | -            | -                | -                | -             |    -2.78 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|            5 |     1384 | 2024-04-06 | MIBR                     | L   | 1.000      | -            | -                | -                | -             |    -0.16 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|            4 |     1476 | 2024-04-04 | Sensei Team              | W   | 0.992      | 0.143        | 0.006 (0.001)    | 0.409 (0.058)    | false (0.000) |    21.18 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|            3 |     1688 | 2024-03-28 | Dusty Roots              | W   | 0.945      | 0.143        | 0.005 (0.001)    | 0.352 (0.048)    | false (0.000) |    18.37 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
-|            2 |     1962 | 2024-03-21 | FURIA Academy            | L   | 0.899      | -            | -                | -                | -             |   -12.45 | MTGG, Reix, SHOOWTiME, Tomate, zmb   |
-|            1 |     1972 | 2024-03-21 | Intense Game             | W   | 0.899      | 0.143        | 0.008 (0.001)    | 0.372 (0.048)    | false (0.000) |    20.93 | MTGG, Reix, SHOOWTiME, Tomate, zmb   |
+|           14 |      398 | 2024-04-26 | FURIA Esports Female     | W   | 1.000      | 0.143        | 0.048 (0.007)    | 0.205 (0.029)    | 0 (0.000) |    22.32 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|           13 |      500 | 2024-04-24 | Vikings KR               | L   | 1.000      | -            | -                | -                | -         |   -10.54 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|           12 |      504 | 2024-04-24 | Corinthians Esports      | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.346 (0.049)    | 0 (0.000) |    16.13 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|           11 |      507 | 2024-04-24 | Hawks (Argentinian team) | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | 0 (0.000) |     6.73 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|           10 |      677 | 2024-04-20 | ODDIK                    | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.402 (0.057)    | 0 (0.000) |    25.27 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|            9 |      679 | 2024-04-20 | Bombril 1001 Utilidades  | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.157 (0.022)    | 0 (0.000) |    22.15 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|            8 |      994 | 2024-04-16 | MIBR                     | L   | 1.000      | -            | -                | -                | -         |    -0.13 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|            7 |     1276 | 2024-04-09 | Vikings KR               | L   | 1.000      | -            | -                | -                | -         |   -10.06 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|            6 |     1324 | 2024-04-08 | RED Canids               | L   | 1.000      | -            | -                | -                | -         |    -2.78 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|            5 |     1384 | 2024-04-06 | MIBR                     | L   | 1.000      | -            | -                | -                | -         |    -0.16 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|            4 |     1476 | 2024-04-04 | Sensei Team              | W   | 0.992      | 0.143        | 0.006 (0.001)    | 0.409 (0.058)    | 0 (0.000) |    21.18 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|            3 |     1688 | 2024-03-28 | Dusty Roots              | W   | 0.945      | 0.143        | 0.005 (0.001)    | 0.352 (0.048)    | 0 (0.000) |    18.37 | bnc, KAISER, Reix, SHOOWTiME, Tomate |
+|            2 |     1962 | 2024-03-21 | FURIA Academy            | L   | 0.899      | -            | -                | -                | -         |   -12.45 | MTGG, Reix, SHOOWTiME, Tomate, zmb   |
+|            1 |     1972 | 2024-03-21 | Intense Game             | W   | 0.899      | 0.143        | 0.008 (0.001)    | 0.372 (0.048)    | 0 (0.000) |    20.93 | MTGG, Reix, SHOOWTiME, Tomate, zmb   |
 
 <br />
 <span id="table2"></span><br />

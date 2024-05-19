@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |       99 | 2024-05-03 | Verdant                      | L   | 1.000      | -            | -                | -                | -             |    -3.81 | eMy, ifan, Yoshwa, Ziimzey, Zulu     |
-|            9 |      177 | 2024-05-01 | ROYALS                       | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.061 (0.009)    | false (0.000) |    20.21 | eMy, ifan, Yoshwa, Ziimzey, Zulu     |
-|            8 |      231 | 2024-04-30 | Raptors Esports Club         | L   | 1.000      | -            | -                | -                | -             |    -3.54 | eMy, ifan, Yoshwa, Ziimzey, Zulu     |
-|            7 |     2047 | 2024-03-19 | K10                          | L   | 0.886      | -            | -                | -                | -             |    -4.18 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
-|            6 |     2254 | 2024-03-14 | The Last Resort              | W   | 0.852      | 0.143        | 0.001 (0.000)    | 0.240 (0.029)    | false (0.000) |    19.15 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
-|            5 |     2303 | 2024-03-13 | TEAM MAX (European mix-team) | L   | 0.846      | -            | -                | -                | -             |   -12.32 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
-|            4 |     2363 | 2024-03-12 | Verdant                      | L   | 0.839      | -            | -                | -                | -             |    -2.74 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
-|            3 |     2398 | 2024-03-11 | UHKA eSports                 | W   | 0.832      | 0.333        | 0.000 (0.000)    | 0.029 (0.008)    | false (0.000) |     9.42 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
-|            2 |     2483 | 2024-03-09 | HAVENs                       | W   | 0.819      | 0.333        | 0.000 (0.000)    | 0.031 (0.008)    | false (0.000) |    11.82 | keni, proxi, v1trage, WIPSKY, yaankz |
-|            1 |     2560 | 2024-03-07 | HyperSpirit                  | L   | 0.806      | -            | -                | -                | -             |    -6.67 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
+|           10 |       99 | 2024-05-03 | Verdant                      | L   | 1.000      | -            | -                | -                | -         |    -3.81 | eMy, ifan, Yoshwa, Ziimzey, Zulu     |
+|            9 |      177 | 2024-05-01 | ROYALS                       | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.061 (0.009)    | 0 (0.000) |    20.21 | eMy, ifan, Yoshwa, Ziimzey, Zulu     |
+|            8 |      231 | 2024-04-30 | Raptors Esports Club         | L   | 1.000      | -            | -                | -                | -         |    -3.54 | eMy, ifan, Yoshwa, Ziimzey, Zulu     |
+|            7 |     2047 | 2024-03-19 | K10                          | L   | 0.886      | -            | -                | -                | -         |    -4.18 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
+|            6 |     2254 | 2024-03-14 | The Last Resort              | W   | 0.852      | 0.143        | 0.001 (0.000)    | 0.240 (0.029)    | 0 (0.000) |    19.15 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
+|            5 |     2303 | 2024-03-13 | TEAM MAX (European mix-team) | L   | 0.846      | -            | -                | -                | -         |   -12.32 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
+|            4 |     2363 | 2024-03-12 | Verdant                      | L   | 0.839      | -            | -                | -                | -         |    -2.74 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
+|            3 |     2398 | 2024-03-11 | UHKA eSports                 | W   | 0.832      | 0.333        | 0.000 (0.000)    | 0.029 (0.008)    | 0 (0.000) |     9.42 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
+|            2 |     2483 | 2024-03-09 | HAVENs                       | W   | 0.819      | 0.333        | 0.000 (0.000)    | 0.031 (0.008)    | 0 (0.000) |    11.82 | keni, proxi, v1trage, WIPSKY, yaankz |
+|            1 |     2560 | 2024-03-07 | HyperSpirit                  | L   | 0.806      | -            | -                | -                | -         |    -6.67 | eMy, ifan, Rhys, Yoshwa, Ziimzey     |
 
 <br />
 <span id="table2"></span><br />

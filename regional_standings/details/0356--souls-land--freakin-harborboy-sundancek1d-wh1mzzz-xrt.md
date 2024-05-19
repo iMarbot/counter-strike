@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                          |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      684 | 2024-04-20 | Team Invictum        | L   | 1.000      | -            | -                | -                | -             |   -13.39 | FreakiN, Harborboy, SundanceK1d, wh1mzzz, xrt   |
-|           10 |      797 | 2024-04-19 | Team Invictum        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.141 (0.020)    | false (0.000) |    17.58 | FreakiN, Harborboy, SundanceK1d, wh1mzzz, xrt   |
-|            9 |      801 | 2024-04-19 | Team Sodality        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | false (0.000) |    18.09 | FreakiN, Harborboy, SundanceK1d, wh1mzzz, xrt   |
-|            8 |     3183 | 2024-02-24 | Rum Bumpers          | L   | 0.723      | -            | -                | -                | -             |    -4.35 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
-|            7 |     3196 | 2024-02-23 | BTEC NEDS            | W   | 0.720      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | true (0.720)  |    10.27 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
-|            6 |     3436 | 2024-02-18 | The Last Resort      | L   | 0.686      | -            | -                | -                | -             |    -4.21 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
-|            5 |     3571 | 2024-02-15 | K10                  | L   | 0.666      | -            | -                | -                | -             |    -1.92 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
-|            4 |     3667 | 2024-02-13 | Viperio              | L   | 0.652      | -            | -                | -                | -             |    -4.43 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
-|            3 |     3783 | 2024-02-09 | The Last Resort      | L   | 0.626      | -            | -                | -                | -             |    -4.24 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
-|            2 |     6803 | 2023-11-16 | Raptors Esports Club | L   | 0.059      | -            | -                | -                | -             |    -0.15 | Harborboy, Kisynergy, SundanceK1d, wh1mzzz, xrt |
-|            1 |     6923 | 2023-11-14 | Verdant              | L   | 0.045      | -            | -                | -                | -             |    -0.06 | Harborboy, Kisynergy, SundanceK1d, wh1mzzz, xrt |
+|           11 |      684 | 2024-04-20 | Team Invictum        | L   | 1.000      | -            | -                | -                | -         |   -13.39 | FreakiN, Harborboy, SundanceK1d, wh1mzzz, xrt   |
+|           10 |      797 | 2024-04-19 | Team Invictum        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.141 (0.020)    | 0 (0.000) |    17.58 | FreakiN, Harborboy, SundanceK1d, wh1mzzz, xrt   |
+|            9 |      801 | 2024-04-19 | Team Sodality        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | 0 (0.000) |    18.09 | FreakiN, Harborboy, SundanceK1d, wh1mzzz, xrt   |
+|            8 |     3183 | 2024-02-24 | Rum Bumpers          | L   | 0.723      | -            | -                | -                | -         |    -4.35 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
+|            7 |     3196 | 2024-02-23 | BTEC NEDS            | W   | 0.720      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.720) |    10.27 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
+|            6 |     3436 | 2024-02-18 | The Last Resort      | L   | 0.686      | -            | -                | -                | -         |    -4.21 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
+|            5 |     3571 | 2024-02-15 | K10                  | L   | 0.666      | -            | -                | -                | -         |    -1.92 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
+|            4 |     3667 | 2024-02-13 | Viperio              | L   | 0.652      | -            | -                | -                | -         |    -4.43 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
+|            3 |     3783 | 2024-02-09 | The Last Resort      | L   | 0.626      | -            | -                | -                | -         |    -4.24 | Deg1l, EthanChen, Harborboy, SundanceK1d, xrt   |
+|            2 |     6803 | 2023-11-16 | Raptors Esports Club | L   | 0.059      | -            | -                | -                | -         |    -0.15 | Harborboy, Kisynergy, SundanceK1d, wh1mzzz, xrt |
+|            1 |     6923 | 2023-11-14 | Verdant              | L   | 0.045      | -            | -                | -                | -         |    -0.06 | Harborboy, Kisynergy, SundanceK1d, wh1mzzz, xrt |
 
 <br />
 <span id="table2"></span><br />

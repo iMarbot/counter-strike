@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                              |
+| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     2348 | 2024-03-13 | MANTRA                       | L   | 0.843      | -            | -                | -                | -             |    -9.63 | InfrequeNt, James, kyson, Plam, RaZ |
-|            9 |     2588 | 2024-03-07 | Underground Esports Club     | W   | 0.803      | 0.270        | 0.000 (0.000)    | 0.112 (0.024)    | false (0.000) |    11.54 | InfrequeNt, James, kyson, Plam, RaZ |
-|            8 |     2659 | 2024-03-06 | Tuvalu Embassy               | W   | 0.796      | 0.270        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.54 | exe, InfrequeNt, James, kyson, RaZ  |
-|            7 |     4407 | 2024-01-24 | Blitz (Australian team)      | L   | 0.516      | -            | -                | -                | -             |   -10.33 | James, jokes, kyson, Noisia, RaZ    |
-|            6 |     6223 | 2023-11-30 | DXA Esports                  | L   | 0.149      | -            | -                | -                | -             |    -1.42 | James, jokes, kyson, Noisia, RaZ    |
-|            5 |     6228 | 2023-11-30 | Dracula Flow                 | W   | 0.149      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     1.21 | James, jokes, kyson, Noisia, RaZ    |
-|            4 |     6338 | 2023-11-28 | Balenciaga (Australian team) | W   | 0.136      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     1.11 | James, jokes, kyson, Noisia, RaZ    |
-|            3 |     6903 | 2023-11-15 | KZG                          | W   | 0.049      | 0.143        | 0.000 (0.000)    | 0.001 (0.000)    | false (0.000) |     0.73 | James, jokes, Noisia, Plam, RaZ     |
-|            2 |     7150 | 2023-11-09 | Golf Club                    | W   | 0.010      | 0.143        | 0.000 (0.000)    | 0.007 (0.000)    | false (0.000) |     0.15 | James, jokes, Noisia, Plam, RaZ     |
-|            1 |     7212 | 2023-11-08 | MANTRA                       | W   | 0.003      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | false (0.000) |     0.03 | James, jokes, Noisia, Plam, RaZ     |
+|           10 |     2348 | 2024-03-13 | MANTRA                       | L   | 0.843      | -            | -                | -                | -         |    -9.63 | InfrequeNt, James, kyson, Plam, RaZ |
+|            9 |     2588 | 2024-03-07 | Underground Esports Club     | W   | 0.803      | 0.270        | 0.000 (0.000)    | 0.112 (0.024)    | 0 (0.000) |    11.54 | InfrequeNt, James, kyson, Plam, RaZ |
+|            8 |     2659 | 2024-03-06 | Tuvalu Embassy               | W   | 0.796      | 0.270        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.54 | exe, InfrequeNt, James, kyson, RaZ  |
+|            7 |     4407 | 2024-01-24 | Blitz (Australian team)      | L   | 0.516      | -            | -                | -                | -         |   -10.33 | James, jokes, kyson, Noisia, RaZ    |
+|            6 |     6223 | 2023-11-30 | DXA Esports                  | L   | 0.149      | -            | -                | -                | -         |    -1.42 | James, jokes, kyson, Noisia, RaZ    |
+|            5 |     6228 | 2023-11-30 | Dracula Flow                 | W   | 0.149      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.21 | James, jokes, kyson, Noisia, RaZ    |
+|            4 |     6338 | 2023-11-28 | Balenciaga (Australian team) | W   | 0.136      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.11 | James, jokes, kyson, Noisia, RaZ    |
+|            3 |     6903 | 2023-11-15 | KZG                          | W   | 0.049      | 0.143        | 0.000 (0.000)    | 0.001 (0.000)    | 0 (0.000) |     0.73 | James, jokes, Noisia, Plam, RaZ     |
+|            2 |     7150 | 2023-11-09 | Golf Club                    | W   | 0.010      | 0.143        | 0.000 (0.000)    | 0.007 (0.000)    | 0 (0.000) |     0.15 | James, jokes, Noisia, Plam, RaZ     |
+|            1 |     7212 | 2023-11-08 | MANTRA                       | W   | 0.003      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     0.03 | James, jokes, Noisia, Plam, RaZ     |
 
 <br />
 <span id="table2"></span><br />

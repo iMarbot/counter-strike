@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                          |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |       73 | 2024-05-04 | Noobs But Diligent | L   | 1.000      | -            | -                | -                | -             |   -17.94 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
-|           10 |       86 | 2024-05-04 | AP Gaming          | L   | 1.000      | -            | -                | -                | -             |   -14.82 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
-|            9 |      772 | 2024-04-20 | Noobs But Diligent | W   | 1.000      | 0.143        | 0.027 (0.004)    | 0.174 (0.025)    | false (0.000) |    13.28 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
-|            8 |      782 | 2024-04-19 | XNL Gaming         | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.000 (0.000)    | false (0.000) |     5.29 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
-|            7 |      956 | 2024-04-17 | TYLOO              | L   | 1.000      | -            | -                | -                | -             |    -8.18 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
-|            6 |      964 | 2024-04-17 | DEWA United        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | false (0.000) |     6.07 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
-|            5 |     1015 | 2024-04-16 | GR Gaming          | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.495 (0.071)    | false (0.000) |    20.56 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
-|            4 |     1123 | 2024-04-13 | StudFarm Esport    | W   | 1.000      | 0.143        | 0.020 (0.003)    | 0.069 (0.010)    | false (0.000) |    10.61 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
-|            3 |     1125 | 2024-04-13 | AP Gaming          | W   | 1.000      | 0.143        | 0.082 (0.012)    | 0.152 (0.022)    | false (0.000) |    18.92 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
-|            2 |     1423 | 2024-04-06 | StudFarm Esport    | W   | 1.000      | 0.143        | 0.020 (0.003)    | 0.069 (0.010)    | false (0.000) |    12.32 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
-|            1 |     1429 | 2024-04-06 | AP Gaming          | W   | 1.000      | 0.143        | 0.082 (0.012)    | 0.152 (0.022)    | false (0.000) |    20.70 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|           11 |       73 | 2024-05-04 | Noobs But Diligent | L   | 1.000      | -            | -                | -                | -         |   -17.94 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|           10 |       86 | 2024-05-04 | AP Gaming          | L   | 1.000      | -            | -                | -                | -         |   -14.82 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|            9 |      772 | 2024-04-20 | Noobs But Diligent | W   | 1.000      | 0.143        | 0.027 (0.004)    | 0.174 (0.025)    | 0 (0.000) |    13.28 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|            8 |      782 | 2024-04-19 | XNL Gaming         | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     5.29 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|            7 |      956 | 2024-04-17 | TYLOO              | L   | 1.000      | -            | -                | -                | -         |    -8.18 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|            6 |      964 | 2024-04-17 | DEWA United        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | 0 (0.000) |     6.07 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|            5 |     1015 | 2024-04-16 | GR Gaming          | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.495 (0.071)    | 0 (0.000) |    20.56 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|            4 |     1123 | 2024-04-13 | StudFarm Esport    | W   | 1.000      | 0.143        | 0.020 (0.003)    | 0.069 (0.010)    | 0 (0.000) |    10.61 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|            3 |     1125 | 2024-04-13 | AP Gaming          | W   | 1.000      | 0.143        | 0.082 (0.012)    | 0.152 (0.022)    | 0 (0.000) |    18.92 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|            2 |     1423 | 2024-04-06 | StudFarm Esport    | W   | 1.000      | 0.143        | 0.020 (0.003)    | 0.069 (0.010)    | 0 (0.000) |    12.32 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
+|            1 |     1429 | 2024-04-06 | AP Gaming          | W   | 1.000      | 0.143        | 0.082 (0.012)    | 0.152 (0.022)    | 0 (0.000) |    20.70 | 2X2X, B1NGO, EXPRO, Ky1ng, tutu |
 
 <br />
 <span id="table2"></span><br />

@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                        |
+| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      824 | 2024-04-19 | JiJieHao                | L   | 1.000      | -            | -                | -                | -             |   -19.03 | 0SAMAS, 0scar, Ejram, PokemoN, TTyke          |
-|           11 |      876 | 2024-04-18 | JiJieHao                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.115 (0.016)    | false (0.000) |    11.69 | 0SAMAS, 0scar, Ejram, PokemoN, TTyke          |
-|           10 |      891 | 2024-04-18 | NoChance (Israeli team) | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.036 (0.005)    | false (0.000) |     7.99 | 0SAMAS, 0scar, Ejram, PokemoN, TTyke          |
-|            9 |      944 | 2024-04-17 | XO Esports              | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.47 | 0SAMAS, 0scar, Ejram, PokemoN, TTyke          |
-|            8 |     1792 | 2024-03-26 | Gaimin Gladiators       | L   | 0.933      | -            | -                | -                | -             |    -0.52 | 0SAMAS, 0scar, Ejram, PokemoN, TTyke          |
-|            7 |     4206 | 2024-01-28 | JiJieHao                | L   | 0.546      | -            | -                | -                | -             |   -11.13 | 0SAMAS, Ejram, PokemoN, TTyke, tudsoN         |
-|            6 |     4225 | 2024-01-28 | 15 Average Gaming       | L   | 0.544      | -            | -                | -                | -             |   -12.24 | 0SAMAS, Ejram, PokemoN, TTyke, tudsoN         |
-|            5 |     4313 | 2024-01-26 | JiJieHao                | W   | 0.532      | 0.143        | 0.000 (0.000)    | 0.115 (0.009)    | false (0.000) |     5.34 | 0SAMAS, Ejram, PokemoN, TTyke, tudsoN         |
-|            4 |     4323 | 2024-01-26 | Nixuh                   | W   | 0.531      | 0.143        | 0.004 (0.000)    | 0.115 (0.009)    | false (0.000) |     7.76 | 0SAMAS, Ejram, PokemoN, TTyke, tudsoN         |
-|            3 |     5579 | 2023-12-15 | THE SUSPECT             | L   | 0.252      | -            | -                | -                | -             |    -4.25 | 0SAMAS, Ejram, PokemoN, TTyke, tudsoN         |
-|            2 |     5712 | 2023-12-10 | R8 Esports              | W   | 0.219      | 0.143        | 0.002 (0.000)    | 0.008 (0.000)    | true (0.219)  |     2.18 | Alylelely, Ba6ooooy, HopeDaBe4st, Lacore, tr1 |
-|            1 |     5716 | 2023-12-10 | ACME                    | W   | 0.218      | 0.143        | 0.017 (0.001)    | 0.049 (0.002)    | true (0.218)  |     4.12 | alwkze, Faller, JaiHind, R2B2, Zayed          |
+|           12 |      824 | 2024-04-19 | JiJieHao                | L   | 1.000      | -            | -                | -                | -         |   -19.03 | 0SAMAS, 0scar, Ejram, PokemoN, TTyke          |
+|           11 |      876 | 2024-04-18 | JiJieHao                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.115 (0.016)    | 0 (0.000) |    11.69 | 0SAMAS, 0scar, Ejram, PokemoN, TTyke          |
+|           10 |      891 | 2024-04-18 | NoChance (Israeli team) | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.036 (0.005)    | 0 (0.000) |     7.99 | 0SAMAS, 0scar, Ejram, PokemoN, TTyke          |
+|            9 |      944 | 2024-04-17 | XO Esports              | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.47 | 0SAMAS, 0scar, Ejram, PokemoN, TTyke          |
+|            8 |     1792 | 2024-03-26 | Gaimin Gladiators       | L   | 0.933      | -            | -                | -                | -         |    -0.52 | 0SAMAS, 0scar, Ejram, PokemoN, TTyke          |
+|            7 |     4206 | 2024-01-28 | JiJieHao                | L   | 0.546      | -            | -                | -                | -         |   -11.13 | 0SAMAS, Ejram, PokemoN, TTyke, tudsoN         |
+|            6 |     4225 | 2024-01-28 | 15 Average Gaming       | L   | 0.544      | -            | -                | -                | -         |   -12.24 | 0SAMAS, Ejram, PokemoN, TTyke, tudsoN         |
+|            5 |     4313 | 2024-01-26 | JiJieHao                | W   | 0.532      | 0.143        | 0.000 (0.000)    | 0.115 (0.009)    | 0 (0.000) |     5.34 | 0SAMAS, Ejram, PokemoN, TTyke, tudsoN         |
+|            4 |     4323 | 2024-01-26 | Nixuh                   | W   | 0.531      | 0.143        | 0.004 (0.000)    | 0.115 (0.009)    | 0 (0.000) |     7.76 | 0SAMAS, Ejram, PokemoN, TTyke, tudsoN         |
+|            3 |     5579 | 2023-12-15 | THE SUSPECT             | L   | 0.252      | -            | -                | -                | -         |    -4.25 | 0SAMAS, Ejram, PokemoN, TTyke, tudsoN         |
+|            2 |     5712 | 2023-12-10 | R8 Esports              | W   | 0.219      | 0.143        | 0.002 (0.000)    | 0.008 (0.000)    | 1 (0.219) |     2.18 | Alylelely, Ba6ooooy, HopeDaBe4st, Lacore, tr1 |
+|            1 |     5716 | 2023-12-10 | ACME                    | W   | 0.218      | 0.143        | 0.017 (0.001)    | 0.049 (0.002)    | 1 (0.218) |     4.12 | alwkze, Faller, JaiHind, R2B2, Zayed          |
 
 <br />
 <span id="table2"></span><br />

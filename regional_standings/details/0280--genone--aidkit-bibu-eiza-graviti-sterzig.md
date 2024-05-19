@@ -34,29 +34,29 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |     5053 | 2024-01-10 | Team Space               | L   | 0.426      | -            | -                | -                | -             |    -4.88 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
-|           20 |     5362 | 2023-12-17 | EYEBALLERS               | L   | 0.264      | -            | -                | -                | -             |    -1.20 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
-|           19 |     5456 | 2023-12-16 | Sangal Esports           | W   | 0.259      | 0.294        | 0.000 (0.000)    | 0.350 (0.027)    | false (0.000) |     4.60 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
-|           18 |     5469 | 2023-12-16 | ILIN                     | W   | 0.258      | 0.294        | 0.000 (0.000)    | 0.348 (0.026)    | false (0.000) |     3.24 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
-|           17 |     5937 | 2023-12-06 | Zero Tenacity            | L   | 0.191      | -            | -                | -                | -             |    -0.81 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|           16 |     6214 | 2023-11-30 | TSM                      | W   | 0.151      | 0.371        | 0.008 (0.000)    | 0.043 (0.002)    | false (0.000) |     2.91 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|           15 |     6325 | 2023-11-28 | Endpoint                 | L   | 0.138      | -            | -                | -                | -             |    -0.96 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|           14 |     6516 | 2023-11-23 | ENTERPRISE esports       | L   | 0.105      | -            | -                | -                | -             |    -0.45 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|           13 |     6526 | 2023-11-23 | DMS                      | W   | 0.104      | 0.371        | 0.000 (0.000)    | 0.504 (0.020)    | false (0.000) |     1.76 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|           12 |     6644 | 2023-11-20 | Insilio                  | W   | 0.084      | 0.371        | 0.020 (0.001)    | 0.875 (0.027)    | false (0.000) |     2.24 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|           11 |     6661 | 2023-11-19 | The Witchers             | L   | 0.079      | -            | -                | -                | -             |    -0.72 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|           10 |     6672 | 2023-11-19 | Grindas                  | W   | 0.078      | 0.294        | 0.002 (0.000)    | 0.332 (0.008)    | false (0.000) |     1.49 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|            9 |     6769 | 2023-11-17 | BLESSED (Ukrainian team) | L   | 0.065      | -            | -                | -                | -             |    -0.47 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|            8 |     6785 | 2023-11-17 | Sashi Esport             | L   | 0.064      | -            | -                | -                | -             |    -0.14 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
-|            7 |     6815 | 2023-11-16 | Grindas                  | W   | 0.059      | 0.371        | 0.002 (0.000)    | 0.332 (0.007)    | false (0.000) |     1.12 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|            6 |     6824 | 2023-11-16 | Nexus Gaming             | L   | 0.058      | -            | -                | -                | -             |    -0.25 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|            5 |     6850 | 2023-11-16 | GODSENT                  | L   | 0.056      | -            | -                | -                | -             |    -0.48 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
-|            4 |     6975 | 2023-11-13 | ESCAPIST                 | W   | 0.038      | 0.371        | 0.000 (0.000)    | 0.013 (0.000)    | false (0.000) |     0.47 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|            3 |     7073 | 2023-11-11 | GUN5 Esports             | L   | 0.023      | -            | -                | -                | -             |    -0.34 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
-|            2 |     7104 | 2023-11-10 | Ex-Anonymo Esports       | W   | 0.017      | 0.371        | 0.019 (0.000)    | 0.295 (0.002)    | false (0.000) |     0.37 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
-|            1 |     7147 | 2023-11-09 | CYBERSHOKE Esports       | W   | 0.010      | 0.143        | 0.004 (0.000)    | 0.220 (0.000)    | false (0.000) |     0.21 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
+|           21 |     5053 | 2024-01-10 | Team Space               | L   | 0.426      | -            | -                | -                | -         |    -4.88 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
+|           20 |     5362 | 2023-12-17 | EYEBALLERS               | L   | 0.264      | -            | -                | -                | -         |    -1.20 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
+|           19 |     5456 | 2023-12-16 | Sangal Esports           | W   | 0.259      | 0.294        | 0.000 (0.000)    | 0.350 (0.027)    | 0 (0.000) |     4.60 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
+|           18 |     5469 | 2023-12-16 | ILIN                     | W   | 0.258      | 0.294        | 0.000 (0.000)    | 0.348 (0.026)    | 0 (0.000) |     3.24 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
+|           17 |     5937 | 2023-12-06 | Zero Tenacity            | L   | 0.191      | -            | -                | -                | -         |    -0.81 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|           16 |     6214 | 2023-11-30 | TSM                      | W   | 0.151      | 0.371        | 0.008 (0.000)    | 0.043 (0.002)    | 0 (0.000) |     2.91 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|           15 |     6325 | 2023-11-28 | Endpoint                 | L   | 0.138      | -            | -                | -                | -         |    -0.96 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|           14 |     6516 | 2023-11-23 | ENTERPRISE esports       | L   | 0.105      | -            | -                | -                | -         |    -0.45 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|           13 |     6526 | 2023-11-23 | DMS                      | W   | 0.104      | 0.371        | 0.000 (0.000)    | 0.504 (0.020)    | 0 (0.000) |     1.76 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|           12 |     6644 | 2023-11-20 | Insilio                  | W   | 0.084      | 0.371        | 0.020 (0.001)    | 0.875 (0.027)    | 0 (0.000) |     2.24 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|           11 |     6661 | 2023-11-19 | The Witchers             | L   | 0.079      | -            | -                | -                | -         |    -0.72 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|           10 |     6672 | 2023-11-19 | Grindas                  | W   | 0.078      | 0.294        | 0.002 (0.000)    | 0.332 (0.008)    | 0 (0.000) |     1.49 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|            9 |     6769 | 2023-11-17 | BLESSED (Ukrainian team) | L   | 0.065      | -            | -                | -                | -         |    -0.47 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|            8 |     6785 | 2023-11-17 | Sashi Esport             | L   | 0.064      | -            | -                | -                | -         |    -0.14 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
+|            7 |     6815 | 2023-11-16 | Grindas                  | W   | 0.059      | 0.371        | 0.002 (0.000)    | 0.332 (0.007)    | 0 (0.000) |     1.12 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|            6 |     6824 | 2023-11-16 | Nexus Gaming             | L   | 0.058      | -            | -                | -                | -         |    -0.25 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|            5 |     6850 | 2023-11-16 | GODSENT                  | L   | 0.056      | -            | -                | -                | -         |    -0.48 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
+|            4 |     6975 | 2023-11-13 | ESCAPIST                 | W   | 0.038      | 0.371        | 0.000 (0.000)    | 0.013 (0.000)    | 0 (0.000) |     0.47 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|            3 |     7073 | 2023-11-11 | GUN5 Esports             | L   | 0.023      | -            | -                | -                | -         |    -0.34 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
+|            2 |     7104 | 2023-11-10 | Ex-Anonymo Esports       | W   | 0.017      | 0.371        | 0.019 (0.000)    | 0.295 (0.002)    | 0 (0.000) |     0.37 | aidKiT, bibu, Get_Jeka, Graviti, Sterzig |
+|            1 |     7147 | 2023-11-09 | CYBERSHOKE Esports       | W   | 0.010      | 0.143        | 0.004 (0.000)    | 0.220 (0.000)    | 0 (0.000) |     0.21 | aidKiT, bibu, EIZA, Graviti, Sterzig     |
 
 <br />
 <span id="table2"></span><br />

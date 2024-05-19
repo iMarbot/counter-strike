@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      339 | 2024-04-27 | ODDIK Academy                | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.160 (0.023)    | false (0.000) |    15.45 | balencyy, Lekzi, lucky-, RoDfps_, shun7  |
-|            9 |      345 | 2024-04-27 | Sensei Team                  | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.409 (0.058)    | false (0.000) |    19.61 | balencyy, Lekzi, lucky-, RoDfps_, shun7  |
-|            8 |     1596 | 2024-04-01 | 9z Academy                   | L   | 0.973      | -            | -                | -                | -             |   -16.22 | arcz, balencyy, lucky-, RoDfps_, shun7   |
-|            7 |     1855 | 2024-03-24 | Looking4Org (Brazilian team) | L   | 0.919      | -            | -                | -                | -             |   -14.19 | bks, fP1, nz1, sanc, suNday              |
-|            6 |     1880 | 2024-03-23 | Corinthians Esports          | L   | 0.913      | -            | -                | -                | -             |   -13.00 | arcz, balencyy, lucky-, RoDfps_, shun7   |
-|            5 |     1895 | 2024-03-23 | 2024                         | W   | 0.912      | 0.143        | 0.001 (0.000)    | 0.130 (0.017)    | false (0.000) |    11.69 | arcz, balencyy, lucky-, RoDfps_, shun7   |
-|            4 |     1902 | 2024-03-23 | SoJoga Academy               | W   | 0.912      | 0.143        | 0.001 (0.000)    | 0.109 (0.014)    | false (0.000) |    13.77 | arcz, balencyy, lucky-, RoDfps_, shun7   |
-|            3 |     2361 | 2024-03-12 | RED Canids                   | L   | 0.840      | -            | -                | -                | -             |    -3.98 | balencyy, lucky-, RoDfps_, shun7, zuzuye |
-|            2 |     4246 | 2024-01-27 | SOLOVE                       | L   | 0.540      | -            | -                | -                | -             |    -9.16 | balencyy, lucky-, RoDfps_, shun7, zuzuye |
-|            1 |     4259 | 2024-01-27 | Dusty Roots                  | W   | 0.539      | 0.143        | 0.005 (0.000)    | 0.352 (0.027)    | false (0.000) |     9.06 | balencyy, lucky-, RoDfps_, shun7, zuzuye |
+|           10 |      339 | 2024-04-27 | ODDIK Academy                | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.160 (0.023)    | 0 (0.000) |    15.45 | balencyy, Lekzi, lucky-, RoDfps_, shun7  |
+|            9 |      345 | 2024-04-27 | Sensei Team                  | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.409 (0.058)    | 0 (0.000) |    19.61 | balencyy, Lekzi, lucky-, RoDfps_, shun7  |
+|            8 |     1596 | 2024-04-01 | 9z Academy                   | L   | 0.973      | -            | -                | -                | -         |   -16.22 | arcz, balencyy, lucky-, RoDfps_, shun7   |
+|            7 |     1855 | 2024-03-24 | Looking4Org (Brazilian team) | L   | 0.919      | -            | -                | -                | -         |   -14.19 | bks, fP1, nz1, sanc, suNday              |
+|            6 |     1880 | 2024-03-23 | Corinthians Esports          | L   | 0.913      | -            | -                | -                | -         |   -13.00 | arcz, balencyy, lucky-, RoDfps_, shun7   |
+|            5 |     1895 | 2024-03-23 | 2024                         | W   | 0.912      | 0.143        | 0.001 (0.000)    | 0.130 (0.017)    | 0 (0.000) |    11.69 | arcz, balencyy, lucky-, RoDfps_, shun7   |
+|            4 |     1902 | 2024-03-23 | SoJoga Academy               | W   | 0.912      | 0.143        | 0.001 (0.000)    | 0.109 (0.014)    | 0 (0.000) |    13.77 | arcz, balencyy, lucky-, RoDfps_, shun7   |
+|            3 |     2361 | 2024-03-12 | RED Canids                   | L   | 0.840      | -            | -                | -                | -         |    -3.98 | balencyy, lucky-, RoDfps_, shun7, zuzuye |
+|            2 |     4246 | 2024-01-27 | SOLOVE                       | L   | 0.540      | -            | -                | -                | -         |    -9.16 | balencyy, lucky-, RoDfps_, shun7, zuzuye |
+|            1 |     4259 | 2024-01-27 | Dusty Roots                  | W   | 0.539      | 0.143        | 0.005 (0.000)    | 0.352 (0.027)    | 0 (0.000) |     9.06 | balencyy, lucky-, RoDfps_, shun7, zuzuye |
 
 <br />
 <span id="table2"></span><br />

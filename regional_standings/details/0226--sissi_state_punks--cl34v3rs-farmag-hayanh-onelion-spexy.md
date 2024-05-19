@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      281 | 2024-04-29 | TeamOrangeGaming    | L   | 1.000      | -            | -                | -                | -             |   -11.21 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|           12 |      370 | 2024-04-27 | TeamOrangeGaming    | L   | 1.000      | -            | -                | -                | -             |   -12.62 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|           11 |      606 | 2024-04-22 | Wave Esports        | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.113 (0.016)    | false (0.000) |    10.97 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|           10 |     1046 | 2024-04-15 | SNOGARD Dragons     | L   | 1.000      | -            | -                | -                | -             |   -15.31 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|            9 |     1320 | 2024-04-08 | EVOPLAY             | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.025 (0.004)    | false (0.000) |     7.57 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|            8 |     1535 | 2024-04-03 | ARROW (German team) | L   | 0.985      | -            | -                | -                | -             |   -15.95 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|            7 |     1812 | 2024-03-26 | ALTERNATE aTTaX Evo | W   | 0.932      | 0.143        | 0.005 (0.001)    | 0.198 (0.026)    | false (0.000) |    12.33 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|            6 |     1823 | 2024-03-26 | Pandaric eSports    | W   | 0.932      | 0.143        | 0.002 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.63 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|            5 |     2155 | 2024-03-17 | SNOGARD Dragons     | L   | 0.870      | -            | -                | -                | -             |   -14.07 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|            4 |     2218 | 2024-03-15 | Wave Esports        | W   | 0.858      | 0.143        | 0.004 (0.000)    | 0.113 (0.014)    | false (0.000) |    10.45 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|            3 |     2255 | 2024-03-14 | SNOGARD Dragons     | W   | 0.852      | 0.143        | 0.009 (0.001)    | 0.117 (0.014)    | false (0.000) |    13.58 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|            2 |     2866 | 2024-03-02 | Wave Esports        | W   | 0.772      | 0.143        | 0.004 (0.000)    | 0.113 (0.012)    | false (0.000) |    10.96 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
-|            1 |     3286 | 2024-02-21 | OTHERSCANTBEAT      | W   | 0.706      | 0.143        | 0.000 (0.000)    | 0.028 (0.003)    | false (0.000) |     5.55 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|           13 |      281 | 2024-04-29 | TeamOrangeGaming    | L   | 1.000      | -            | -                | -                | -         |   -11.21 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|           12 |      370 | 2024-04-27 | TeamOrangeGaming    | L   | 1.000      | -            | -                | -                | -         |   -12.62 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|           11 |      606 | 2024-04-22 | Wave Esports        | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.113 (0.016)    | 0 (0.000) |    10.97 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|           10 |     1046 | 2024-04-15 | SNOGARD Dragons     | L   | 1.000      | -            | -                | -                | -         |   -15.31 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|            9 |     1320 | 2024-04-08 | EVOPLAY             | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.025 (0.004)    | 0 (0.000) |     7.57 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|            8 |     1535 | 2024-04-03 | ARROW (German team) | L   | 0.985      | -            | -                | -                | -         |   -15.95 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|            7 |     1812 | 2024-03-26 | ALTERNATE aTTaX Evo | W   | 0.932      | 0.143        | 0.005 (0.001)    | 0.198 (0.026)    | 0 (0.000) |    12.33 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|            6 |     1823 | 2024-03-26 | Pandaric eSports    | W   | 0.932      | 0.143        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.63 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|            5 |     2155 | 2024-03-17 | SNOGARD Dragons     | L   | 0.870      | -            | -                | -                | -         |   -14.07 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|            4 |     2218 | 2024-03-15 | Wave Esports        | W   | 0.858      | 0.143        | 0.004 (0.000)    | 0.113 (0.014)    | 0 (0.000) |    10.45 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|            3 |     2255 | 2024-03-14 | SNOGARD Dragons     | W   | 0.852      | 0.143        | 0.009 (0.001)    | 0.117 (0.014)    | 0 (0.000) |    13.58 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|            2 |     2866 | 2024-03-02 | Wave Esports        | W   | 0.772      | 0.143        | 0.004 (0.000)    | 0.113 (0.012)    | 0 (0.000) |    10.96 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
+|            1 |     3286 | 2024-02-21 | OTHERSCANTBEAT      | W   | 0.706      | 0.143        | 0.000 (0.000)    | 0.028 (0.003)    | 0 (0.000) |     5.55 | Cl34v3rs, farmaG, hayanh, OneLion, Spexy |
 
 <br />
 <span id="table2"></span><br />

@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     2231 | 2024-03-15 | LE-LUX Esports              | L   | 0.856      | -            | -                | -                | -             |   -11.14 | beep, cl0ver, coops, Mechanical, Prime7    |
-|           13 |     2235 | 2024-03-15 | Invictus (Australian team)  | W   | 0.856      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |    11.26 | beep, cl0ver, coops, Mechanical, Prime7    |
-|           12 |     2285 | 2024-03-14 | VexX Gaming                 | L   | 0.849      | -            | -                | -                | -             |    -6.27 | beep, cl0ver, coops, Mechanical, Prime7    |
-|           11 |     2290 | 2024-03-14 | 500x                        | W   | 0.849      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |    11.63 | beep, cl0ver, coops, Mechanical, Prime7    |
-|           10 |     2344 | 2024-03-13 | Blitz (Australian team)     | L   | 0.843      | -            | -                | -                | -             |   -15.54 | beeb, cl0ver, coops, Mechanical, Prime7    |
-|            9 |     2437 | 2024-03-11 | Abyss (Australian team)     | W   | 0.830      | 0.270        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.60 | beeb, cl0ver, coops, Mechanical, Prime7    |
-|            8 |     2588 | 2024-03-07 | Antic Esports               | L   | 0.803      | -            | -                | -                | -             |   -11.54 | beeb, cl0ver, coops, Mechanical, Prime7    |
-|            7 |     3384 | 2024-02-19 | KZG                         | L   | 0.696      | -            | -                | -                | -             |    -6.22 | beeb, cl0ver, coops, Mechanical, Prime7    |
-|            6 |     3473 | 2024-02-17 | MANTRA                      | L   | 0.682      | -            | -                | -                | -             |    -7.84 | beeb, cl0ver, coops, Mechanical, Prime7    |
-|            5 |     3697 | 2024-02-13 | DXA Esports                 | L   | 0.649      | -            | -                | -                | -             |    -6.20 | beeb, cl0ver, coops, Poccket, Prime7       |
-|            4 |     3703 | 2024-02-12 | Dropout                     | W   | 0.649      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.44 | beeb, cl0ver, coops, Poccket, Prime7       |
-|            3 |     4408 | 2024-01-24 | DXA Esports                 | L   | 0.516      | -            | -                | -                | -             |    -4.72 | beeb, cl0ver, coops, Mechanical, Prime7    |
-|            2 |     4854 | 2024-01-15 | Mindfreak (Australian team) | L   | 0.456      | -            | -                | -                | -             |    -5.29 | beeb, cl0ver, coops, Mechanical, Prime7    |
-|            1 |     6229 | 2023-11-29 | DXA Esports                 | L   | 0.149      | -            | -                | -                | -             |    -1.42 | cl0ver, coops, Mechanical, Michael, Prime7 |
+|           14 |     2231 | 2024-03-15 | LE-LUX Esports              | L   | 0.856      | -            | -                | -                | -         |   -11.14 | beep, cl0ver, coops, Mechanical, Prime7    |
+|           13 |     2235 | 2024-03-15 | Invictus (Australian team)  | W   | 0.856      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.26 | beep, cl0ver, coops, Mechanical, Prime7    |
+|           12 |     2285 | 2024-03-14 | VexX Gaming                 | L   | 0.849      | -            | -                | -                | -         |    -6.27 | beep, cl0ver, coops, Mechanical, Prime7    |
+|           11 |     2290 | 2024-03-14 | 500x                        | W   | 0.849      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.63 | beep, cl0ver, coops, Mechanical, Prime7    |
+|           10 |     2344 | 2024-03-13 | Blitz (Australian team)     | L   | 0.843      | -            | -                | -                | -         |   -15.54 | beeb, cl0ver, coops, Mechanical, Prime7    |
+|            9 |     2437 | 2024-03-11 | Abyss (Australian team)     | W   | 0.830      | 0.270        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.60 | beeb, cl0ver, coops, Mechanical, Prime7    |
+|            8 |     2588 | 2024-03-07 | Antic Esports               | L   | 0.803      | -            | -                | -                | -         |   -11.54 | beeb, cl0ver, coops, Mechanical, Prime7    |
+|            7 |     3384 | 2024-02-19 | KZG                         | L   | 0.696      | -            | -                | -                | -         |    -6.22 | beeb, cl0ver, coops, Mechanical, Prime7    |
+|            6 |     3473 | 2024-02-17 | MANTRA                      | L   | 0.682      | -            | -                | -                | -         |    -7.84 | beeb, cl0ver, coops, Mechanical, Prime7    |
+|            5 |     3697 | 2024-02-13 | DXA Esports                 | L   | 0.649      | -            | -                | -                | -         |    -6.20 | beeb, cl0ver, coops, Poccket, Prime7       |
+|            4 |     3703 | 2024-02-12 | Dropout                     | W   | 0.649      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.44 | beeb, cl0ver, coops, Poccket, Prime7       |
+|            3 |     4408 | 2024-01-24 | DXA Esports                 | L   | 0.516      | -            | -                | -                | -         |    -4.72 | beeb, cl0ver, coops, Mechanical, Prime7    |
+|            2 |     4854 | 2024-01-15 | Mindfreak (Australian team) | L   | 0.456      | -            | -                | -                | -         |    -5.29 | beeb, cl0ver, coops, Mechanical, Prime7    |
+|            1 |     6229 | 2023-11-29 | DXA Esports                 | L   | 0.149      | -            | -                | -                | -         |    -1.42 | cl0ver, coops, Mechanical, Michael, Prime7 |
 
 <br />
 <span id="table2"></span><br />

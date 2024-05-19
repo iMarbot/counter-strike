@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      818 | 2024-04-19 | Fearless Cheetahs      | L   | 1.000      | -            | -                | -                | -             |   -10.15 | Deylary, f6tal, miu_u, Potya, unknxwn    |
-|           10 |     1104 | 2024-04-13 | Team Spirit Female     | L   | 1.000      | -            | -                | -                | -             |   -13.89 | Deylary, f6tal, miu_u, Potya, unknxwn    |
-|            9 |     1222 | 2024-04-10 | Let Her Cook           | W   | 1.000      | 0.331        | 0.000 (0.000)    | 0.191 (0.063)    | false (0.000) |    15.04 | Deylary, f6tal, miu_u, Potya, unknxwn    |
-|            8 |     1418 | 2024-04-06 | ENCE Athena            | L   | 1.000      | -            | -                | -                | -             |   -12.35 | Deylary, f6tal, miu_u, Potya, unknxwn    |
-|            7 |     1693 | 2024-03-28 | Crescent (Female team) | L   | 0.945      | -            | -                | -                | -             |   -12.03 | Deylary, f6tal, miu_u, Potya, unknxwn    |
-|            6 |     2261 | 2024-03-14 | NAVI Javelins          | L   | 0.852      | -            | -                | -                | -             |    -5.42 | Deylary, f6tal, miu_u, Potya, unknxwn    |
-|            5 |     2567 | 2024-03-07 | Team Spirit Female     | L   | 0.805      | -            | -                | -                | -             |   -10.91 | Deylary, f6tal, miu_u, Potya, unknxwn    |
-|            4 |     3096 | 2024-02-25 | Fearless Cheetahs      | L   | 0.732      | -            | -                | -                | -             |    -9.92 | Deylary, f6tal, miu_u, Potya, unknxwn    |
-|            3 |     3154 | 2024-02-24 | Astralis Women         | W   | 0.725      | 0.250        | 0.007 (0.001)    | 0.101 (0.018)    | false (0.000) |    11.25 | Deylary, f6tal, miu_u, Potya, unknxwn    |
-|            2 |     3175 | 2024-02-24 | Crescent (Female team) | L   | 0.723      | -            | -                | -                | -             |    -9.77 | Deylary, f6tal, miu_u, Potya, unknxwn    |
-|            1 |     6108 | 2023-12-02 | FORZE Ladies           | L   | 0.165      | -            | -                | -                | -             |    -2.70 | aimamama, Deylary, IRBITka, miu_u, Potya |
+|           11 |      818 | 2024-04-19 | Fearless Cheetahs      | L   | 1.000      | -            | -                | -                | -         |   -10.15 | Deylary, f6tal, miu_u, Potya, unknxwn    |
+|           10 |     1104 | 2024-04-13 | Team Spirit Female     | L   | 1.000      | -            | -                | -                | -         |   -13.89 | Deylary, f6tal, miu_u, Potya, unknxwn    |
+|            9 |     1222 | 2024-04-10 | Let Her Cook           | W   | 1.000      | 0.331        | 0.000 (0.000)    | 0.191 (0.063)    | 0 (0.000) |    15.04 | Deylary, f6tal, miu_u, Potya, unknxwn    |
+|            8 |     1418 | 2024-04-06 | ENCE Athena            | L   | 1.000      | -            | -                | -                | -         |   -12.35 | Deylary, f6tal, miu_u, Potya, unknxwn    |
+|            7 |     1693 | 2024-03-28 | Crescent (Female team) | L   | 0.945      | -            | -                | -                | -         |   -12.03 | Deylary, f6tal, miu_u, Potya, unknxwn    |
+|            6 |     2261 | 2024-03-14 | NAVI Javelins          | L   | 0.852      | -            | -                | -                | -         |    -5.42 | Deylary, f6tal, miu_u, Potya, unknxwn    |
+|            5 |     2567 | 2024-03-07 | Team Spirit Female     | L   | 0.805      | -            | -                | -                | -         |   -10.91 | Deylary, f6tal, miu_u, Potya, unknxwn    |
+|            4 |     3096 | 2024-02-25 | Fearless Cheetahs      | L   | 0.732      | -            | -                | -                | -         |    -9.92 | Deylary, f6tal, miu_u, Potya, unknxwn    |
+|            3 |     3154 | 2024-02-24 | Astralis Women         | W   | 0.725      | 0.250        | 0.007 (0.001)    | 0.101 (0.018)    | 0 (0.000) |    11.25 | Deylary, f6tal, miu_u, Potya, unknxwn    |
+|            2 |     3175 | 2024-02-24 | Crescent (Female team) | L   | 0.723      | -            | -                | -                | -         |    -9.77 | Deylary, f6tal, miu_u, Potya, unknxwn    |
+|            1 |     6108 | 2023-12-02 | FORZE Ladies           | L   | 0.165      | -            | -                | -                | -         |    -2.70 | aimamama, Deylary, IRBITka, miu_u, Potya |
 
 <br />
 <span id="table2"></span><br />

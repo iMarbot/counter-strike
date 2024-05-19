@@ -34,24 +34,24 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                      |
+| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |       54 | 2024-05-04 | White Rabbit Amaryllis | L   | 1.000      | -            | -                | -                | -             |   -18.64 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
-|           15 |       66 | 2024-05-04 | Apeture astra          | W   | 1.000      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.72 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
-|           14 |     1097 | 2024-04-13 | White Rabbit Amaryllis | W   | 1.000      | 0.233        | 0.001 (0.000)    | 0.035 (0.008)    | false (0.000) |     7.05 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
-|           13 |     1114 | 2024-04-13 | Aperture Gaming Female | W   | 1.000      | 0.233        | 0.001 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.66 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
-|           12 |     1397 | 2024-04-06 | White Rabbit Amaryllis | W   | 1.000      | 0.233        | 0.008 (0.002)    | 0.133 (0.031)    | false (0.000) |    12.98 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
-|           11 |     1401 | 2024-04-06 | Apeture astra          | W   | 1.000      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.24 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
-|           10 |     2881 | 2024-03-02 | White Rabbit Amaryllis | W   | 0.771      | 0.233        | 0.008 (0.002)    | 0.133 (0.024)    | false (0.000) |    10.57 | Cjay, Creative28, ihatejess, KayC, queenza  |
-|            9 |     2890 | 2024-03-02 | Apeture astra          | W   | 0.770      | -            | -                | -                | false (0.000) |     3.58 | Cjay, Creative28, ihatejess, KayC, queenza  |
-|            8 |     3156 | 2024-02-24 | White Rabbit Amaryllis | W   | 0.725      | 0.233        | 0.008 (0.001)    | 0.133 (0.022)    | false (0.000) |    10.60 | Creative28, ihatejess, KayC, M3gzz, queenza |
-|            7 |     3159 | 2024-02-24 | I T G I R L            | W   | 0.724      | -            | -                | -                | false (0.000) |     3.56 | Creative28, ihatejess, KayC, M3gzz, queenza |
-|            6 |     3971 | 2024-02-03 | White Rabbit Amaryllis | W   | 0.585      | 0.233        | 0.008 (0.001)    | 0.133 (0.018)    | false (0.000) |     9.07 | Cjay, ihatejess, KayC, M3gzz, queenza       |
-|            5 |     3991 | 2024-02-03 | I T G I R L            | W   | 0.584      | -            | -                | -                | -             |     3.09 | Cjay, ihatejess, KayC, M3gzz, queenza       |
-|            4 |     4265 | 2024-01-27 | White Rabbit Amaryllis | L   | 0.538      | -            | -                | -                | -             |    -8.79 | Cjay, Creative28, CYA, KayC, M3gzz          |
-|            3 |     5981 | 2023-12-05 | Nixuh                  | L   | 0.185      | -            | -                | -                | -             |    -3.25 | Creative28, ihatejess, KayC, M3gzz, queenza |
-|            2 |     6119 | 2023-12-02 | White Rabbit Amaryllis | W   | 0.164      | 0.233        | 0.008 (0.000)    | 0.133 (0.005)    | -             |     2.47 | Creative28, ihatejess, KayC, M3gzz, queenza |
-|            1 |     6717 | 2023-11-18 | White Rabbit Amaryllis | W   | 0.071      | 0.233        | 0.008 (0.000)    | 0.133 (0.002)    | -             |     1.08 | Creative28, ihatejess, KayC, M3gzz, queenza |
+|           16 |       54 | 2024-05-04 | White Rabbit Amaryllis | L   | 1.000      | -            | -                | -                | -         |   -18.64 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
+|           15 |       66 | 2024-05-04 | Apeture astra          | W   | 1.000      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.72 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
+|           14 |     1097 | 2024-04-13 | White Rabbit Amaryllis | W   | 1.000      | 0.233        | 0.001 (0.000)    | 0.035 (0.008)    | 0 (0.000) |     7.05 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
+|           13 |     1114 | 2024-04-13 | Aperture Gaming Female | W   | 1.000      | 0.233        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.66 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
+|           12 |     1397 | 2024-04-06 | White Rabbit Amaryllis | W   | 1.000      | 0.233        | 0.008 (0.002)    | 0.133 (0.031)    | 0 (0.000) |    12.98 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
+|           11 |     1401 | 2024-04-06 | Apeture astra          | W   | 1.000      | 0.233        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.24 | 2SSB, Creative28, ihatejess, KayC, M3gzz    |
+|           10 |     2881 | 2024-03-02 | White Rabbit Amaryllis | W   | 0.771      | 0.233        | 0.008 (0.002)    | 0.133 (0.024)    | 0 (0.000) |    10.57 | Cjay, Creative28, ihatejess, KayC, queenza  |
+|            9 |     2890 | 2024-03-02 | Apeture astra          | W   | 0.770      | -            | -                | -                | 0 (0.000) |     3.58 | Cjay, Creative28, ihatejess, KayC, queenza  |
+|            8 |     3156 | 2024-02-24 | White Rabbit Amaryllis | W   | 0.725      | 0.233        | 0.008 (0.001)    | 0.133 (0.022)    | 0 (0.000) |    10.60 | Creative28, ihatejess, KayC, M3gzz, queenza |
+|            7 |     3159 | 2024-02-24 | I T G I R L            | W   | 0.724      | -            | -                | -                | 0 (0.000) |     3.56 | Creative28, ihatejess, KayC, M3gzz, queenza |
+|            6 |     3971 | 2024-02-03 | White Rabbit Amaryllis | W   | 0.585      | 0.233        | 0.008 (0.001)    | 0.133 (0.018)    | 0 (0.000) |     9.07 | Cjay, ihatejess, KayC, M3gzz, queenza       |
+|            5 |     3991 | 2024-02-03 | I T G I R L            | W   | 0.584      | -            | -                | -                | -         |     3.09 | Cjay, ihatejess, KayC, M3gzz, queenza       |
+|            4 |     4265 | 2024-01-27 | White Rabbit Amaryllis | L   | 0.538      | -            | -                | -                | -         |    -8.79 | Cjay, Creative28, CYA, KayC, M3gzz          |
+|            3 |     5981 | 2023-12-05 | Nixuh                  | L   | 0.185      | -            | -                | -                | -         |    -3.25 | Creative28, ihatejess, KayC, M3gzz, queenza |
+|            2 |     6119 | 2023-12-02 | White Rabbit Amaryllis | W   | 0.164      | 0.233        | 0.008 (0.000)    | 0.133 (0.005)    | -         |     2.47 | Creative28, ihatejess, KayC, M3gzz, queenza |
+|            1 |     6717 | 2023-11-18 | White Rabbit Amaryllis | W   | 0.071      | 0.233        | 0.008 (0.000)    | 0.133 (0.002)    | -         |     1.08 | Creative28, ihatejess, KayC, M3gzz, queenza |
 
 <br />
 <span id="table2"></span><br />

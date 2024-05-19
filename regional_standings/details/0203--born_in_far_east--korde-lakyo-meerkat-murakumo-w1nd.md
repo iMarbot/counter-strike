@@ -34,40 +34,40 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                             |
+| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           32 |      839 | 2024-04-19 | ATOX Esports             | L   | 1.000      | -            | -                | -                | -             |    -4.03 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           31 |      844 | 2024-04-19 | ATOX Esports             | L   | 1.000      | -            | -                | -                | -             |    -4.20 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           30 |     1013 | 2024-04-16 | Rare Atom                | L   | 1.000      | -            | -                | -                | -             |   -12.31 | kaito, lakyo, meerkat, murakumo, W1nd              |
-|           29 |     1237 | 2024-04-10 | High Five (Chinese team) | W   | 1.000      | 0.417        | 0.045 (0.019)    | 0.282 (0.117)    | false (0.000) |    18.67 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           28 |     1242 | 2024-04-10 | High Five (Chinese team) | W   | 1.000      | 0.417        | 0.045 (0.019)    | 0.282 (0.117)    | false (0.000) |    20.30 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           27 |     1300 | 2024-04-09 | The QUBE Esports         | W   | 1.000      | 0.417        | 0.004 (0.002)    | 0.168 (0.070)    | false (0.000) |    18.24 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           26 |     1305 | 2024-04-09 | The QUBE Esports         | W   | 1.000      | 0.417        | 0.004 (0.002)    | 0.168 (0.070)    | false (0.000) |    19.85 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           25 |     1545 | 2024-04-03 | Gods Reign               | W   | 0.984      | 0.417        | 0.174 (0.071)    | 0.479 (0.196)    | false (0.000) |    25.38 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           24 |     1549 | 2024-04-03 | Gods Reign               | L   | 0.984      | -            | -                | -                | -             |    -5.15 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           23 |     1834 | 2024-03-26 | Depresure                | W   | 0.930      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.23 | kaito, lakyo, meerkat, murakumo, W1nd              |
-|           22 |     2274 | 2024-03-14 | MIRAI Gaming             | L   | 0.851      | -            | -                | -                | -             |   -10.85 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           21 |     2279 | 2024-03-14 | MIRAI Gaming             | L   | 0.851      | -            | -                | -                | -             |   -11.68 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           20 |     2328 | 2024-03-13 | The MongolZ              | L   | 0.844      | -            | -                | -                | -             |    -0.11 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           19 |     2330 | 2024-03-13 | The MongolZ              | L   | 0.844      | -            | -                | -                | -             |    -0.11 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           18 |     2380 | 2024-03-12 | ROUX from hell           | L   | 0.837      | -            | -                | -                | -             |   -18.76 | kaito, lakyo, meerkat, murakumo, W1nd              |
-|           17 |     2633 | 2024-03-06 | TYLOO                    | L   | 0.797      | -            | -                | -                | -             |    -2.56 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           16 |     2638 | 2024-03-06 | TYLOO                    | L   | 0.797      | -            | -                | -                | -             |    -2.63 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           15 |     2704 | 2024-03-05 | -72C                     | L   | 0.791      | -            | -                | -                | -             |    -8.50 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           14 |     2708 | 2024-03-05 | -72C                     | L   | 0.791      | -            | -                | -                | -             |    -9.06 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           13 |     3163 | 2024-02-24 | GR Gaming                | L   | 0.724      | -            | -                | -                | -             |    -7.23 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           12 |     3171 | 2024-02-24 | GR Gaming                | L   | 0.724      | -            | -                | -                | -             |    -7.64 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           11 |     3316 | 2024-02-21 | Lynn Vision Gaming       | L   | 0.704      | -            | -                | -                | -             |    -1.09 | korde, lakyo, meerkat, murakumo, W1nd              |
-|           10 |     3320 | 2024-02-21 | Lynn Vision Gaming       | L   | 0.704      | -            | -                | -                | -             |    -1.11 | korde, lakyo, meerkat, murakumo, W1nd              |
-|            9 |     3421 | 2024-02-19 | LYG Gaming               | L   | 0.690      | -            | -                | -                | -             |    -9.43 | korde, lakyo, meerkat, murakumo, W1nd              |
-|            8 |     3424 | 2024-02-19 | LYG Gaming               | L   | 0.690      | -            | -                | -                | -             |   -10.02 | korde, lakyo, meerkat, murakumo, W1nd              |
-|            7 |     3684 | 2024-02-13 | Clutch Gaming            | L   | 0.651      | -            | -                | -                | -             |   -10.38 | korde, lakyo, meerkat, murakumo, W1nd              |
-|            6 |     3687 | 2024-02-13 | Clutch Gaming            | L   | 0.651      | -            | -                | -                | -             |   -10.99 | korde, lakyo, meerkat, murakumo, W1nd              |
-|            5 |     5489 | 2023-12-16 | The QUBE Esports         | W   | 0.257      | 0.143        | 0.004 (0.000)    | 0.168 (0.006)    | false (0.000) |     4.61 | aNSeLMO, deadsh9t, Holy-_-Sanaa, hoolig4n, soloooS |
-|            4 |     5590 | 2023-12-15 | Gods Reign               | W   | 0.250      | 0.143        | 0.174 (0.006)    | 0.479 (0.017)    | false (0.000) |     6.14 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN     |
-|            3 |     6143 | 2023-12-02 | GR Gaming                | L   | 0.162      | -            | -                | -                | -             |    -2.04 | edGe, korde, lakyo, meerkat, W1nd                  |
-|            2 |     6985 | 2023-11-13 | -72C                     | L   | 0.037      | -            | -                | -                | -             |    -0.50 | 1nhuman, borosto, forzetsky, m3wsu, shandarez      |
-|            1 |     7210 | 2023-11-08 | Clutch Gaming            | L   | 0.004      | -            | -                | -                | -             |    -0.06 | clouden, flame, hasteka, IMAGINE, IZR              |
+|           32 |      839 | 2024-04-19 | ATOX Esports             | L   | 1.000      | -            | -                | -                | -         |    -4.03 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           31 |      844 | 2024-04-19 | ATOX Esports             | L   | 1.000      | -            | -                | -                | -         |    -4.20 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           30 |     1013 | 2024-04-16 | Rare Atom                | L   | 1.000      | -            | -                | -                | -         |   -12.31 | kaito, lakyo, meerkat, murakumo, W1nd              |
+|           29 |     1237 | 2024-04-10 | High Five (Chinese team) | W   | 1.000      | 0.417        | 0.045 (0.019)    | 0.282 (0.117)    | 0 (0.000) |    18.67 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           28 |     1242 | 2024-04-10 | High Five (Chinese team) | W   | 1.000      | 0.417        | 0.045 (0.019)    | 0.282 (0.117)    | 0 (0.000) |    20.30 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           27 |     1300 | 2024-04-09 | The QUBE Esports         | W   | 1.000      | 0.417        | 0.004 (0.002)    | 0.168 (0.070)    | 0 (0.000) |    18.24 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           26 |     1305 | 2024-04-09 | The QUBE Esports         | W   | 1.000      | 0.417        | 0.004 (0.002)    | 0.168 (0.070)    | 0 (0.000) |    19.85 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           25 |     1545 | 2024-04-03 | Gods Reign               | W   | 0.984      | 0.417        | 0.174 (0.071)    | 0.479 (0.196)    | 0 (0.000) |    25.38 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           24 |     1549 | 2024-04-03 | Gods Reign               | L   | 0.984      | -            | -                | -                | -         |    -5.15 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           23 |     1834 | 2024-03-26 | Depresure                | W   | 0.930      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.23 | kaito, lakyo, meerkat, murakumo, W1nd              |
+|           22 |     2274 | 2024-03-14 | MIRAI Gaming             | L   | 0.851      | -            | -                | -                | -         |   -10.85 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           21 |     2279 | 2024-03-14 | MIRAI Gaming             | L   | 0.851      | -            | -                | -                | -         |   -11.68 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           20 |     2328 | 2024-03-13 | The MongolZ              | L   | 0.844      | -            | -                | -                | -         |    -0.11 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           19 |     2330 | 2024-03-13 | The MongolZ              | L   | 0.844      | -            | -                | -                | -         |    -0.11 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           18 |     2380 | 2024-03-12 | ROUX from hell           | L   | 0.837      | -            | -                | -                | -         |   -18.76 | kaito, lakyo, meerkat, murakumo, W1nd              |
+|           17 |     2633 | 2024-03-06 | TYLOO                    | L   | 0.797      | -            | -                | -                | -         |    -2.56 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           16 |     2638 | 2024-03-06 | TYLOO                    | L   | 0.797      | -            | -                | -                | -         |    -2.63 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           15 |     2704 | 2024-03-05 | -72C                     | L   | 0.791      | -            | -                | -                | -         |    -8.50 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           14 |     2708 | 2024-03-05 | -72C                     | L   | 0.791      | -            | -                | -                | -         |    -9.06 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           13 |     3163 | 2024-02-24 | GR Gaming                | L   | 0.724      | -            | -                | -                | -         |    -7.23 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           12 |     3171 | 2024-02-24 | GR Gaming                | L   | 0.724      | -            | -                | -                | -         |    -7.64 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           11 |     3316 | 2024-02-21 | Lynn Vision Gaming       | L   | 0.704      | -            | -                | -                | -         |    -1.09 | korde, lakyo, meerkat, murakumo, W1nd              |
+|           10 |     3320 | 2024-02-21 | Lynn Vision Gaming       | L   | 0.704      | -            | -                | -                | -         |    -1.11 | korde, lakyo, meerkat, murakumo, W1nd              |
+|            9 |     3421 | 2024-02-19 | LYG Gaming               | L   | 0.690      | -            | -                | -                | -         |    -9.43 | korde, lakyo, meerkat, murakumo, W1nd              |
+|            8 |     3424 | 2024-02-19 | LYG Gaming               | L   | 0.690      | -            | -                | -                | -         |   -10.02 | korde, lakyo, meerkat, murakumo, W1nd              |
+|            7 |     3684 | 2024-02-13 | Clutch Gaming            | L   | 0.651      | -            | -                | -                | -         |   -10.38 | korde, lakyo, meerkat, murakumo, W1nd              |
+|            6 |     3687 | 2024-02-13 | Clutch Gaming            | L   | 0.651      | -            | -                | -                | -         |   -10.99 | korde, lakyo, meerkat, murakumo, W1nd              |
+|            5 |     5489 | 2023-12-16 | The QUBE Esports         | W   | 0.257      | 0.143        | 0.004 (0.000)    | 0.168 (0.006)    | 0 (0.000) |     4.61 | aNSeLMO, deadsh9t, Holy-_-Sanaa, hoolig4n, soloooS |
+|            4 |     5590 | 2023-12-15 | Gods Reign               | W   | 0.250      | 0.143        | 0.174 (0.006)    | 0.479 (0.017)    | 0 (0.000) |     6.14 | clouda, Crazy_Gamer, CycloneF, f1redup, Ph1NNN     |
+|            3 |     6143 | 2023-12-02 | GR Gaming                | L   | 0.162      | -            | -                | -                | -         |    -2.04 | edGe, korde, lakyo, meerkat, W1nd                  |
+|            2 |     6985 | 2023-11-13 | -72C                     | L   | 0.037      | -            | -                | -                | -         |    -0.50 | 1nhuman, borosto, forzetsky, m3wsu, shandarez      |
+|            1 |     7210 | 2023-11-08 | Clutch Gaming            | L   | 0.004      | -            | -                | -                | -         |    -0.06 | clouden, flame, hasteka, IMAGINE, IZR              |
 
 <br />
 <span id="table2"></span><br />

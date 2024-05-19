@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     4568 | 2024-01-20 | Aravt              | L   | 0.490      | -            | -                | -                | -             |    -7.52 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|           13 |     4613 | 2024-01-19 | The MongolZ        | L   | 0.483      | -            | -                | -                | -             |    -0.04 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|           12 |     4616 | 2024-01-19 | The Huns Esports   | W   | 0.483      | 0.143        | 0.002 (0.000)    | 0.434 (0.030)    | false (0.000) |    13.44 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|           11 |     4832 | 2024-01-15 | The Huns Esports   | W   | 0.457      | 0.143        | 0.002 (0.000)    | 0.434 (0.028)    | false (0.000) |    12.94 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|           10 |     4833 | 2024-01-15 | GR Gaming          | W   | 0.457      | 0.143        | 0.006 (0.000)    | 0.495 (0.032)    | false (0.000) |    12.19 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|            9 |     4847 | 2024-01-15 | Clutch Gaming      | W   | 0.456      | 0.143        | 0.001 (0.000)    | 0.216 (0.014)    | false (0.000) |    11.09 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|            8 |     5217 | 2024-01-03 | TYLOO              | L   | 0.377      | -            | -                | -                | -             |    -0.56 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|            7 |     5221 | 2024-01-02 | NewHappy           | L   | 0.375      | -            | -                | -                | -             |    -2.05 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|            6 |     5244 | 2024-01-01 | Jadeite            | W   | 0.363      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.07 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|            5 |     5281 | 2023-12-23 | NewHappy           | L   | 0.302      | -            | -                | -                | -             |    -1.94 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|            4 |     5285 | 2023-12-22 | Wings Up Gaming    | L   | 0.302      | -            | -                | -                | -             |    -2.23 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
-|            3 |     5406 | 2023-12-16 | Talented Ynufe     | W   | 0.262      | 0.143        | 0.000 (0.000)    | 0.009 (0.000)    | false (0.000) |     2.99 | h1mz, Hun9, sunshinez, Terryyy, Tin  |
-|            2 |     5411 | 2023-12-16 | AP Gaming          | W   | 0.262      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.97 | h1mz, Hun9, sunshinez, Terryyy, Tin  |
-|            1 |     6893 | 2023-11-15 | Lynn Vision Gaming | L   | 0.050      | -            | -                | -                | -             |    -0.02 | H1mz, Hun9, sunshinez, Terryyy, Tin  |
+|           14 |     4568 | 2024-01-20 | Aravt              | L   | 0.490      | -            | -                | -                | -         |    -7.52 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|           13 |     4613 | 2024-01-19 | The MongolZ        | L   | 0.483      | -            | -                | -                | -         |    -0.04 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|           12 |     4616 | 2024-01-19 | The Huns Esports   | W   | 0.483      | 0.143        | 0.002 (0.000)    | 0.434 (0.030)    | 0 (0.000) |    13.44 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|           11 |     4832 | 2024-01-15 | The Huns Esports   | W   | 0.457      | 0.143        | 0.002 (0.000)    | 0.434 (0.028)    | 0 (0.000) |    12.94 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|           10 |     4833 | 2024-01-15 | GR Gaming          | W   | 0.457      | 0.143        | 0.006 (0.000)    | 0.495 (0.032)    | 0 (0.000) |    12.19 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|            9 |     4847 | 2024-01-15 | Clutch Gaming      | W   | 0.456      | 0.143        | 0.001 (0.000)    | 0.216 (0.014)    | 0 (0.000) |    11.09 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|            8 |     5217 | 2024-01-03 | TYLOO              | L   | 0.377      | -            | -                | -                | -         |    -0.56 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|            7 |     5221 | 2024-01-02 | NewHappy           | L   | 0.375      | -            | -                | -                | -         |    -2.05 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|            6 |     5244 | 2024-01-01 | Jadeite            | W   | 0.363      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.07 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|            5 |     5281 | 2023-12-23 | NewHappy           | L   | 0.302      | -            | -                | -                | -         |    -1.94 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|            4 |     5285 | 2023-12-22 | Wings Up Gaming    | L   | 0.302      | -            | -                | -                | -         |    -2.23 | BaN4na, Hun9, JeffVanB, Terryyy, Tin |
+|            3 |     5406 | 2023-12-16 | Talented Ynufe     | W   | 0.262      | 0.143        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     2.99 | h1mz, Hun9, sunshinez, Terryyy, Tin  |
+|            2 |     5411 | 2023-12-16 | AP Gaming          | W   | 0.262      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.97 | h1mz, Hun9, sunshinez, Terryyy, Tin  |
+|            1 |     6893 | 2023-11-15 | Lynn Vision Gaming | L   | 0.050      | -            | -                | -                | -         |    -0.02 | H1mz, Hun9, sunshinez, Terryyy, Tin  |
 
 <br />
 <span id="table2"></span><br />

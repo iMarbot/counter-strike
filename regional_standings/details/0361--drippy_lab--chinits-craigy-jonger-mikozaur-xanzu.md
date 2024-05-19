@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     3804 | 2024-02-09 | SR Nacague                  | L   | 0.623      | -            | -                | -                | -             |    -9.75 | Chinits, craigy, Jonger, mikozaur, xanzu |
-|           11 |     3836 | 2024-02-07 | Team NKT                    | L   | 0.616      | -            | -                | -                | -             |    -1.71 | Chinits, craigy, Jonger, mikozaur, xanzu |
-|           10 |     3910 | 2024-02-05 | Grayfox Esports             | L   | 0.596      | -            | -                | -                | -             |    -2.96 | Chinits, craigy, Jonger, mikozaur, xanzu |
-|            9 |     4395 | 2024-01-24 | Rare Atom                   | L   | 0.517      | -            | -                | -                | -             |    -1.82 | Chinits, craigy, Jaro, Jonger, mikozu    |
-|            8 |     4486 | 2024-01-22 | GR Gaming                   | L   | 0.504      | -            | -                | -                | -             |    -1.46 | Chinits, craigy, Jonger, mikozu, xanzu   |
-|            7 |     4574 | 2024-01-20 | Troublemakers (Kyrgyz team) | L   | 0.489      | -            | -                | -                | -             |    -3.07 | Chinits, craigy, Jonger, mikozu, xanzu   |
-|            6 |     4623 | 2024-01-19 | Myth Avenue Gaming          | L   | 0.482      | -            | -                | -                | -             |    -2.25 | Chinits, craigy, FRiGHT, Jonger, mikozu  |
-|            5 |     4746 | 2024-01-17 | RESILIENCE                  | W   | 0.471      | 0.143        | 0.000 (0.000)    | 0.016 (0.001)    | false (0.000) |     7.44 | Chinits, craigy, Jonger, mikozu, xanzu   |
-|            4 |     4749 | 2024-01-17 | Troublemakers (Kyrgyz team) | L   | 0.471      | -            | -                | -                | -             |    -2.97 | Chinits, craigy, Jonger, mikozu, xanzu   |
-|            3 |     4753 | 2024-01-17 | Gods Reign                  | L   | 0.470      | -            | -                | -                | -             |    -0.67 | Chinits, craigy, Jonger, mikozu, xanzu   |
-|            2 |     4759 | 2024-01-17 | Old School Esports          | W   | 0.469      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.38 | Chinits, craigy, Jonger, mikozu, xanzu   |
-|            1 |     5848 | 2023-12-08 | RAVENS (Japanese team)      | L   | 0.204      | -            | -                | -                | -             |    -3.21 | AXE1, FurtVe, gangstarr, Mortal, nel     |
+|           12 |     3804 | 2024-02-09 | SR Nacague                  | L   | 0.623      | -            | -                | -                | -         |    -9.75 | Chinits, craigy, Jonger, mikozaur, xanzu |
+|           11 |     3836 | 2024-02-07 | Team NKT                    | L   | 0.616      | -            | -                | -                | -         |    -1.71 | Chinits, craigy, Jonger, mikozaur, xanzu |
+|           10 |     3910 | 2024-02-05 | Grayfox Esports             | L   | 0.596      | -            | -                | -                | -         |    -2.96 | Chinits, craigy, Jonger, mikozaur, xanzu |
+|            9 |     4395 | 2024-01-24 | Rare Atom                   | L   | 0.517      | -            | -                | -                | -         |    -1.82 | Chinits, craigy, Jaro, Jonger, mikozu    |
+|            8 |     4486 | 2024-01-22 | GR Gaming                   | L   | 0.504      | -            | -                | -                | -         |    -1.46 | Chinits, craigy, Jonger, mikozu, xanzu   |
+|            7 |     4574 | 2024-01-20 | Troublemakers (Kyrgyz team) | L   | 0.489      | -            | -                | -                | -         |    -3.07 | Chinits, craigy, Jonger, mikozu, xanzu   |
+|            6 |     4623 | 2024-01-19 | Myth Avenue Gaming          | L   | 0.482      | -            | -                | -                | -         |    -2.25 | Chinits, craigy, FRiGHT, Jonger, mikozu  |
+|            5 |     4746 | 2024-01-17 | RESILIENCE                  | W   | 0.471      | 0.143        | 0.000 (0.000)    | 0.016 (0.001)    | 0 (0.000) |     7.44 | Chinits, craigy, Jonger, mikozu, xanzu   |
+|            4 |     4749 | 2024-01-17 | Troublemakers (Kyrgyz team) | L   | 0.471      | -            | -                | -                | -         |    -2.97 | Chinits, craigy, Jonger, mikozu, xanzu   |
+|            3 |     4753 | 2024-01-17 | Gods Reign                  | L   | 0.470      | -            | -                | -                | -         |    -0.67 | Chinits, craigy, Jonger, mikozu, xanzu   |
+|            2 |     4759 | 2024-01-17 | Old School Esports          | W   | 0.469      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.38 | Chinits, craigy, Jonger, mikozu, xanzu   |
+|            1 |     5848 | 2023-12-08 | RAVENS (Japanese team)      | L   | 0.204      | -            | -                | -                | -         |    -3.21 | AXE1, FurtVe, gangstarr, Mortal, nel     |
 
 <br />
 <span id="table2"></span><br />

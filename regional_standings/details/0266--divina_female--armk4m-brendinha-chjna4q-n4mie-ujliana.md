@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                       |
+| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     1165 | 2024-04-11 | Atrix Esports             | L   | 1.000      | -            | -                | -                | -             |   -15.30 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
-|            9 |     1521 | 2024-04-03 | FURIA Esports Female      | L   | 0.986      | -            | -                | -                | -             |    -8.89 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
-|            8 |     1727 | 2024-03-27 | Fluxo Demons              | L   | 0.940      | -            | -                | -                | -             |    -6.86 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
-|            7 |     2012 | 2024-03-20 | GENKID4M4                 | W   | 0.893      | 0.332        | 0.008 (0.002)    | 0.052 (0.015)    | false (0.000) |    13.36 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
-|            6 |     2297 | 2024-03-13 | Illusion (Brazilian team) | W   | 0.846      | 0.332        | 0.008 (0.002)    | 0.035 (0.010)    | false (0.000) |    12.32 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
-|            5 |     2554 | 2024-03-07 | MIBR Female               | L   | 0.806      | -            | -                | -                | -             |   -10.88 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
-|            4 |     4237 | 2024-01-27 | MIBR Female               | L   | 0.540      | -            | -                | -                | -             |    -6.78 | Brendinha, coldizinha, croma, n4mie, ujliana |
-|            3 |     4526 | 2024-01-20 | Baludinhas                | L   | 0.494      | -            | -                | -                | -             |    -8.27 | Brendinha, coldizinha, croma, n4mie, ujliana |
-|            2 |     4528 | 2024-01-20 | BAR100LONA                | W   | 0.493      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.69 | Brendinha, coldizinha, croma, n4mie, ujliana |
-|            1 |     6695 | 2023-11-18 | Faz o Pix                 | L   | 0.073      | -            | -                | -                | -             |    -1.41 | Brendinha, coldizinha, Dani, n4mie, ujliana  |
+|           10 |     1165 | 2024-04-11 | Atrix Esports             | L   | 1.000      | -            | -                | -                | -         |   -15.30 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
+|            9 |     1521 | 2024-04-03 | FURIA Esports Female      | L   | 0.986      | -            | -                | -                | -         |    -8.89 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
+|            8 |     1727 | 2024-03-27 | Fluxo Demons              | L   | 0.940      | -            | -                | -                | -         |    -6.86 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
+|            7 |     2012 | 2024-03-20 | GENKID4M4                 | W   | 0.893      | 0.332        | 0.008 (0.002)    | 0.052 (0.015)    | 0 (0.000) |    13.36 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
+|            6 |     2297 | 2024-03-13 | Illusion (Brazilian team) | W   | 0.846      | 0.332        | 0.008 (0.002)    | 0.035 (0.010)    | 0 (0.000) |    12.32 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
+|            5 |     2554 | 2024-03-07 | MIBR Female               | L   | 0.806      | -            | -                | -                | -         |   -10.88 | armk4m, Brendinha, chjna4Q, n4mie, ujliana   |
+|            4 |     4237 | 2024-01-27 | MIBR Female               | L   | 0.540      | -            | -                | -                | -         |    -6.78 | Brendinha, coldizinha, croma, n4mie, ujliana |
+|            3 |     4526 | 2024-01-20 | Baludinhas                | L   | 0.494      | -            | -                | -                | -         |    -8.27 | Brendinha, coldizinha, croma, n4mie, ujliana |
+|            2 |     4528 | 2024-01-20 | BAR100LONA                | W   | 0.493      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.69 | Brendinha, coldizinha, croma, n4mie, ujliana |
+|            1 |     6695 | 2023-11-18 | Faz o Pix                 | L   | 0.073      | -            | -                | -                | -         |    -1.41 | Brendinha, coldizinha, Dani, n4mie, ujliana  |
 
 <br />
 <span id="table2"></span><br />

@@ -34,38 +34,38 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                           |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |      675 | 2024-04-20 | Rare Atom          | L   | 1.000      | -            | -                | -                | -             |    -8.33 | jiejie, rage, SPine, TiGeR, zy88                 |
-|           29 |      742 | 2024-04-20 | LYG Gaming         | L   | 1.000      | -            | -                | -                | -             |   -13.51 | deffen, Haski4, Sange, Soundwave, ZinGY          |
-|           28 |      755 | 2024-04-20 | LYG Gaming         | L   | 1.000      | -            | -                | -                | -             |   -14.75 | jiejie, karl, rage, SPine, TiGeR                 |
-|           27 |      766 | 2024-04-20 | Bigetron Fury      | W   | 1.000      | -            | -                | -                | false (0.000) |     6.80 | jiejie, rage, SPine, TiGeR, zy88                 |
-|           26 |      845 | 2024-04-19 | Steel Helmet       | W   | 1.000      | 0.143        | 0.025 (0.004)    | 0.174 (0.025)    | false (0.000) |    12.44 | jiejie, rage, SPine, TiGeR, zy88                 |
-|           25 |      905 | 2024-04-18 | Bigetron Fury      | L   | 1.000      | -            | -                | -                | -             |   -24.84 | jiejie, rage, SPine, TiGeR, zy88                 |
-|           24 |     1237 | 2024-04-10 | Born In Far East   | L   | 1.000      | -            | -                | -                | -             |   -18.67 | korde, lakyo, meerkat, murakumo, W1nd            |
-|           23 |     1242 | 2024-04-10 | Born In Far East   | L   | 1.000      | -            | -                | -                | -             |   -20.30 | jiejie, karl, rage, SPine, TiGeR                 |
-|           22 |     1299 | 2024-04-09 | ATOX Esports       | W   | 1.000      | 0.417        | 0.112 (0.047)    | 0.769 (0.321)    | false (0.000) |    26.04 | ANNIHILATION, dobu, kabal, MiQ, Zesta            |
-|           21 |     1304 | 2024-04-09 | ATOX Esports       | L   | 1.000      | -            | -                | -                | -             |    -4.98 | jiejie, karl, rage, SPine, TiGeR                 |
-|           20 |     1544 | 2024-04-03 | The QUBE Esports   | L   | 0.984      | -            | -                | -                | -             |   -17.49 | jiejie, karl, rage, SPine, TiGeR                 |
-|           19 |     1548 | 2024-04-03 | The QUBE Esports   | W   | 0.984      | 0.417        | 0.004 (0.002)    | 0.168 (0.069)    | false (0.000) |    13.34 | aNSeLMO, deadsh9t, Holy-_-Sanaa, hoolig4n, Randy |
-|           18 |     1641 | 2024-03-30 | TYLOO              | L   | 0.957      | -            | -                | -                | -             |    -7.45 | jiejie, karl, rage, SPine, TiGeR                 |
-|           17 |     1642 | 2024-03-30 | TYLOO              | L   | 0.957      | -            | -                | -                | -             |    -7.94 | advent, JamYoung, kaze, Mercury, zdr             |
-|           16 |     1666 | 2024-03-29 | -72C               | L   | 0.951      | -            | -                | -                | -             |   -15.12 | 1nhuman, borosto, forzetsky, m3wsu, shandarez    |
-|           15 |     1668 | 2024-03-29 | -72C               | L   | 0.951      | -            | -                | -                | -             |   -16.44 | jiejie, karl, rage, SPine, TiGeR                 |
-|           14 |     2275 | 2024-03-14 | GR Gaming          | W   | 0.851      | 0.417        | 0.006 (0.002)    | 0.495 (0.176)    | false (0.000) |    14.67 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2       |
-|           13 |     2280 | 2024-03-14 | GR Gaming          | L   | 0.851      | -            | -                | -                | -             |   -12.19 | jiejie, karl, rage, SPine, TiGeR                 |
-|           12 |     2326 | 2024-03-13 | MIRAI Gaming       | L   | 0.844      | -            | -                | -                | -             |   -19.55 | jiejie, karl, rage, SPine, TiGeR                 |
-|           11 |     2331 | 2024-03-13 | MIRAI Gaming       | W   | 0.844      | 0.417        | -                | 0.246 (0.087)    | false (0.000) |     6.80 | 7nation, aisu, ameno, Geneka, WallneR            |
-|           10 |     2436 | 2024-03-11 | ATOX Esports       | L   | 0.830      | -            | -                | -                | -             |    -5.64 | jiejie, L1haNg, rage, SPine, zy88                |
-|            9 |     2441 | 2024-03-11 | E9 esports         | W   | 0.829      | 0.143        | 0.021 (0.002)    | -                | false (0.000) |    10.65 | jiejie, L1haNg, rage, SPine, zy88                |
-|            8 |     2470 | 2024-03-10 | Myth Avenue Gaming | W   | 0.823      | 0.143        | 0.012 (0.001)    | 0.302 (0.036)    | false (0.000) |     9.69 | Derek, Jaytzy, Kayje, SiameseCv, WasteOfAmmo     |
-|            7 |     2521 | 2024-03-09 | E9 esports         | L   | 0.816      | -            | -                | -                | -             |   -15.05 | Balzo, neverland, salmon, skrrrr, T3rrymeister   |
-|            6 |     2548 | 2024-03-07 | Myth Avenue Gaming | W   | 0.808      | 0.143        | 0.012 (0.001)    | 0.302 (0.035)    | false (0.000) |     9.79 | Derek, Jaytzy, Kayje, SiameseCv, WasteOfAmmo     |
-|            5 |     3359 | 2024-02-20 | Lynn Vision Gaming | L   | 0.697      | -            | -                | -                | -             |    -2.31 | jiejie, karl, rage, SPine, TiGeR                 |
-|            4 |     3366 | 2024-02-20 | Lynn Vision Gaming | L   | 0.697      | -            | -                | -                | -             |    -2.37 | EmiliaQAQ, Jee, Starry, westmelon, z4kr          |
-|            3 |     3501 | 2024-02-17 | Lynn Vision Gaming | W   | 0.677      | 0.143        | 0.155 (0.015)    | 0.554 (0.054)    | false (0.000) |    19.29 | jiejie, L1haNg, rage, SPine, TiGeR               |
-|            2 |     3510 | 2024-02-17 | Myth Avenue Gaming | W   | 0.676      | 0.143        | 0.012 (0.001)    | 0.302 (0.029)    | -             |     8.97 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo        |
-|            1 |     3554 | 2024-02-16 | GR Gaming          | W   | 0.669      | 0.143        | 0.006 (0.001)    | 0.495 (0.047)    | -             |    11.59 | jiejie, karl, L1haNg, rage, SPine                |
+|           30 |      675 | 2024-04-20 | Rare Atom          | L   | 1.000      | -            | -                | -                | -         |    -8.33 | jiejie, rage, SPine, TiGeR, zy88                 |
+|           29 |      742 | 2024-04-20 | LYG Gaming         | L   | 1.000      | -            | -                | -                | -         |   -13.51 | deffen, Haski4, Sange, Soundwave, ZinGY          |
+|           28 |      755 | 2024-04-20 | LYG Gaming         | L   | 1.000      | -            | -                | -                | -         |   -14.75 | jiejie, karl, rage, SPine, TiGeR                 |
+|           27 |      766 | 2024-04-20 | Bigetron Fury      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.80 | jiejie, rage, SPine, TiGeR, zy88                 |
+|           26 |      845 | 2024-04-19 | Steel Helmet       | W   | 1.000      | 0.143        | 0.025 (0.004)    | 0.174 (0.025)    | 0 (0.000) |    12.44 | jiejie, rage, SPine, TiGeR, zy88                 |
+|           25 |      905 | 2024-04-18 | Bigetron Fury      | L   | 1.000      | -            | -                | -                | -         |   -24.84 | jiejie, rage, SPine, TiGeR, zy88                 |
+|           24 |     1237 | 2024-04-10 | Born In Far East   | L   | 1.000      | -            | -                | -                | -         |   -18.67 | korde, lakyo, meerkat, murakumo, W1nd            |
+|           23 |     1242 | 2024-04-10 | Born In Far East   | L   | 1.000      | -            | -                | -                | -         |   -20.30 | jiejie, karl, rage, SPine, TiGeR                 |
+|           22 |     1299 | 2024-04-09 | ATOX Esports       | W   | 1.000      | 0.417        | 0.112 (0.047)    | 0.769 (0.321)    | 0 (0.000) |    26.04 | ANNIHILATION, dobu, kabal, MiQ, Zesta            |
+|           21 |     1304 | 2024-04-09 | ATOX Esports       | L   | 1.000      | -            | -                | -                | -         |    -4.98 | jiejie, karl, rage, SPine, TiGeR                 |
+|           20 |     1544 | 2024-04-03 | The QUBE Esports   | L   | 0.984      | -            | -                | -                | -         |   -17.49 | jiejie, karl, rage, SPine, TiGeR                 |
+|           19 |     1548 | 2024-04-03 | The QUBE Esports   | W   | 0.984      | 0.417        | 0.004 (0.002)    | 0.168 (0.069)    | 0 (0.000) |    13.34 | aNSeLMO, deadsh9t, Holy-_-Sanaa, hoolig4n, Randy |
+|           18 |     1641 | 2024-03-30 | TYLOO              | L   | 0.957      | -            | -                | -                | -         |    -7.45 | jiejie, karl, rage, SPine, TiGeR                 |
+|           17 |     1642 | 2024-03-30 | TYLOO              | L   | 0.957      | -            | -                | -                | -         |    -7.94 | advent, JamYoung, kaze, Mercury, zdr             |
+|           16 |     1666 | 2024-03-29 | -72C               | L   | 0.951      | -            | -                | -                | -         |   -15.12 | 1nhuman, borosto, forzetsky, m3wsu, shandarez    |
+|           15 |     1668 | 2024-03-29 | -72C               | L   | 0.951      | -            | -                | -                | -         |   -16.44 | jiejie, karl, rage, SPine, TiGeR                 |
+|           14 |     2275 | 2024-03-14 | GR Gaming          | W   | 0.851      | 0.417        | 0.006 (0.002)    | 0.495 (0.176)    | 0 (0.000) |    14.67 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2       |
+|           13 |     2280 | 2024-03-14 | GR Gaming          | L   | 0.851      | -            | -                | -                | -         |   -12.19 | jiejie, karl, rage, SPine, TiGeR                 |
+|           12 |     2326 | 2024-03-13 | MIRAI Gaming       | L   | 0.844      | -            | -                | -                | -         |   -19.55 | jiejie, karl, rage, SPine, TiGeR                 |
+|           11 |     2331 | 2024-03-13 | MIRAI Gaming       | W   | 0.844      | 0.417        | -                | 0.246 (0.087)    | 0 (0.000) |     6.80 | 7nation, aisu, ameno, Geneka, WallneR            |
+|           10 |     2436 | 2024-03-11 | ATOX Esports       | L   | 0.830      | -            | -                | -                | -         |    -5.64 | jiejie, L1haNg, rage, SPine, zy88                |
+|            9 |     2441 | 2024-03-11 | E9 esports         | W   | 0.829      | 0.143        | 0.021 (0.002)    | -                | 0 (0.000) |    10.65 | jiejie, L1haNg, rage, SPine, zy88                |
+|            8 |     2470 | 2024-03-10 | Myth Avenue Gaming | W   | 0.823      | 0.143        | 0.012 (0.001)    | 0.302 (0.036)    | 0 (0.000) |     9.69 | Derek, Jaytzy, Kayje, SiameseCv, WasteOfAmmo     |
+|            7 |     2521 | 2024-03-09 | E9 esports         | L   | 0.816      | -            | -                | -                | -         |   -15.05 | Balzo, neverland, salmon, skrrrr, T3rrymeister   |
+|            6 |     2548 | 2024-03-07 | Myth Avenue Gaming | W   | 0.808      | 0.143        | 0.012 (0.001)    | 0.302 (0.035)    | 0 (0.000) |     9.79 | Derek, Jaytzy, Kayje, SiameseCv, WasteOfAmmo     |
+|            5 |     3359 | 2024-02-20 | Lynn Vision Gaming | L   | 0.697      | -            | -                | -                | -         |    -2.31 | jiejie, karl, rage, SPine, TiGeR                 |
+|            4 |     3366 | 2024-02-20 | Lynn Vision Gaming | L   | 0.697      | -            | -                | -                | -         |    -2.37 | EmiliaQAQ, Jee, Starry, westmelon, z4kr          |
+|            3 |     3501 | 2024-02-17 | Lynn Vision Gaming | W   | 0.677      | 0.143        | 0.155 (0.015)    | 0.554 (0.054)    | 0 (0.000) |    19.29 | jiejie, L1haNg, rage, SPine, TiGeR               |
+|            2 |     3510 | 2024-02-17 | Myth Avenue Gaming | W   | 0.676      | 0.143        | 0.012 (0.001)    | 0.302 (0.029)    | -         |     8.97 | ariucle, Derek, Jaytzy, Tugu, WasteOfAmmo        |
+|            1 |     3554 | 2024-02-16 | GR Gaming          | W   | 0.669      | 0.143        | 0.006 (0.001)    | 0.495 (0.047)    | -         |    11.59 | jiejie, karl, L1haNg, rage, SPine                |
 
 <br />
 <span id="table2"></span><br />

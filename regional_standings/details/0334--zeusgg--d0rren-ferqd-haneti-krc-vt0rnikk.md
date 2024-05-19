@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      740 | 2024-04-20 | MIRAI Gaming | L   | 1.000      | -            | -                | -                | -             |    -8.22 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|           11 |      753 | 2024-04-20 | MIRAI Gaming | L   | 1.000      | -            | -                | -                | -             |    -8.82 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|           10 |     1149 | 2024-04-12 | The MongolZ  | L   | 1.000      | -            | -                | -                | -             |    -0.12 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|            9 |     1151 | 2024-04-12 | The MongolZ  | L   | 1.000      | -            | -                | -                | -             |    -0.12 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|            8 |     1759 | 2024-03-27 | LYG Gaming   | W   | 0.937      | 0.417        | 0.004 (0.002)    | 0.380 (0.149)    | false (0.000) |    23.76 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|            7 |     1762 | 2024-03-27 | LYG Gaming   | L   | 0.937      | -            | -                | -                | -             |    -5.37 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|            6 |     1825 | 2024-03-26 | TYLOO        | L   | 0.931      | -            | -                | -                | -             |    -1.77 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|            5 |     1829 | 2024-03-26 | TYLOO        | L   | 0.931      | -            | -                | -                | -             |    -1.80 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|            4 |     1847 | 2024-03-25 | -72C         | W   | 0.924      | 0.417        | 0.003 (0.001)    | 0.300 (0.116)    | false (0.000) |    24.24 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|            3 |     1848 | 2024-03-25 | -72C         | L   | 0.924      | -            | -                | -                | -             |    -4.50 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|            2 |     2342 | 2024-03-13 | -72C         | L   | 0.843      | -            | -                | -                | -             |    -4.49 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
-|            1 |     2381 | 2024-03-12 | Moon Esports | W   | 0.837      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.90 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|           12 |      740 | 2024-04-20 | MIRAI Gaming | L   | 1.000      | -            | -                | -                | -         |    -8.22 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|           11 |      753 | 2024-04-20 | MIRAI Gaming | L   | 1.000      | -            | -                | -                | -         |    -8.82 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|           10 |     1149 | 2024-04-12 | The MongolZ  | L   | 1.000      | -            | -                | -                | -         |    -0.12 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|            9 |     1151 | 2024-04-12 | The MongolZ  | L   | 1.000      | -            | -                | -                | -         |    -0.12 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|            8 |     1759 | 2024-03-27 | LYG Gaming   | W   | 0.937      | 0.417        | 0.004 (0.002)    | 0.380 (0.149)    | 0 (0.000) |    23.76 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|            7 |     1762 | 2024-03-27 | LYG Gaming   | L   | 0.937      | -            | -                | -                | -         |    -5.37 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|            6 |     1825 | 2024-03-26 | TYLOO        | L   | 0.931      | -            | -                | -                | -         |    -1.77 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|            5 |     1829 | 2024-03-26 | TYLOO        | L   | 0.931      | -            | -                | -                | -         |    -1.80 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|            4 |     1847 | 2024-03-25 | -72C         | W   | 0.924      | 0.417        | 0.003 (0.001)    | 0.300 (0.116)    | 0 (0.000) |    24.24 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|            3 |     1848 | 2024-03-25 | -72C         | L   | 0.924      | -            | -                | -                | -         |    -4.50 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|            2 |     2342 | 2024-03-13 | -72C         | L   | 0.843      | -            | -                | -                | -         |    -4.49 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
+|            1 |     2381 | 2024-03-12 | Moon Esports | W   | 0.837      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.90 | d0RREN, ferqd, HANETi, krc, vt0rnikk |
 
 <br />
 <span id="table2"></span><br />

@@ -34,39 +34,39 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           31 |     3264 | 2024-02-22 | Dynamo Eclot          | L   | 0.710      | -            | -                | -                | -             |    -4.07 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           30 |     3464 | 2024-02-18 | Team Sampi            | W   | 0.683      | 0.333        | 0.108 (0.025)    | 0.709 (0.161)    | false (0.000) |    14.93 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           29 |     3653 | 2024-02-14 | Sashi Esport          | W   | 0.657      | 0.333        | 0.055 (0.012)    | 0.256 (0.056)    | false (0.000) |     9.33 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           28 |     3803 | 2024-02-09 | Passion UA            | W   | 0.623      | 0.333        | 0.114 (0.024)    | 0.980 (0.203)    | false (0.000) |    12.84 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           27 |     3832 | 2024-02-08 | Betera Esports        | L   | 0.616      | -            | -                | -                | -             |   -10.07 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           26 |     3849 | 2024-02-07 | Sashi Esport          | W   | 0.610      | 0.333        | 0.193 (0.039)    | 1.000 (0.203)    | false (0.000) |    14.74 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           25 |     3928 | 2024-02-04 | Nexus Gaming          | W   | 0.591      | 0.333        | 0.031 (0.006)    | 0.772 (0.152)    | false (0.000) |    11.62 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           24 |     3996 | 2024-02-03 | Passion UA            | L   | 0.584      | -            | -                | -                | -             |    -5.36 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           23 |     4204 | 2024-01-29 | Into The Breach       | L   | 0.549      | -            | -                | -                | -             |    -8.68 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           22 |     4284 | 2024-01-27 | Royalty               | W   | 0.537      | -            | -                | -                | false (0.000) |     1.36 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           21 |     4303 | 2024-01-26 | Hazeschaden           | W   | 0.533      | -            | -                | -                | false (0.000) |     1.36 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           20 |     4360 | 2024-01-25 | Metizport             | L   | 0.523      | -            | -                | -                | -             |    -5.07 | b1elany, hyped, pr1metapz, skyye, xicoz |
-|           19 |     5479 | 2023-12-16 | ALTERNATE aTTaX       | L   | 0.258      | -            | -                | -                | -             |    -1.78 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|           18 |     5650 | 2023-12-13 | RUSH B (Russian team) | W   | 0.238      | 0.371        | -                | 0.471 (0.042)    | false (0.000) |     3.31 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|           17 |     5828 | 2023-12-08 | TSM                   | W   | 0.206      | -            | -                | -                | false (0.000) |     2.25 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|           16 |     5884 | 2023-12-07 | Endpoint              | W   | 0.199      | 0.371        | -                | 0.785 (0.058)    | false (0.000) |     3.36 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|           15 |     5934 | 2023-12-06 | TUSTE CHOPAKI         | W   | 0.192      | -            | -                | -                | -             |     0.81 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|           14 |     5983 | 2023-12-05 | TY                    | W   | 0.185      | -            | -                | -                | -             |     1.83 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|           13 |     6197 | 2023-11-30 | Verdant               | W   | 0.152      | 0.371        | 0.027 (0.002)    | 0.662 (0.037)    | -             |     3.49 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|           12 |     6205 | 2023-11-30 | Nexus Gaming          | W   | 0.152      | 0.371        | 0.031 (0.002)    | 0.772 (0.043)    | -             |     3.19 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|           11 |     6212 | 2023-11-30 | For The Win Esports   | W   | 0.151      | -            | -                | -                | -             |     1.51 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|           10 |     6427 | 2023-11-25 | ALTERNATE aTTaX       | W   | 0.118      | 0.143        | 0.110 (0.002)    | 0.723 (0.012)    | -             |     3.03 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|            9 |     6552 | 2023-11-22 | The Witchers          | W   | 0.099      | 0.371        | 0.035 (0.001)    | -                | -             |     1.42 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|            8 |     6568 | 2023-11-22 | Los Alpacas           | W   | 0.098      | -            | -                | -                | -             |     0.83 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|            7 |     6623 | 2023-11-20 | ALTERNATE aTTaX       | W   | 0.086      | 0.143        | 0.110 (0.001)    | -                | -             |     2.22 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|            6 |     6725 | 2023-11-18 | THE SUSPECT           | W   | 0.071      | -            | -                | -                | -             |     0.69 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|            5 |     6730 | 2023-11-18 | AEX-1                 | W   | 0.071      | -            | -                | -                | -             |     0.55 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|            4 |     6740 | 2023-11-18 | RED (German team)     | W   | 0.070      | -            | -                | -                | -             |     0.55 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|            3 |     6760 | 2023-11-17 | BobRoss               | W   | 0.066      | -            | -                | -                | -             |     0.32 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|            2 |     6887 | 2023-11-15 | CYBERSHOKE Esports    | W   | 0.051      | -            | -                | -                | -             |     0.66 | ArroW, hyped, MRC9, pr1metapz, skyye    |
-|            1 |     7005 | 2023-11-12 | Lemondogs             | W   | 0.031      | -            | -                | -                | -             |     0.21 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|           31 |     3264 | 2024-02-22 | Dynamo Eclot          | L   | 0.710      | -            | -                | -                | -         |    -4.07 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           30 |     3464 | 2024-02-18 | Team Sampi            | W   | 0.683      | 0.333        | 0.108 (0.025)    | 0.709 (0.161)    | 0 (0.000) |    14.93 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           29 |     3653 | 2024-02-14 | Sashi Esport          | W   | 0.657      | 0.333        | 0.055 (0.012)    | 0.256 (0.056)    | 0 (0.000) |     9.33 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           28 |     3803 | 2024-02-09 | Passion UA            | W   | 0.623      | 0.333        | 0.114 (0.024)    | 0.980 (0.203)    | 0 (0.000) |    12.84 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           27 |     3832 | 2024-02-08 | Betera Esports        | L   | 0.616      | -            | -                | -                | -         |   -10.07 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           26 |     3849 | 2024-02-07 | Sashi Esport          | W   | 0.610      | 0.333        | 0.193 (0.039)    | 1.000 (0.203)    | 0 (0.000) |    14.74 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           25 |     3928 | 2024-02-04 | Nexus Gaming          | W   | 0.591      | 0.333        | 0.031 (0.006)    | 0.772 (0.152)    | 0 (0.000) |    11.62 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           24 |     3996 | 2024-02-03 | Passion UA            | L   | 0.584      | -            | -                | -                | -         |    -5.36 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           23 |     4204 | 2024-01-29 | Into The Breach       | L   | 0.549      | -            | -                | -                | -         |    -8.68 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           22 |     4284 | 2024-01-27 | Royalty               | W   | 0.537      | -            | -                | -                | 0 (0.000) |     1.36 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           21 |     4303 | 2024-01-26 | Hazeschaden           | W   | 0.533      | -            | -                | -                | 0 (0.000) |     1.36 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           20 |     4360 | 2024-01-25 | Metizport             | L   | 0.523      | -            | -                | -                | -         |    -5.07 | b1elany, hyped, pr1metapz, skyye, xicoz |
+|           19 |     5479 | 2023-12-16 | ALTERNATE aTTaX       | L   | 0.258      | -            | -                | -                | -         |    -1.78 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|           18 |     5650 | 2023-12-13 | RUSH B (Russian team) | W   | 0.238      | 0.371        | -                | 0.471 (0.042)    | 0 (0.000) |     3.31 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|           17 |     5828 | 2023-12-08 | TSM                   | W   | 0.206      | -            | -                | -                | 0 (0.000) |     2.25 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|           16 |     5884 | 2023-12-07 | Endpoint              | W   | 0.199      | 0.371        | -                | 0.785 (0.058)    | 0 (0.000) |     3.36 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|           15 |     5934 | 2023-12-06 | TUSTE CHOPAKI         | W   | 0.192      | -            | -                | -                | -         |     0.81 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|           14 |     5983 | 2023-12-05 | TY                    | W   | 0.185      | -            | -                | -                | -         |     1.83 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|           13 |     6197 | 2023-11-30 | Verdant               | W   | 0.152      | 0.371        | 0.027 (0.002)    | 0.662 (0.037)    | -         |     3.49 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|           12 |     6205 | 2023-11-30 | Nexus Gaming          | W   | 0.152      | 0.371        | 0.031 (0.002)    | 0.772 (0.043)    | -         |     3.19 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|           11 |     6212 | 2023-11-30 | For The Win Esports   | W   | 0.151      | -            | -                | -                | -         |     1.51 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|           10 |     6427 | 2023-11-25 | ALTERNATE aTTaX       | W   | 0.118      | 0.143        | 0.110 (0.002)    | 0.723 (0.012)    | -         |     3.03 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|            9 |     6552 | 2023-11-22 | The Witchers          | W   | 0.099      | 0.371        | 0.035 (0.001)    | -                | -         |     1.42 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|            8 |     6568 | 2023-11-22 | Los Alpacas           | W   | 0.098      | -            | -                | -                | -         |     0.83 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|            7 |     6623 | 2023-11-20 | ALTERNATE aTTaX       | W   | 0.086      | 0.143        | 0.110 (0.001)    | -                | -         |     2.22 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|            6 |     6725 | 2023-11-18 | THE SUSPECT           | W   | 0.071      | -            | -                | -                | -         |     0.69 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|            5 |     6730 | 2023-11-18 | AEX-1                 | W   | 0.071      | -            | -                | -                | -         |     0.55 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|            4 |     6740 | 2023-11-18 | RED (German team)     | W   | 0.070      | -            | -                | -                | -         |     0.55 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|            3 |     6760 | 2023-11-17 | BobRoss               | W   | 0.066      | -            | -                | -                | -         |     0.32 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|            2 |     6887 | 2023-11-15 | CYBERSHOKE Esports    | W   | 0.051      | -            | -                | -                | -         |     0.66 | ArroW, hyped, MRC9, pr1metapz, skyye    |
+|            1 |     7005 | 2023-11-12 | Lemondogs             | W   | 0.031      | -            | -                | -                | -         |     0.21 | ArroW, hyped, MRC9, pr1metapz, skyye    |
 
 <br />
 <span id="table2"></span><br />

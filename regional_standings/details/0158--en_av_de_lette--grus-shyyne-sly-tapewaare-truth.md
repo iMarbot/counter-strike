@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      634 | 2024-04-21 | 777 Esports        | W   | 1.000      | 0.143        | 0.032 (0.005)    | 0.550 (0.079)    | false (0.000) |    15.11 | Grus, shyyne, SLY, Tapewaare, truth      |
-|           13 |      651 | 2024-04-21 | Nordix Esport      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.152 (0.022)    | false (0.000) |     5.06 | Grus, shyyne, SLY, Tapewaare, truth      |
-|           12 |     1103 | 2024-04-13 | 777 Esports        | W   | 1.000      | 0.143        | 0.032 (0.005)    | 0.550 (0.079)    | true (1.000)  |    17.43 | Grus, PALM1, Radifaction, SLY, Tapewaare |
-|           11 |     1828 | 2024-03-26 | FORZE Esports      | L   | 0.931      | -            | -                | -                | -             |    -2.76 | kelieN, SELLTER, shalfey, spirit, tN1R   |
-|           10 |     1916 | 2024-03-23 | WOPA Esport        | L   | 0.910      | -            | -                | -                | -             |   -13.65 | brzer, Gnøffe, Leakz, LUMSEN, Pellyy     |
-|            9 |     2035 | 2024-03-20 | Permitta Esports   | L   | 0.889      | -            | -                | -                | -             |    -5.82 | Grus, shyyne, SLY, Tree, truth           |
-|            8 |     2140 | 2024-03-17 | Nordix Esport      | W   | 0.871      | 0.143        | 0.000 (0.000)    | 0.152 (0.019)    | false (0.000) |     4.57 | Grus, PALM1, SLY, Tapewaare, truth       |
-|            7 |     2315 | 2024-03-13 | Foxed Gaming       | W   | 0.845      | 0.143        | 0.000 (0.000)    | 0.114 (0.014)    | false (0.000) |     3.00 | Grus, PALM1, SLY, Tapewaare, truth       |
-|            6 |     2488 | 2024-03-09 | Center Gaming      | W   | 0.819      | 0.143        | 0.000 (0.000)    | 0.028 (0.003)    | false (0.000) |     3.38 | Grus, PALM1, SLY, Tapewaare, truth       |
-|            5 |     2612 | 2024-03-06 | Nordix Esport      | W   | 0.799      | 0.143        | 0.000 (0.000)    | 0.152 (0.017)    | false (0.000) |     3.53 | Grus, PALM1, SLY, Tapewaare, truth       |
-|            4 |     2626 | 2024-03-06 | PARIVISION         | L   | 0.798      | -            | -                | -                | -             |    -8.22 | ArtFr0st, Jerry, notineki, Patsi, Qikert |
-|            3 |     4168 | 2024-01-29 | Team Space         | L   | 0.553      | -            | -                | -                | -             |    -8.92 | Grus, Ludwig, SLY, truth, virree         |
-|            2 |     4929 | 2024-01-12 | Ex-Anonymo Esports | L   | 0.439      | -            | -                | -                | -             |    -6.26 | Grus, H4RR3, PALM1, SLY, truth           |
-|            1 |     5109 | 2024-01-09 | Untouchabless      | L   | 0.418      | -            | -                | -                | -             |   -10.76 | Grus, H4RR3, SLY, truth, tvs             |
+|           14 |      634 | 2024-04-21 | 777 Esports        | W   | 1.000      | 0.143        | 0.032 (0.005)    | 0.550 (0.079)    | 0 (0.000) |    15.11 | Grus, shyyne, SLY, Tapewaare, truth      |
+|           13 |      651 | 2024-04-21 | Nordix Esport      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.152 (0.022)    | 0 (0.000) |     5.06 | Grus, shyyne, SLY, Tapewaare, truth      |
+|           12 |     1103 | 2024-04-13 | 777 Esports        | W   | 1.000      | 0.143        | 0.032 (0.005)    | 0.550 (0.079)    | 1 (1.000) |    17.43 | Grus, PALM1, Radifaction, SLY, Tapewaare |
+|           11 |     1828 | 2024-03-26 | FORZE Esports      | L   | 0.931      | -            | -                | -                | -         |    -2.76 | kelieN, SELLTER, shalfey, spirit, tN1R   |
+|           10 |     1916 | 2024-03-23 | WOPA Esport        | L   | 0.910      | -            | -                | -                | -         |   -13.65 | brzer, Gnøffe, Leakz, LUMSEN, Pellyy     |
+|            9 |     2035 | 2024-03-20 | Permitta Esports   | L   | 0.889      | -            | -                | -                | -         |    -5.82 | Grus, shyyne, SLY, Tree, truth           |
+|            8 |     2140 | 2024-03-17 | Nordix Esport      | W   | 0.871      | 0.143        | 0.000 (0.000)    | 0.152 (0.019)    | 0 (0.000) |     4.57 | Grus, PALM1, SLY, Tapewaare, truth       |
+|            7 |     2315 | 2024-03-13 | Foxed Gaming       | W   | 0.845      | 0.143        | 0.000 (0.000)    | 0.114 (0.014)    | 0 (0.000) |     3.00 | Grus, PALM1, SLY, Tapewaare, truth       |
+|            6 |     2488 | 2024-03-09 | Center Gaming      | W   | 0.819      | 0.143        | 0.000 (0.000)    | 0.028 (0.003)    | 0 (0.000) |     3.38 | Grus, PALM1, SLY, Tapewaare, truth       |
+|            5 |     2612 | 2024-03-06 | Nordix Esport      | W   | 0.799      | 0.143        | 0.000 (0.000)    | 0.152 (0.017)    | 0 (0.000) |     3.53 | Grus, PALM1, SLY, Tapewaare, truth       |
+|            4 |     2626 | 2024-03-06 | PARIVISION         | L   | 0.798      | -            | -                | -                | -         |    -8.22 | ArtFr0st, Jerry, notineki, Patsi, Qikert |
+|            3 |     4168 | 2024-01-29 | Team Space         | L   | 0.553      | -            | -                | -                | -         |    -8.92 | Grus, Ludwig, SLY, truth, virree         |
+|            2 |     4929 | 2024-01-12 | Ex-Anonymo Esports | L   | 0.439      | -            | -                | -                | -         |    -6.26 | Grus, H4RR3, PALM1, SLY, truth           |
+|            1 |     5109 | 2024-01-09 | Untouchabless      | L   | 0.418      | -            | -                | -                | -         |   -10.76 | Grus, H4RR3, SLY, truth, tvs             |
 
 <br />
 <span id="table2"></span><br />

@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     1858 | 2024-03-24 | Nixuh          | L   | 0.919      | -            | -                | -                | -             |   -12.95 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
-|            9 |     2129 | 2024-03-17 | Nixuh          | W   | 0.872      | 0.250        | 0.004 (0.001)    | 0.115 (0.025)    | false (0.000) |    14.87 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
-|            8 |     2450 | 2024-03-10 | The Punishers  | W   | 0.825      | 0.250        | 0.001 (0.000)    | 0.058 (0.012)    | false (0.000) |     9.61 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
-|            7 |     2568 | 2024-03-07 | Thpeed         | W   | 0.805      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.03 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
-|            6 |     4274 | 2024-01-27 | Team Shush     | L   | 0.538      | -            | -                | -                | -             |   -11.45 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
-|            5 |     4316 | 2024-01-26 | Bravado Gaming | L   | 0.531      | -            | -                | -                | -             |    -8.40 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
-|            4 |     5126 | 2024-01-09 | Bravado Gaming | L   | 0.417      | -            | -                | -                | -             |    -7.03 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
-|            3 |     5352 | 2023-12-17 | Nixuh          | L   | 0.265      | -            | -                | -                | -             |    -3.84 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
-|            2 |     5371 | 2023-12-17 | VYBN           | W   | 0.264      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.77 | dizzy, dyvo, Natural, Puppyy, TheM4N       |
-|            1 |     5669 | 2023-12-12 | Nixuh          | L   | 0.232      | -            | -                | -                | -             |    -3.40 | bLazE, Fadey, flexeeee, FROZ3N, RustyYG    |
+|           10 |     1858 | 2024-03-24 | Nixuh          | L   | 0.919      | -            | -                | -                | -         |   -12.95 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
+|            9 |     2129 | 2024-03-17 | Nixuh          | W   | 0.872      | 0.250        | 0.004 (0.001)    | 0.115 (0.025)    | 0 (0.000) |    14.87 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
+|            8 |     2450 | 2024-03-10 | The Punishers  | W   | 0.825      | 0.250        | 0.001 (0.000)    | 0.058 (0.012)    | 0 (0.000) |     9.61 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
+|            7 |     2568 | 2024-03-07 | Thpeed         | W   | 0.805      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.03 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
+|            6 |     4274 | 2024-01-27 | Team Shush     | L   | 0.538      | -            | -                | -                | -         |   -11.45 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
+|            5 |     4316 | 2024-01-26 | Bravado Gaming | L   | 0.531      | -            | -                | -                | -         |    -8.40 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
+|            4 |     5126 | 2024-01-09 | Bravado Gaming | L   | 0.417      | -            | -                | -                | -         |    -7.03 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
+|            3 |     5352 | 2023-12-17 | Nixuh          | L   | 0.265      | -            | -                | -                | -         |    -3.84 | .exe, aw3some, slash, tristanxa, uDEADSHOT |
+|            2 |     5371 | 2023-12-17 | VYBN           | W   | 0.264      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.77 | dizzy, dyvo, Natural, Puppyy, TheM4N       |
+|            1 |     5669 | 2023-12-12 | Nixuh          | L   | 0.232      | -            | -                | -                | -         |    -3.40 | bLazE, Fadey, flexeeee, FROZ3N, RustyYG    |
 
 <br />
 <span id="table2"></span><br />

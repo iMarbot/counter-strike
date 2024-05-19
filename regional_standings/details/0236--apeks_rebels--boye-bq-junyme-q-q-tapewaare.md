@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     1581 | 2024-04-02 | 9INE Academy    | L   | 0.977      | -            | -                | -                | -             |   -16.33 | Boye, bq, Junyme, Q-Q, Tapewaare      |
-|           10 |     1600 | 2024-04-01 | SINNERS Academy | L   | 0.972      | -            | -                | -                | -             |   -16.03 | Boye, bq, Junyme, Q-Q, Tapewaare      |
-|            9 |     1631 | 2024-03-30 | 777 Esports     | W   | 0.959      | 0.289        | 0.032 (0.009)    | 0.550 (0.153)    | false (0.000) |    18.52 | bobeksde, Boye, bq, spooke, Tapewaare |
-|            8 |     1758 | 2024-03-27 | EP Genesis      | W   | 0.938      | 0.289        | 0.000 (0.000)    | 0.187 (0.051)    | false (0.000) |     9.61 | Boye, bq, Junyme, Q-Q, Tapewaare      |
-|            7 |     1914 | 2024-03-23 | Metizport X     | L   | 0.911      | -            | -                | -                | -             |   -18.14 | Boye, bq, Junyme, Q-Q, Tapewaare      |
-|            6 |     2063 | 2024-03-19 | EP Genesis      | W   | 0.884      | 0.289        | 0.000 (0.000)    | 0.187 (0.048)    | false (0.000) |     8.44 | Boye, bq, Junyme, Q-Q, Tapewaare      |
-|            5 |     6405 | 2023-11-26 | GODSENT         | L   | 0.123      | -            | -                | -                | -             |    -1.37 | berzerk, bq, markow, Q-Q, Tapewaare   |
-|            4 |     6429 | 2023-11-25 | Xtream e-sport  | W   | 0.118      | 0.143        | 0.001 (0.000)    | 0.004 (0.000)    | true (0.118)  |     1.09 | berzerk, bq, markow, Q-Q, Tapewaare   |
-|            3 |     6684 | 2023-11-19 | 777 Esports     | L   | 0.076      | -            | -                | -                | -             |    -1.42 | berzerk, bq, markow, Q-Q, Tapewaare   |
-|            2 |     6979 | 2023-11-13 | Team Universe   | L   | 0.038      | -            | -                | -                | -             |    -0.74 | berzerk, bq, markow, Q-Q, Tapewaare   |
-|            1 |     7142 | 2023-11-09 | RoundsGG        | W   | 0.011      | 0.289        | 0.000 (0.000)    | 0.170 (0.001)    | false (0.000) |     0.19 | berzerk, bq, markow, Q-Q, Tapewaare   |
+|           11 |     1581 | 2024-04-02 | 9INE Academy    | L   | 0.977      | -            | -                | -                | -         |   -16.33 | Boye, bq, Junyme, Q-Q, Tapewaare      |
+|           10 |     1600 | 2024-04-01 | SINNERS Academy | L   | 0.972      | -            | -                | -                | -         |   -16.03 | Boye, bq, Junyme, Q-Q, Tapewaare      |
+|            9 |     1631 | 2024-03-30 | 777 Esports     | W   | 0.959      | 0.289        | 0.032 (0.009)    | 0.550 (0.153)    | 0 (0.000) |    18.52 | bobeksde, Boye, bq, spooke, Tapewaare |
+|            8 |     1758 | 2024-03-27 | EP Genesis      | W   | 0.938      | 0.289        | 0.000 (0.000)    | 0.187 (0.051)    | 0 (0.000) |     9.61 | Boye, bq, Junyme, Q-Q, Tapewaare      |
+|            7 |     1914 | 2024-03-23 | Metizport X     | L   | 0.911      | -            | -                | -                | -         |   -18.14 | Boye, bq, Junyme, Q-Q, Tapewaare      |
+|            6 |     2063 | 2024-03-19 | EP Genesis      | W   | 0.884      | 0.289        | 0.000 (0.000)    | 0.187 (0.048)    | 0 (0.000) |     8.44 | Boye, bq, Junyme, Q-Q, Tapewaare      |
+|            5 |     6405 | 2023-11-26 | GODSENT         | L   | 0.123      | -            | -                | -                | -         |    -1.37 | berzerk, bq, markow, Q-Q, Tapewaare   |
+|            4 |     6429 | 2023-11-25 | Xtream e-sport  | W   | 0.118      | 0.143        | 0.001 (0.000)    | 0.004 (0.000)    | 1 (0.118) |     1.09 | berzerk, bq, markow, Q-Q, Tapewaare   |
+|            3 |     6684 | 2023-11-19 | 777 Esports     | L   | 0.076      | -            | -                | -                | -         |    -1.42 | berzerk, bq, markow, Q-Q, Tapewaare   |
+|            2 |     6979 | 2023-11-13 | Team Universe   | L   | 0.038      | -            | -                | -                | -         |    -0.74 | berzerk, bq, markow, Q-Q, Tapewaare   |
+|            1 |     7142 | 2023-11-09 | RoundsGG        | W   | 0.011      | 0.289        | 0.000 (0.000)    | 0.170 (0.001)    | 0 (0.000) |     0.19 | berzerk, bq, markow, Q-Q, Tapewaare   |
 
 <br />
 <span id="table2"></span><br />

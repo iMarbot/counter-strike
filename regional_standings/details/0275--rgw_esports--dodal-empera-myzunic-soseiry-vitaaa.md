@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     5184 | 2024-01-05 | Team Aztec              | W   | 0.392      | 0.143        | 0.000 (0.000)    | 0.040 (0.002)    | false (0.000) |     2.68 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
-|           11 |     5194 | 2024-01-04 | BRODA                   | W   | 0.386      | 0.143        | 0.000 (0.000)    | 0.045 (0.002)    | false (0.000) |     2.88 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
-|           10 |     5204 | 2024-01-03 | BEAT200                 | W   | 0.379      | 0.143        | 0.000 (0.000)    | 0.026 (0.001)    | false (0.000) |     2.58 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
-|            9 |     5222 | 2024-01-02 | Never Named             | W   | 0.373      | 0.143        | 0.000 (0.000)    | 0.026 (0.001)    | false (0.000) |     2.57 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
-|            8 |     5229 | 2024-01-02 | Bulldozer (French team) | L   | 0.372      | -            | -                | -                | -             |    -8.18 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
-|            7 |     5239 | 2024-01-02 | Team Aztec              | W   | 0.372      | 0.143        | 0.000 (0.000)    | 0.040 (0.002)    | false (0.000) |     2.46 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
-|            6 |     6062 | 2023-12-03 | Soda Gaming             | L   | 0.169      | -            | -                | -                | -             |    -1.73 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
-|            5 |     6100 | 2023-12-02 | SSX                     | L   | 0.165      | -            | -                | -                | -             |    -2.64 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
-|            4 |     6112 | 2023-12-02 | Prodigy (Agency)        | W   | 0.165      | 0.143        | 0.000 (0.000)    | 0.012 (0.000)    | true (0.165)  |     1.18 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
-|            3 |     6669 | 2023-11-19 | Divine Vendetta         | L   | 0.078      | -            | -                | -                | -             |    -1.75 | 0SAMAS, Dodal, Myzunic, sOSEIRy, ViTaaa |
-|            2 |     6722 | 2023-11-18 | Marcos Gaming           | W   | 0.071      | 0.242        | 0.086 (0.001)    | 0.087 (0.002)    | false (0.000) |     1.66 | 0SAMAS, Dodal, Myzunic, sOSEIRy, ViTaaa |
-|            1 |     6929 | 2023-11-14 | FG Metarix              | W   | 0.045      | 0.249        | 0.000 (0.000)    | 0.070 (0.001)    | false (0.000) |     0.44 | 0SAMAS, Dodz, Myzunic, sOSEIRy, ViTaaa  |
+|           12 |     5184 | 2024-01-05 | Team Aztec              | W   | 0.392      | 0.143        | 0.000 (0.000)    | 0.040 (0.002)    | 0 (0.000) |     2.68 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
+|           11 |     5194 | 2024-01-04 | BRODA                   | W   | 0.386      | 0.143        | 0.000 (0.000)    | 0.045 (0.002)    | 0 (0.000) |     2.88 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
+|           10 |     5204 | 2024-01-03 | BEAT200                 | W   | 0.379      | 0.143        | 0.000 (0.000)    | 0.026 (0.001)    | 0 (0.000) |     2.58 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
+|            9 |     5222 | 2024-01-02 | Never Named             | W   | 0.373      | 0.143        | 0.000 (0.000)    | 0.026 (0.001)    | 0 (0.000) |     2.57 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
+|            8 |     5229 | 2024-01-02 | Bulldozer (French team) | L   | 0.372      | -            | -                | -                | -         |    -8.18 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
+|            7 |     5239 | 2024-01-02 | Team Aztec              | W   | 0.372      | 0.143        | 0.000 (0.000)    | 0.040 (0.002)    | 0 (0.000) |     2.46 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
+|            6 |     6062 | 2023-12-03 | Soda Gaming             | L   | 0.169      | -            | -                | -                | -         |    -1.73 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
+|            5 |     6100 | 2023-12-02 | SSX                     | L   | 0.165      | -            | -                | -                | -         |    -2.64 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
+|            4 |     6112 | 2023-12-02 | Prodigy (Agency)        | W   | 0.165      | 0.143        | 0.000 (0.000)    | 0.012 (0.000)    | 1 (0.165) |     1.18 | Dodal, Empera, Myzunic, sOSEIRy, ViTaaa |
+|            3 |     6669 | 2023-11-19 | Divine Vendetta         | L   | 0.078      | -            | -                | -                | -         |    -1.75 | 0SAMAS, Dodal, Myzunic, sOSEIRy, ViTaaa |
+|            2 |     6722 | 2023-11-18 | Marcos Gaming           | W   | 0.071      | 0.242        | 0.086 (0.001)    | 0.087 (0.002)    | 0 (0.000) |     1.66 | 0SAMAS, Dodal, Myzunic, sOSEIRy, ViTaaa |
+|            1 |     6929 | 2023-11-14 | FG Metarix              | W   | 0.045      | 0.249        | 0.000 (0.000)    | 0.070 (0.001)    | 0 (0.000) |     0.44 | 0SAMAS, Dodz, Myzunic, sOSEIRy, ViTaaa  |
 
 <br />
 <span id="table2"></span><br />

@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     2574 | 2024-03-07 | Dynamo Eclot                | L   | 0.805      | -            | -                | -                | -             |    -1.34 | HoLLy, Lastík, Mix, semtex, suplicK     |
-|           11 |     2623 | 2024-03-06 | BRUTE                       | W   | 0.798      | 0.143        | 0.000 (0.000)    | 0.122 (0.014)    | false (0.000) |    10.17 | HoLLy, Lastík, pandi7o, semtex, suplicK |
-|           10 |     2753 | 2024-03-04 | SINNERS Esports             | L   | 0.785      | -            | -                | -                | -             |    -2.60 | HoLLy, Lastík, Mix, semtex, suplicK     |
-|            9 |     3038 | 2024-02-27 | Lan Party Hotel             | W   | 0.744      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.37 | HoLLy, Lastík, Mix, semtex, suplicK     |
-|            8 |     3075 | 2024-02-26 | ANDROMEDA                   | W   | 0.737      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.45 | HoLLy, Lastík, Mix, semtex, suplicK     |
-|            7 |     6602 | 2023-11-21 | Lazer Cats                  | L   | 0.091      | -            | -                | -                | -             |    -1.36 | HoLLy, Lastík, MAXX, Mix, semtex        |
-|            6 |     6679 | 2023-11-19 | WOPA Esport                 | W   | 0.077      | 0.303        | 0.009 (0.000)    | 0.485 (0.011)    | false (0.000) |     1.75 | brzer, buNNy, Gnøffe, Leakz, LUMSEN     |
-|            5 |     6979 | 2023-11-13 | Apeks Rebels                | W   | 0.038      | 0.289        | 0.005 (0.000)    | 0.071 (0.001)    | false (0.000) |     0.74 | HoLLy, Lastík, MAXX, Mix, semtex        |
-|            4 |     7058 | 2023-11-11 | UNiTY esports (Slovak team) | L   | 0.025      | -            | -                | -                | -             |    -0.08 | Levi, luko, M1key, NIO, Pechyn          |
-|            3 |     7089 | 2023-11-10 | RoundsGG                    | W   | 0.019      | 0.289        | 0.000 (0.000)    | 0.170 (0.001)    | false (0.000) |     0.39 | HoLLy, Lastík, MAXX, Mix, semtex        |
-|            2 |     7098 | 2023-11-10 | ROSOMAHA                    | W   | 0.018      | 0.289        | 0.000 (0.000)    | 0.136 (0.001)    | false (0.000) |     0.29 | HoLLy, Lastík, MAXX, Mix, semtex        |
-|            1 |     7177 | 2023-11-08 | LODIS                       | W   | 0.005      | 0.289        | 0.000 (0.000)    | 0.005 (0.000)    | false (0.000) |     0.04 | Flayy, freo, kisserek, Majster, n0tice  |
+|           12 |     2574 | 2024-03-07 | Dynamo Eclot                | L   | 0.805      | -            | -                | -                | -         |    -1.34 | HoLLy, Lastík, Mix, semtex, suplicK     |
+|           11 |     2623 | 2024-03-06 | BRUTE                       | W   | 0.798      | 0.143        | 0.000 (0.000)    | 0.122 (0.014)    | 0 (0.000) |    10.17 | HoLLy, Lastík, pandi7o, semtex, suplicK |
+|           10 |     2753 | 2024-03-04 | SINNERS Esports             | L   | 0.785      | -            | -                | -                | -         |    -2.60 | HoLLy, Lastík, Mix, semtex, suplicK     |
+|            9 |     3038 | 2024-02-27 | Lan Party Hotel             | W   | 0.744      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.37 | HoLLy, Lastík, Mix, semtex, suplicK     |
+|            8 |     3075 | 2024-02-26 | ANDROMEDA                   | W   | 0.737      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.45 | HoLLy, Lastík, Mix, semtex, suplicK     |
+|            7 |     6602 | 2023-11-21 | Lazer Cats                  | L   | 0.091      | -            | -                | -                | -         |    -1.36 | HoLLy, Lastík, MAXX, Mix, semtex        |
+|            6 |     6679 | 2023-11-19 | WOPA Esport                 | W   | 0.077      | 0.303        | 0.009 (0.000)    | 0.485 (0.011)    | 0 (0.000) |     1.75 | brzer, buNNy, Gnøffe, Leakz, LUMSEN     |
+|            5 |     6979 | 2023-11-13 | Apeks Rebels                | W   | 0.038      | 0.289        | 0.005 (0.000)    | 0.071 (0.001)    | 0 (0.000) |     0.74 | HoLLy, Lastík, MAXX, Mix, semtex        |
+|            4 |     7058 | 2023-11-11 | UNiTY esports (Slovak team) | L   | 0.025      | -            | -                | -                | -         |    -0.08 | Levi, luko, M1key, NIO, Pechyn          |
+|            3 |     7089 | 2023-11-10 | RoundsGG                    | W   | 0.019      | 0.289        | 0.000 (0.000)    | 0.170 (0.001)    | 0 (0.000) |     0.39 | HoLLy, Lastík, MAXX, Mix, semtex        |
+|            2 |     7098 | 2023-11-10 | ROSOMAHA                    | W   | 0.018      | 0.289        | 0.000 (0.000)    | 0.136 (0.001)    | 0 (0.000) |     0.29 | HoLLy, Lastík, MAXX, Mix, semtex        |
+|            1 |     7177 | 2023-11-08 | LODIS                       | W   | 0.005      | 0.289        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     0.04 | Flayy, freo, kisserek, Majster, n0tice  |
 
 <br />
 <span id="table2"></span><br />

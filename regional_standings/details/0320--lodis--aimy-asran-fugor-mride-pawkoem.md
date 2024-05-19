@@ -34,31 +34,31 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                      |
+| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |        8 | 2024-05-05 | Lemondogs              | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.252 (0.094)    | false (0.000) |    15.59 | aimy, asran, fugor, Mride, pawkoem          |
-|           22 |       14 | 2024-05-05 | Kappa Bar              | L   | 1.000      | -            | -                | -                | -             |   -16.09 | aimy, asran, fugor, Mride, pawkoem          |
-|           21 |     1064 | 2024-04-14 | Young Ninjas           | L   | 1.000      | -            | -                | -                | -             |    -3.23 | aimy, asran, fugor, Mride, pawkoem          |
-|           20 |     1940 | 2024-03-22 | Illuminar Gaming       | L   | 0.905      | -            | -                | -                | -             |    -5.64 | aimy, asran, fugor, Mride, pawkoem          |
-|           19 |     1981 | 2024-03-21 | Turów Zgorzelec Esport | L   | 0.899      | -            | -                | -                | -             |    -7.01 | aimy, asran, fugor, Mride, pawkoem          |
-|           18 |     2015 | 2024-03-20 | Mikstura1234           | L   | 0.892      | -            | -                | -                | -             |   -11.90 | aimy, asran, fugor, Mride, pawkoem          |
-|           17 |     2060 | 2024-03-19 | ENTERPRISE esports     | L   | 0.885      | -            | -                | -                | -             |    -4.17 | aimy, asran, fugor, Mride, pawkoem          |
-|           16 |     2094 | 2024-03-18 | ThunderFlash           | W   | 0.878      | 0.143        | 0.023 (0.003)    | 0.274 (0.034)    | false (0.000) |    20.08 | aimy, asran, fugor, Mride, pawkoem          |
-|           15 |     2456 | 2024-03-10 | DEEZ NUTS              | L   | 0.825      | -            | -                | -                | -             |   -10.40 | avis, b1elany, ewrzyn, sh3nanigan, zaNNN    |
-|           14 |     2976 | 2024-02-28 | Copenhagen Wolves      | L   | 0.752      | -            | -                | -                | -             |   -11.60 | Basso, Fessor, Svedjehed, szejn, vigg0      |
-|           13 |     3023 | 2024-02-27 | Ex-Hot Headed Gaming   | L   | 0.745      | -            | -                | -                | -             |   -14.90 | asran, fugor, GruBy, Mride, pawkoem         |
-|           12 |     3070 | 2024-02-26 | 0to100                 | W   | 0.739      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.98 | juliustbe, kerogi, krea6on, uQlutzavr, v1ze |
-|           11 |     3093 | 2024-02-25 | Golden Sword           | W   | 0.732      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.67 | asran, fugor, GruBy, Mride, pawkoem         |
-|           10 |     3240 | 2024-02-22 | Grindas                | L   | 0.712      | -            | -                | -                | -             |    -9.35 | AwwEzz, BaGyZ, prochas, Sidivo, slokker     |
-|            9 |     3712 | 2024-02-12 | K10                    | L   | 0.646      | -            | -                | -                | -             |    -4.52 | Rezst, shyyne, SLY, Tree, yz0               |
-|            8 |     3717 | 2024-02-12 | ALTERNATE aTTaX        | L   | 0.645      | -            | -                | -                | -             |    -2.41 | asran, fugor, GruBy, Mride, pawkoem         |
-|            7 |     3822 | 2024-02-08 | V1dar Gaming           | L   | 0.618      | -            | -                | -                | -             |   -10.39 | asran, fugor, GruBy, Mride, pawkoem         |
-|            6 |     3843 | 2024-02-07 | Ex-KRC Genk Esports    | W   | 0.612      | 0.371        | 0.008 (0.002)    | 0.181 (0.041)    | false (0.000) |    13.28 | asran, fugor, GruBy, Mride, pawkoem         |
-|            5 |     3880 | 2024-02-05 | MOUZ NXT               | L   | 0.599      | -            | -                | -                | -             |    -1.55 | Burmylov, Chr1zN, Neityu, PR, sirah         |
-|            4 |     4026 | 2024-02-02 | DASH                   | L   | 0.578      | -            | -                | -                | -             |    -7.25 | asran, fugor, GruBy, Mride, pawkoem         |
-|            3 |     4138 | 2024-01-30 | Kappa Bar              | L   | 0.559      | -            | -                | -                | -             |    -8.41 | asran, fugor, GruBy, Mride, pawkoem         |
-|            2 |     4715 | 2024-01-17 | GODSENT                | L   | 0.472      | -            | -                | -                | -             |    -4.70 | asran, fugor, GruBy, Mride, pawkoem         |
-|            1 |     4804 | 2024-01-16 | PARIVISION             | L   | 0.465      | -            | -                | -                | -             |    -3.39 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V       |
+|           23 |        8 | 2024-05-05 | Lemondogs              | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.252 (0.094)    | 0 (0.000) |    15.59 | aimy, asran, fugor, Mride, pawkoem          |
+|           22 |       14 | 2024-05-05 | Kappa Bar              | L   | 1.000      | -            | -                | -                | -         |   -16.09 | aimy, asran, fugor, Mride, pawkoem          |
+|           21 |     1064 | 2024-04-14 | Young Ninjas           | L   | 1.000      | -            | -                | -                | -         |    -3.23 | aimy, asran, fugor, Mride, pawkoem          |
+|           20 |     1940 | 2024-03-22 | Illuminar Gaming       | L   | 0.905      | -            | -                | -                | -         |    -5.64 | aimy, asran, fugor, Mride, pawkoem          |
+|           19 |     1981 | 2024-03-21 | Turów Zgorzelec Esport | L   | 0.899      | -            | -                | -                | -         |    -7.01 | aimy, asran, fugor, Mride, pawkoem          |
+|           18 |     2015 | 2024-03-20 | Mikstura1234           | L   | 0.892      | -            | -                | -                | -         |   -11.90 | aimy, asran, fugor, Mride, pawkoem          |
+|           17 |     2060 | 2024-03-19 | ENTERPRISE esports     | L   | 0.885      | -            | -                | -                | -         |    -4.17 | aimy, asran, fugor, Mride, pawkoem          |
+|           16 |     2094 | 2024-03-18 | ThunderFlash           | W   | 0.878      | 0.143        | 0.023 (0.003)    | 0.274 (0.034)    | 0 (0.000) |    20.08 | aimy, asran, fugor, Mride, pawkoem          |
+|           15 |     2456 | 2024-03-10 | DEEZ NUTS              | L   | 0.825      | -            | -                | -                | -         |   -10.40 | avis, b1elany, ewrzyn, sh3nanigan, zaNNN    |
+|           14 |     2976 | 2024-02-28 | Copenhagen Wolves      | L   | 0.752      | -            | -                | -                | -         |   -11.60 | Basso, Fessor, Svedjehed, szejn, vigg0      |
+|           13 |     3023 | 2024-02-27 | Ex-Hot Headed Gaming   | L   | 0.745      | -            | -                | -                | -         |   -14.90 | asran, fugor, GruBy, Mride, pawkoem         |
+|           12 |     3070 | 2024-02-26 | 0to100                 | W   | 0.739      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.98 | juliustbe, kerogi, krea6on, uQlutzavr, v1ze |
+|           11 |     3093 | 2024-02-25 | Golden Sword           | W   | 0.732      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.67 | asran, fugor, GruBy, Mride, pawkoem         |
+|           10 |     3240 | 2024-02-22 | Grindas                | L   | 0.712      | -            | -                | -                | -         |    -9.35 | AwwEzz, BaGyZ, prochas, Sidivo, slokker     |
+|            9 |     3712 | 2024-02-12 | K10                    | L   | 0.646      | -            | -                | -                | -         |    -4.52 | Rezst, shyyne, SLY, Tree, yz0               |
+|            8 |     3717 | 2024-02-12 | ALTERNATE aTTaX        | L   | 0.645      | -            | -                | -                | -         |    -2.41 | asran, fugor, GruBy, Mride, pawkoem         |
+|            7 |     3822 | 2024-02-08 | V1dar Gaming           | L   | 0.618      | -            | -                | -                | -         |   -10.39 | asran, fugor, GruBy, Mride, pawkoem         |
+|            6 |     3843 | 2024-02-07 | Ex-KRC Genk Esports    | W   | 0.612      | 0.371        | 0.008 (0.002)    | 0.181 (0.041)    | 0 (0.000) |    13.28 | asran, fugor, GruBy, Mride, pawkoem         |
+|            5 |     3880 | 2024-02-05 | MOUZ NXT               | L   | 0.599      | -            | -                | -                | -         |    -1.55 | Burmylov, Chr1zN, Neityu, PR, sirah         |
+|            4 |     4026 | 2024-02-02 | DASH                   | L   | 0.578      | -            | -                | -                | -         |    -7.25 | asran, fugor, GruBy, Mride, pawkoem         |
+|            3 |     4138 | 2024-01-30 | Kappa Bar              | L   | 0.559      | -            | -                | -                | -         |    -8.41 | asran, fugor, GruBy, Mride, pawkoem         |
+|            2 |     4715 | 2024-01-17 | GODSENT                | L   | 0.472      | -            | -                | -                | -         |    -4.70 | asran, fugor, GruBy, Mride, pawkoem         |
+|            1 |     4804 | 2024-01-16 | PARIVISION             | L   | 0.465      | -            | -                | -                | -         |    -3.39 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V       |
 
 <br />
 <span id="table2"></span><br />

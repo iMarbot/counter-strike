@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     2485 | 2024-03-09 | EP Genesis          | L   | 0.819      | -            | -                | -                | -             |   -11.02 | Ag3NTK, njuki, Rafex, s0ki, Xydoo       |
-|           10 |     2676 | 2024-03-05 | ADEPTS              | L   | 0.792      | -            | -                | -                | -             |    -7.64 | Ag3NTK, njuki, Rafex, s0ki, Xydoo       |
-|            9 |     5112 | 2024-01-09 | Dynamo Eclot        | L   | 0.418      | -            | -                | -                | -             |    -0.29 | Blytz, Dytor, forsyy, kreaz, nbqq       |
-|            8 |     5868 | 2023-12-07 | NOM Esports         | L   | 0.199      | -            | -                | -                | -             |    -1.66 | AdrieN, Fugor, njuki, s0ki, Xydoo       |
-|            7 |     5926 | 2023-12-06 | Monte Gen           | L   | 0.192      | -            | -                | -                | -             |    -0.98 | AdrieN, Fugor, njuki, s0ki, Xydoo       |
-|            6 |     5971 | 2023-12-05 | VP.Prodigy          | L   | 0.186      | -            | -                | -                | -             |    -0.89 | AdrieN, Fugor, njuki, s0ki, Xydoo       |
-|            5 |     5982 | 2023-12-05 | Preasy Esport       | W   | 0.185      | 0.289        | 0.007 (0.000)    | 0.525 (0.028)    | false (0.000) |     4.99 | beccie, Equip, Griller, Skejs, tauy0y0  |
-|            4 |     6016 | 2023-12-04 | GamerLegion Academy | L   | 0.179      | -            | -                | -                | -             |    -0.61 | AdrieN, Fugor, njuki, s0ki, Xydoo       |
-|            3 |     6102 | 2023-12-02 | ROSOMAHA            | W   | 0.165      | 0.289        | 0.000 (0.000)    | 0.136 (0.007)    | false (0.000) |     3.48 | D0nii, Maggent, rendY, skcH, Зippoch    |
-|            2 |     6324 | 2023-11-28 | Begrip Gaming       | W   | 0.138      | 0.289        | 0.001 (0.000)    | 0.196 (0.008)    | false (0.000) |     2.99 | Ariant0, Karma, Reedz, shateri, titulus |
-|            1 |     6483 | 2023-11-24 | Young Gods          | W   | 0.111      | 0.289        | 0.000 (0.000)    | 0.204 (0.007)    | false (0.000) |     1.75 | Focus, Lindcs, MaiL09, viz, Wonder      |
+|           11 |     2485 | 2024-03-09 | EP Genesis          | L   | 0.819      | -            | -                | -                | -         |   -11.02 | Ag3NTK, njuki, Rafex, s0ki, Xydoo       |
+|           10 |     2676 | 2024-03-05 | ADEPTS              | L   | 0.792      | -            | -                | -                | -         |    -7.64 | Ag3NTK, njuki, Rafex, s0ki, Xydoo       |
+|            9 |     5112 | 2024-01-09 | Dynamo Eclot        | L   | 0.418      | -            | -                | -                | -         |    -0.29 | Blytz, Dytor, forsyy, kreaz, nbqq       |
+|            8 |     5868 | 2023-12-07 | NOM Esports         | L   | 0.199      | -            | -                | -                | -         |    -1.66 | AdrieN, Fugor, njuki, s0ki, Xydoo       |
+|            7 |     5926 | 2023-12-06 | Monte Gen           | L   | 0.192      | -            | -                | -                | -         |    -0.98 | AdrieN, Fugor, njuki, s0ki, Xydoo       |
+|            6 |     5971 | 2023-12-05 | VP.Prodigy          | L   | 0.186      | -            | -                | -                | -         |    -0.89 | AdrieN, Fugor, njuki, s0ki, Xydoo       |
+|            5 |     5982 | 2023-12-05 | Preasy Esport       | W   | 0.185      | 0.289        | 0.007 (0.000)    | 0.525 (0.028)    | 0 (0.000) |     4.99 | beccie, Equip, Griller, Skejs, tauy0y0  |
+|            4 |     6016 | 2023-12-04 | GamerLegion Academy | L   | 0.179      | -            | -                | -                | -         |    -0.61 | AdrieN, Fugor, njuki, s0ki, Xydoo       |
+|            3 |     6102 | 2023-12-02 | ROSOMAHA            | W   | 0.165      | 0.289        | 0.000 (0.000)    | 0.136 (0.007)    | 0 (0.000) |     3.48 | D0nii, Maggent, rendY, skcH, Зippoch    |
+|            2 |     6324 | 2023-11-28 | Begrip Gaming       | W   | 0.138      | 0.289        | 0.001 (0.000)    | 0.196 (0.008)    | 0 (0.000) |     2.99 | Ariant0, Karma, Reedz, shateri, titulus |
+|            1 |     6483 | 2023-11-24 | Young Gods          | W   | 0.111      | 0.289        | 0.000 (0.000)    | 0.204 (0.007)    | 0 (0.000) |     1.75 | Focus, Lindcs, MaiL09, viz, Wonder      |
 
 <br />
 <span id="table2"></span><br />

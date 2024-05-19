@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins     | H2H Adj. | Roster                                           |
+| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     3531 | 2024-02-16 | R-EVOLUTION           | L   | 0.671      | -            | -                | -                | -            |   -17.65 | Hitori, kanshineF, KxtsnE, unicum, wetfy         |
-|           11 |     5265 | 2023-12-25 | Cyber Generation      | W   | 0.317      | 0.143        | 0.002 (0.000)    | 0.044 (0.002)    | true (0.317) |     3.22 | BEASTOFEAST, CEKKA, dARkjezz, hawachi, uRuRuRkiN |
-|           10 |     5307 | 2023-12-20 | Wakanda Cyber         | W   | 0.283      | 0.143        | -                | 0.000 (0.000)    | true (0.283) |     0.87 | captoun, du6ai, FERGANAA, frist4f, LightFeeling  |
-|            9 |     5391 | 2023-12-17 | Storm Uzbekistan      | W   | 0.263      | 0.143        | 0.001 (0.000)    | 0.009 (0.000)    | true (0.263) |     2.41 | BEASFOFEAST, CEKKA, dARkjezz, hawachi, uRuRuRkiN |
-|            8 |     5496 | 2023-12-16 | Storm Uzbekistan      | W   | 0.256      | 0.143        | 0.001 (0.000)    | 0.009 (0.000)    | true (0.256) |     2.35 | fr0k, Hitori, icyvlone, kanshineF, wetfy         |
-|            7 |     5517 | 2023-12-16 | Depo                  | W   | 0.256      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | true (0.256) |     1.93 | aokah1ka, KxtsnE, lordsei, teygu, unicum         |
-|            6 |     6055 | 2023-12-03 | STEALTH (Kazakh team) | W   | 0.170      | 0.342        | 0.004 (0.000)    | 0.020 (0.001)    | true (0.170) |     1.96 | Gilzera, Goodlikee, ner, R3LiFw0w, shiawase777   |
-|            5 |     6132 | 2023-12-02 | STEALTH (Kazakh team) | W   | 0.163      | 0.342        | 0.004 (0.000)    | 0.020 (0.001)    | true (0.163) |     1.89 | fr0k, Hitori, icyvlone, kanshineF, wetfy         |
-|            4 |     6147 | 2023-12-01 | CUBE BY SND           | W   | 0.162      | 0.342        | 0.013 (0.001)    | 0.138 (0.008)    | true (0.162) |     1.85 | alkarenn, dosikzz, OxygeN, rinn, syph0           |
-|            3 |     6678 | 2023-11-19 | Depo                  | W   | 0.077      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | true (0.077) |     0.60 | BEASFOFEAST, CEKKA, KxtsnE, lordsei, teygu       |
-|            2 |     6746 | 2023-11-18 | Bushido Gaming        | W   | 0.070      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | true (0.070) |     0.52 | fr0k, Hitori, icyvlone, kanshineF, wetfy         |
-|            1 |     6751 | 2023-11-18 | META (Uzbek team)     | W   | 0.069      | 0.143        | 0.000 (0.000)    | -                | -            |     0.37 | fr0k, Hitori, icyvlone, kanshineF, wetfy         |
+|           12 |     3531 | 2024-02-16 | R-EVOLUTION           | L   | 0.671      | -            | -                | -                | -         |   -17.65 | Hitori, kanshineF, KxtsnE, unicum, wetfy         |
+|           11 |     5265 | 2023-12-25 | Cyber Generation      | W   | 0.317      | 0.143        | 0.002 (0.000)    | 0.044 (0.002)    | 1 (0.317) |     3.22 | BEASTOFEAST, CEKKA, dARkjezz, hawachi, uRuRuRkiN |
+|           10 |     5307 | 2023-12-20 | Wakanda Cyber         | W   | 0.283      | 0.143        | -                | 0.000 (0.000)    | 1 (0.283) |     0.87 | captoun, du6ai, FERGANAA, frist4f, LightFeeling  |
+|            9 |     5391 | 2023-12-17 | Storm Uzbekistan      | W   | 0.263      | 0.143        | 0.001 (0.000)    | 0.009 (0.000)    | 1 (0.263) |     2.41 | BEASFOFEAST, CEKKA, dARkjezz, hawachi, uRuRuRkiN |
+|            8 |     5496 | 2023-12-16 | Storm Uzbekistan      | W   | 0.256      | 0.143        | 0.001 (0.000)    | 0.009 (0.000)    | 1 (0.256) |     2.35 | fr0k, Hitori, icyvlone, kanshineF, wetfy         |
+|            7 |     5517 | 2023-12-16 | Depo                  | W   | 0.256      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 1 (0.256) |     1.93 | aokah1ka, KxtsnE, lordsei, teygu, unicum         |
+|            6 |     6055 | 2023-12-03 | STEALTH (Kazakh team) | W   | 0.170      | 0.342        | 0.004 (0.000)    | 0.020 (0.001)    | 1 (0.170) |     1.96 | Gilzera, Goodlikee, ner, R3LiFw0w, shiawase777   |
+|            5 |     6132 | 2023-12-02 | STEALTH (Kazakh team) | W   | 0.163      | 0.342        | 0.004 (0.000)    | 0.020 (0.001)    | 1 (0.163) |     1.89 | fr0k, Hitori, icyvlone, kanshineF, wetfy         |
+|            4 |     6147 | 2023-12-01 | CUBE BY SND           | W   | 0.162      | 0.342        | 0.013 (0.001)    | 0.138 (0.008)    | 1 (0.162) |     1.85 | alkarenn, dosikzz, OxygeN, rinn, syph0           |
+|            3 |     6678 | 2023-11-19 | Depo                  | W   | 0.077      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 1 (0.077) |     0.60 | BEASFOFEAST, CEKKA, KxtsnE, lordsei, teygu       |
+|            2 |     6746 | 2023-11-18 | Bushido Gaming        | W   | 0.070      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 1 (0.070) |     0.52 | fr0k, Hitori, icyvlone, kanshineF, wetfy         |
+|            1 |     6751 | 2023-11-18 | META (Uzbek team)     | W   | 0.069      | 0.143        | 0.000 (0.000)    | -                | -         |     0.37 | fr0k, Hitori, icyvlone, kanshineF, wetfy         |
 
 <br />
 <span id="table2"></span><br />

@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |     5326 | 2023-12-18 | Patins da Ferrari         | L   | 0.272      | -            | -                | -                | -             |    -4.79 | bichop, nasher, PREDI, restik, Righi |
-|           12 |     5437 | 2023-12-16 | Team Solid                | W   | 0.259      | 0.143        | 0.138 (0.005)    | 0.275 (0.010)    | false (0.000) |     6.44 | bichop, nasher, PREDI, restik, Righi |
-|           11 |     5569 | 2023-12-15 | Arena Jogue Fácil Esports | W   | 0.253      | 0.143        | 0.002 (0.000)    | 0.125 (0.004)    | false (0.000) |     4.36 | bichop, nasher, PREDI, restik, Righi |
-|           10 |     5633 | 2023-12-13 | Team Solid                | L   | 0.239      | -            | -                | -                | -             |    -1.53 | bichop, nasher, PREDI, restik, Righi |
-|            9 |     5918 | 2023-12-06 | W7m esports               | L   | 0.193      | -            | -                | -                | -             |    -3.52 | bichop, nasher, PREDI, restik, Righi |
-|            8 |     5978 | 2023-12-05 | Arena Jogue Fácil Esports | L   | 0.186      | -            | -                | -                | -             |    -2.84 | bichop, nasher, PREDI, restik, Righi |
-|            7 |     6191 | 2023-11-30 | Patins da Ferrari         | L   | 0.153      | -            | -                | -                | -             |    -2.71 | bichop, nasher, PREDI, restik, Righi |
-|            6 |     6238 | 2023-11-29 | 9z Academy                | L   | 0.146      | -            | -                | -                | -             |    -2.29 | bichop, nasher, PREDI, restik, Righi |
-|            5 |     6297 | 2023-11-28 | Dusty Roots               | L   | 0.139      | -            | -                | -                | -             |    -2.04 | bichop, nasher, PREDI, restik, Righi |
-|            4 |     6348 | 2023-11-27 | Astral Aces Esports       | W   | 0.133      | 0.284        | 0.000 (0.000)    | 0.009 (0.000)    | false (0.000) |     0.79 | bichop, nasher, PREDI, restik, Righi |
-|            3 |     6500 | 2023-11-23 | Dusty Roots               | W   | 0.106      | 0.143        | 0.005 (0.000)    | 0.352 (0.005)    | false (0.000) |     1.81 | bichop, nasher, PREDI, restik, Righi |
-|            2 |     6580 | 2023-11-21 | Team Solid                | L   | 0.093      | -            | -                | -                | -             |    -0.63 | bichop, nasher, PREDI, restik, Righi |
-|            1 |     6856 | 2023-11-15 | Case Esports              | L   | 0.053      | -            | -                | -                | -             |    -0.72 | bichop, nasher, PREDI, restik, Righi |
+|           13 |     5326 | 2023-12-18 | Patins da Ferrari         | L   | 0.272      | -            | -                | -                | -         |    -4.79 | bichop, nasher, PREDI, restik, Righi |
+|           12 |     5437 | 2023-12-16 | Team Solid                | W   | 0.259      | 0.143        | 0.138 (0.005)    | 0.275 (0.010)    | 0 (0.000) |     6.44 | bichop, nasher, PREDI, restik, Righi |
+|           11 |     5569 | 2023-12-15 | Arena Jogue Fácil Esports | W   | 0.253      | 0.143        | 0.002 (0.000)    | 0.125 (0.004)    | 0 (0.000) |     4.36 | bichop, nasher, PREDI, restik, Righi |
+|           10 |     5633 | 2023-12-13 | Team Solid                | L   | 0.239      | -            | -                | -                | -         |    -1.53 | bichop, nasher, PREDI, restik, Righi |
+|            9 |     5918 | 2023-12-06 | W7m esports               | L   | 0.193      | -            | -                | -                | -         |    -3.52 | bichop, nasher, PREDI, restik, Righi |
+|            8 |     5978 | 2023-12-05 | Arena Jogue Fácil Esports | L   | 0.186      | -            | -                | -                | -         |    -2.84 | bichop, nasher, PREDI, restik, Righi |
+|            7 |     6191 | 2023-11-30 | Patins da Ferrari         | L   | 0.153      | -            | -                | -                | -         |    -2.71 | bichop, nasher, PREDI, restik, Righi |
+|            6 |     6238 | 2023-11-29 | 9z Academy                | L   | 0.146      | -            | -                | -                | -         |    -2.29 | bichop, nasher, PREDI, restik, Righi |
+|            5 |     6297 | 2023-11-28 | Dusty Roots               | L   | 0.139      | -            | -                | -                | -         |    -2.04 | bichop, nasher, PREDI, restik, Righi |
+|            4 |     6348 | 2023-11-27 | Astral Aces Esports       | W   | 0.133      | 0.284        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     0.79 | bichop, nasher, PREDI, restik, Righi |
+|            3 |     6500 | 2023-11-23 | Dusty Roots               | W   | 0.106      | 0.143        | 0.005 (0.000)    | 0.352 (0.005)    | 0 (0.000) |     1.81 | bichop, nasher, PREDI, restik, Righi |
+|            2 |     6580 | 2023-11-21 | Team Solid                | L   | 0.093      | -            | -                | -                | -         |    -0.63 | bichop, nasher, PREDI, restik, Righi |
+|            1 |     6856 | 2023-11-15 | Case Esports              | L   | 0.053      | -            | -                | -                | -         |    -0.72 | bichop, nasher, PREDI, restik, Righi |
 
 <br />
 <span id="table2"></span><br />

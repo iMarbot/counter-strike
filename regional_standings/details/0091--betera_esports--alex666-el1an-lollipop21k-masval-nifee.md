@@ -34,26 +34,26 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |     1280 | 2024-04-09 | TSM                   | L   | 1.000      | -            | -                | -                | -             |   -21.19 | alex666, El1an, lollipop21k, MaSvAl, nifee |
-|           17 |     1486 | 2024-04-04 | SAW                   | L   | 0.992      | -            | -                | -                | -             |    -1.23 | alex666, El1an, lollipop21k, MaSvAl, nifee |
-|           16 |     1528 | 2024-04-03 | System5               | W   | 0.985      | 0.500        | 0.000 (0.000)    | 0.061 (0.030)    | false (0.000) |     4.16 | alex666, El1an, lollipop21k, MaSvAl, nifee |
-|           15 |     1695 | 2024-03-28 | Monte                 | W   | 0.945      | 0.500        | 0.199 (0.094)    | 0.378 (0.179)    | false (0.000) |    28.00 | alex666, El1an, lollipop21k, MaSvAl, nifee |
-|           14 |     1751 | 2024-03-27 | Verdant               | L   | 0.938      | -            | -                | -                | -             |   -12.89 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|           13 |     1794 | 2024-03-26 | PARIVISION            | W   | 0.932      | 0.143        | 0.003 (0.000)    | 0.374 (0.050)    | false (0.000) |    15.69 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|           12 |     2220 | 2024-03-15 | Pera Esports          | W   | 0.858      | 0.500        | 0.065 (0.028)    | 0.324 (0.139)    | false (0.000) |    15.24 | alex666, El1an, lollipop21k, MaSvAl, nifee |
-|           11 |     2309 | 2024-03-13 | RUSH B (Russian team) | L   | 0.846      | -            | -                | -                | -             |   -15.77 | alex666, El1an, lollipop21k, MaSvAl, nifee |
-|           10 |     2694 | 2024-03-05 | Insilio               | L   | 0.792      | -            | -                | -                | -             |    -8.47 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|            9 |     2719 | 2024-03-04 | HAVU Gaming           | W   | 0.786      | 0.143        | 0.024 (0.003)    | -                | false (0.000) |    11.23 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|            8 |     2742 | 2024-03-04 | Sangal Esports        | W   | 0.786      | 0.143        | 0.000 (0.000)    | 0.350 (0.039)    | false (0.000) |     9.05 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|            7 |     3062 | 2024-02-26 | Sashi Esport          | L   | 0.739      | -            | -                | -                | -             |    -5.58 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|            6 |     3765 | 2024-02-10 | Viperio               | W   | 0.632      | 0.143        | 0.000 (0.000)    | 0.321 (0.029)    | false (0.000) |     5.49 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|            5 |     3770 | 2024-02-10 | Team Rayvenclaw       | W   | 0.632      | -            | -                | -                | false (0.000) |     1.49 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|            4 |     3800 | 2024-02-09 | Monte Gen             | W   | 0.624      | 0.333        | 0.019 (0.004)    | 0.155 (0.032)    | false (0.000) |    10.37 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|            3 |     3832 | 2024-02-08 | BIG Academy           | W   | 0.616      | 0.333        | 0.027 (0.006)    | 0.219 (0.045)    | false (0.000) |    10.07 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|            2 |     3865 | 2024-02-06 | Team Secret           | W   | 0.604      | 0.333        | -                | 0.368 (0.074)    | -             |     5.77 | alex666, lollipop21k, MaSvAl, nifee, sad   |
-|            1 |     4199 | 2024-01-29 | EsmagaB               | W   | 0.551      | 0.333        | 0.016 (0.003)    | 0.559 (0.102)    | -             |    10.26 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|           18 |     1280 | 2024-04-09 | TSM                   | L   | 1.000      | -            | -                | -                | -         |   -21.19 | alex666, El1an, lollipop21k, MaSvAl, nifee |
+|           17 |     1486 | 2024-04-04 | SAW                   | L   | 0.992      | -            | -                | -                | -         |    -1.23 | alex666, El1an, lollipop21k, MaSvAl, nifee |
+|           16 |     1528 | 2024-04-03 | System5               | W   | 0.985      | 0.500        | 0.000 (0.000)    | 0.061 (0.030)    | 0 (0.000) |     4.16 | alex666, El1an, lollipop21k, MaSvAl, nifee |
+|           15 |     1695 | 2024-03-28 | Monte                 | W   | 0.945      | 0.500        | 0.199 (0.094)    | 0.378 (0.179)    | 0 (0.000) |    28.00 | alex666, El1an, lollipop21k, MaSvAl, nifee |
+|           14 |     1751 | 2024-03-27 | Verdant               | L   | 0.938      | -            | -                | -                | -         |   -12.89 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|           13 |     1794 | 2024-03-26 | PARIVISION            | W   | 0.932      | 0.143        | 0.003 (0.000)    | 0.374 (0.050)    | 0 (0.000) |    15.69 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|           12 |     2220 | 2024-03-15 | Pera Esports          | W   | 0.858      | 0.500        | 0.065 (0.028)    | 0.324 (0.139)    | 0 (0.000) |    15.24 | alex666, El1an, lollipop21k, MaSvAl, nifee |
+|           11 |     2309 | 2024-03-13 | RUSH B (Russian team) | L   | 0.846      | -            | -                | -                | -         |   -15.77 | alex666, El1an, lollipop21k, MaSvAl, nifee |
+|           10 |     2694 | 2024-03-05 | Insilio               | L   | 0.792      | -            | -                | -                | -         |    -8.47 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            9 |     2719 | 2024-03-04 | HAVU Gaming           | W   | 0.786      | 0.143        | 0.024 (0.003)    | -                | 0 (0.000) |    11.23 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            8 |     2742 | 2024-03-04 | Sangal Esports        | W   | 0.786      | 0.143        | 0.000 (0.000)    | 0.350 (0.039)    | 0 (0.000) |     9.05 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            7 |     3062 | 2024-02-26 | Sashi Esport          | L   | 0.739      | -            | -                | -                | -         |    -5.58 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            6 |     3765 | 2024-02-10 | Viperio               | W   | 0.632      | 0.143        | 0.000 (0.000)    | 0.321 (0.029)    | 0 (0.000) |     5.49 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            5 |     3770 | 2024-02-10 | Team Rayvenclaw       | W   | 0.632      | -            | -                | -                | 0 (0.000) |     1.49 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            4 |     3800 | 2024-02-09 | Monte Gen             | W   | 0.624      | 0.333        | 0.019 (0.004)    | 0.155 (0.032)    | 0 (0.000) |    10.37 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            3 |     3832 | 2024-02-08 | BIG Academy           | W   | 0.616      | 0.333        | 0.027 (0.006)    | 0.219 (0.045)    | 0 (0.000) |    10.07 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            2 |     3865 | 2024-02-06 | Team Secret           | W   | 0.604      | 0.333        | -                | 0.368 (0.074)    | -         |     5.77 | alex666, lollipop21k, MaSvAl, nifee, sad   |
+|            1 |     4199 | 2024-01-29 | EsmagaB               | W   | 0.551      | 0.333        | 0.016 (0.003)    | 0.559 (0.102)    | -         |    10.26 | alex666, lollipop21k, MaSvAl, nifee, sad   |
 
 <br />
 <span id="table2"></span><br />

@@ -34,31 +34,31 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |     1130 | 2024-04-12 | Looking4Org (Brazilian team) | L   | 1.000      | -            | -                | -                | -             |   -14.68 | lcf, Lukita, ronazik, Skr, will1ZERA       |
-|           22 |     1660 | 2024-03-29 | Yawara E-Sports              | L   | 0.952      | -            | -                | -                | -             |   -11.41 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           21 |     1732 | 2024-03-27 | MIBR Academy                 | L   | 0.939      | -            | -                | -                | -             |   -12.08 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           20 |     1797 | 2024-03-26 | 9z Academy                   | W   | 0.932      | 0.143        | 0.003 (0.000)    | 0.237 (0.032)    | false (0.000) |    12.81 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           19 |     1933 | 2024-03-22 | Yawara E-Sports              | L   | 0.906      | -            | -                | -                | -             |   -12.54 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           18 |     2006 | 2024-03-20 | NIGERIA 96                   | W   | 0.894      | 0.143        | 0.002 (0.000)    | 0.095 (0.012)    | false (0.000) |    12.72 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           17 |     2210 | 2024-03-15 | Bounty Hunters Esports       | L   | 0.859      | -            | -                | -                | -             |   -17.64 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           16 |     2259 | 2024-03-14 | LA RUGONETA                  | W   | 0.852      | 0.262        | 0.000 (0.000)    | 0.096 (0.021)    | false (0.000) |    10.73 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           15 |     2718 | 2024-03-04 | MIBR Academy                 | L   | 0.786      | -            | -                | -                | -             |    -9.05 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           14 |     2865 | 2024-03-02 | Bombril 1001 Utilidades      | L   | 0.772      | -            | -                | -                | -             |   -11.91 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           13 |     2929 | 2024-02-29 | 9z Academy                   | W   | 0.760      | 0.143        | 0.003 (0.000)    | 0.237 (0.026)    | false (0.000) |    10.78 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           12 |     3016 | 2024-02-27 | MIBR Academy                 | L   | 0.746      | -            | -                | -                | -             |    -9.32 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           11 |     4131 | 2024-01-30 | Yawara E-Sports              | L   | 0.560      | -            | -                | -                | -             |    -7.79 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|           10 |     4205 | 2024-01-28 | ODDIK Academy                | W   | 0.546      | 0.143        | 0.002 (0.000)    | 0.160 (0.012)    | false (0.000) |     7.88 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|            9 |     4236 | 2024-01-27 | TEAM ORUGA                   | W   | 0.540      | 0.143        | 0.001 (0.000)    | 0.108 (0.008)    | false (0.000) |     6.70 | gAtito, kissmyaug, pegin, rushardo, zLN    |
-|            8 |     4251 | 2024-01-27 | Myth e-Sports                | W   | 0.539      | 0.143        | 0.000 (0.000)    | 0.070 (0.005)    | false (0.000) |     7.46 | crownzera, Farw, hellzaoo, MyRoN, nz1      |
-|            7 |     4254 | 2024-01-27 | Yawara E-Sports              | L   | 0.539      | -            | -                | -                | -             |    -7.39 | j0w, lash, PremiuM, ritz, stAx             |
-|            6 |     4261 | 2024-01-27 | Fluxo Demons                 | W   | 0.539      | 0.143        | 0.065 (0.005)    | 0.289 (0.022)    | false (0.000) |    13.85 | goddess, julih, nani, poppins, yungher     |
-|            5 |     5439 | 2023-12-16 | Vex Dragons                  | L   | 0.259      | -            | -                | -                | -             |    -4.97 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
-|            4 |     5445 | 2023-12-16 | Looking4Org (Brazilian team) | W   | 0.259      | 0.143        | -                | 0.009 (0.000)    | false (0.000) |     1.51 | firstzera, Lukz, s1lent, Sorvet3, tormento |
-|            3 |     6189 | 2023-11-30 | PAQ Gaming                   | W   | 0.153      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     1.41 | aNgelo, bin96, bks, Black, JLK             |
-|            2 |     6259 | 2023-11-29 | 9z Academy                   | L   | 0.145      | -            | -                | -                | -             |    -2.33 | divine, MaxOff, perez, slashzz, Tomate     |
-|            1 |     6292 | 2023-11-28 | PAQ Gaming                   | W   | 0.140      | 0.143        | 0.000 (0.000)    | -                | -             |     1.29 | aNgelo, bin96, bks, Black, JLK             |
+|           23 |     1130 | 2024-04-12 | Looking4Org (Brazilian team) | L   | 1.000      | -            | -                | -                | -         |   -14.68 | lcf, Lukita, ronazik, Skr, will1ZERA       |
+|           22 |     1660 | 2024-03-29 | Yawara E-Sports              | L   | 0.952      | -            | -                | -                | -         |   -11.41 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           21 |     1732 | 2024-03-27 | MIBR Academy                 | L   | 0.939      | -            | -                | -                | -         |   -12.08 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           20 |     1797 | 2024-03-26 | 9z Academy                   | W   | 0.932      | 0.143        | 0.003 (0.000)    | 0.237 (0.032)    | 0 (0.000) |    12.81 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           19 |     1933 | 2024-03-22 | Yawara E-Sports              | L   | 0.906      | -            | -                | -                | -         |   -12.54 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           18 |     2006 | 2024-03-20 | NIGERIA 96                   | W   | 0.894      | 0.143        | 0.002 (0.000)    | 0.095 (0.012)    | 0 (0.000) |    12.72 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           17 |     2210 | 2024-03-15 | Bounty Hunters Esports       | L   | 0.859      | -            | -                | -                | -         |   -17.64 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           16 |     2259 | 2024-03-14 | LA RUGONETA                  | W   | 0.852      | 0.262        | 0.000 (0.000)    | 0.096 (0.021)    | 0 (0.000) |    10.73 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           15 |     2718 | 2024-03-04 | MIBR Academy                 | L   | 0.786      | -            | -                | -                | -         |    -9.05 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           14 |     2865 | 2024-03-02 | Bombril 1001 Utilidades      | L   | 0.772      | -            | -                | -                | -         |   -11.91 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           13 |     2929 | 2024-02-29 | 9z Academy                   | W   | 0.760      | 0.143        | 0.003 (0.000)    | 0.237 (0.026)    | 0 (0.000) |    10.78 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           12 |     3016 | 2024-02-27 | MIBR Academy                 | L   | 0.746      | -            | -                | -                | -         |    -9.32 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           11 |     4131 | 2024-01-30 | Yawara E-Sports              | L   | 0.560      | -            | -                | -                | -         |    -7.79 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|           10 |     4205 | 2024-01-28 | ODDIK Academy                | W   | 0.546      | 0.143        | 0.002 (0.000)    | 0.160 (0.012)    | 0 (0.000) |     7.88 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|            9 |     4236 | 2024-01-27 | TEAM ORUGA                   | W   | 0.540      | 0.143        | 0.001 (0.000)    | 0.108 (0.008)    | 0 (0.000) |     6.70 | gAtito, kissmyaug, pegin, rushardo, zLN    |
+|            8 |     4251 | 2024-01-27 | Myth e-Sports                | W   | 0.539      | 0.143        | 0.000 (0.000)    | 0.070 (0.005)    | 0 (0.000) |     7.46 | crownzera, Farw, hellzaoo, MyRoN, nz1      |
+|            7 |     4254 | 2024-01-27 | Yawara E-Sports              | L   | 0.539      | -            | -                | -                | -         |    -7.39 | j0w, lash, PremiuM, ritz, stAx             |
+|            6 |     4261 | 2024-01-27 | Fluxo Demons                 | W   | 0.539      | 0.143        | 0.065 (0.005)    | 0.289 (0.022)    | 0 (0.000) |    13.85 | goddess, julih, nani, poppins, yungher     |
+|            5 |     5439 | 2023-12-16 | Vex Dragons                  | L   | 0.259      | -            | -                | -                | -         |    -4.97 | Lukita, ronazik, Skr, Tatu, will1ZERA      |
+|            4 |     5445 | 2023-12-16 | Looking4Org (Brazilian team) | W   | 0.259      | 0.143        | -                | 0.009 (0.000)    | 0 (0.000) |     1.51 | firstzera, Lukz, s1lent, Sorvet3, tormento |
+|            3 |     6189 | 2023-11-30 | PAQ Gaming                   | W   | 0.153      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.41 | aNgelo, bin96, bks, Black, JLK             |
+|            2 |     6259 | 2023-11-29 | 9z Academy                   | L   | 0.145      | -            | -                | -                | -         |    -2.33 | divine, MaxOff, perez, slashzz, Tomate     |
+|            1 |     6292 | 2023-11-28 | PAQ Gaming                   | W   | 0.140      | 0.143        | 0.000 (0.000)    | -                | -         |     1.29 | aNgelo, bin96, bks, Black, JLK             |
 
 <br />
 <span id="table2"></span><br />

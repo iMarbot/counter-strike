@@ -34,26 +34,26 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |     4302 | 2024-01-26 | ODDIK             | L   | 0.533      | -            | -                | -                | -             |    -2.42 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|           17 |     4305 | 2024-01-26 | Yawara E-Sports   | W   | 0.532      | 0.143        | 0.005 (0.000)    | 0.361 (0.027)    | false (0.000) |    11.12 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|           16 |     4345 | 2024-01-25 | Dusty Roots       | W   | 0.527      | 0.143        | 0.005 (0.000)    | 0.352 (0.027)    | false (0.000) |    10.57 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|           15 |     4495 | 2024-01-21 | RED Canids        | L   | 0.500      | -            | -                | -                | -             |    -2.02 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|           14 |     4500 | 2024-01-21 | TIMACETA          | W   | 0.498      | 0.143        | 0.001 (0.000)    | 0.145 (0.010)    | false (0.000) |    10.30 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|           13 |     4527 | 2024-01-20 | Galorys           | W   | 0.493      | 0.143        | 0.048 (0.003)    | 0.598 (0.042)    | false (0.000) |    12.98 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|           12 |     4585 | 2024-01-19 | ODDIK             | L   | 0.487      | -            | -                | -                | -             |    -2.00 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|           11 |     4592 | 2024-01-19 | BESTIA            | L   | 0.486      | -            | -                | -                | -             |    -3.22 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|           10 |     5066 | 2024-01-09 | Legacy            | W   | 0.421      | 0.143        | 0.061 (0.004)    | 0.262 (0.016)    | false (0.000) |    12.68 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|            9 |     5069 | 2024-01-09 | ODDIK             | W   | 0.420      | 0.143        | 0.015 (0.001)    | 0.402 (0.024)    | false (0.000) |    11.67 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|            8 |     5072 | 2024-01-09 | Case Esports      | W   | 0.419      | 0.143        | 0.010 (0.001)    | 0.142 (0.008)    | false (0.000) |     9.93 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|            7 |     5140 | 2024-01-08 | A FUNDACAO        | W   | 0.414      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.18 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
-|            6 |     6706 | 2023-11-18 | RED Canids        | L   | 0.072      | -            | -                | -                | -             |    -0.23 | ALLE, danoco, realz1n, rem1x, RICIOLI |
-|            5 |     6758 | 2023-11-17 | Case Esports      | L   | 0.067      | -            | -                | -                | -             |    -0.57 | ALLE, danoco, realz1n, rem1x, RICIOLI |
-|            4 |     6759 | 2023-11-17 | Sharks Esports    | L   | 0.066      | -            | -                | -                | -             |    -0.25 | ALLE, danoco, realz1n, rem1x, RICIOLI |
-|            3 |     6811 | 2023-11-16 | Case Esports      | W   | 0.059      | 0.303        | 0.010 (0.000)    | 0.142 (0.003)    | false (0.000) |     1.35 | ALLE, danoco, realz1n, rem1x, RICIOLI |
-|            2 |     6909 | 2023-11-14 | RED Canids        | L   | 0.046      | -            | -                | -                | -             |    -0.15 | ALLE, danoco, realz1n, rem1x, RICIOLI |
-|            1 |     6993 | 2023-11-12 | Patins da Ferrari | W   | 0.033      | 0.303        | 0.001 (0.000)    | 0.034 (0.000)    | false (0.000) |     0.64 | ALLE, danoco, realz1n, rem1x, RICIOLI |
+|           18 |     4302 | 2024-01-26 | ODDIK             | L   | 0.533      | -            | -                | -                | -         |    -2.42 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|           17 |     4305 | 2024-01-26 | Yawara E-Sports   | W   | 0.532      | 0.143        | 0.005 (0.000)    | 0.361 (0.027)    | 0 (0.000) |    11.12 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|           16 |     4345 | 2024-01-25 | Dusty Roots       | W   | 0.527      | 0.143        | 0.005 (0.000)    | 0.352 (0.027)    | 0 (0.000) |    10.57 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|           15 |     4495 | 2024-01-21 | RED Canids        | L   | 0.500      | -            | -                | -                | -         |    -2.02 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|           14 |     4500 | 2024-01-21 | TIMACETA          | W   | 0.498      | 0.143        | 0.001 (0.000)    | 0.145 (0.010)    | 0 (0.000) |    10.30 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|           13 |     4527 | 2024-01-20 | Galorys           | W   | 0.493      | 0.143        | 0.048 (0.003)    | 0.598 (0.042)    | 0 (0.000) |    12.98 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|           12 |     4585 | 2024-01-19 | ODDIK             | L   | 0.487      | -            | -                | -                | -         |    -2.00 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|           11 |     4592 | 2024-01-19 | BESTIA            | L   | 0.486      | -            | -                | -                | -         |    -3.22 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|           10 |     5066 | 2024-01-09 | Legacy            | W   | 0.421      | 0.143        | 0.061 (0.004)    | 0.262 (0.016)    | 0 (0.000) |    12.68 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|            9 |     5069 | 2024-01-09 | ODDIK             | W   | 0.420      | 0.143        | 0.015 (0.001)    | 0.402 (0.024)    | 0 (0.000) |    11.67 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|            8 |     5072 | 2024-01-09 | Case Esports      | W   | 0.419      | 0.143        | 0.010 (0.001)    | 0.142 (0.008)    | 0 (0.000) |     9.93 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|            7 |     5140 | 2024-01-08 | A FUNDACAO        | W   | 0.414      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.18 | ALLE, danoco, LUCAS1, realz1n, rem1x  |
+|            6 |     6706 | 2023-11-18 | RED Canids        | L   | 0.072      | -            | -                | -                | -         |    -0.23 | ALLE, danoco, realz1n, rem1x, RICIOLI |
+|            5 |     6758 | 2023-11-17 | Case Esports      | L   | 0.067      | -            | -                | -                | -         |    -0.57 | ALLE, danoco, realz1n, rem1x, RICIOLI |
+|            4 |     6759 | 2023-11-17 | Sharks Esports    | L   | 0.066      | -            | -                | -                | -         |    -0.25 | ALLE, danoco, realz1n, rem1x, RICIOLI |
+|            3 |     6811 | 2023-11-16 | Case Esports      | W   | 0.059      | 0.303        | 0.010 (0.000)    | 0.142 (0.003)    | 0 (0.000) |     1.35 | ALLE, danoco, realz1n, rem1x, RICIOLI |
+|            2 |     6909 | 2023-11-14 | RED Canids        | L   | 0.046      | -            | -                | -                | -         |    -0.15 | ALLE, danoco, realz1n, rem1x, RICIOLI |
+|            1 |     6993 | 2023-11-12 | Patins da Ferrari | W   | 0.033      | 0.303        | 0.001 (0.000)    | 0.034 (0.000)    | 0 (0.000) |     0.64 | ALLE, danoco, realz1n, rem1x, RICIOLI |
 
 <br />
 <span id="table2"></span><br />

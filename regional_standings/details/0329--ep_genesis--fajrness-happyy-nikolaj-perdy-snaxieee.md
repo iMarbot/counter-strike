@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      273 | 2024-04-29 | L&G                         | L   | 1.000      | -            | -                | -                | -             |    -8.92 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|           12 |      360 | 2024-04-27 | Lazer Cats                  | L   | 1.000      | -            | -                | -                | -             |   -11.95 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|           11 |      435 | 2024-04-26 | Dynamo Eclot Thunders       | W   | 1.000      | 0.289        | 0.000 (0.000)    | 0.035 (0.010)    | false (0.000) |     8.15 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|           10 |      569 | 2024-04-23 | BRUTE                       | W   | 1.000      | 0.289        | 0.000 (0.000)    | 0.122 (0.035)    | false (0.000) |    12.41 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|            9 |     1758 | 2024-03-27 | Apeks Rebels                | L   | 0.938      | -            | -                | -                | -             |    -9.61 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|            8 |     1904 | 2024-03-23 | ALTERNATE aTTaX Evo         | W   | 0.912      | 0.289        | 0.005 (0.001)    | 0.198 (0.052)    | false (0.000) |    18.77 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|            7 |     2063 | 2024-03-19 | Apeks Rebels                | L   | 0.884      | -            | -                | -                | -             |    -8.44 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|            6 |     2485 | 2024-03-09 | FALKE ESPORTS               | W   | 0.819      | 0.333        | 0.000 (0.000)    | 0.021 (0.006)    | false (0.000) |    11.02 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|            5 |     2581 | 2024-03-07 | UNiTY esports (Slovak team) | L   | 0.804      | -            | -                | -                | -             |    -4.22 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|            4 |     2630 | 2024-03-06 | Lan Party Hotel             | W   | 0.797      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.63 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|            3 |     2686 | 2024-03-05 | Begrip Gaming               | W   | 0.792      | 0.333        | 0.001 (0.000)    | 0.196 (0.052)    | false (0.000) |    16.25 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|            2 |     2763 | 2024-03-04 | UNiTY esports (Slovak team) | L   | 0.785      | -            | -                | -                | -             |    -3.55 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
-|            1 |     3033 | 2024-02-27 | BRUTE                       | W   | 0.745      | 0.143        | 0.000 (0.000)    | 0.122 (0.013)    | false (0.000) |    12.44 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|           13 |      273 | 2024-04-29 | L&G                         | L   | 1.000      | -            | -                | -                | -         |    -8.92 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|           12 |      360 | 2024-04-27 | Lazer Cats                  | L   | 1.000      | -            | -                | -                | -         |   -11.95 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|           11 |      435 | 2024-04-26 | Dynamo Eclot Thunders       | W   | 1.000      | 0.289        | 0.000 (0.000)    | 0.035 (0.010)    | 0 (0.000) |     8.15 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|           10 |      569 | 2024-04-23 | BRUTE                       | W   | 1.000      | 0.289        | 0.000 (0.000)    | 0.122 (0.035)    | 0 (0.000) |    12.41 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|            9 |     1758 | 2024-03-27 | Apeks Rebels                | L   | 0.938      | -            | -                | -                | -         |    -9.61 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|            8 |     1904 | 2024-03-23 | ALTERNATE aTTaX Evo         | W   | 0.912      | 0.289        | 0.005 (0.001)    | 0.198 (0.052)    | 0 (0.000) |    18.77 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|            7 |     2063 | 2024-03-19 | Apeks Rebels                | L   | 0.884      | -            | -                | -                | -         |    -8.44 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|            6 |     2485 | 2024-03-09 | FALKE ESPORTS               | W   | 0.819      | 0.333        | 0.000 (0.000)    | 0.021 (0.006)    | 0 (0.000) |    11.02 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|            5 |     2581 | 2024-03-07 | UNiTY esports (Slovak team) | L   | 0.804      | -            | -                | -                | -         |    -4.22 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|            4 |     2630 | 2024-03-06 | Lan Party Hotel             | W   | 0.797      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.63 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|            3 |     2686 | 2024-03-05 | Begrip Gaming               | W   | 0.792      | 0.333        | 0.001 (0.000)    | 0.196 (0.052)    | 0 (0.000) |    16.25 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|            2 |     2763 | 2024-03-04 | UNiTY esports (Slovak team) | L   | 0.785      | -            | -                | -                | -         |    -3.55 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
+|            1 |     3033 | 2024-02-27 | BRUTE                       | W   | 0.745      | 0.143        | 0.000 (0.000)    | 0.122 (0.013)    | 0 (0.000) |    12.44 | fajrness, Happyy, NIKOLAJ, PerdY, Snaxieee |
 
 <br />
 <span id="table2"></span><br />

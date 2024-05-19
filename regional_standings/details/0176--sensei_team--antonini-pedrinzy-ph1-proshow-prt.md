@@ -34,27 +34,27 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent                       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           19 |      187 | 2024-05-01 | Dusty Roots                    | L   | 1.000      | -            | -                | -                | -             |   -19.65 | antonini, pedrinzy, ph1, proSHOW, prt |
-|           18 |      331 | 2024-04-27 | Sharks Youngsters              | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.211 (0.030)    | false (0.000) |     9.87 | antonini, pedrinzy, ph1, proSHOW, prt |
-|           17 |      332 | 2024-04-27 | Smoke Gaming                   | W   | 1.000      | -            | -                | -                | false (0.000) |     9.78 | antonini, pedrinzy, ph1, proSHOW, prt |
-|           16 |      334 | 2024-04-27 | FURIA Esports Female           | W   | 1.000      | 0.143        | 0.048 (0.007)    | 0.205 (0.029)    | false (0.000) |    17.24 | antonini, pedrinzy, ph1, proSHOW, prt |
-|           15 |      338 | 2024-04-27 | Floripa Stars                  | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.181 (0.026)    | false (0.000) |    12.98 | antonini, pedrinzy, ph1, proSHOW, prt |
-|           14 |      345 | 2024-04-27 | Full House Gaming              | L   | 1.000      | -            | -                | -                | -             |   -19.61 | antonini, pedrinzy, ph1, proSHOW, prt |
-|           13 |      353 | 2024-04-27 | United E-sports                | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.053 (0.008)    | false (0.000) |    11.57 | antonini, pedrinzy, ph1, proSHOW, prt |
-|           12 |      400 | 2024-04-26 | Hype E-Sports (Brazilian team) | L   | 1.000      | -            | -                | -                | -             |   -23.78 | antonini, pedrinzy, ph1, proSHOW, prt |
-|           11 |      680 | 2024-04-20 | Yawara E-Sports                | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.361 (0.052)    | false (0.000) |    14.07 | antonini, pedrinzy, ph1, proSHOW, prt |
-|           10 |     1030 | 2024-04-15 | 9z Academy                     | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.237 (0.034)    | false (0.000) |    11.91 | antonini, pedrinzy, ph1, proSHOW, prt |
-|            9 |     1095 | 2024-04-13 | ODDIK Academy                  | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.160 (0.023)    | false (0.000) |    11.72 | antonini, pedrinzy, ph1, proSHOW, prt |
-|            8 |     1133 | 2024-04-12 | Smoke Gaming                   | W   | 1.000      | -            | -                | -                | false (0.000) |    11.42 | antonini, pedrinzy, ph1, proSHOW, prt |
-|            7 |     1476 | 2024-04-04 | Bounty Hunters Esports         | L   | 0.992      | -            | -                | -                | -             |   -21.18 | antonini, pedrinzy, ph1, proSHOW, prt |
-|            6 |     1689 | 2024-03-28 | Intense Game                   | L   | 0.945      | -            | -                | -                | -             |   -14.02 | antonini, pedrinzy, ph1, proSHOW, prt |
-|            5 |     1836 | 2024-03-25 | Rocket.GG                      | W   | 0.927      | 0.143        | 0.001 (0.000)    | 0.070 (0.009)    | false (0.000) |    11.15 | antonini, pedrinzy, ph1, proSHOW, prt |
-|            4 |     1841 | 2024-03-25 | Yawara E-Sports                | L   | 0.925      | -            | -                | -                | -             |   -14.70 | antonini, pedrinzy, ph1, proSHOW, prt |
-|            3 |     1882 | 2024-03-23 | NIGERIA ACADEMY                | W   | 0.913      | -            | -                | -                | -             |     6.23 | antonini, pedrinzy, ph1, proSHOW, prt |
-|            2 |     1963 | 2024-03-21 | Galorys                        | W   | 0.899      | 0.143        | 0.048 (0.006)    | 0.598 (0.077)    | -             |    17.46 | antonini, pedrinzy, ph1, proSHOW, prt |
-|            1 |     1974 | 2024-03-21 | MIBR Academy                   | W   | 0.899      | 0.143        | 0.011 (0.001)    | 0.455 (0.058)    | -             |    14.60 | antonini, pedrinzy, ph1, proSHOW, prt |
+|           19 |      187 | 2024-05-01 | Dusty Roots                    | L   | 1.000      | -            | -                | -                | -         |   -19.65 | antonini, pedrinzy, ph1, proSHOW, prt |
+|           18 |      331 | 2024-04-27 | Sharks Youngsters              | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.211 (0.030)    | 0 (0.000) |     9.87 | antonini, pedrinzy, ph1, proSHOW, prt |
+|           17 |      332 | 2024-04-27 | Smoke Gaming                   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.78 | antonini, pedrinzy, ph1, proSHOW, prt |
+|           16 |      334 | 2024-04-27 | FURIA Esports Female           | W   | 1.000      | 0.143        | 0.048 (0.007)    | 0.205 (0.029)    | 0 (0.000) |    17.24 | antonini, pedrinzy, ph1, proSHOW, prt |
+|           15 |      338 | 2024-04-27 | Floripa Stars                  | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.181 (0.026)    | 0 (0.000) |    12.98 | antonini, pedrinzy, ph1, proSHOW, prt |
+|           14 |      345 | 2024-04-27 | Full House Gaming              | L   | 1.000      | -            | -                | -                | -         |   -19.61 | antonini, pedrinzy, ph1, proSHOW, prt |
+|           13 |      353 | 2024-04-27 | United E-sports                | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.053 (0.008)    | 0 (0.000) |    11.57 | antonini, pedrinzy, ph1, proSHOW, prt |
+|           12 |      400 | 2024-04-26 | Hype E-Sports (Brazilian team) | L   | 1.000      | -            | -                | -                | -         |   -23.78 | antonini, pedrinzy, ph1, proSHOW, prt |
+|           11 |      680 | 2024-04-20 | Yawara E-Sports                | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.361 (0.052)    | 0 (0.000) |    14.07 | antonini, pedrinzy, ph1, proSHOW, prt |
+|           10 |     1030 | 2024-04-15 | 9z Academy                     | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.237 (0.034)    | 0 (0.000) |    11.91 | antonini, pedrinzy, ph1, proSHOW, prt |
+|            9 |     1095 | 2024-04-13 | ODDIK Academy                  | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.160 (0.023)    | 0 (0.000) |    11.72 | antonini, pedrinzy, ph1, proSHOW, prt |
+|            8 |     1133 | 2024-04-12 | Smoke Gaming                   | W   | 1.000      | -            | -                | -                | 0 (0.000) |    11.42 | antonini, pedrinzy, ph1, proSHOW, prt |
+|            7 |     1476 | 2024-04-04 | Bounty Hunters Esports         | L   | 0.992      | -            | -                | -                | -         |   -21.18 | antonini, pedrinzy, ph1, proSHOW, prt |
+|            6 |     1689 | 2024-03-28 | Intense Game                   | L   | 0.945      | -            | -                | -                | -         |   -14.02 | antonini, pedrinzy, ph1, proSHOW, prt |
+|            5 |     1836 | 2024-03-25 | Rocket.GG                      | W   | 0.927      | 0.143        | 0.001 (0.000)    | 0.070 (0.009)    | 0 (0.000) |    11.15 | antonini, pedrinzy, ph1, proSHOW, prt |
+|            4 |     1841 | 2024-03-25 | Yawara E-Sports                | L   | 0.925      | -            | -                | -                | -         |   -14.70 | antonini, pedrinzy, ph1, proSHOW, prt |
+|            3 |     1882 | 2024-03-23 | NIGERIA ACADEMY                | W   | 0.913      | -            | -                | -                | -         |     6.23 | antonini, pedrinzy, ph1, proSHOW, prt |
+|            2 |     1963 | 2024-03-21 | Galorys                        | W   | 0.899      | 0.143        | 0.048 (0.006)    | 0.598 (0.077)    | -         |    17.46 | antonini, pedrinzy, ph1, proSHOW, prt |
+|            1 |     1974 | 2024-03-21 | MIBR Academy                   | W   | 0.899      | 0.143        | 0.011 (0.001)    | 0.455 (0.058)    | -         |    14.60 | antonini, pedrinzy, ph1, proSHOW, prt |
 
 <br />
 <span id="table2"></span><br />

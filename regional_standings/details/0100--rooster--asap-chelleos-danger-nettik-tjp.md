@@ -34,48 +34,48 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                              |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           40 |      394 | 2024-04-26 | MIBR                        | L   | 1.000      | -            | -                | -                | -             |    -0.58 | asap, chelleos, dangeR, nettik, TjP |
-|           39 |      447 | 2024-04-26 | KZG                         | W   | 1.000      | 0.500        | 0.020 (0.010)    | 0.249 (0.124)    | true (1.000)  |     8.63 | asap, chelleos, dangeR, nettik, TjP |
-|           38 |      453 | 2024-04-25 | Rebels Gaming               | L   | 1.000      | -            | -                | -                | -             |    -5.47 | asap, chelleos, dangeR, nettik, TjP |
-|           37 |      783 | 2024-04-19 | Bad News Kangaroos          | L   | 1.000      | -            | -                | -                | -             |   -12.54 | asap, chelleos, dangeR, nettik, TjP |
-|           36 |      848 | 2024-04-19 | FlyQuest                    | L   | 1.000      | -            | -                | -                | -             |    -1.50 | asap, chelleos, dangeR, nettik, TjP |
-|           35 |      851 | 2024-04-19 | Gen.G Esports               | L   | 1.000      | -            | -                | -                | -             |   -27.82 | asap, chelleos, dangeR, nettik, TjP |
-|           34 |      856 | 2024-04-18 | Bad News Kangaroos          | W   | 1.000      | 0.143        | 0.071 (0.010)    | 0.238 (0.034)    | false (0.000) |    17.50 | asap, chelleos, dangeR, nettik, TjP |
-|           33 |      910 | 2024-04-17 | Rare Atom                   | L   | 1.000      | -            | -                | -                | -             |   -18.29 | asap, chelleos, dangeR, nettik, TjP |
-|           32 |      957 | 2024-04-17 | VexX Gaming                 | W   | 1.000      | 0.143        | 0.010 (0.001)    | 0.390 (0.056)    | false (0.000) |     7.97 | asap, chelleos, dangeR, nettik, TjP |
-|           31 |      960 | 2024-04-17 | Canon Event                 | W   | 1.000      | -            | -                | -                | false (0.000) |     1.61 | asap, chelleos, dangeR, nettik, TjP |
-|           30 |      978 | 2024-04-17 | Double-Down                 | W   | 1.000      | -            | -                | -                | false (0.000) |     1.86 | asap, chelleos, dangeR, nettik, TjP |
-|           29 |     1248 | 2024-04-10 | Bad News Kangaroos          | L   | 1.000      | -            | -                | -                | -             |   -14.15 | asap, chelleos, dangeR, nettik, TjP |
-|           28 |     1254 | 2024-04-10 | Bad News Kangaroos          | W   | 1.000      | 0.333        | 0.071 (0.024)    | 0.238 (0.079)    | false (0.000) |    17.50 | asap, chelleos, dangeR, nettik, TjP |
-|           27 |     1772 | 2024-03-27 | VexX Gaming                 | W   | 0.937      | 0.333        | 0.010 (0.003)    | 0.390 (0.122)    | false (0.000) |     8.80 | asap, chelleos, dangeR, nettik, TjP |
-|           26 |     1776 | 2024-03-27 | VexX Gaming                 | W   | 0.936      | 0.333        | 0.010 (0.003)    | 0.390 (0.122)    | false (0.000) |     9.45 | asap, chelleos, dangeR, nettik, TjP |
-|           25 |     3223 | 2024-02-23 | FlyQuest                    | L   | 0.716      | -            | -                | -                | -             |    -1.18 | asap, chelleos, dangeR, nettik, TjP |
-|           24 |     3226 | 2024-02-22 | Bad News Kangaroos          | W   | 0.715      | 0.143        | 0.071 (0.007)    | 0.238 (0.024)    | false (0.000) |    14.04 | asap, chelleos, dangeR, nettik, TjP |
-|           23 |     3267 | 2024-02-22 | FlyQuest                    | L   | 0.710      | -            | -                | -                | -             |    -1.10 | asap, chelleos, dangeR, nettik, TjP |
-|           22 |     3269 | 2024-02-21 | Vantage Esports             | W   | 0.708      | 0.143        | -                | 0.236 (0.024)    | false (0.000) |     4.49 | asap, chelleos, dangeR, nettik, TjP |
-|           21 |     3325 | 2024-02-21 | DXA Esports                 | W   | 0.703      | 0.333        | 0.010 (0.002)    | 0.266 (0.062)    | -             |     6.82 | asap, chelleos, dangeR, nettik, TjP |
-|           20 |     3328 | 2024-02-21 | DXA Esports                 | W   | 0.703      | 0.333        | 0.010 (0.002)    | 0.266 (0.062)    | -             |     7.19 | asap, chelleos, dangeR, nettik, TjP |
-|           19 |     4074 | 2024-02-01 | M80                         | L   | 0.571      | -            | -                | -                | -             |    -1.37 | asap, chelleos, nettik, Rackem, TjP |
-|           18 |     4104 | 2024-01-31 | Virtus.pro                  | L   | 0.565      | -            | -                | -                | -             |    -0.12 | asap, chelleos, nettik, Rackem, TjP |
-|           17 |     4366 | 2024-01-25 | Mindfreak (Australian team) | W   | 0.522      | -            | -                | -                | -             |     6.09 | asap, chelleos, nettik, Rackem, TjP |
-|           16 |     4403 | 2024-01-24 | Blitz (Australian team)     | W   | 0.516      | -            | -                | -                | -             |     2.09 | asap, chelleos, nettik, Rackem, TjP |
-|           15 |     4412 | 2024-01-23 | 500x                        | W   | 0.516      | -            | -                | -                | -             |     2.27 | asap, chelleos, nettik, Rackem, TjP |
-|           14 |     4447 | 2024-01-22 | Mindfreak (Australian team) | L   | 0.508      | -            | -                | -                | -             |   -10.46 | asap, chelleos, nettik, Rackem, TjP |
-|           13 |     4493 | 2024-01-21 | Mindfreak (Australian team) | L   | 0.502      | -            | -                | -                | -             |   -10.74 | asap, chelleos, nettik, Rackem, TjP |
-|           12 |     4519 | 2024-01-20 | FlyQuest                    | L   | 0.495      | -            | -                | -                | -             |    -0.77 | asap, chelleos, nettik, Rackem, TjP |
-|           11 |     4624 | 2024-01-19 | Mindfreak (Australian team) | W   | 0.482      | -            | -                | -                | -             |     4.86 | asap, chelleos, nettik, Rackem, TjP |
-|           10 |     4630 | 2024-01-18 | StevosFirstCS2              | W   | 0.482      | -            | -                | -                | -             |     1.88 | asap, chelleos, nettik, Rackem, TjP |
-|            9 |     6283 | 2023-11-28 | MANTRA                      | W   | 0.142      | -            | -                | -                | -             |     0.54 | asap, chelleos, nettik, Rackem, TjP |
-|            8 |     6335 | 2023-11-28 | Blingus                     | W   | 0.136      | -            | -                | -                | -             |     0.45 | asap, chelleos, nettik, Rackem, TjP |
-|            7 |     6339 | 2023-11-28 | Dracula Flow                | W   | 0.136      | -            | -                | -                | -             |     0.33 | asap, chelleos, nettik, Rackem, TjP |
-|            6 |     6612 | 2023-11-20 | Bad News Kangaroos          | L   | 0.089      | -            | -                | -                | -             |    -1.00 | asap, chelleos, nettik, Rackem, TjP |
-|            5 |     6656 | 2023-11-19 | FlyQuest                    | L   | 0.082      | -            | -                | -                | -             |    -0.13 | asap, chelleos, nettik, Rackem, TjP |
-|            4 |     6687 | 2023-11-18 | Bad News Kangaroos          | W   | 0.075      | 0.314        | 0.071 (0.002)    | -                | -             |     1.52 | asap, chelleos, nettik, Rackem, TjP |
-|            3 |     6755 | 2023-11-17 | KZG                         | W   | 0.069      | -            | -                | -                | -             |     0.82 | asap, chelleos, nettik, Rackem, TjP |
-|            2 |     7025 | 2023-11-11 | Mindfreak (Australian team) | W   | 0.029      | -            | -                | -                | -             |     0.24 | asap, chelleos, nettik, Rackem, TjP |
-|            1 |     7078 | 2023-11-10 | Cobro's Cobros              | W   | 0.021      | -            | -                | -                | -             |     0.05 | asap, chelleos, nettik, Rackem, TjP |
+|           40 |      394 | 2024-04-26 | MIBR                        | L   | 1.000      | -            | -                | -                | -         |    -0.58 | asap, chelleos, dangeR, nettik, TjP |
+|           39 |      447 | 2024-04-26 | KZG                         | W   | 1.000      | 0.500        | 0.020 (0.010)    | 0.249 (0.124)    | 1 (1.000) |     8.63 | asap, chelleos, dangeR, nettik, TjP |
+|           38 |      453 | 2024-04-25 | Rebels Gaming               | L   | 1.000      | -            | -                | -                | -         |    -5.47 | asap, chelleos, dangeR, nettik, TjP |
+|           37 |      783 | 2024-04-19 | Bad News Kangaroos          | L   | 1.000      | -            | -                | -                | -         |   -12.54 | asap, chelleos, dangeR, nettik, TjP |
+|           36 |      848 | 2024-04-19 | FlyQuest                    | L   | 1.000      | -            | -                | -                | -         |    -1.50 | asap, chelleos, dangeR, nettik, TjP |
+|           35 |      851 | 2024-04-19 | Gen.G Esports               | L   | 1.000      | -            | -                | -                | -         |   -27.82 | asap, chelleos, dangeR, nettik, TjP |
+|           34 |      856 | 2024-04-18 | Bad News Kangaroos          | W   | 1.000      | 0.143        | 0.071 (0.010)    | 0.238 (0.034)    | 0 (0.000) |    17.50 | asap, chelleos, dangeR, nettik, TjP |
+|           33 |      910 | 2024-04-17 | Rare Atom                   | L   | 1.000      | -            | -                | -                | -         |   -18.29 | asap, chelleos, dangeR, nettik, TjP |
+|           32 |      957 | 2024-04-17 | VexX Gaming                 | W   | 1.000      | 0.143        | 0.010 (0.001)    | 0.390 (0.056)    | 0 (0.000) |     7.97 | asap, chelleos, dangeR, nettik, TjP |
+|           31 |      960 | 2024-04-17 | Canon Event                 | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.61 | asap, chelleos, dangeR, nettik, TjP |
+|           30 |      978 | 2024-04-17 | Double-Down                 | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.86 | asap, chelleos, dangeR, nettik, TjP |
+|           29 |     1248 | 2024-04-10 | Bad News Kangaroos          | L   | 1.000      | -            | -                | -                | -         |   -14.15 | asap, chelleos, dangeR, nettik, TjP |
+|           28 |     1254 | 2024-04-10 | Bad News Kangaroos          | W   | 1.000      | 0.333        | 0.071 (0.024)    | 0.238 (0.079)    | 0 (0.000) |    17.50 | asap, chelleos, dangeR, nettik, TjP |
+|           27 |     1772 | 2024-03-27 | VexX Gaming                 | W   | 0.937      | 0.333        | 0.010 (0.003)    | 0.390 (0.122)    | 0 (0.000) |     8.80 | asap, chelleos, dangeR, nettik, TjP |
+|           26 |     1776 | 2024-03-27 | VexX Gaming                 | W   | 0.936      | 0.333        | 0.010 (0.003)    | 0.390 (0.122)    | 0 (0.000) |     9.45 | asap, chelleos, dangeR, nettik, TjP |
+|           25 |     3223 | 2024-02-23 | FlyQuest                    | L   | 0.716      | -            | -                | -                | -         |    -1.18 | asap, chelleos, dangeR, nettik, TjP |
+|           24 |     3226 | 2024-02-22 | Bad News Kangaroos          | W   | 0.715      | 0.143        | 0.071 (0.007)    | 0.238 (0.024)    | 0 (0.000) |    14.04 | asap, chelleos, dangeR, nettik, TjP |
+|           23 |     3267 | 2024-02-22 | FlyQuest                    | L   | 0.710      | -            | -                | -                | -         |    -1.10 | asap, chelleos, dangeR, nettik, TjP |
+|           22 |     3269 | 2024-02-21 | Vantage Esports             | W   | 0.708      | 0.143        | -                | 0.236 (0.024)    | 0 (0.000) |     4.49 | asap, chelleos, dangeR, nettik, TjP |
+|           21 |     3325 | 2024-02-21 | DXA Esports                 | W   | 0.703      | 0.333        | 0.010 (0.002)    | 0.266 (0.062)    | -         |     6.82 | asap, chelleos, dangeR, nettik, TjP |
+|           20 |     3328 | 2024-02-21 | DXA Esports                 | W   | 0.703      | 0.333        | 0.010 (0.002)    | 0.266 (0.062)    | -         |     7.19 | asap, chelleos, dangeR, nettik, TjP |
+|           19 |     4074 | 2024-02-01 | M80                         | L   | 0.571      | -            | -                | -                | -         |    -1.37 | asap, chelleos, nettik, Rackem, TjP |
+|           18 |     4104 | 2024-01-31 | Virtus.pro                  | L   | 0.565      | -            | -                | -                | -         |    -0.12 | asap, chelleos, nettik, Rackem, TjP |
+|           17 |     4366 | 2024-01-25 | Mindfreak (Australian team) | W   | 0.522      | -            | -                | -                | -         |     6.09 | asap, chelleos, nettik, Rackem, TjP |
+|           16 |     4403 | 2024-01-24 | Blitz (Australian team)     | W   | 0.516      | -            | -                | -                | -         |     2.09 | asap, chelleos, nettik, Rackem, TjP |
+|           15 |     4412 | 2024-01-23 | 500x                        | W   | 0.516      | -            | -                | -                | -         |     2.27 | asap, chelleos, nettik, Rackem, TjP |
+|           14 |     4447 | 2024-01-22 | Mindfreak (Australian team) | L   | 0.508      | -            | -                | -                | -         |   -10.46 | asap, chelleos, nettik, Rackem, TjP |
+|           13 |     4493 | 2024-01-21 | Mindfreak (Australian team) | L   | 0.502      | -            | -                | -                | -         |   -10.74 | asap, chelleos, nettik, Rackem, TjP |
+|           12 |     4519 | 2024-01-20 | FlyQuest                    | L   | 0.495      | -            | -                | -                | -         |    -0.77 | asap, chelleos, nettik, Rackem, TjP |
+|           11 |     4624 | 2024-01-19 | Mindfreak (Australian team) | W   | 0.482      | -            | -                | -                | -         |     4.86 | asap, chelleos, nettik, Rackem, TjP |
+|           10 |     4630 | 2024-01-18 | StevosFirstCS2              | W   | 0.482      | -            | -                | -                | -         |     1.88 | asap, chelleos, nettik, Rackem, TjP |
+|            9 |     6283 | 2023-11-28 | MANTRA                      | W   | 0.142      | -            | -                | -                | -         |     0.54 | asap, chelleos, nettik, Rackem, TjP |
+|            8 |     6335 | 2023-11-28 | Blingus                     | W   | 0.136      | -            | -                | -                | -         |     0.45 | asap, chelleos, nettik, Rackem, TjP |
+|            7 |     6339 | 2023-11-28 | Dracula Flow                | W   | 0.136      | -            | -                | -                | -         |     0.33 | asap, chelleos, nettik, Rackem, TjP |
+|            6 |     6612 | 2023-11-20 | Bad News Kangaroos          | L   | 0.089      | -            | -                | -                | -         |    -1.00 | asap, chelleos, nettik, Rackem, TjP |
+|            5 |     6656 | 2023-11-19 | FlyQuest                    | L   | 0.082      | -            | -                | -                | -         |    -0.13 | asap, chelleos, nettik, Rackem, TjP |
+|            4 |     6687 | 2023-11-18 | Bad News Kangaroos          | W   | 0.075      | 0.314        | 0.071 (0.002)    | -                | -         |     1.52 | asap, chelleos, nettik, Rackem, TjP |
+|            3 |     6755 | 2023-11-17 | KZG                         | W   | 0.069      | -            | -                | -                | -         |     0.82 | asap, chelleos, nettik, Rackem, TjP |
+|            2 |     7025 | 2023-11-11 | Mindfreak (Australian team) | W   | 0.029      | -            | -                | -                | -         |     0.24 | asap, chelleos, nettik, Rackem, TjP |
+|            1 |     7078 | 2023-11-10 | Cobro's Cobros              | W   | 0.021      | -            | -                | -                | -         |     0.05 | asap, chelleos, nettik, Rackem, TjP |
 
 <br />
 <span id="table2"></span><br />

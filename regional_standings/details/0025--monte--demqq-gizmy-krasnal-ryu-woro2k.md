@@ -34,44 +34,44 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins     | H2H Adj. | Roster                             |
+| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           36 |       17 | 2024-05-05 | FURIA Esports         | W   | 1.000      | 0.889        | 0.384 (0.341)    | 0.361 (0.321)    | true (1.000) |    21.51 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           35 |       78 | 2024-05-04 | FORZE Esports         | W   | 1.000      | 0.889        | 0.210 (0.187)    | 0.574 (0.510)    | true (1.000) |     9.33 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           34 |      139 | 2024-05-02 | ENCE                  | L   | 1.000      | -            | -                | -                | -            |   -11.33 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           33 |      196 | 2024-05-01 | Team Liquid           | L   | 1.000      | -            | -                | -                | -            |   -10.76 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           32 |      235 | 2024-04-30 | FORZE Esports         | W   | 1.000      | 0.889        | 0.210 (0.187)    | 0.574 (0.510)    | true (1.000) |     8.39 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           31 |      803 | 2024-04-19 | OG                    | L   | 1.000      | -            | -                | -                | -            |   -13.35 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           30 |     1108 | 2024-04-13 | Rebels Gaming         | W   | 1.000      | 0.500        | 0.121 (0.060)    | 0.376 (0.188)    | -            |     9.18 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           29 |     1530 | 2024-04-03 | Metizport             | L   | 0.985      | -            | -                | -                | -            |   -22.85 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           28 |     1541 | 2024-04-03 | Apeks                 | W   | 0.984      | 0.143        | 0.253 (0.036)    | 0.459 (0.065)    | -            |    15.68 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           27 |     1573 | 2024-04-02 | GamerLegion           | W   | 0.978      | -            | -                | -                | -            |    21.64 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           26 |     1583 | 2024-04-02 | Ninjas in Pyjamas     | L   | 0.977      | -            | -                | -                | -            |   -21.90 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           25 |     1619 | 2024-03-31 | RUSH B (Russian team) | L   | 0.965      | -            | -                | -                | -            |   -28.85 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           24 |     1695 | 2024-03-28 | Betera Esports        | L   | 0.945      | -            | -                | -                | -            |   -28.00 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           23 |     1820 | 2024-03-26 | System5               | W   | 0.932      | -            | -                | -                | -            |     0.31 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
-|           22 |     2498 | 2024-03-09 | Metizport             | L   | 0.818      | -            | -                | -                | -            |   -21.25 | DemQQ, kRaSnaL, leen, sdy, Woro2k  |
-|           21 |     2553 | 2024-03-07 | Imperial Esports      | W   | 0.806      | 0.535        | 0.674 (0.291)    | 0.549 (0.237)    | -            |    16.28 | DemQQ, kRaSnaL, leen, sdy, Woro2k  |
-|           20 |     3326 | 2024-02-21 | Astralis              | L   | 0.703      | -            | -                | -                | -            |    -7.01 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|           19 |     3375 | 2024-02-20 | Apeks                 | L   | 0.697      | -            | -                | -                | -            |   -10.82 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|           18 |     3405 | 2024-02-19 | Nexus Gaming          | W   | 0.692      | 0.143        | -                | 0.772 (0.076)    | true (0.692) |     1.28 | br0, DemQQ, Gizmy, kRaSnaL, Woro2k |
-|           17 |     3423 | 2024-02-19 | Gaimin Gladiators     | L   | 0.690      | -            | -                | -                | -            |   -12.52 | br0, DemQQ, Gizmy, kRaSnaL, Woro2k |
-|           16 |     3440 | 2024-02-18 | Aurora Gaming         | W   | 0.686      | 0.143        | 1.000 (0.098)    | 0.799 (0.078)    | -            |    14.94 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|           15 |     3448 | 2024-02-18 | SINNERS Esports       | W   | 0.685      | -            | -                | -                | -            |     1.93 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|           14 |     3493 | 2024-02-17 | Aurora Gaming         | W   | 0.678      | 0.143        | 1.000 (0.097)    | 0.799 (0.077)    | -            |    15.55 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|           13 |     3500 | 2024-02-17 | The Chosen Few        | W   | 0.677      | -            | -                | -                | -            |     0.78 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|           12 |     3867 | 2024-02-06 | G2 Esports            | L   | 0.604      | -            | -                | -                | -            |    -1.23 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|           11 |     3907 | 2024-02-05 | Cloud9                | W   | 0.597      | 1.000        | 0.487 (0.291)    | 0.419 (0.250)    | true (0.597) |    16.79 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|           10 |     3930 | 2024-02-04 | GamerLegion           | L   | 0.590      | -            | -                | -                | -            |    -4.12 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|            9 |     5358 | 2023-12-17 | Apeks                 | L   | 0.265      | -            | -                | -                | -            |    -3.79 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|            8 |     5440 | 2023-12-16 | BESTIA                | W   | 0.259      | -            | -                | -                | true (0.259) |     0.19 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|            7 |     5566 | 2023-12-15 | Virtus.pro            | L   | 0.253      | -            | -                | -                | -            |    -1.09 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|            6 |     5586 | 2023-12-15 | BESTIA                | W   | 0.251      | -            | -                | -                | true (0.251) |     0.18 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|            5 |     6388 | 2023-11-26 | Eternal Fire          | W   | 0.125      | -            | -                | -                | true (0.125) |     3.60 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|            4 |     6410 | 2023-11-26 | Virtus.pro            | W   | 0.122      | 0.500        | 0.454 (0.028)    | -                | true (0.122) |     3.34 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|            3 |     6481 | 2023-11-24 | Nouns Esports         | W   | 0.111      | -            | -                | -                | true (0.111) |     0.09 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|            2 |     6496 | 2023-11-24 | TYLOO                 | W   | 0.109      | -            | -                | -                | -            |     0.50 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
-|            1 |     7182 | 2023-11-08 | SINNERS Esports       | L   | 0.005      | -            | -                | -                | -            |    -0.15 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|           36 |       17 | 2024-05-05 | FURIA Esports         | W   | 1.000      | 0.889        | 0.384 (0.341)    | 0.361 (0.321)    | 1 (1.000) |    21.51 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           35 |       78 | 2024-05-04 | FORZE Esports         | W   | 1.000      | 0.889        | 0.210 (0.187)    | 0.574 (0.510)    | 1 (1.000) |     9.33 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           34 |      139 | 2024-05-02 | ENCE                  | L   | 1.000      | -            | -                | -                | -         |   -11.33 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           33 |      196 | 2024-05-01 | Team Liquid           | L   | 1.000      | -            | -                | -                | -         |   -10.76 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           32 |      235 | 2024-04-30 | FORZE Esports         | W   | 1.000      | 0.889        | 0.210 (0.187)    | 0.574 (0.510)    | 1 (1.000) |     8.39 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           31 |      803 | 2024-04-19 | OG                    | L   | 1.000      | -            | -                | -                | -         |   -13.35 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           30 |     1108 | 2024-04-13 | Rebels Gaming         | W   | 1.000      | 0.500        | 0.121 (0.060)    | 0.376 (0.188)    | -         |     9.18 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           29 |     1530 | 2024-04-03 | Metizport             | L   | 0.985      | -            | -                | -                | -         |   -22.85 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           28 |     1541 | 2024-04-03 | Apeks                 | W   | 0.984      | 0.143        | 0.253 (0.036)    | 0.459 (0.065)    | -         |    15.68 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           27 |     1573 | 2024-04-02 | GamerLegion           | W   | 0.978      | -            | -                | -                | -         |    21.64 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           26 |     1583 | 2024-04-02 | Ninjas in Pyjamas     | L   | 0.977      | -            | -                | -                | -         |   -21.90 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           25 |     1619 | 2024-03-31 | RUSH B (Russian team) | L   | 0.965      | -            | -                | -                | -         |   -28.85 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           24 |     1695 | 2024-03-28 | Betera Esports        | L   | 0.945      | -            | -                | -                | -         |   -28.00 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           23 |     1820 | 2024-03-26 | System5               | W   | 0.932      | -            | -                | -                | -         |     0.31 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k |
+|           22 |     2498 | 2024-03-09 | Metizport             | L   | 0.818      | -            | -                | -                | -         |   -21.25 | DemQQ, kRaSnaL, leen, sdy, Woro2k  |
+|           21 |     2553 | 2024-03-07 | Imperial Esports      | W   | 0.806      | 0.535        | 0.674 (0.291)    | 0.549 (0.237)    | -         |    16.28 | DemQQ, kRaSnaL, leen, sdy, Woro2k  |
+|           20 |     3326 | 2024-02-21 | Astralis              | L   | 0.703      | -            | -                | -                | -         |    -7.01 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|           19 |     3375 | 2024-02-20 | Apeks                 | L   | 0.697      | -            | -                | -                | -         |   -10.82 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|           18 |     3405 | 2024-02-19 | Nexus Gaming          | W   | 0.692      | 0.143        | -                | 0.772 (0.076)    | 1 (0.692) |     1.28 | br0, DemQQ, Gizmy, kRaSnaL, Woro2k |
+|           17 |     3423 | 2024-02-19 | Gaimin Gladiators     | L   | 0.690      | -            | -                | -                | -         |   -12.52 | br0, DemQQ, Gizmy, kRaSnaL, Woro2k |
+|           16 |     3440 | 2024-02-18 | Aurora Gaming         | W   | 0.686      | 0.143        | 1.000 (0.098)    | 0.799 (0.078)    | -         |    14.94 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|           15 |     3448 | 2024-02-18 | SINNERS Esports       | W   | 0.685      | -            | -                | -                | -         |     1.93 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|           14 |     3493 | 2024-02-17 | Aurora Gaming         | W   | 0.678      | 0.143        | 1.000 (0.097)    | 0.799 (0.077)    | -         |    15.55 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|           13 |     3500 | 2024-02-17 | The Chosen Few        | W   | 0.677      | -            | -                | -                | -         |     0.78 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|           12 |     3867 | 2024-02-06 | G2 Esports            | L   | 0.604      | -            | -                | -                | -         |    -1.23 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|           11 |     3907 | 2024-02-05 | Cloud9                | W   | 0.597      | 1.000        | 0.487 (0.291)    | 0.419 (0.250)    | 1 (0.597) |    16.79 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|           10 |     3930 | 2024-02-04 | GamerLegion           | L   | 0.590      | -            | -                | -                | -         |    -4.12 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|            9 |     5358 | 2023-12-17 | Apeks                 | L   | 0.265      | -            | -                | -                | -         |    -3.79 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|            8 |     5440 | 2023-12-16 | BESTIA                | W   | 0.259      | -            | -                | -                | 1 (0.259) |     0.19 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|            7 |     5566 | 2023-12-15 | Virtus.pro            | L   | 0.253      | -            | -                | -                | -         |    -1.09 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|            6 |     5586 | 2023-12-15 | BESTIA                | W   | 0.251      | -            | -                | -                | 1 (0.251) |     0.18 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|            5 |     6388 | 2023-11-26 | Eternal Fire          | W   | 0.125      | -            | -                | -                | 1 (0.125) |     3.60 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|            4 |     6410 | 2023-11-26 | Virtus.pro            | W   | 0.122      | 0.500        | 0.454 (0.028)    | -                | 1 (0.122) |     3.34 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|            3 |     6481 | 2023-11-24 | Nouns Esports         | W   | 0.111      | -            | -                | -                | 1 (0.111) |     0.09 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|            2 |     6496 | 2023-11-24 | TYLOO                 | W   | 0.109      | -            | -                | -                | -         |     0.50 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
+|            1 |     7182 | 2023-11-08 | SINNERS Esports       | L   | 0.005      | -            | -                | -                | -         |    -0.15 | br0, DemQQ, kRaSnaL, sdy, Woro2k   |
 
 <br />
 <span id="table2"></span><br />

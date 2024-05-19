@@ -34,26 +34,26 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |      309 | 2024-04-28 | Foxed Gaming      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.114 (0.016)    | false (0.000) |     9.77 | mathio, Sulfur, thomass1, YoHz, zame       |
-|           17 |      407 | 2024-04-26 | Esport Harte      | L   | 1.000      | -            | -                | -                | -             |   -13.12 | berzerk, mathio, thomass1, YoHz, zame      |
-|           16 |      412 | 2024-04-26 | JANO Esports      | L   | 1.000      | -            | -                | -                | -             |    -7.21 | berzerk, mathio, thomass1, YoHz, zame      |
-|           15 |      417 | 2024-04-26 | Preasy Esport     | L   | 1.000      | -            | -                | -                | -             |    -8.77 | berzerk, mathio, thomass1, YoHz, zame      |
-|           14 |      424 | 2024-04-26 | Sashi Esport      | L   | 1.000      | -            | -                | -                | -             |    -0.58 | berzerk, mathio, thomass1, YoHz, zame      |
-|           13 |      609 | 2024-04-22 | Bitfix Gaming     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.031 (0.004)    | false (0.000) |     8.40 | mathio, Sulfur, thomass1, YoHz, zame       |
-|           12 |      802 | 2024-04-19 | Heimo Esports     | W   | 1.000      | 0.143        | 0.020 (0.003)    | 0.229 (0.033)    | false (0.000) |    25.02 | berzerk, mathio, thomass1, YoHz, zame      |
-|           11 |      805 | 2024-04-19 | Foxed Gaming      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.114 (0.016)    | false (0.000) |    10.07 | berzerk, mathio, thomass1, YoHz, zame      |
-|           10 |      810 | 2024-04-19 | Khai Thonq        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |    11.73 | berzerk, mathio, thomass1, YoHz, zame      |
-|            9 |     1330 | 2024-04-08 | 777 Esports       | L   | 1.000      | -            | -                | -                | -             |    -4.92 | mathio, Sulfur, thomass1, YoHz, zame       |
-|            8 |     2167 | 2024-03-16 | Nordix Esport     | L   | 0.865      | -            | -                | -                | -             |   -15.05 | forb1dden, mathio, Sulfur, thomass1, Zypno |
-|            7 |     2317 | 2024-03-13 | 777 Esports       | L   | 0.845      | -            | -                | -                | -             |    -5.16 | forb1dden, mathio, Sulfur, thomass1, Zypno |
-|            6 |     2417 | 2024-03-11 | INFURITY Gaming   | W   | 0.832      | 0.143        | 0.000 (0.000)    | 0.274 (0.033)    | false (0.000) |    10.56 | mathio, rinji2k, Sulfur, thomass1, zame    |
-|            5 |     2489 | 2024-03-09 | INFURITY Gaming   | L   | 0.819      | -            | -                | -                | -             |   -15.73 | forb1dden, mathio, Sulfur, thomass1, Zypno |
-|            4 |     2615 | 2024-03-06 | Cashout Cavaliers | W   | 0.799      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     8.83 | forb1dden, mathio, Sulfur, thomass1, Zypno |
-|            3 |     2755 | 2024-03-04 | Apeks Legends     | W   | 0.785      | 0.143        | 0.000 (0.000)    | 0.058 (0.006)    | false (0.000) |     9.03 | mathio, Sulfur, thomass1, YoHz, zame       |
-|            2 |     3722 | 2024-02-12 | Metizport X       | L   | 0.645      | -            | -                | -                | -             |    -8.99 | mathio, Sulfur, thomass1, YoHz, zame       |
-|            1 |     3896 | 2024-02-05 | Nordix Esport     | L   | 0.598      | -            | -                | -                | -             |   -12.03 | mathio, Sulfur, thomass1, YoHz, zame       |
+|           18 |      309 | 2024-04-28 | Foxed Gaming      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.114 (0.016)    | 0 (0.000) |     9.77 | mathio, Sulfur, thomass1, YoHz, zame       |
+|           17 |      407 | 2024-04-26 | Esport Harte      | L   | 1.000      | -            | -                | -                | -         |   -13.12 | berzerk, mathio, thomass1, YoHz, zame      |
+|           16 |      412 | 2024-04-26 | JANO Esports      | L   | 1.000      | -            | -                | -                | -         |    -7.21 | berzerk, mathio, thomass1, YoHz, zame      |
+|           15 |      417 | 2024-04-26 | Preasy Esport     | L   | 1.000      | -            | -                | -                | -         |    -8.77 | berzerk, mathio, thomass1, YoHz, zame      |
+|           14 |      424 | 2024-04-26 | Sashi Esport      | L   | 1.000      | -            | -                | -                | -         |    -0.58 | berzerk, mathio, thomass1, YoHz, zame      |
+|           13 |      609 | 2024-04-22 | Bitfix Gaming     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.031 (0.004)    | 0 (0.000) |     8.40 | mathio, Sulfur, thomass1, YoHz, zame       |
+|           12 |      802 | 2024-04-19 | Heimo Esports     | W   | 1.000      | 0.143        | 0.020 (0.003)    | 0.229 (0.033)    | 0 (0.000) |    25.02 | berzerk, mathio, thomass1, YoHz, zame      |
+|           11 |      805 | 2024-04-19 | Foxed Gaming      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.114 (0.016)    | 0 (0.000) |    10.07 | berzerk, mathio, thomass1, YoHz, zame      |
+|           10 |      810 | 2024-04-19 | Khai Thonq        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.73 | berzerk, mathio, thomass1, YoHz, zame      |
+|            9 |     1330 | 2024-04-08 | 777 Esports       | L   | 1.000      | -            | -                | -                | -         |    -4.92 | mathio, Sulfur, thomass1, YoHz, zame       |
+|            8 |     2167 | 2024-03-16 | Nordix Esport     | L   | 0.865      | -            | -                | -                | -         |   -15.05 | forb1dden, mathio, Sulfur, thomass1, Zypno |
+|            7 |     2317 | 2024-03-13 | 777 Esports       | L   | 0.845      | -            | -                | -                | -         |    -5.16 | forb1dden, mathio, Sulfur, thomass1, Zypno |
+|            6 |     2417 | 2024-03-11 | INFURITY Gaming   | W   | 0.832      | 0.143        | 0.000 (0.000)    | 0.274 (0.033)    | 0 (0.000) |    10.56 | mathio, rinji2k, Sulfur, thomass1, zame    |
+|            5 |     2489 | 2024-03-09 | INFURITY Gaming   | L   | 0.819      | -            | -                | -                | -         |   -15.73 | forb1dden, mathio, Sulfur, thomass1, Zypno |
+|            4 |     2615 | 2024-03-06 | Cashout Cavaliers | W   | 0.799      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.83 | forb1dden, mathio, Sulfur, thomass1, Zypno |
+|            3 |     2755 | 2024-03-04 | Apeks Legends     | W   | 0.785      | 0.143        | 0.000 (0.000)    | 0.058 (0.006)    | 0 (0.000) |     9.03 | mathio, Sulfur, thomass1, YoHz, zame       |
+|            2 |     3722 | 2024-02-12 | Metizport X       | L   | 0.645      | -            | -                | -                | -         |    -8.99 | mathio, Sulfur, thomass1, YoHz, zame       |
+|            1 |     3896 | 2024-02-05 | Nordix Esport     | L   | 0.598      | -            | -                | -                | -         |   -12.03 | mathio, Sulfur, thomass1, YoHz, zame       |
 
 <br />
 <span id="table2"></span><br />

@@ -34,41 +34,41 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent                       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           33 |      169 | 2024-05-01 | Martians                       | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.108 (0.015)    | false (0.000) |    13.90 | abr, CutzMeretz, jz, legy, paqueta      |
-|           32 |      395 | 2024-04-26 | Hype E-Sports (Brazilian team) | L   | 1.000      | -            | -                | -                | -             |   -18.74 | abr, CutzMeretz, jz, legy, paqueta      |
-|           31 |      396 | 2024-04-26 | 2Game Esports                  | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.188 (0.027)    | false (0.000) |    14.68 | abr, CutzMeretz, jz, legy, paqueta      |
-|           30 |      504 | 2024-04-24 | Bounty Hunters Esports         | L   | 1.000      | -            | -                | -                | -             |   -16.13 | abr, CutzMeretz, legy, nacho, paqueta   |
-|           29 |      555 | 2024-04-23 | Projeto KinGui                 | W   | 1.000      | 0.143        | 0.000 (0.000)    | -                | false (0.000) |     6.03 | abr, CutzMeretz, legy, nacho, paqueta   |
-|           28 |     1093 | 2024-04-13 | ODDIK Academy                  | L   | 1.000      | -            | -                | -                | -             |   -17.11 | abr, CutzMeretz, desh, legy, Leomonster |
-|           27 |     1128 | 2024-04-12 | Vex Dragons                    | W   | 1.000      | -            | -                | -                | false (0.000) |     5.56 | abr, CutzMeretz, desh, legy, Leomonster |
-|           26 |     1466 | 2024-04-04 | Fluxo                          | L   | 0.993      | -            | -                | -                | -             |    -3.98 | abr, CutzMeretz, desh, legy, Leomonster |
-|           25 |     1468 | 2024-04-04 | Fluxo                          | L   | 0.993      | -            | -                | -                | -             |    -4.14 | abr, CutzMeretz, desh, legy, Leomonster |
-|           24 |     1597 | 2024-04-01 | Dusty Roots                    | L   | 0.972      | -            | -                | -                | -             |   -16.84 | abr, CutzMeretz, desh, legy, Leomonster |
-|           23 |     1690 | 2024-03-28 | Galorys                        | L   | 0.945      | -            | -                | -                | -             |    -8.89 | abr, CutzMeretz, desh, legy, Leomonster |
-|           22 |     1722 | 2024-03-27 | 2Game Esports                  | L   | 0.940      | -            | -                | -                | -             |   -18.75 | abr, CutzMeretz, desh, legy, Leomonster |
-|           21 |     1726 | 2024-03-27 | 2Game Esports                  | W   | 0.940      | 0.450        | -                | 0.188 (0.080)    | false (0.000) |    10.63 | abr, CutzMeretz, desh, legy, Leomonster |
-|           20 |     1787 | 2024-03-26 | Looking4Org (Brazilian team)   | W   | 0.934      | 0.143        | 0.003 (0.000)    | 0.138 (0.018)    | false (0.000) |    13.28 | abr, CutzMeretz, desh, legy, Leomonster |
-|           19 |     1840 | 2024-03-25 | FURIA Academy                  | L   | 0.926      | -            | -                | -                | -             |   -17.94 | abr, CutzMeretz, desh, legy, Leomonster |
-|           18 |     1880 | 2024-03-23 | Full House Gaming              | W   | 0.913      | 0.143        | 0.003 (0.000)    | 0.153 (0.020)    | false (0.000) |    13.00 | abr, CutzMeretz, desh, legy, Leomonster |
-|           17 |     1887 | 2024-03-23 | Martians                       | W   | 0.913      | 0.143        | 0.001 (0.000)    | 0.108 (0.014)    | false (0.000) |    11.28 | abr, CutzMeretz, desh, legy, Leomonster |
-|           16 |     1894 | 2024-03-23 | Floripa Stars                  | W   | 0.912      | 0.143        | 0.001 (0.000)    | 0.181 (0.024)    | false (0.000) |    13.60 | abr, CutzMeretz, desh, legy, Leomonster |
-|           15 |     1900 | 2024-03-23 | ODDIK Academy                  | W   | 0.912      | 0.143        | 0.002 (0.000)    | 0.160 (0.021)    | false (0.000) |    13.53 | abr, CutzMeretz, desh, legy, Leomonster |
-|           14 |     1961 | 2024-03-21 | Vikings KR                     | W   | 0.899      | 0.143        | 0.009 (0.001)    | 0.210 (0.027)    | -             |    16.44 | abr, CutzMeretz, desh, legy, Leomonster |
-|           13 |     2310 | 2024-03-13 | MIBR Academy                   | L   | 0.845      | -            | -                | -                | -             |    -9.72 | abr, CutzMeretz, desh, legy, Leomonster |
-|           12 |     2410 | 2024-03-11 | RED Canids                     | L   | 0.832      | -            | -                | -                | -             |    -4.07 | abr, CutzMeretz, desh, legy, Leomonster |
-|           11 |     2504 | 2024-03-09 | Fluxo                          | L   | 0.817      | -            | -                | -                | -             |    -3.33 | abr, CutzMeretz, desh, legy, Leomonster |
-|           10 |     2580 | 2024-03-07 | Sharks Esports                 | L   | 0.804      | -            | -                | -                | -             |    -4.35 | abr, CutzMeretz, desh, legy, Leomonster |
-|            9 |     3120 | 2024-02-24 | W7m esports                    | L   | 0.727      | -            | -                | -                | -             |   -12.17 | abr, CutzMeretz, desh, legy, Leomonster |
-|            8 |     3127 | 2024-02-24 | W7m esports                    | L   | 0.727      | -            | -                | -                | -             |   -12.97 | abr, CutzMeretz, desh, legy, Leomonster |
-|            7 |     3195 | 2024-02-23 | Galorys                        | W   | 0.720      | 0.450        | 0.048 (0.016)    | 0.598 (0.194)    | -             |    15.52 | abr, CutzMeretz, desh, legy, Leomonster |
-|            6 |     3200 | 2024-02-23 | Galorys                        | L   | 0.720      | -            | -                | -                | -             |    -7.10 | abr, CutzMeretz, desh, legy, Leomonster |
-|            5 |     3280 | 2024-02-21 | Sharks Esports                 | L   | 0.707      | -            | -                | -                | -             |    -4.81 | abr, CutzMeretz, desh, legy, Leomonster |
-|            4 |     3490 | 2024-02-17 | Galorys                        | L   | 0.678      | -            | -                | -                | -             |    -6.40 | abr, CutzMeretz, desh, legy, Leomonster |
-|            3 |     3612 | 2024-02-14 | AdalYamigos                    | L   | 0.660      | -            | -                | -                | -             |    -8.06 | abr, CutzMeretz, desh, legy, Leomonster |
-|            2 |     3614 | 2024-02-14 | AdalYamigos                    | L   | 0.660      | -            | -                | -                | -             |    -8.52 | abr, CutzMeretz, desh, legy, Leomonster |
-|            1 |     4241 | 2024-01-27 | BAD MANNERS                    | W   | 0.540      | -            | -                | -                | -             |     2.59 | abr, CutzMeretz, desh, legy, Leomonster |
+|           33 |      169 | 2024-05-01 | Martians                       | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.108 (0.015)    | 0 (0.000) |    13.90 | abr, CutzMeretz, jz, legy, paqueta      |
+|           32 |      395 | 2024-04-26 | Hype E-Sports (Brazilian team) | L   | 1.000      | -            | -                | -                | -         |   -18.74 | abr, CutzMeretz, jz, legy, paqueta      |
+|           31 |      396 | 2024-04-26 | 2Game Esports                  | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.188 (0.027)    | 0 (0.000) |    14.68 | abr, CutzMeretz, jz, legy, paqueta      |
+|           30 |      504 | 2024-04-24 | Bounty Hunters Esports         | L   | 1.000      | -            | -                | -                | -         |   -16.13 | abr, CutzMeretz, legy, nacho, paqueta   |
+|           29 |      555 | 2024-04-23 | Projeto KinGui                 | W   | 1.000      | 0.143        | 0.000 (0.000)    | -                | 0 (0.000) |     6.03 | abr, CutzMeretz, legy, nacho, paqueta   |
+|           28 |     1093 | 2024-04-13 | ODDIK Academy                  | L   | 1.000      | -            | -                | -                | -         |   -17.11 | abr, CutzMeretz, desh, legy, Leomonster |
+|           27 |     1128 | 2024-04-12 | Vex Dragons                    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.56 | abr, CutzMeretz, desh, legy, Leomonster |
+|           26 |     1466 | 2024-04-04 | Fluxo                          | L   | 0.993      | -            | -                | -                | -         |    -3.98 | abr, CutzMeretz, desh, legy, Leomonster |
+|           25 |     1468 | 2024-04-04 | Fluxo                          | L   | 0.993      | -            | -                | -                | -         |    -4.14 | abr, CutzMeretz, desh, legy, Leomonster |
+|           24 |     1597 | 2024-04-01 | Dusty Roots                    | L   | 0.972      | -            | -                | -                | -         |   -16.84 | abr, CutzMeretz, desh, legy, Leomonster |
+|           23 |     1690 | 2024-03-28 | Galorys                        | L   | 0.945      | -            | -                | -                | -         |    -8.89 | abr, CutzMeretz, desh, legy, Leomonster |
+|           22 |     1722 | 2024-03-27 | 2Game Esports                  | L   | 0.940      | -            | -                | -                | -         |   -18.75 | abr, CutzMeretz, desh, legy, Leomonster |
+|           21 |     1726 | 2024-03-27 | 2Game Esports                  | W   | 0.940      | 0.450        | -                | 0.188 (0.080)    | 0 (0.000) |    10.63 | abr, CutzMeretz, desh, legy, Leomonster |
+|           20 |     1787 | 2024-03-26 | Looking4Org (Brazilian team)   | W   | 0.934      | 0.143        | 0.003 (0.000)    | 0.138 (0.018)    | 0 (0.000) |    13.28 | abr, CutzMeretz, desh, legy, Leomonster |
+|           19 |     1840 | 2024-03-25 | FURIA Academy                  | L   | 0.926      | -            | -                | -                | -         |   -17.94 | abr, CutzMeretz, desh, legy, Leomonster |
+|           18 |     1880 | 2024-03-23 | Full House Gaming              | W   | 0.913      | 0.143        | 0.003 (0.000)    | 0.153 (0.020)    | 0 (0.000) |    13.00 | abr, CutzMeretz, desh, legy, Leomonster |
+|           17 |     1887 | 2024-03-23 | Martians                       | W   | 0.913      | 0.143        | 0.001 (0.000)    | 0.108 (0.014)    | 0 (0.000) |    11.28 | abr, CutzMeretz, desh, legy, Leomonster |
+|           16 |     1894 | 2024-03-23 | Floripa Stars                  | W   | 0.912      | 0.143        | 0.001 (0.000)    | 0.181 (0.024)    | 0 (0.000) |    13.60 | abr, CutzMeretz, desh, legy, Leomonster |
+|           15 |     1900 | 2024-03-23 | ODDIK Academy                  | W   | 0.912      | 0.143        | 0.002 (0.000)    | 0.160 (0.021)    | 0 (0.000) |    13.53 | abr, CutzMeretz, desh, legy, Leomonster |
+|           14 |     1961 | 2024-03-21 | Vikings KR                     | W   | 0.899      | 0.143        | 0.009 (0.001)    | 0.210 (0.027)    | -         |    16.44 | abr, CutzMeretz, desh, legy, Leomonster |
+|           13 |     2310 | 2024-03-13 | MIBR Academy                   | L   | 0.845      | -            | -                | -                | -         |    -9.72 | abr, CutzMeretz, desh, legy, Leomonster |
+|           12 |     2410 | 2024-03-11 | RED Canids                     | L   | 0.832      | -            | -                | -                | -         |    -4.07 | abr, CutzMeretz, desh, legy, Leomonster |
+|           11 |     2504 | 2024-03-09 | Fluxo                          | L   | 0.817      | -            | -                | -                | -         |    -3.33 | abr, CutzMeretz, desh, legy, Leomonster |
+|           10 |     2580 | 2024-03-07 | Sharks Esports                 | L   | 0.804      | -            | -                | -                | -         |    -4.35 | abr, CutzMeretz, desh, legy, Leomonster |
+|            9 |     3120 | 2024-02-24 | W7m esports                    | L   | 0.727      | -            | -                | -                | -         |   -12.17 | abr, CutzMeretz, desh, legy, Leomonster |
+|            8 |     3127 | 2024-02-24 | W7m esports                    | L   | 0.727      | -            | -                | -                | -         |   -12.97 | abr, CutzMeretz, desh, legy, Leomonster |
+|            7 |     3195 | 2024-02-23 | Galorys                        | W   | 0.720      | 0.450        | 0.048 (0.016)    | 0.598 (0.194)    | -         |    15.52 | abr, CutzMeretz, desh, legy, Leomonster |
+|            6 |     3200 | 2024-02-23 | Galorys                        | L   | 0.720      | -            | -                | -                | -         |    -7.10 | abr, CutzMeretz, desh, legy, Leomonster |
+|            5 |     3280 | 2024-02-21 | Sharks Esports                 | L   | 0.707      | -            | -                | -                | -         |    -4.81 | abr, CutzMeretz, desh, legy, Leomonster |
+|            4 |     3490 | 2024-02-17 | Galorys                        | L   | 0.678      | -            | -                | -                | -         |    -6.40 | abr, CutzMeretz, desh, legy, Leomonster |
+|            3 |     3612 | 2024-02-14 | AdalYamigos                    | L   | 0.660      | -            | -                | -                | -         |    -8.06 | abr, CutzMeretz, desh, legy, Leomonster |
+|            2 |     3614 | 2024-02-14 | AdalYamigos                    | L   | 0.660      | -            | -                | -                | -         |    -8.52 | abr, CutzMeretz, desh, legy, Leomonster |
+|            1 |     4241 | 2024-01-27 | BAD MANNERS                    | W   | 0.540      | -            | -                | -                | -         |     2.59 | abr, CutzMeretz, desh, legy, Leomonster |
 
 <br />
 <span id="table2"></span><br />

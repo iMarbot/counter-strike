@@ -34,25 +34,25 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                 |
+| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |       51 | 2024-05-04 | GTZ.ESPORTS                      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.095 (0.014)    | false (0.000) |     4.10 | drext, hdstr, Icarus, nesto, shr       |
-|           16 |       84 | 2024-05-04 | SAW Youngsters                   | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.27 | drext, hdstr, Icarus, nesto, shr       |
-|           15 |      106 | 2024-05-03 | NeverPlay (Portuguese team)      | W   | 1.000      | 0.143        | 0.000 (0.000)    | -                | false (0.000) |     4.36 | drext, hdstr, Icarus, nesto, shr       |
-|           14 |      712 | 2024-04-20 | Strike Force                     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | false (0.000) |     4.78 | drext, hdstr, Icarus, nesto, shr       |
-|           13 |      719 | 2024-04-20 | ABT Esports                      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.137 (0.020)    | false (0.000) |     7.26 | drext, hdstr, Icarus, nesto, shr       |
-|           12 |      731 | 2024-04-20 | Lx Soldiers                      | W   | 1.000      | 0.143        | 0.000 (0.000)    | -                | false (0.000) |     4.58 | drext, hdstr, Icarus, nesto, shr       |
-|           11 |     2877 | 2024-03-02 | Rhyno Esports                    | L   | 0.771      | -            | -                | -                | -             |    -6.52 | drext, hdstr, Icarus, nesto, shr       |
-|           10 |     3247 | 2024-02-22 | OVERFRAG                         | W   | 0.712      | 0.143        | 0.004 (0.000)    | 0.050 (0.005)    | false (0.000) |     6.56 | drext, hdstr, Icarus, nesto, shr       |
-|            9 |     3344 | 2024-02-20 | The Agency Clan                  | W   | 0.699      | 0.143        | 0.000 (0.000)    | 0.038 (0.004)    | false (0.000) |     5.51 | drext, hdstr, Icarus, nesto, shr       |
-|            8 |     3346 | 2024-02-20 | GTZ.ESPORTS                      | W   | 0.698      | 0.143        | 0.000 (0.000)    | 0.095 (0.009)    | false (0.000) |     3.31 | drext, hdstr, Icarus, nesto, shr       |
-|            7 |     3488 | 2024-02-17 | Enigma Esports (Portuguese team) | W   | 0.679      | 0.143        | -                | 0.050 (0.005)    | false (0.000) |     3.44 | drext, frozzen, hdstr, shr, snowiee    |
-|            6 |     4069 | 2024-02-01 | SAW                              | L   | 0.572      | -            | -                | -                | -             |    -0.24 | drext, frozzen, hdstr, nesto, shr      |
-|            5 |     4073 | 2024-02-01 | EsmagaB                          | L   | 0.571      | -            | -                | -                | -             |    -4.94 | drext, frozzen, hdstr, nesto, shr      |
-|            4 |     4077 | 2024-02-01 | SAW                              | W   | 0.571      | 0.143        | 0.263 (0.021)    | 0.590 (0.048)    | -             |    17.77 | drext, frozzen, hdstr, nesto, shr      |
-|            3 |     4223 | 2024-01-28 | ARMARIOS                         | W   | 0.544      | -            | -                | -                | -             |     2.97 | drext, frozzen, Icarus, nesto, snowiee |
-|            2 |     4272 | 2024-01-27 | The Agency Clan                  | L   | 0.538      | -            | -                | -                | -             |   -12.52 | frozzen, hdstr, nesto, shr, snowiee    |
-|            1 |     4277 | 2024-01-27 | GTZ.ESPORTS                      | W   | 0.538      | 0.143        | -                | 0.095 (0.007)    | -             |     2.82 | frozzen, hdstr, nesto, shr, snowiee    |
+|           17 |       51 | 2024-05-04 | GTZ.ESPORTS                      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.095 (0.014)    | 0 (0.000) |     4.10 | drext, hdstr, Icarus, nesto, shr       |
+|           16 |       84 | 2024-05-04 | SAW Youngsters                   | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.27 | drext, hdstr, Icarus, nesto, shr       |
+|           15 |      106 | 2024-05-03 | NeverPlay (Portuguese team)      | W   | 1.000      | 0.143        | 0.000 (0.000)    | -                | 0 (0.000) |     4.36 | drext, hdstr, Icarus, nesto, shr       |
+|           14 |      712 | 2024-04-20 | Strike Force                     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | 0 (0.000) |     4.78 | drext, hdstr, Icarus, nesto, shr       |
+|           13 |      719 | 2024-04-20 | ABT Esports                      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.137 (0.020)    | 0 (0.000) |     7.26 | drext, hdstr, Icarus, nesto, shr       |
+|           12 |      731 | 2024-04-20 | Lx Soldiers                      | W   | 1.000      | 0.143        | 0.000 (0.000)    | -                | 0 (0.000) |     4.58 | drext, hdstr, Icarus, nesto, shr       |
+|           11 |     2877 | 2024-03-02 | Rhyno Esports                    | L   | 0.771      | -            | -                | -                | -         |    -6.52 | drext, hdstr, Icarus, nesto, shr       |
+|           10 |     3247 | 2024-02-22 | OVERFRAG                         | W   | 0.712      | 0.143        | 0.004 (0.000)    | 0.050 (0.005)    | 0 (0.000) |     6.56 | drext, hdstr, Icarus, nesto, shr       |
+|            9 |     3344 | 2024-02-20 | The Agency Clan                  | W   | 0.699      | 0.143        | 0.000 (0.000)    | 0.038 (0.004)    | 0 (0.000) |     5.51 | drext, hdstr, Icarus, nesto, shr       |
+|            8 |     3346 | 2024-02-20 | GTZ.ESPORTS                      | W   | 0.698      | 0.143        | 0.000 (0.000)    | 0.095 (0.009)    | 0 (0.000) |     3.31 | drext, hdstr, Icarus, nesto, shr       |
+|            7 |     3488 | 2024-02-17 | Enigma Esports (Portuguese team) | W   | 0.679      | 0.143        | -                | 0.050 (0.005)    | 0 (0.000) |     3.44 | drext, frozzen, hdstr, shr, snowiee    |
+|            6 |     4069 | 2024-02-01 | SAW                              | L   | 0.572      | -            | -                | -                | -         |    -0.24 | drext, frozzen, hdstr, nesto, shr      |
+|            5 |     4073 | 2024-02-01 | EsmagaB                          | L   | 0.571      | -            | -                | -                | -         |    -4.94 | drext, frozzen, hdstr, nesto, shr      |
+|            4 |     4077 | 2024-02-01 | SAW                              | W   | 0.571      | 0.143        | 0.263 (0.021)    | 0.590 (0.048)    | -         |    17.77 | drext, frozzen, hdstr, nesto, shr      |
+|            3 |     4223 | 2024-01-28 | ARMARIOS                         | W   | 0.544      | -            | -                | -                | -         |     2.97 | drext, frozzen, Icarus, nesto, snowiee |
+|            2 |     4272 | 2024-01-27 | The Agency Clan                  | L   | 0.538      | -            | -                | -                | -         |   -12.52 | frozzen, hdstr, nesto, shr, snowiee    |
+|            1 |     4277 | 2024-01-27 | GTZ.ESPORTS                      | W   | 0.538      | 0.143        | -                | 0.095 (0.007)    | -         |     2.82 | frozzen, hdstr, nesto, shr, snowiee    |
 
 <br />
 <span id="table2"></span><br />

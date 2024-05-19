@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                              |
+| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     3489 | 2024-02-17 | Young Prodigies         | L   | 0.679      | -            | -                | -                | -             |   -10.29 | blazter, j0n, mozar7, TripleG, WZRD |
-|           11 |     3666 | 2024-02-13 | ÍBV Esports             | W   | 0.653      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     9.82 | blazter, j0n, mozar7, TripleG, WZRD |
-|           10 |     3852 | 2024-02-06 | Ármann                  | L   | 0.606      | -            | -                | -                | -             |    -6.17 | blazter, j0n, mozar7, TripleG, WZRD |
-|            9 |     4137 | 2024-01-30 | Breiðablik              | L   | 0.559      | -            | -                | -                | -             |    -6.12 | blazter, j0n, mozar7, TripleG, WZRD |
-|            8 |     4549 | 2024-01-20 | DUSTY                   | L   | 0.492      | -            | -                | -                | -             |    -1.59 | blazter, j0n, mozar7, TripleG, WZRD |
-|            7 |     4643 | 2024-01-18 | Þór                     | L   | 0.479      | -            | -                | -                | -             |    -5.22 | blazter, j0n, mozar7, TripleG, WZRD |
-|            6 |     4983 | 2024-01-11 | ÍA Akranes              | W   | 0.433      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | false (0.000) |     6.87 | blazter, j0n, mozar7, TripleG, WZRD |
-|            5 |     5877 | 2023-12-07 | AURORA (Icelandic team) | L   | 0.199      | -            | -                | -                | -             |    -3.14 | blazter, j0n, mozar7, TripleG, WZRD |
-|            4 |     6192 | 2023-11-30 | SAGA Esports            | L   | 0.153      | -            | -                | -                | -             |    -1.14 | blazter, j0n, mozar7, TripleG, WZRD |
-|            3 |     6802 | 2023-11-16 | Young Prodigies         | L   | 0.059      | -            | -                | -                | -             |    -0.93 | blazter, mozar7, pabo, VCTR, WZRD   |
-|            2 |     6913 | 2023-11-14 | ÍA Akranes              | W   | 0.046      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     0.72 | blazter, mozar7, pabo, VCTR, WZRD   |
-|            1 |     6917 | 2023-11-14 | Young Prodigies         | L   | 0.046      | -            | -                | -                | -             |    -0.72 | blazter, mozar7, pabo, VCTR, WZRD   |
+|           12 |     3489 | 2024-02-17 | Young Prodigies         | L   | 0.679      | -            | -                | -                | -         |   -10.29 | blazter, j0n, mozar7, TripleG, WZRD |
+|           11 |     3666 | 2024-02-13 | ÍBV Esports             | W   | 0.653      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.82 | blazter, j0n, mozar7, TripleG, WZRD |
+|           10 |     3852 | 2024-02-06 | Ármann                  | L   | 0.606      | -            | -                | -                | -         |    -6.17 | blazter, j0n, mozar7, TripleG, WZRD |
+|            9 |     4137 | 2024-01-30 | Breiðablik              | L   | 0.559      | -            | -                | -                | -         |    -6.12 | blazter, j0n, mozar7, TripleG, WZRD |
+|            8 |     4549 | 2024-01-20 | DUSTY                   | L   | 0.492      | -            | -                | -                | -         |    -1.59 | blazter, j0n, mozar7, TripleG, WZRD |
+|            7 |     4643 | 2024-01-18 | Þór                     | L   | 0.479      | -            | -                | -                | -         |    -5.22 | blazter, j0n, mozar7, TripleG, WZRD |
+|            6 |     4983 | 2024-01-11 | ÍA Akranes              | W   | 0.433      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     6.87 | blazter, j0n, mozar7, TripleG, WZRD |
+|            5 |     5877 | 2023-12-07 | AURORA (Icelandic team) | L   | 0.199      | -            | -                | -                | -         |    -3.14 | blazter, j0n, mozar7, TripleG, WZRD |
+|            4 |     6192 | 2023-11-30 | SAGA Esports            | L   | 0.153      | -            | -                | -                | -         |    -1.14 | blazter, j0n, mozar7, TripleG, WZRD |
+|            3 |     6802 | 2023-11-16 | Young Prodigies         | L   | 0.059      | -            | -                | -                | -         |    -0.93 | blazter, mozar7, pabo, VCTR, WZRD   |
+|            2 |     6913 | 2023-11-14 | ÍA Akranes              | W   | 0.046      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.72 | blazter, mozar7, pabo, VCTR, WZRD   |
+|            1 |     6917 | 2023-11-14 | Young Prodigies         | L   | 0.046      | -            | -                | -                | -         |    -0.72 | blazter, mozar7, pabo, VCTR, WZRD   |
 
 <br />
 <span id="table2"></span><br />

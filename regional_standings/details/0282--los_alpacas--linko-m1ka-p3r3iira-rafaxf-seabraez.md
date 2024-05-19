@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     6240 | 2023-11-29 | Wu-Tang Clan        | L   | 0.146      | -            | -                | -                | -             |    -3.13 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|           11 |     6476 | 2023-11-24 | SAW                 | L   | 0.111      | -            | -                | -                | -             |    -0.03 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|           10 |     6559 | 2023-11-22 | Inferus eSports     | L   | 0.099      | -            | -                | -                | -             |    -2.11 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|            9 |     6568 | 2023-11-22 | BIG Academy         | L   | 0.098      | -            | -                | -                | -             |    -0.83 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|            8 |     6622 | 2023-11-20 | Endpoint            | L   | 0.086      | -            | -                | -                | -             |    -0.63 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|            7 |     6639 | 2023-11-20 | For The Win Esports | L   | 0.085      | -            | -                | -                | -             |    -1.20 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|            6 |     6682 | 2023-11-19 | Rhyno Esports       | L   | 0.077      | -            | -                | -                | -             |    -0.37 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|            5 |     6734 | 2023-11-18 | For The Win Esports | L   | 0.070      | -            | -                | -                | -             |    -1.00 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|            4 |     6884 | 2023-11-15 | Zero Tenacity       | W   | 0.052      | 0.371        | 0.095 (0.002)    | 1.000 (0.019)    | false (0.000) |     1.41 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|            3 |     6976 | 2023-11-13 | ENTERPRISE esports  | L   | 0.038      | -            | -                | -                | -             |    -0.17 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|            2 |     7136 | 2023-11-09 | V1dar Gaming        | L   | 0.012      | -            | -                | -                | -             |    -0.21 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
-|            1 |     7200 | 2023-11-08 | Entropiq            | L   | 0.004      | -            | -                | -                | -             |    -0.04 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|           12 |     6240 | 2023-11-29 | Wu-Tang Clan        | L   | 0.146      | -            | -                | -                | -         |    -3.13 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|           11 |     6476 | 2023-11-24 | SAW                 | L   | 0.111      | -            | -                | -                | -         |    -0.03 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|           10 |     6559 | 2023-11-22 | Inferus eSports     | L   | 0.099      | -            | -                | -                | -         |    -2.11 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|            9 |     6568 | 2023-11-22 | BIG Academy         | L   | 0.098      | -            | -                | -                | -         |    -0.83 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|            8 |     6622 | 2023-11-20 | Endpoint            | L   | 0.086      | -            | -                | -                | -         |    -0.63 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|            7 |     6639 | 2023-11-20 | For The Win Esports | L   | 0.085      | -            | -                | -                | -         |    -1.20 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|            6 |     6682 | 2023-11-19 | Rhyno Esports       | L   | 0.077      | -            | -                | -                | -         |    -0.37 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|            5 |     6734 | 2023-11-18 | For The Win Esports | L   | 0.070      | -            | -                | -                | -         |    -1.00 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|            4 |     6884 | 2023-11-15 | Zero Tenacity       | W   | 0.052      | 0.371        | 0.095 (0.002)    | 1.000 (0.019)    | 0 (0.000) |     1.41 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|            3 |     6976 | 2023-11-13 | ENTERPRISE esports  | L   | 0.038      | -            | -                | -                | -         |    -0.17 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|            2 |     7136 | 2023-11-09 | V1dar Gaming        | L   | 0.012      | -            | -                | -                | -         |    -0.21 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
+|            1 |     7200 | 2023-11-08 | Entropiq            | L   | 0.004      | -            | -                | -                | -         |    -0.04 | Linko, M1KA, P3R3IIRA, rafaxF, SeabraEZ |
 
 <br />
 <span id="table2"></span><br />

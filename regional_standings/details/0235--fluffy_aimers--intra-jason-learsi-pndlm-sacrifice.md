@@ -34,24 +34,24 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |     3191 | 2024-02-23 | Limitless                  | L   | 0.721      | -            | -                | -                | -             |   -11.29 | intra, jason, LEARSI, PNDLM, sacrifice  |
-|           15 |     3513 | 2024-02-16 | Mythic                     | L   | 0.674      | -            | -                | -                | -             |    -9.92 | intra, jason, LEARSI, PNDLM, sacrifice  |
-|           14 |     3516 | 2024-02-16 | LAG Gaming (American team) | W   | 0.673      | 0.143        | 0.033 (0.003)    | 0.405 (0.039)    | false (0.000) |    16.56 | intra, jason, LEARSI, PNDLM, sacrifice  |
-|           13 |     3557 | 2024-02-15 | Revenge Nation             | W   | 0.667      | 0.143        | 0.043 (0.004)    | 0.123 (0.012)    | false (0.000) |    11.33 | intra, jason, LEARSI, PNDLM, sacrifice  |
-|           12 |     4682 | 2024-01-17 | Rocket                     | L   | 0.474      | -            | -                | -                | -             |    -6.67 | consti, intra, Jason, LEARSI, sacrifice |
-|           11 |     4872 | 2024-01-13 | LOS                        | L   | 0.448      | -            | -                | -                | -             |   -10.03 | consti, intra, Jason, LEARSI, sacrifice |
-|           10 |     4915 | 2024-01-12 | Complexity Gaming          | L   | 0.441      | -            | -                | -                | -             |    -0.12 | consti, intra, Jason, LEARSI, sacrifice |
-|            9 |     4959 | 2024-01-11 | For Fun                    | L   | 0.436      | -            | -                | -                | -             |    -5.17 | consti, intra, Jason, LEARSI, sacrifice |
-|            8 |     4974 | 2024-01-11 | Bad News Bears             | W   | 0.434      | 0.143        | 0.000 (0.000)    | 0.039 (0.002)    | false (0.000) |     3.42 | consti, intra, Jason, LEARSI, sacrifice |
-|            7 |     4977 | 2024-01-11 | One More Esports           | W   | 0.434      | 0.143        | 0.011 (0.001)    | 0.147 (0.009)    | false (0.000) |     7.58 | consti, intra, Jason, LEARSI, sacrifice |
-|            6 |     5021 | 2024-01-10 | CatEvil                    | W   | 0.428      | 0.143        | 0.001 (0.000)    | 0.034 (0.002)    | false (0.000) |     5.91 | consti, intra, Jason, LEARSI, sacrifice |
-|            5 |     5913 | 2023-12-06 | Carpe Diem                 | L   | 0.194      | -            | -                | -                | -             |    -2.61 | dea, Jason, LEARSI, Peeping, sacrifice  |
-|            4 |     5958 | 2023-12-05 | Take Flyte                 | W   | 0.187      | 0.500        | 0.004 (0.000)    | 0.279 (0.026)    | false (0.000) |     3.31 | dea, Jason, LEARSI, Peeping, sacrifice  |
-|            3 |     6541 | 2023-11-22 | Rocket                     | W   | 0.100      | 0.500        | 0.002 (0.000)    | 0.246 (0.012)    | false (0.000) |     1.55 | dea, Jason, LEARSI, Peeping, sacrifice  |
-|            2 |     7080 | 2023-11-10 | Party Astronauts           | L   | 0.021      | -            | -                | -                | -             |    -0.34 | dea, Jason, LEARSI, Peeping, sacrifice  |
-|            1 |     7157 | 2023-11-08 | Elevate                    | W   | 0.007      | 0.500        | 0.030 (0.000)    | 0.268 (0.001)    | false (0.000) |     0.15 | dea, Jason, LEARSI, Peeping, sacrifice  |
+|           16 |     3191 | 2024-02-23 | Limitless                  | L   | 0.721      | -            | -                | -                | -         |   -11.29 | intra, jason, LEARSI, PNDLM, sacrifice  |
+|           15 |     3513 | 2024-02-16 | Mythic                     | L   | 0.674      | -            | -                | -                | -         |    -9.92 | intra, jason, LEARSI, PNDLM, sacrifice  |
+|           14 |     3516 | 2024-02-16 | LAG Gaming (American team) | W   | 0.673      | 0.143        | 0.033 (0.003)    | 0.405 (0.039)    | 0 (0.000) |    16.56 | intra, jason, LEARSI, PNDLM, sacrifice  |
+|           13 |     3557 | 2024-02-15 | Revenge Nation             | W   | 0.667      | 0.143        | 0.043 (0.004)    | 0.123 (0.012)    | 0 (0.000) |    11.33 | intra, jason, LEARSI, PNDLM, sacrifice  |
+|           12 |     4682 | 2024-01-17 | Rocket                     | L   | 0.474      | -            | -                | -                | -         |    -6.67 | consti, intra, Jason, LEARSI, sacrifice |
+|           11 |     4872 | 2024-01-13 | LOS                        | L   | 0.448      | -            | -                | -                | -         |   -10.03 | consti, intra, Jason, LEARSI, sacrifice |
+|           10 |     4915 | 2024-01-12 | Complexity Gaming          | L   | 0.441      | -            | -                | -                | -         |    -0.12 | consti, intra, Jason, LEARSI, sacrifice |
+|            9 |     4959 | 2024-01-11 | For Fun                    | L   | 0.436      | -            | -                | -                | -         |    -5.17 | consti, intra, Jason, LEARSI, sacrifice |
+|            8 |     4974 | 2024-01-11 | Bad News Bears             | W   | 0.434      | 0.143        | 0.000 (0.000)    | 0.039 (0.002)    | 0 (0.000) |     3.42 | consti, intra, Jason, LEARSI, sacrifice |
+|            7 |     4977 | 2024-01-11 | One More Esports           | W   | 0.434      | 0.143        | 0.011 (0.001)    | 0.147 (0.009)    | 0 (0.000) |     7.58 | consti, intra, Jason, LEARSI, sacrifice |
+|            6 |     5021 | 2024-01-10 | CatEvil                    | W   | 0.428      | 0.143        | 0.001 (0.000)    | 0.034 (0.002)    | 0 (0.000) |     5.91 | consti, intra, Jason, LEARSI, sacrifice |
+|            5 |     5913 | 2023-12-06 | Carpe Diem                 | L   | 0.194      | -            | -                | -                | -         |    -2.61 | dea, Jason, LEARSI, Peeping, sacrifice  |
+|            4 |     5958 | 2023-12-05 | Take Flyte                 | W   | 0.187      | 0.500        | 0.004 (0.000)    | 0.279 (0.026)    | 0 (0.000) |     3.31 | dea, Jason, LEARSI, Peeping, sacrifice  |
+|            3 |     6541 | 2023-11-22 | Rocket                     | W   | 0.100      | 0.500        | 0.002 (0.000)    | 0.246 (0.012)    | 0 (0.000) |     1.55 | dea, Jason, LEARSI, Peeping, sacrifice  |
+|            2 |     7080 | 2023-11-10 | Party Astronauts           | L   | 0.021      | -            | -                | -                | -         |    -0.34 | dea, Jason, LEARSI, Peeping, sacrifice  |
+|            1 |     7157 | 2023-11-08 | Elevate                    | W   | 0.007      | 0.500        | 0.030 (0.000)    | 0.268 (0.001)    | 0 (0.000) |     0.15 | dea, Jason, LEARSI, Peeping, sacrifice  |
 
 <br />
 <span id="table2"></span><br />

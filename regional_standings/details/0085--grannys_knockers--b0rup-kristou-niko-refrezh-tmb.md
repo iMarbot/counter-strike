@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                    |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      155 | 2024-05-02 | Endpoint             | L   | 1.000      | -            | -                | -                | -             |   -13.82 | b0RUP, kristou, niko, refrezh, TMB        |
-|            9 |     1799 | 2024-03-26 | Raptors Esports Club | L   | 0.932      | -            | -                | -                | -             |   -17.20 | BehinDx, Karrar, moz, PrimeOPI, wfn       |
-|            8 |     1945 | 2024-03-22 | FORZE Esports        | L   | 0.904      | -            | -                | -                | -             |    -7.58 | gokushima, r3salt, SELLTER, shalfey, tN1R |
-|            7 |     2107 | 2024-03-18 | Team Sampi           | W   | 0.876      | 0.371        | 0.108 (0.035)    | 0.709 (0.230)    | false (0.000) |    17.38 | fino, manguss, sAvana1, The eLiVe, ZEDKO  |
-|            6 |     2180 | 2024-03-16 | Passion UA           | W   | 0.864      | 0.371        | 0.114 (0.037)    | 0.980 (0.314)    | false (0.000) |    15.84 | fear, jackasmo, jambo, s-chilla, zeRRoFIX |
-|            5 |     2288 | 2024-03-14 | Entropiq             | W   | 0.849      | 0.371        | 0.001 (0.000)    | 0.436 (0.137)    | false (0.000) |    11.14 | Altekz, kristou, refrezh, roeJ, TMB       |
-|            4 |     2435 | 2024-03-11 | Permitta Esports     | W   | 0.830      | 0.371        | 0.063 (0.019)    | 1.000 (0.308)    | false (0.000) |    17.33 | Altekz, kristou, refrezh, roeJ, TMB       |
-|            3 |     2520 | 2024-03-09 | K10                  | W   | 0.816      | 0.371        | 0.015 (0.005)    | 0.418 (0.126)    | false (0.000) |    11.94 | Altekz, kristou, refrezh, roeJ, TMB       |
-|            2 |     2586 | 2024-03-07 | Team Secret          | W   | 0.803      | 0.371        | 0.000 (0.000)    | 0.368 (0.110)    | false (0.000) |     6.65 | anarkez, innocent, Kind0, Maze, Tauson    |
-|            1 |     2821 | 2024-03-03 | MOUZ NXT             | L   | 0.776      | -            | -                | -                | -             |    -5.32 | Burmylov, Chr1zN, Neityu, PR, sirah       |
+|           10 |      155 | 2024-05-02 | Endpoint             | L   | 1.000      | -            | -                | -                | -         |   -13.82 | b0RUP, kristou, niko, refrezh, TMB        |
+|            9 |     1799 | 2024-03-26 | Raptors Esports Club | L   | 0.932      | -            | -                | -                | -         |   -17.20 | BehinDx, Karrar, moz, PrimeOPI, wfn       |
+|            8 |     1945 | 2024-03-22 | FORZE Esports        | L   | 0.904      | -            | -                | -                | -         |    -7.58 | gokushima, r3salt, SELLTER, shalfey, tN1R |
+|            7 |     2107 | 2024-03-18 | Team Sampi           | W   | 0.876      | 0.371        | 0.108 (0.035)    | 0.709 (0.230)    | 0 (0.000) |    17.38 | fino, manguss, sAvana1, The eLiVe, ZEDKO  |
+|            6 |     2180 | 2024-03-16 | Passion UA           | W   | 0.864      | 0.371        | 0.114 (0.037)    | 0.980 (0.314)    | 0 (0.000) |    15.84 | fear, jackasmo, jambo, s-chilla, zeRRoFIX |
+|            5 |     2288 | 2024-03-14 | Entropiq             | W   | 0.849      | 0.371        | 0.001 (0.000)    | 0.436 (0.137)    | 0 (0.000) |    11.14 | Altekz, kristou, refrezh, roeJ, TMB       |
+|            4 |     2435 | 2024-03-11 | Permitta Esports     | W   | 0.830      | 0.371        | 0.063 (0.019)    | 1.000 (0.308)    | 0 (0.000) |    17.33 | Altekz, kristou, refrezh, roeJ, TMB       |
+|            3 |     2520 | 2024-03-09 | K10                  | W   | 0.816      | 0.371        | 0.015 (0.005)    | 0.418 (0.126)    | 0 (0.000) |    11.94 | Altekz, kristou, refrezh, roeJ, TMB       |
+|            2 |     2586 | 2024-03-07 | Team Secret          | W   | 0.803      | 0.371        | 0.000 (0.000)    | 0.368 (0.110)    | 0 (0.000) |     6.65 | anarkez, innocent, Kind0, Maze, Tauson    |
+|            1 |     2821 | 2024-03-03 | MOUZ NXT             | L   | 0.776      | -            | -                | -                | -         |    -5.32 | Burmylov, Chr1zN, Neityu, PR, sirah       |
 
 <br />
 <span id="table2"></span><br />

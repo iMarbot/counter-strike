@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      719 | 2024-04-20 | AL-QATRAO                        | L   | 1.000      | -            | -                | -                | -             |    -7.26 | BeiranZz, mS, ram0s, Ruy2k, ThozoR       |
-|           12 |      724 | 2024-04-20 | The Agency Clan                  | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | false (0.000) |    11.98 | BeiranZz, mS, ram0s, Ruy2k, ThozoR       |
-|           11 |     3297 | 2024-02-21 | GTZ.ESPORTS                      | L   | 0.705      | -            | -                | -                | -             |   -14.36 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
-|           10 |     3340 | 2024-02-20 | OVERFRAG                         | L   | 0.699      | -            | -                | -                | -             |    -9.94 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
-|            9 |     3345 | 2024-02-20 | Enigma Esports (Portuguese team) | W   | 0.699      | 0.143        | 0.000 (0.000)    | 0.050 (0.005)    | false (0.000) |     7.58 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
-|            8 |     4015 | 2024-02-02 | Rhyno Esports                    | L   | 0.579      | -            | -                | -                | -             |    -1.77 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
-|            7 |     4018 | 2024-02-02 | OVERFRAG                         | W   | 0.578      | 0.143        | 0.004 (0.000)    | 0.050 (0.004)    | false (0.000) |    10.34 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
-|            6 |     4047 | 2024-02-02 | KOI                              | L   | 0.577      | -            | -                | -                | -             |    -0.71 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
-|            5 |     4215 | 2024-01-28 | Qlimax                           | W   | 0.545      | 0.143        | 0.000 (0.000)    | 0.019 (0.001)    | false (0.000) |     6.52 | Hulio_G, Maqu1na, sace, taero, xNanoEL6x |
-|            4 |     4221 | 2024-01-28 | CasabLanca4k                     | W   | 0.544      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.47 | Astur, kWAUR, NaOw, nixoN2s, xJiNCh0     |
-|            3 |     4271 | 2024-01-27 | OVERFRAG                         | L   | 0.538      | -            | -                | -                | -             |    -7.09 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
-|            2 |     4281 | 2024-01-27 | BASEBALL BAT                     | W   | 0.538      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.37 | Jarimba, NMN, skiNnard, Tex, wh1ze       |
-|            1 |     4717 | 2024-01-17 | ROSOMAHA                         | L   | 0.472      | -            | -                | -                | -             |    -4.85 | D0nii, Maggent, rendY, skcH, Зippoch     |
+|           13 |      719 | 2024-04-20 | AL-QATRAO                        | L   | 1.000      | -            | -                | -                | -         |    -7.26 | BeiranZz, mS, ram0s, Ruy2k, ThozoR       |
+|           12 |      724 | 2024-04-20 | The Agency Clan                  | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | 0 (0.000) |    11.98 | BeiranZz, mS, ram0s, Ruy2k, ThozoR       |
+|           11 |     3297 | 2024-02-21 | GTZ.ESPORTS                      | L   | 0.705      | -            | -                | -                | -         |   -14.36 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
+|           10 |     3340 | 2024-02-20 | OVERFRAG                         | L   | 0.699      | -            | -                | -                | -         |    -9.94 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
+|            9 |     3345 | 2024-02-20 | Enigma Esports (Portuguese team) | W   | 0.699      | 0.143        | 0.000 (0.000)    | 0.050 (0.005)    | 0 (0.000) |     7.58 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
+|            8 |     4015 | 2024-02-02 | Rhyno Esports                    | L   | 0.579      | -            | -                | -                | -         |    -1.77 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
+|            7 |     4018 | 2024-02-02 | OVERFRAG                         | W   | 0.578      | 0.143        | 0.004 (0.000)    | 0.050 (0.004)    | 0 (0.000) |    10.34 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
+|            6 |     4047 | 2024-02-02 | KOI                              | L   | 0.577      | -            | -                | -                | -         |    -0.71 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
+|            5 |     4215 | 2024-01-28 | Qlimax                           | W   | 0.545      | 0.143        | 0.000 (0.000)    | 0.019 (0.001)    | 0 (0.000) |     6.52 | Hulio_G, Maqu1na, sace, taero, xNanoEL6x |
+|            4 |     4221 | 2024-01-28 | CasabLanca4k                     | W   | 0.544      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.47 | Astur, kWAUR, NaOw, nixoN2s, xJiNCh0     |
+|            3 |     4271 | 2024-01-27 | OVERFRAG                         | L   | 0.538      | -            | -                | -                | -         |    -7.09 | BeiranZz, MadzyiN, ram0s, Ruy2k, ThozoR  |
+|            2 |     4281 | 2024-01-27 | BASEBALL BAT                     | W   | 0.538      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.37 | Jarimba, NMN, skiNnard, Tex, wh1ze       |
+|            1 |     4717 | 2024-01-17 | ROSOMAHA                         | L   | 0.472      | -            | -                | -                | -         |    -4.85 | D0nii, Maggent, rendY, skcH, Зippoch     |
 
 <br />
 <span id="table2"></span><br />

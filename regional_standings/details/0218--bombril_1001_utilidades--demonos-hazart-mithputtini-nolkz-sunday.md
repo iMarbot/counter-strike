@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                      |
+| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      227 | 2024-04-30 | Looking4Org (Brazilian team) | L   | 1.000      | -            | -                | -                | -             |   -18.38 | Demonos, hazart, MITHPUTTINI, nolkz, suNday |
-|            9 |      229 | 2024-04-30 | Yawara E-Sports              | L   | 1.000      | -            | -                | -                | -             |   -16.47 | Demonos, hazart, MITHPUTTINI, nolkz, suNday |
-|            8 |      679 | 2024-04-20 | Bounty Hunters Esports       | L   | 1.000      | -            | -                | -                | -             |   -22.15 | hazart, MITHPUTTINI, nolkz, spinnie, suNday |
-|            7 |     1612 | 2024-03-31 | MIBR Academy                 | W   | 0.967      | 0.143        | 0.011 (0.002)    | 0.455 (0.063)    | false (0.000) |    14.32 | hazart, MITHPUTTINI, nolkz, spinnie, Tomate |
-|            6 |     1684 | 2024-03-28 | Yawara E-Sports              | W   | 0.946      | 0.143        | 0.005 (0.001)    | 0.361 (0.049)    | false (0.000) |    15.33 | hazart, MITHPUTTINI, nolkz, spinnie, Tomate |
-|            5 |     1929 | 2024-03-22 | Hawks (Argentinian team)     | W   | 0.906      | 0.143        | 0.003 (0.000)    | 0.134 (0.017)    | false (0.000) |    13.20 | hazart, MITHPUTTINI, nolkz, spinnie, Tomate |
-|            4 |     2013 | 2024-03-20 | MIBR Academy                 | W   | 0.893      | 0.143        | 0.011 (0.001)    | 0.455 (0.058)    | false (0.000) |    15.36 | hazart, MITHPUTTINI, nolkz, spinnie, Tomate |
-|            3 |     2051 | 2024-03-19 | Sharks Youngsters            | W   | 0.886      | 0.143        | 0.004 (0.000)    | 0.211 (0.027)    | false (0.000) |    12.85 | hazart, MITHPUTTINI, nolkz, spinnie, Tomate |
-|            2 |     2752 | 2024-03-04 | Yawara E-Sports              | L   | 0.786      | -            | -                | -                | -             |   -11.76 | hazart, Ltz, MITHPUTTINI, nolkz, spinnie    |
-|            1 |     2865 | 2024-03-02 | Romanticos                   | W   | 0.772      | 0.143        | 0.003 (0.000)    | 0.185 (0.020)    | false (0.000) |    11.91 | hazart, Ltz, MITHPUTTINI, nolkz, spinnie    |
+|           10 |      227 | 2024-04-30 | Looking4Org (Brazilian team) | L   | 1.000      | -            | -                | -                | -         |   -18.38 | Demonos, hazart, MITHPUTTINI, nolkz, suNday |
+|            9 |      229 | 2024-04-30 | Yawara E-Sports              | L   | 1.000      | -            | -                | -                | -         |   -16.47 | Demonos, hazart, MITHPUTTINI, nolkz, suNday |
+|            8 |      679 | 2024-04-20 | Bounty Hunters Esports       | L   | 1.000      | -            | -                | -                | -         |   -22.15 | hazart, MITHPUTTINI, nolkz, spinnie, suNday |
+|            7 |     1612 | 2024-03-31 | MIBR Academy                 | W   | 0.967      | 0.143        | 0.011 (0.002)    | 0.455 (0.063)    | 0 (0.000) |    14.32 | hazart, MITHPUTTINI, nolkz, spinnie, Tomate |
+|            6 |     1684 | 2024-03-28 | Yawara E-Sports              | W   | 0.946      | 0.143        | 0.005 (0.001)    | 0.361 (0.049)    | 0 (0.000) |    15.33 | hazart, MITHPUTTINI, nolkz, spinnie, Tomate |
+|            5 |     1929 | 2024-03-22 | Hawks (Argentinian team)     | W   | 0.906      | 0.143        | 0.003 (0.000)    | 0.134 (0.017)    | 0 (0.000) |    13.20 | hazart, MITHPUTTINI, nolkz, spinnie, Tomate |
+|            4 |     2013 | 2024-03-20 | MIBR Academy                 | W   | 0.893      | 0.143        | 0.011 (0.001)    | 0.455 (0.058)    | 0 (0.000) |    15.36 | hazart, MITHPUTTINI, nolkz, spinnie, Tomate |
+|            3 |     2051 | 2024-03-19 | Sharks Youngsters            | W   | 0.886      | 0.143        | 0.004 (0.000)    | 0.211 (0.027)    | 0 (0.000) |    12.85 | hazart, MITHPUTTINI, nolkz, spinnie, Tomate |
+|            2 |     2752 | 2024-03-04 | Yawara E-Sports              | L   | 0.786      | -            | -                | -                | -         |   -11.76 | hazart, Ltz, MITHPUTTINI, nolkz, spinnie    |
+|            1 |     2865 | 2024-03-02 | Romanticos                   | W   | 0.772      | 0.143        | 0.003 (0.000)    | 0.185 (0.020)    | 0 (0.000) |    11.91 | hazart, Ltz, MITHPUTTINI, nolkz, spinnie    |
 
 <br />
 <span id="table2"></span><br />

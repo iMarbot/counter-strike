@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      792 | 2024-04-19 | COVEN            | W   | 1.000      | 0.322        | 0.006 (0.002)    | 0.000 (0.000)    | false (0.000) |    11.79 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
-|            9 |     1201 | 2024-04-10 | Team Karma       | L   | 1.000      | -            | -                | -                | -             |   -10.68 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
-|            8 |     1381 | 2024-04-06 | Shimmer          | L   | 1.000      | -            | -                | -                | -             |    -9.56 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
-|            7 |     1516 | 2024-04-03 | Shimmer          | L   | 0.987      | -            | -                | -                | -             |   -10.18 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
-|            6 |     1683 | 2024-03-28 | FlyQuest RED     | L   | 0.947      | -            | -                | -                | -             |    -8.77 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
-|            5 |     2293 | 2024-03-13 | Limitless Angels | L   | 0.847      | -            | -                | -                | -             |   -11.22 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
-|            4 |     2596 | 2024-03-06 | Nouns.fe         | L   | 0.800      | -            | -                | -                | -             |   -11.33 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
-|            3 |     4525 | 2024-01-20 | Shimmer          | L   | 0.494      | -            | -                | -                | -             |    -6.30 | jaydee, MamaAlien, PippySippy, Reef, Tippy |
-|            2 |     6081 | 2023-12-02 | Nouns.fe         | L   | 0.167      | -            | -                | -                | -             |    -3.10 | jaydee, MamaAlien, PippySippy, Reef, Tippy |
-|            1 |     6689 | 2023-11-18 | Totsugeki        | W   | 0.074      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     0.43 | Cloudy, MamaAlien, PippySippy, Reef, Tippy |
+|           10 |      792 | 2024-04-19 | COVEN            | W   | 1.000      | 0.322        | 0.006 (0.002)    | 0.000 (0.000)    | 0 (0.000) |    11.79 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
+|            9 |     1201 | 2024-04-10 | Team Karma       | L   | 1.000      | -            | -                | -                | -         |   -10.68 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
+|            8 |     1381 | 2024-04-06 | Shimmer          | L   | 1.000      | -            | -                | -                | -         |    -9.56 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
+|            7 |     1516 | 2024-04-03 | Shimmer          | L   | 0.987      | -            | -                | -                | -         |   -10.18 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
+|            6 |     1683 | 2024-03-28 | FlyQuest RED     | L   | 0.947      | -            | -                | -                | -         |    -8.77 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
+|            5 |     2293 | 2024-03-13 | Limitless Angels | L   | 0.847      | -            | -                | -                | -         |   -11.22 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
+|            4 |     2596 | 2024-03-06 | Nouns.fe         | L   | 0.800      | -            | -                | -                | -         |   -11.33 | ADK, jaydee, MamaAlien, PippySippy, Tippy  |
+|            3 |     4525 | 2024-01-20 | Shimmer          | L   | 0.494      | -            | -                | -                | -         |    -6.30 | jaydee, MamaAlien, PippySippy, Reef, Tippy |
+|            2 |     6081 | 2023-12-02 | Nouns.fe         | L   | 0.167      | -            | -                | -                | -         |    -3.10 | jaydee, MamaAlien, PippySippy, Reef, Tippy |
+|            1 |     6689 | 2023-11-18 | Totsugeki        | W   | 0.074      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.43 | Cloudy, MamaAlien, PippySippy, Reef, Tippy |
 
 <br />
 <span id="table2"></span><br />

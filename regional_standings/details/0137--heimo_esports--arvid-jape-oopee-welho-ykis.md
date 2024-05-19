@@ -34,25 +34,25 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                             |
+| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |       13 | 2024-05-05 | ENCE Academy        | W   | 1.000      | 0.143        | 0.028 (0.004)    | 0.267 (0.038)    | false (0.000) |    15.87 | arvid, japE, oopee, Welho, ykis    |
-|           16 |      321 | 2024-04-28 | ENCE Academy        | W   | 1.000      | 0.143        | 0.028 (0.004)    | 0.267 (0.038)    | false (0.000) |    18.13 | arvid, japE, oopee, Welho, ykis    |
-|           15 |      379 | 2024-04-27 | JANO Esports        | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.407 (0.058)    | false (0.000) |    14.35 | arvid, japE, oopee, Welho, ykis    |
-|           14 |      802 | 2024-04-19 | Static              | L   | 1.000      | -            | -                | -                | -             |   -25.02 | arvid, japE, oopee, Welho, ykis    |
-|           13 |      804 | 2024-04-19 | DUSTY               | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.233 (0.033)    | false (0.000) |    13.78 | arvid, japE, oopee, Welho, ykis    |
-|           12 |      807 | 2024-04-19 | VELLAMO             | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.63 | arvid, japE, oopee, Welho, ykis    |
-|           11 |      922 | 2024-04-17 | Guild Eagles        | L   | 1.000      | -            | -                | -                | -             |    -5.61 | arvid, japE, oopee, Welho, ykis    |
-|           10 |     1076 | 2024-04-14 | JANO Esports        | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.407 (0.058)    | false (0.000) |    15.36 | arvid, japE, oopee, Welho, ykis    |
-|            9 |     1393 | 2024-04-06 | Puhevika            | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.06 | arvid, japE, oopee, Welho, ykis    |
-|            8 |     1755 | 2024-03-27 | ALTERNATE aTTaX     | L   | 0.938      | -            | -                | -                | -             |    -7.21 | arvid, japE, oopee, Welho, ykis    |
-|            7 |     1807 | 2024-03-26 | ENTERPRISE esports  | W   | 0.932      | 0.143        | 0.039 (0.005)    | 0.476 (0.063)    | false (0.000) |    21.57 | arvid, japE, oopee, Welho, ykis    |
-|            6 |     3948 | 2024-02-03 | TOOMUCHVIDEOGAMES   | L   | 0.585      | -            | -                | -                | -             |   -13.86 | arvid, japE, oopee, ottob, Tumppis |
-|            5 |     3953 | 2024-02-03 | JANO Esports        | W   | 0.585      | 0.143        | 0.006 (0.001)    | 0.407 (0.034)    | false (0.000) |    10.55 | arvid, japE, oopee, ottob, Tumppis |
-|            4 |     3960 | 2024-02-03 | UHKA eSports        | W   | 0.585      | 0.143        | 0.000 (0.000)    | 0.029 (0.002)    | false (0.000) |     2.57 | arvid, japE, oopee, ottob, Tumppis |
-|            3 |     4732 | 2024-01-17 | Team Spirit Academy | L   | 0.472      | -            | -                | -                | -             |    -5.51 | arvid, japE, oopee, ottob, Tumppis |
-|            2 |     6043 | 2023-12-03 | ILLYRIANS           | L   | 0.171      | -            | -                | -                | -             |    -2.71 | arvid, japE, oopee, ottob, Tumppis |
-|            1 |     6711 | 2023-11-18 | The Witchers        | L   | 0.072      | -            | -                | -                | -             |    -0.98 | arvid, japE, oopee, ottob, Tumppis |
+|           17 |       13 | 2024-05-05 | ENCE Academy        | W   | 1.000      | 0.143        | 0.028 (0.004)    | 0.267 (0.038)    | 0 (0.000) |    15.87 | arvid, japE, oopee, Welho, ykis    |
+|           16 |      321 | 2024-04-28 | ENCE Academy        | W   | 1.000      | 0.143        | 0.028 (0.004)    | 0.267 (0.038)    | 0 (0.000) |    18.13 | arvid, japE, oopee, Welho, ykis    |
+|           15 |      379 | 2024-04-27 | JANO Esports        | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.407 (0.058)    | 0 (0.000) |    14.35 | arvid, japE, oopee, Welho, ykis    |
+|           14 |      802 | 2024-04-19 | Static              | L   | 1.000      | -            | -                | -                | -         |   -25.02 | arvid, japE, oopee, Welho, ykis    |
+|           13 |      804 | 2024-04-19 | DUSTY               | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.233 (0.033)    | 0 (0.000) |    13.78 | arvid, japE, oopee, Welho, ykis    |
+|           12 |      807 | 2024-04-19 | VELLAMO             | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.63 | arvid, japE, oopee, Welho, ykis    |
+|           11 |      922 | 2024-04-17 | Guild Eagles        | L   | 1.000      | -            | -                | -                | -         |    -5.61 | arvid, japE, oopee, Welho, ykis    |
+|           10 |     1076 | 2024-04-14 | JANO Esports        | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.407 (0.058)    | 0 (0.000) |    15.36 | arvid, japE, oopee, Welho, ykis    |
+|            9 |     1393 | 2024-04-06 | Puhevika            | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.06 | arvid, japE, oopee, Welho, ykis    |
+|            8 |     1755 | 2024-03-27 | ALTERNATE aTTaX     | L   | 0.938      | -            | -                | -                | -         |    -7.21 | arvid, japE, oopee, Welho, ykis    |
+|            7 |     1807 | 2024-03-26 | ENTERPRISE esports  | W   | 0.932      | 0.143        | 0.039 (0.005)    | 0.476 (0.063)    | 0 (0.000) |    21.57 | arvid, japE, oopee, Welho, ykis    |
+|            6 |     3948 | 2024-02-03 | TOOMUCHVIDEOGAMES   | L   | 0.585      | -            | -                | -                | -         |   -13.86 | arvid, japE, oopee, ottob, Tumppis |
+|            5 |     3953 | 2024-02-03 | JANO Esports        | W   | 0.585      | 0.143        | 0.006 (0.001)    | 0.407 (0.034)    | 0 (0.000) |    10.55 | arvid, japE, oopee, ottob, Tumppis |
+|            4 |     3960 | 2024-02-03 | UHKA eSports        | W   | 0.585      | 0.143        | 0.000 (0.000)    | 0.029 (0.002)    | 0 (0.000) |     2.57 | arvid, japE, oopee, ottob, Tumppis |
+|            3 |     4732 | 2024-01-17 | Team Spirit Academy | L   | 0.472      | -            | -                | -                | -         |    -5.51 | arvid, japE, oopee, ottob, Tumppis |
+|            2 |     6043 | 2023-12-03 | ILLYRIANS           | L   | 0.171      | -            | -                | -                | -         |    -2.71 | arvid, japE, oopee, ottob, Tumppis |
+|            1 |     6711 | 2023-11-18 | The Witchers        | L   | 0.072      | -            | -                | -                | -         |    -0.98 | arvid, japE, oopee, ottob, Tumppis |
 
 <br />
 <span id="table2"></span><br />

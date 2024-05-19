@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                            |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     2382 | 2024-03-12 | LYG Gaming           | L   | 0.837      | -            | -                | -                | -             |   -10.32 | aRon_dA-k1nG, imyGDx, Northwest, nursSSS, xztcu   |
-|           10 |     3315 | 2024-02-21 | RealGamers           | L   | 0.704      | -            | -                | -                | -             |   -11.51 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
-|            9 |     3353 | 2024-02-20 | CUBE BY SND          | L   | 0.698      | -            | -                | -                | -             |   -10.53 | Adaikz, dosikzz, mag1k3Y, OxygeN, rinn            |
-|            8 |     3451 | 2024-02-18 | R-EVOLUTION          | W   | 0.684      | 0.143        | 0.000 (0.000)    | 0.024 (0.002)    | false (0.000) |     6.07 | DiEZ, fitch, kamazbob, SNk, xztcu                 |
-|            7 |     3539 | 2024-02-16 | MetroTeam            | W   | 0.671      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.65 | captoun, DcAky, multibr3nd, ossic0r, ryujintensei |
-|            6 |     4503 | 2024-01-21 | Myth Avenue Gaming   | W   | 0.498      | 0.143        | 0.012 (0.001)    | 0.302 (0.021)    | false (0.000) |     9.17 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
-|            5 |     4510 | 2024-01-21 | Gods Reign           | W   | 0.497      | 0.143        | 0.174 (0.012)    | 0.479 (0.034)    | false (0.000) |    12.96 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
-|            4 |     4574 | 2024-01-20 | Drippy Lab           | W   | 0.489      | 0.143        | 0.000 (0.000)    | 0.033 (0.002)    | false (0.000) |     3.07 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
-|            3 |     4749 | 2024-01-17 | Drippy Lab           | W   | 0.471      | 0.143        | 0.000 (0.000)    | 0.033 (0.002)    | false (0.000) |     2.97 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
-|            2 |     4752 | 2024-01-17 | SR Nacague           | L   | 0.470      | -            | -                | -                | -             |   -10.50 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
-|            1 |     4763 | 2024-01-17 | Real Original Gaming | W   | 0.469      | 0.143        | 0.005 (0.000)    | 0.035 (0.002)    | false (0.000) |     8.25 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
+|           11 |     2382 | 2024-03-12 | LYG Gaming           | L   | 0.837      | -            | -                | -                | -         |   -10.32 | aRon_dA-k1nG, imyGDx, Northwest, nursSSS, xztcu   |
+|           10 |     3315 | 2024-02-21 | RealGamers           | L   | 0.704      | -            | -                | -                | -         |   -11.51 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
+|            9 |     3353 | 2024-02-20 | CUBE BY SND          | L   | 0.698      | -            | -                | -                | -         |   -10.53 | Adaikz, dosikzz, mag1k3Y, OxygeN, rinn            |
+|            8 |     3451 | 2024-02-18 | R-EVOLUTION          | W   | 0.684      | 0.143        | 0.000 (0.000)    | 0.024 (0.002)    | 0 (0.000) |     6.07 | DiEZ, fitch, kamazbob, SNk, xztcu                 |
+|            7 |     3539 | 2024-02-16 | MetroTeam            | W   | 0.671      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.65 | captoun, DcAky, multibr3nd, ossic0r, ryujintensei |
+|            6 |     4503 | 2024-01-21 | Myth Avenue Gaming   | W   | 0.498      | 0.143        | 0.012 (0.001)    | 0.302 (0.021)    | 0 (0.000) |     9.17 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
+|            5 |     4510 | 2024-01-21 | Gods Reign           | W   | 0.497      | 0.143        | 0.174 (0.012)    | 0.479 (0.034)    | 0 (0.000) |    12.96 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
+|            4 |     4574 | 2024-01-20 | Drippy Lab           | W   | 0.489      | 0.143        | 0.000 (0.000)    | 0.033 (0.002)    | 0 (0.000) |     3.07 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
+|            3 |     4749 | 2024-01-17 | Drippy Lab           | W   | 0.471      | 0.143        | 0.000 (0.000)    | 0.033 (0.002)    | 0 (0.000) |     2.97 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
+|            2 |     4752 | 2024-01-17 | SR Nacague           | L   | 0.470      | -            | -                | -                | -         |   -10.50 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
+|            1 |     4763 | 2024-01-17 | Real Original Gaming | W   | 0.469      | 0.143        | 0.005 (0.000)    | 0.035 (0.002)    | 0 (0.000) |     8.25 | aRon_dA-k1nG, arun, imyGDx, Northwest, nursSSS    |
 
 <br />
 <span id="table2"></span><br />

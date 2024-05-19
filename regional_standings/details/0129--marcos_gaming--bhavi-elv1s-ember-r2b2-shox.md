@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                            |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     3779 | 2024-02-10 | Pak Boyz        | W   | 0.630      | 0.435        | 0.032 (0.009)    | 0.059 (0.016)    | true (0.630)  |     4.92 | Bhavi, ELV1S, EmbeR, R2B2, shox                   |
-|           14 |     3782 | 2024-02-09 | True Rippers    | L   | 0.628      | -            | -                | -                | -             |    -8.21 | Bhavi, ELV1S, EmbeR, R2B2, shox                   |
-|           13 |     4054 | 2024-02-02 | Gods Reign      | W   | 0.576      | 0.143        | 0.174 (0.014)    | 0.479 (0.039)    | false (0.000) |    10.98 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
-|           12 |     4154 | 2024-01-30 | Firedup Gaming  | W   | 0.557      | 0.143        | 0.000 (0.000)    | 0.019 (0.001)    | false (0.000) |     2.91 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
-|           11 |     4202 | 2024-01-29 | Enigma Gaming   | L   | 0.550      | -            | -                | -                | -             |   -11.67 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
-|           10 |     4289 | 2024-01-27 | True Rippers    | L   | 0.536      | -            | -                | -                | -             |    -7.46 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
-|            9 |     4567 | 2024-01-20 | Carnival Gaming | L   | 0.490      | -            | -                | -                | -             |    -9.80 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
-|            8 |     5298 | 2023-12-21 | ROG Academy     | W   | 0.290      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | false (0.000) |     1.26 | arakyn, BrOCK, KillSwiTcH, SeeK, vrenyy           |
-|            7 |     5305 | 2023-12-20 | Enigma Gaming   | L   | 0.284      | -            | -                | -                | -             |    -6.42 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
-|            6 |     5401 | 2023-12-17 | Gods Reign      | W   | 0.263      | 0.262        | 0.174 (0.012)    | 0.479 (0.033)    | false (0.000) |     5.62 | Bhavi, ELV1S, EmbeR, Nox, reV3nnnn                |
-|            5 |     5408 | 2023-12-16 | Enigma Gaming   | W   | 0.262      | 0.262        | 0.001 (0.000)    | 0.068 (0.005)    | false (0.000) |     2.41 | Bhavi, ELV1S, EmbeR, Nox, reV3nnnn                |
-|            4 |     6535 | 2023-11-22 | Carnival Gaming | L   | 0.102      | -            | -                | -                | -             |    -2.07 | Bhavi, Elvis, EmbeR, R2B2, reV3nnnn               |
-|            3 |     6609 | 2023-11-21 | Carnival Gaming | W   | 0.090      | 0.143        | 0.013 (0.000)    | 0.056 (0.001)    | false (0.000) |     1.01 | Benzene, Catastr0phE, hattygOD, Rider, SpawN      |
-|            2 |     6657 | 2023-11-19 | True Rippers    | W   | 0.082      | 0.143        | 0.059 (0.001)    | 0.272 (0.003)    | false (0.000) |     1.41 | Defaulter, DiceDealer, Gh0sTTTT, Mcg1LLzZz, Rossi |
-|            1 |     6722 | 2023-11-18 | RGW Esports     | L   | 0.071      | -            | -                | -                | -             |    -1.66 | Benzene, Bhavi, Elvis, hattygOD, R2B2             |
+|           15 |     3779 | 2024-02-10 | Pak Boyz        | W   | 0.630      | 0.435        | 0.032 (0.009)    | 0.059 (0.016)    | 1 (0.630) |     4.92 | Bhavi, ELV1S, EmbeR, R2B2, shox                   |
+|           14 |     3782 | 2024-02-09 | True Rippers    | L   | 0.628      | -            | -                | -                | -         |    -8.21 | Bhavi, ELV1S, EmbeR, R2B2, shox                   |
+|           13 |     4054 | 2024-02-02 | Gods Reign      | W   | 0.576      | 0.143        | 0.174 (0.014)    | 0.479 (0.039)    | 0 (0.000) |    10.98 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
+|           12 |     4154 | 2024-01-30 | Firedup Gaming  | W   | 0.557      | 0.143        | 0.000 (0.000)    | 0.019 (0.001)    | 0 (0.000) |     2.91 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
+|           11 |     4202 | 2024-01-29 | Enigma Gaming   | L   | 0.550      | -            | -                | -                | -         |   -11.67 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
+|           10 |     4289 | 2024-01-27 | True Rippers    | L   | 0.536      | -            | -                | -                | -         |    -7.46 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
+|            9 |     4567 | 2024-01-20 | Carnival Gaming | L   | 0.490      | -            | -                | -                | -         |    -9.80 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
+|            8 |     5298 | 2023-12-21 | ROG Academy     | W   | 0.290      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     1.26 | arakyn, BrOCK, KillSwiTcH, SeeK, vrenyy           |
+|            7 |     5305 | 2023-12-20 | Enigma Gaming   | L   | 0.284      | -            | -                | -                | -         |    -6.42 | Bhavi, ELV1S, EmbeR, R2B2, reV3nnnn               |
+|            6 |     5401 | 2023-12-17 | Gods Reign      | W   | 0.263      | 0.262        | 0.174 (0.012)    | 0.479 (0.033)    | 0 (0.000) |     5.62 | Bhavi, ELV1S, EmbeR, Nox, reV3nnnn                |
+|            5 |     5408 | 2023-12-16 | Enigma Gaming   | W   | 0.262      | 0.262        | 0.001 (0.000)    | 0.068 (0.005)    | 0 (0.000) |     2.41 | Bhavi, ELV1S, EmbeR, Nox, reV3nnnn                |
+|            4 |     6535 | 2023-11-22 | Carnival Gaming | L   | 0.102      | -            | -                | -                | -         |    -2.07 | Bhavi, Elvis, EmbeR, R2B2, reV3nnnn               |
+|            3 |     6609 | 2023-11-21 | Carnival Gaming | W   | 0.090      | 0.143        | 0.013 (0.000)    | 0.056 (0.001)    | 0 (0.000) |     1.01 | Benzene, Catastr0phE, hattygOD, Rider, SpawN      |
+|            2 |     6657 | 2023-11-19 | True Rippers    | W   | 0.082      | 0.143        | 0.059 (0.001)    | 0.272 (0.003)    | 0 (0.000) |     1.41 | Defaulter, DiceDealer, Gh0sTTTT, Mcg1LLzZz, Rossi |
+|            1 |     6722 | 2023-11-18 | RGW Esports     | L   | 0.071      | -            | -                | -                | -         |    -1.66 | Benzene, Bhavi, Elvis, hattygOD, R2B2             |
 
 <br />
 <span id="table2"></span><br />

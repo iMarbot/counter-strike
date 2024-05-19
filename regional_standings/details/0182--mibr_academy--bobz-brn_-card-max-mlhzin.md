@@ -34,47 +34,47 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                         |
+| Match Played | Match ID | Date       | Opponent                       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           39 |       41 | 2024-05-04 | Yawara E-Sports                | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.361 (0.052)    | false (0.000) |    15.20 | bobz, brn$, card, max, mlhzin  |
-|           38 |      184 | 2024-05-01 | Martians                       | W   | 1.000      | -            | -                | -                | false (0.000) |    11.23 | bobz, brn$, card, max, mlhzin  |
-|           37 |      399 | 2024-04-26 | LaChampionsLiga                | W   | 1.000      | -            | -                | -                | false (0.000) |     7.64 | bobz, card, max, mlhzin, nicks |
-|           36 |      503 | 2024-04-24 | Intense Game                   | L   | 1.000      | -            | -                | -                | -             |   -14.53 | bobz, card, max, mlhzin, nicks |
-|           35 |      629 | 2024-04-21 | Galorys                        | L   | 1.000      | -            | -                | -                | -             |    -8.88 | bobz, card, max, mlhzin, nicks |
-|           34 |      678 | 2024-04-20 | 2Game Esports                  | W   | 1.000      | 0.143        | -                | 0.188 (0.027)    | false (0.000) |    12.00 | bobz, card, max, mlhzin, nicks |
-|           33 |     1612 | 2024-03-31 | Bombril 1001 Utilidades        | L   | 0.967      | -            | -                | -                | -             |   -14.32 | bobz, card, max, mlhzin, nicks |
-|           32 |     1629 | 2024-03-30 | Yawara E-Sports                | W   | 0.960      | 0.143        | 0.005 (0.001)    | 0.361 (0.049)    | false (0.000) |    15.69 | bobz, card, max, mlhzin, nicks |
-|           31 |     1662 | 2024-03-29 | 2024                           | L   | 0.952      | -            | -                | -                | -             |   -19.79 | bobz, card, max, mlhzin, nicks |
-|           30 |     1732 | 2024-03-27 | Romanticos                     | W   | 0.939      | 0.143        | 0.003 (0.000)    | -                | false (0.000) |    12.08 | bobz, card, max, mlhzin, nicks |
-|           29 |     1796 | 2024-03-26 | Galorys                        | L   | 0.932      | -            | -                | -                | -             |   -11.65 | bobz, card, max, mlhzin, nicks |
-|           28 |     1839 | 2024-03-25 | Hawks (Argentinian team)       | W   | 0.926      | -            | -                | -                | false (0.000) |    12.48 | bobz, card, max, mlhzin, nicks |
-|           27 |     1974 | 2024-03-21 | Sensei Team                    | L   | 0.899      | -            | -                | -                | -             |   -14.60 | bobz, card, max, mlhzin, nicks |
-|           26 |     1975 | 2024-03-21 | Sharks Youngsters              | W   | 0.899      | 0.143        | 0.004 (0.000)    | 0.211 (0.027)    | false (0.000) |    11.00 | bobz, card, max, mlhzin, nicks |
-|           25 |     2013 | 2024-03-20 | Bombril 1001 Utilidades        | L   | 0.893      | -            | -                | -                | -             |   -15.36 | bobz, card, max, mlhzin, nicks |
-|           24 |     2019 | 2024-03-20 | Dusty Roots                    | L   | 0.892      | -            | -                | -                | -             |   -17.29 | bobz, card, max, mlhzin, nicks |
-|           23 |     2044 | 2024-03-19 | Intense Game                   | W   | 0.886      | 0.143        | 0.008 (0.001)    | 0.372 (0.047)    | false (0.000) |    13.59 | bobz, card, max, mlhzin, nicks |
-|           22 |     2077 | 2024-03-18 | Bounty Hunters Esports         | W   | 0.879      | -            | -                | -                | false (0.000) |     7.39 | bobz, card, max, mlhzin, nicks |
-|           21 |     2166 | 2024-03-16 | Case Esports                   | L   | 0.865      | -            | -                | -                | -             |   -11.71 | bobz, card, max, mlhzin, nicks |
-|           20 |     2214 | 2024-03-15 | ODDIK                          | L   | 0.859      | -            | -                | -                | -             |    -8.16 | bobz, card, max, mlhzin, nicks |
-|           19 |     2251 | 2024-03-14 | Flamengo Esports               | W   | 0.853      | -            | -                | -                | -             |     7.10 | bobz, card, max, mlhzin, nicks |
-|           18 |     2310 | 2024-03-13 | Corinthians Esports            | W   | 0.845      | 0.303        | 0.005 (0.001)    | 0.346 (0.089)    | -             |     9.72 | bobz, card, max, mlhzin, nicks |
-|           17 |     2368 | 2024-03-12 | Intense Game                   | L   | 0.839      | -            | -                | -                | -             |   -13.05 | bobz, card, max, mlhzin, nicks |
-|           16 |     2392 | 2024-03-11 | Hype E-Sports (Brazilian team) | W   | 0.834      | 0.262        | -                | 0.171 (0.037)    | -             |     5.49 | bobz, card, max, mlhzin, nicks |
-|           15 |     2394 | 2024-03-11 | Flamengo Esports               | L   | 0.833      | -            | -                | -                | -             |   -19.64 | bobz, card, max, mlhzin, nicks |
-|           14 |     2605 | 2024-03-06 | Intense Game                   | L   | 0.799      | -            | -                | -                | -             |   -14.32 | bobz, card, max, mlhzin, nicks |
-|           13 |     2671 | 2024-03-05 | Yawara E-Sports                | W   | 0.793      | 0.143        | 0.005 (0.001)    | 0.361 (0.041)    | -             |    10.20 | bobz, card, max, mlhzin, nicks |
-|           12 |     2718 | 2024-03-04 | Romanticos                     | W   | 0.786      | -            | -                | -                | -             |     9.05 | bobz, card, max, mlhzin, nicks |
-|           11 |     2777 | 2024-03-03 | Intense Game                   | L   | 0.780      | -            | -                | -                | -             |   -14.30 | bobz, card, max, mlhzin, nicks |
-|           10 |     2824 | 2024-03-02 | Yawara E-Sports                | W   | 0.773      | 0.143        | 0.005 (0.001)    | 0.361 (0.040)    | -             |    10.05 | bobz, card, max, mlhzin, nicks |
-|            9 |     2985 | 2024-02-28 | 9z Academy                     | W   | 0.752      | -            | -                | -                | -             |     8.26 | bobz, card, max, mlhzin, nicks |
-|            8 |     3016 | 2024-02-27 | Romanticos                     | W   | 0.746      | -            | -                | -                | -             |     9.32 | bobz, card, max, mlhzin, nicks |
-|            7 |     3233 | 2024-02-22 | Galorys                        | L   | 0.713      | -            | -                | -                | -             |    -9.61 | bobz, card, max, mlhzin, nicks |
-|            6 |     3874 | 2024-02-05 | 9z Academy                     | W   | 0.599      | -            | -                | -                | -             |     7.47 | bobz, card, max, mlhzin, nicks |
-|            5 |     3912 | 2024-02-04 | Bombril 1001 Utilidades        | W   | 0.593      | -            | -                | -                | -             |     6.77 | bobz, card, max, mlhzin, nicks |
-|            4 |     3945 | 2024-02-03 | Intense Game                   | W   | 0.586      | 0.143        | 0.008 (0.001)    | 0.372 (0.031)    | -             |     7.89 | bobz, card, max, mlhzin, nicks |
-|            3 |     4065 | 2024-02-01 | Bombril 1001 Utilidades        | W   | 0.572      | -            | -                | -                | -             |     6.80 | bobz, card, max, mlhzin, nicks |
-|            2 |     4354 | 2024-01-25 | FURIA Esports Female           | W   | 0.525      | 0.143        | 0.048 (0.004)    | -                | -             |    10.39 | bobz, card, max, mlhzin, nicks |
-|            1 |     4426 | 2024-01-23 | Sharks Youngsters              | W   | 0.512      | -            | -                | -                | -             |     7.58 | bobz, card, max, mlhzin, nicks |
+|           39 |       41 | 2024-05-04 | Yawara E-Sports                | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.361 (0.052)    | 0 (0.000) |    15.20 | bobz, brn$, card, max, mlhzin  |
+|           38 |      184 | 2024-05-01 | Martians                       | W   | 1.000      | -            | -                | -                | 0 (0.000) |    11.23 | bobz, brn$, card, max, mlhzin  |
+|           37 |      399 | 2024-04-26 | LaChampionsLiga                | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.64 | bobz, card, max, mlhzin, nicks |
+|           36 |      503 | 2024-04-24 | Intense Game                   | L   | 1.000      | -            | -                | -                | -         |   -14.53 | bobz, card, max, mlhzin, nicks |
+|           35 |      629 | 2024-04-21 | Galorys                        | L   | 1.000      | -            | -                | -                | -         |    -8.88 | bobz, card, max, mlhzin, nicks |
+|           34 |      678 | 2024-04-20 | 2Game Esports                  | W   | 1.000      | 0.143        | -                | 0.188 (0.027)    | 0 (0.000) |    12.00 | bobz, card, max, mlhzin, nicks |
+|           33 |     1612 | 2024-03-31 | Bombril 1001 Utilidades        | L   | 0.967      | -            | -                | -                | -         |   -14.32 | bobz, card, max, mlhzin, nicks |
+|           32 |     1629 | 2024-03-30 | Yawara E-Sports                | W   | 0.960      | 0.143        | 0.005 (0.001)    | 0.361 (0.049)    | 0 (0.000) |    15.69 | bobz, card, max, mlhzin, nicks |
+|           31 |     1662 | 2024-03-29 | 2024                           | L   | 0.952      | -            | -                | -                | -         |   -19.79 | bobz, card, max, mlhzin, nicks |
+|           30 |     1732 | 2024-03-27 | Romanticos                     | W   | 0.939      | 0.143        | 0.003 (0.000)    | -                | 0 (0.000) |    12.08 | bobz, card, max, mlhzin, nicks |
+|           29 |     1796 | 2024-03-26 | Galorys                        | L   | 0.932      | -            | -                | -                | -         |   -11.65 | bobz, card, max, mlhzin, nicks |
+|           28 |     1839 | 2024-03-25 | Hawks (Argentinian team)       | W   | 0.926      | -            | -                | -                | 0 (0.000) |    12.48 | bobz, card, max, mlhzin, nicks |
+|           27 |     1974 | 2024-03-21 | Sensei Team                    | L   | 0.899      | -            | -                | -                | -         |   -14.60 | bobz, card, max, mlhzin, nicks |
+|           26 |     1975 | 2024-03-21 | Sharks Youngsters              | W   | 0.899      | 0.143        | 0.004 (0.000)    | 0.211 (0.027)    | 0 (0.000) |    11.00 | bobz, card, max, mlhzin, nicks |
+|           25 |     2013 | 2024-03-20 | Bombril 1001 Utilidades        | L   | 0.893      | -            | -                | -                | -         |   -15.36 | bobz, card, max, mlhzin, nicks |
+|           24 |     2019 | 2024-03-20 | Dusty Roots                    | L   | 0.892      | -            | -                | -                | -         |   -17.29 | bobz, card, max, mlhzin, nicks |
+|           23 |     2044 | 2024-03-19 | Intense Game                   | W   | 0.886      | 0.143        | 0.008 (0.001)    | 0.372 (0.047)    | 0 (0.000) |    13.59 | bobz, card, max, mlhzin, nicks |
+|           22 |     2077 | 2024-03-18 | Bounty Hunters Esports         | W   | 0.879      | -            | -                | -                | 0 (0.000) |     7.39 | bobz, card, max, mlhzin, nicks |
+|           21 |     2166 | 2024-03-16 | Case Esports                   | L   | 0.865      | -            | -                | -                | -         |   -11.71 | bobz, card, max, mlhzin, nicks |
+|           20 |     2214 | 2024-03-15 | ODDIK                          | L   | 0.859      | -            | -                | -                | -         |    -8.16 | bobz, card, max, mlhzin, nicks |
+|           19 |     2251 | 2024-03-14 | Flamengo Esports               | W   | 0.853      | -            | -                | -                | -         |     7.10 | bobz, card, max, mlhzin, nicks |
+|           18 |     2310 | 2024-03-13 | Corinthians Esports            | W   | 0.845      | 0.303        | 0.005 (0.001)    | 0.346 (0.089)    | -         |     9.72 | bobz, card, max, mlhzin, nicks |
+|           17 |     2368 | 2024-03-12 | Intense Game                   | L   | 0.839      | -            | -                | -                | -         |   -13.05 | bobz, card, max, mlhzin, nicks |
+|           16 |     2392 | 2024-03-11 | Hype E-Sports (Brazilian team) | W   | 0.834      | 0.262        | -                | 0.171 (0.037)    | -         |     5.49 | bobz, card, max, mlhzin, nicks |
+|           15 |     2394 | 2024-03-11 | Flamengo Esports               | L   | 0.833      | -            | -                | -                | -         |   -19.64 | bobz, card, max, mlhzin, nicks |
+|           14 |     2605 | 2024-03-06 | Intense Game                   | L   | 0.799      | -            | -                | -                | -         |   -14.32 | bobz, card, max, mlhzin, nicks |
+|           13 |     2671 | 2024-03-05 | Yawara E-Sports                | W   | 0.793      | 0.143        | 0.005 (0.001)    | 0.361 (0.041)    | -         |    10.20 | bobz, card, max, mlhzin, nicks |
+|           12 |     2718 | 2024-03-04 | Romanticos                     | W   | 0.786      | -            | -                | -                | -         |     9.05 | bobz, card, max, mlhzin, nicks |
+|           11 |     2777 | 2024-03-03 | Intense Game                   | L   | 0.780      | -            | -                | -                | -         |   -14.30 | bobz, card, max, mlhzin, nicks |
+|           10 |     2824 | 2024-03-02 | Yawara E-Sports                | W   | 0.773      | 0.143        | 0.005 (0.001)    | 0.361 (0.040)    | -         |    10.05 | bobz, card, max, mlhzin, nicks |
+|            9 |     2985 | 2024-02-28 | 9z Academy                     | W   | 0.752      | -            | -                | -                | -         |     8.26 | bobz, card, max, mlhzin, nicks |
+|            8 |     3016 | 2024-02-27 | Romanticos                     | W   | 0.746      | -            | -                | -                | -         |     9.32 | bobz, card, max, mlhzin, nicks |
+|            7 |     3233 | 2024-02-22 | Galorys                        | L   | 0.713      | -            | -                | -                | -         |    -9.61 | bobz, card, max, mlhzin, nicks |
+|            6 |     3874 | 2024-02-05 | 9z Academy                     | W   | 0.599      | -            | -                | -                | -         |     7.47 | bobz, card, max, mlhzin, nicks |
+|            5 |     3912 | 2024-02-04 | Bombril 1001 Utilidades        | W   | 0.593      | -            | -                | -                | -         |     6.77 | bobz, card, max, mlhzin, nicks |
+|            4 |     3945 | 2024-02-03 | Intense Game                   | W   | 0.586      | 0.143        | 0.008 (0.001)    | 0.372 (0.031)    | -         |     7.89 | bobz, card, max, mlhzin, nicks |
+|            3 |     4065 | 2024-02-01 | Bombril 1001 Utilidades        | W   | 0.572      | -            | -                | -                | -         |     6.80 | bobz, card, max, mlhzin, nicks |
+|            2 |     4354 | 2024-01-25 | FURIA Esports Female           | W   | 0.525      | 0.143        | 0.048 (0.004)    | -                | -         |    10.39 | bobz, card, max, mlhzin, nicks |
+|            1 |     4426 | 2024-01-23 | Sharks Youngsters              | W   | 0.512      | -            | -                | -                | -         |     7.58 | bobz, card, max, mlhzin, nicks |
 
 <br />
 <span id="table2"></span><br />

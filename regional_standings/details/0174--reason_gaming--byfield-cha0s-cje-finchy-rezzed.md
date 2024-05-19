@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                              |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      691 | 2024-04-20 | Team Sodality        | L   | 1.000      | -            | -                | -                | -             |   -25.42 | Byfield, Cha0s, CJE, FincHY, Rezzed |
-|           10 |      794 | 2024-04-19 | BLUEJAYS Royal       | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.22 | Byfield, Cha0s, CJE, FincHY, Rezzed |
-|            9 |      796 | 2024-04-19 | Costco Guys          | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.43 | Byfield, Cha0s, CJE, FincHY, Rezzed |
-|            8 |     1606 | 2024-04-01 | Verdant              | L   | 0.970      | -            | -                | -                | -             |    -8.93 | Byfield, Cha0s, CJE, FincHY, Rezzed |
-|            7 |     1618 | 2024-03-31 | Ahoka                | W   | 0.965      | 0.143        | 0.006 (0.001)    | 0.067 (0.009)    | true (0.965)  |    14.93 | Byfield, Cha0s, CJE, FincHY, Rezzed |
-|            6 |     1637 | 2024-03-30 | Ahoka                | L   | 0.958      | -            | -                | -                | -             |   -15.01 | Byfield, Cha0s, CJE, FincHY, Rezzed |
-|            5 |     1649 | 2024-03-30 | The Mighty Sun       | W   | 0.957      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | true (0.957)  |     3.22 | Byfield, Cha0s, CJE, FincHY, Rezzed |
-|            4 |     3080 | 2024-02-26 | Permitta Esports     | L   | 0.736      | -            | -                | -                | -             |    -5.02 | Byfield, Cha0s, CJE, FincHY, Rezzed |
-|            3 |     3184 | 2024-02-24 | The Last Resort      | L   | 0.723      | -            | -                | -                | -             |   -14.13 | Byfield, Cha0s, CJE, FincHY, Rezzed |
-|            2 |     3197 | 2024-02-23 | Disco Diggers        | W   | 0.720      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | true (0.720)  |     2.24 | Byfield, Cha0s, CJE, FincHY, Rezzed |
-|            1 |     3785 | 2024-02-09 | Raptors Esports Club | L   | 0.626      | -            | -                | -                | -             |   -15.57 | Byfield, Cha0s, CJE, FincHY, RezzeD |
+|           11 |      691 | 2024-04-20 | Team Sodality        | L   | 1.000      | -            | -                | -                | -         |   -25.42 | Byfield, Cha0s, CJE, FincHY, Rezzed |
+|           10 |      794 | 2024-04-19 | BLUEJAYS Royal       | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.22 | Byfield, Cha0s, CJE, FincHY, Rezzed |
+|            9 |      796 | 2024-04-19 | Costco Guys          | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.43 | Byfield, Cha0s, CJE, FincHY, Rezzed |
+|            8 |     1606 | 2024-04-01 | Verdant              | L   | 0.970      | -            | -                | -                | -         |    -8.93 | Byfield, Cha0s, CJE, FincHY, Rezzed |
+|            7 |     1618 | 2024-03-31 | Ahoka                | W   | 0.965      | 0.143        | 0.006 (0.001)    | 0.067 (0.009)    | 1 (0.965) |    14.93 | Byfield, Cha0s, CJE, FincHY, Rezzed |
+|            6 |     1637 | 2024-03-30 | Ahoka                | L   | 0.958      | -            | -                | -                | -         |   -15.01 | Byfield, Cha0s, CJE, FincHY, Rezzed |
+|            5 |     1649 | 2024-03-30 | The Mighty Sun       | W   | 0.957      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.957) |     3.22 | Byfield, Cha0s, CJE, FincHY, Rezzed |
+|            4 |     3080 | 2024-02-26 | Permitta Esports     | L   | 0.736      | -            | -                | -                | -         |    -5.02 | Byfield, Cha0s, CJE, FincHY, Rezzed |
+|            3 |     3184 | 2024-02-24 | The Last Resort      | L   | 0.723      | -            | -                | -                | -         |   -14.13 | Byfield, Cha0s, CJE, FincHY, Rezzed |
+|            2 |     3197 | 2024-02-23 | Disco Diggers        | W   | 0.720      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.720) |     2.24 | Byfield, Cha0s, CJE, FincHY, Rezzed |
+|            1 |     3785 | 2024-02-09 | Raptors Esports Club | L   | 0.626      | -            | -                | -                | -         |   -15.57 | Byfield, Cha0s, CJE, FincHY, RezzeD |
 
 <br />
 <span id="table2"></span><br />

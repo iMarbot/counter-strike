@@ -34,33 +34,33 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           25 |        3 | 2024-05-05 | Illusion (Brazilian team) | W   | 1.000      | 0.250        | 0.008 (0.002)    | -                | false (0.000) |     4.33 | annaEX, goddess, josi, julih, yungher    |
-|           24 |       42 | 2024-05-04 | HUMBLE.gg                 | W   | 1.000      | -            | -                | -                | false (0.000) |     1.54 | annaEX, goddess, josi, julih, yungher    |
-|           23 |      625 | 2024-04-21 | FURIA Esports Female      | W   | 1.000      | 0.333        | 0.048 (0.016)    | 0.205 (0.068)    | true (1.000)  |    11.72 | annaEX, goddess, julih, poppins, yungher |
-|           22 |      643 | 2024-04-21 | MIBR Female               | W   | 1.000      | 0.333        | 0.027 (0.009)    | 0.199 (0.066)    | true (1.000)  |     8.35 | annaEX, goddess, julih, poppins, yungher |
-|           21 |      798 | 2024-04-19 | FURIA Esports Female      | W   | 1.000      | 0.332        | 0.048 (0.016)    | 0.205 (0.068)    | false (0.000) |    13.12 | annaEX, goddess, julih, poppins, yungher |
-|           20 |     1090 | 2024-04-13 | Five7                     | W   | 1.000      | -            | -                | -                | false (0.000) |     3.52 | annaEX, Babs, goddess, julih, yungher    |
-|           19 |     1208 | 2024-04-10 | GENKID4M4                 | W   | 1.000      | 0.332        | 0.008 (0.003)    | 0.052 (0.017)    | false (0.000) |     6.31 | annaEX, goddess, julih, poppins, yungher |
-|           18 |     1383 | 2024-04-06 | MIBR Female               | L   | 1.000      | -            | -                | -                | -             |   -22.87 | annaEX, goddess, josi, julih, poppins    |
-|           17 |     1387 | 2024-04-06 | Five7                     | W   | 1.000      | -            | -                | -                | false (0.000) |     3.35 | annaEX, goddess, josi, julih, poppins    |
-|           16 |     1471 | 2024-04-04 | Illusion (Brazilian team) | W   | 0.993      | 0.332        | 0.008 (0.003)    | 0.035 (0.012)    | -             |     5.23 | annaEX, goddess, julih, poppins, yungher |
-|           15 |     1727 | 2024-03-27 | DIVINA Female             | W   | 0.940      | 0.332        | 0.009 (0.003)    | 0.078 (0.024)    | -             |     6.86 | annaEX, goddess, julih, poppins, yungher |
-|           14 |     2011 | 2024-03-20 | MIBR Female               | W   | 0.893      | 0.332        | 0.027 (0.008)    | 0.199 (0.059)    | -             |     7.57 | annaEX, goddess, julih, poppins, yungher |
-|           13 |     2599 | 2024-03-06 | Atrix Esports             | W   | 0.800      | 0.332        | 0.010 (0.003)    | 0.165 (0.044)    | -             |     6.21 | annaEX, goddess, julih, poppins, yungher |
-|           12 |     2823 | 2024-03-02 | Five7                     | W   | 0.773      | -            | -                | -                | -             |     3.05 | annaEX, goddess, josi, julih, yungher    |
-|           11 |     3131 | 2024-02-24 | SoJoga Academy            | L   | 0.726      | -            | -                | -                | -             |   -18.06 | goddess, julih, poppins, r4ul, yungher   |
-|           10 |     3142 | 2024-02-24 | Myth e-Sports             | L   | 0.726      | -            | -                | -                | -             |   -18.56 | goddess, julih, poppins, r4ul, yungher   |
-|            9 |     4253 | 2024-01-27 | SOLOVE                    | L   | 0.539      | -            | -                | -                | -             |   -14.31 | goddess, julih, nani, poppins, yungher   |
-|            8 |     4261 | 2024-01-27 | Romanticos                | L   | 0.539      | -            | -                | -                | -             |   -13.85 | goddess, julih, nani, poppins, yungher   |
-|            7 |     5731 | 2023-12-10 | NAVI Javelins             | L   | 0.217      | -            | -                | -                | -             |    -4.30 | goddess, julih, nani, poppins, yungher   |
-|            6 |     5838 | 2023-12-08 | Team Pigeons              | W   | 0.205      | 0.524        | 0.094 (0.010)    | 0.402 (0.043)    | true (0.205)  |     2.73 | goddess, julih, nani, poppins, yungher   |
-|            5 |     5851 | 2023-12-08 | FlyQuest RED              | W   | 0.203      | 0.524        | -                | 0.203 (0.022)    | true (0.203)  |     1.59 | goddess, julih, nani, poppins, yungher   |
-|            4 |     6698 | 2023-11-18 | MIBR Female               | L   | 0.072      | -            | -                | -                | -             |    -1.71 | goddess, julih, nani, poppins, yungher   |
-|            3 |     6797 | 2023-11-16 | FURIA Esports Female      | L   | 0.061      | -            | -                | -                | -             |    -1.26 | goddess, julih, nani, poppins, yungher   |
-|            2 |     6798 | 2023-11-16 | Atrix Esports             | W   | 0.060      | -            | -                | -                | -             |     0.38 | goddess, julih, nani, poppins, yungher   |
-|            1 |     6799 | 2023-11-16 | CALABRESO                 | W   | 0.060      | -            | -                | -                | -             |     0.15 | goddess, julih, nani, poppins, yungher   |
+|           25 |        3 | 2024-05-05 | Illusion (Brazilian team) | W   | 1.000      | 0.250        | 0.008 (0.002)    | -                | 0 (0.000) |     4.33 | annaEX, goddess, josi, julih, yungher    |
+|           24 |       42 | 2024-05-04 | HUMBLE.gg                 | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.54 | annaEX, goddess, josi, julih, yungher    |
+|           23 |      625 | 2024-04-21 | FURIA Esports Female      | W   | 1.000      | 0.333        | 0.048 (0.016)    | 0.205 (0.068)    | 1 (1.000) |    11.72 | annaEX, goddess, julih, poppins, yungher |
+|           22 |      643 | 2024-04-21 | MIBR Female               | W   | 1.000      | 0.333        | 0.027 (0.009)    | 0.199 (0.066)    | 1 (1.000) |     8.35 | annaEX, goddess, julih, poppins, yungher |
+|           21 |      798 | 2024-04-19 | FURIA Esports Female      | W   | 1.000      | 0.332        | 0.048 (0.016)    | 0.205 (0.068)    | 0 (0.000) |    13.12 | annaEX, goddess, julih, poppins, yungher |
+|           20 |     1090 | 2024-04-13 | Five7                     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.52 | annaEX, Babs, goddess, julih, yungher    |
+|           19 |     1208 | 2024-04-10 | GENKID4M4                 | W   | 1.000      | 0.332        | 0.008 (0.003)    | 0.052 (0.017)    | 0 (0.000) |     6.31 | annaEX, goddess, julih, poppins, yungher |
+|           18 |     1383 | 2024-04-06 | MIBR Female               | L   | 1.000      | -            | -                | -                | -         |   -22.87 | annaEX, goddess, josi, julih, poppins    |
+|           17 |     1387 | 2024-04-06 | Five7                     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.35 | annaEX, goddess, josi, julih, poppins    |
+|           16 |     1471 | 2024-04-04 | Illusion (Brazilian team) | W   | 0.993      | 0.332        | 0.008 (0.003)    | 0.035 (0.012)    | -         |     5.23 | annaEX, goddess, julih, poppins, yungher |
+|           15 |     1727 | 2024-03-27 | DIVINA Female             | W   | 0.940      | 0.332        | 0.009 (0.003)    | 0.078 (0.024)    | -         |     6.86 | annaEX, goddess, julih, poppins, yungher |
+|           14 |     2011 | 2024-03-20 | MIBR Female               | W   | 0.893      | 0.332        | 0.027 (0.008)    | 0.199 (0.059)    | -         |     7.57 | annaEX, goddess, julih, poppins, yungher |
+|           13 |     2599 | 2024-03-06 | Atrix Esports             | W   | 0.800      | 0.332        | 0.010 (0.003)    | 0.165 (0.044)    | -         |     6.21 | annaEX, goddess, julih, poppins, yungher |
+|           12 |     2823 | 2024-03-02 | Five7                     | W   | 0.773      | -            | -                | -                | -         |     3.05 | annaEX, goddess, josi, julih, yungher    |
+|           11 |     3131 | 2024-02-24 | SoJoga Academy            | L   | 0.726      | -            | -                | -                | -         |   -18.06 | goddess, julih, poppins, r4ul, yungher   |
+|           10 |     3142 | 2024-02-24 | Myth e-Sports             | L   | 0.726      | -            | -                | -                | -         |   -18.56 | goddess, julih, poppins, r4ul, yungher   |
+|            9 |     4253 | 2024-01-27 | SOLOVE                    | L   | 0.539      | -            | -                | -                | -         |   -14.31 | goddess, julih, nani, poppins, yungher   |
+|            8 |     4261 | 2024-01-27 | Romanticos                | L   | 0.539      | -            | -                | -                | -         |   -13.85 | goddess, julih, nani, poppins, yungher   |
+|            7 |     5731 | 2023-12-10 | NAVI Javelins             | L   | 0.217      | -            | -                | -                | -         |    -4.30 | goddess, julih, nani, poppins, yungher   |
+|            6 |     5838 | 2023-12-08 | Team Pigeons              | W   | 0.205      | 0.524        | 0.094 (0.010)    | 0.402 (0.043)    | 1 (0.205) |     2.73 | goddess, julih, nani, poppins, yungher   |
+|            5 |     5851 | 2023-12-08 | FlyQuest RED              | W   | 0.203      | 0.524        | -                | 0.203 (0.022)    | 1 (0.203) |     1.59 | goddess, julih, nani, poppins, yungher   |
+|            4 |     6698 | 2023-11-18 | MIBR Female               | L   | 0.072      | -            | -                | -                | -         |    -1.71 | goddess, julih, nani, poppins, yungher   |
+|            3 |     6797 | 2023-11-16 | FURIA Esports Female      | L   | 0.061      | -            | -                | -                | -         |    -1.26 | goddess, julih, nani, poppins, yungher   |
+|            2 |     6798 | 2023-11-16 | Atrix Esports             | W   | 0.060      | -            | -                | -                | -         |     0.38 | goddess, julih, nani, poppins, yungher   |
+|            1 |     6799 | 2023-11-16 | CALABRESO                 | W   | 0.060      | -            | -                | -                | -         |     0.15 | goddess, julih, nani, poppins, yungher   |
 
 <br />
 <span id="table2"></span><br />

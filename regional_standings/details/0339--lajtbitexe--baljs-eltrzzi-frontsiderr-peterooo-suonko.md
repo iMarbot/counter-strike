@@ -34,28 +34,28 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                        |
+| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           20 |     2939 | 2024-02-29 | BAKS Esports             | L   | 0.759      | -            | -                | -                | -             |    -8.32 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|           19 |     2977 | 2024-02-28 | Lemondogs                | L   | 0.752      | -            | -                | -                | -             |   -10.54 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|           18 |     3288 | 2024-02-21 | GamerLegion Academy      | L   | 0.706      | -            | -                | -                | -             |    -4.15 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|           17 |     3681 | 2024-02-13 | K10                      | L   | 0.651      | -            | -                | -                | -             |    -2.88 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|           16 |     3710 | 2024-02-12 | FLuffy Gangsters         | L   | 0.646      | -            | -                | -                | -             |    -9.17 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|           15 |     3815 | 2024-02-08 | HOTU                     | L   | 0.619      | -            | -                | -                | -             |    -4.43 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|           14 |     3821 | 2024-02-08 | Team Spirit Academy      | L   | 0.618      | -            | -                | -                | -             |    -3.60 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|           13 |     3891 | 2024-02-05 | GenOne                   | W   | 0.598      | 0.371        | 0.000 (0.000)    | 0.147 (0.033)    | false (0.000) |     9.62 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|           12 |     4079 | 2024-02-01 | Soda Gaming              | L   | 0.571      | -            | -                | -                | -             |    -4.48 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|           11 |     4102 | 2024-01-31 | BLESSED (Ukrainian team) | L   | 0.566      | -            | -                | -                | -             |    -3.58 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|           10 |     4383 | 2024-01-24 | Permitta Esports         | L   | 0.518      | -            | -                | -                | -             |    -1.33 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
-|            9 |     6253 | 2023-11-29 | MOUZ NXT                 | W   | 0.145      | 0.371        | 0.215 (0.012)    | 1.000 (0.054)    | false (0.000) |     4.36 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
-|            8 |     6269 | 2023-11-29 | ALTERNATE aTTaX          | L   | 0.145      | -            | -                | -                | -             |    -0.23 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
-|            7 |     6302 | 2023-11-28 | ENTERPRISE esports       | L   | 0.139      | -            | -                | -                | -             |    -0.42 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
-|            6 |     6315 | 2023-11-28 | Turów Zgorzelec Esport   | L   | 0.138      | -            | -                | -                | -             |    -0.79 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
-|            5 |     6365 | 2023-11-27 | DMS                      | L   | 0.132      | -            | -                | -                | -             |    -1.59 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
-|            4 |     6616 | 2023-11-20 | Gaimin Gladiators        | W   | 0.086      | 0.371        | 0.194 (0.006)    | 0.989 (0.031)    | false (0.000) |     2.68 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
-|            3 |     6638 | 2023-11-20 | Nemiga Gaming            | W   | 0.085      | 0.371        | 0.680 (0.021)    | 0.910 (0.029)    | false (0.000) |     2.64 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
-|            2 |     7168 | 2023-11-08 | The Chosen Few           | W   | 0.006      | 0.371        | 0.007 (0.000)    | 0.457 (0.001)    | false (0.000) |     0.14 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
-|            1 |     7194 | 2023-11-08 | Ex-sYnck                 | W   | 0.005      | 0.371        | 0.000 (0.000)    | 0.099 (0.000)    | false (0.000) |     0.08 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
+|           20 |     2939 | 2024-02-29 | BAKS Esports             | L   | 0.759      | -            | -                | -                | -         |    -8.32 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|           19 |     2977 | 2024-02-28 | Lemondogs                | L   | 0.752      | -            | -                | -                | -         |   -10.54 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|           18 |     3288 | 2024-02-21 | GamerLegion Academy      | L   | 0.706      | -            | -                | -                | -         |    -4.15 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|           17 |     3681 | 2024-02-13 | K10                      | L   | 0.651      | -            | -                | -                | -         |    -2.88 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|           16 |     3710 | 2024-02-12 | FLuffy Gangsters         | L   | 0.646      | -            | -                | -                | -         |    -9.17 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|           15 |     3815 | 2024-02-08 | HOTU                     | L   | 0.619      | -            | -                | -                | -         |    -4.43 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|           14 |     3821 | 2024-02-08 | Team Spirit Academy      | L   | 0.618      | -            | -                | -                | -         |    -3.60 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|           13 |     3891 | 2024-02-05 | GenOne                   | W   | 0.598      | 0.371        | 0.000 (0.000)    | 0.147 (0.033)    | 0 (0.000) |     9.62 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|           12 |     4079 | 2024-02-01 | Soda Gaming              | L   | 0.571      | -            | -                | -                | -         |    -4.48 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|           11 |     4102 | 2024-01-31 | BLESSED (Ukrainian team) | L   | 0.566      | -            | -                | -                | -         |    -3.58 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|           10 |     4383 | 2024-01-24 | Permitta Esports         | L   | 0.518      | -            | -                | -                | -         |    -1.33 | baljs, eltrzzi, Frontsiderr, PeTeRoOo, suonko |
+|            9 |     6253 | 2023-11-29 | MOUZ NXT                 | W   | 0.145      | 0.371        | 0.215 (0.012)    | 1.000 (0.054)    | 0 (0.000) |     4.36 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
+|            8 |     6269 | 2023-11-29 | ALTERNATE aTTaX          | L   | 0.145      | -            | -                | -                | -         |    -0.23 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
+|            7 |     6302 | 2023-11-28 | ENTERPRISE esports       | L   | 0.139      | -            | -                | -                | -         |    -0.42 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
+|            6 |     6315 | 2023-11-28 | Turów Zgorzelec Esport   | L   | 0.138      | -            | -                | -                | -         |    -0.79 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
+|            5 |     6365 | 2023-11-27 | DMS                      | L   | 0.132      | -            | -                | -                | -         |    -1.59 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
+|            4 |     6616 | 2023-11-20 | Gaimin Gladiators        | W   | 0.086      | 0.371        | 0.194 (0.006)    | 0.989 (0.031)    | 0 (0.000) |     2.68 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
+|            3 |     6638 | 2023-11-20 | Nemiga Gaming            | W   | 0.085      | 0.371        | 0.680 (0.021)    | 0.910 (0.029)    | 0 (0.000) |     2.64 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
+|            2 |     7168 | 2023-11-08 | The Chosen Few           | W   | 0.006      | 0.371        | 0.007 (0.000)    | 0.457 (0.001)    | 0 (0.000) |     0.14 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
+|            1 |     7194 | 2023-11-08 | Ex-sYnck                 | W   | 0.005      | 0.371        | 0.000 (0.000)    | 0.099 (0.000)    | 0 (0.000) |     0.08 | baljs, Frontsiderr, PeTeRoOo, suonko, TOAO    |
 
 <br />
 <span id="table2"></span><br />

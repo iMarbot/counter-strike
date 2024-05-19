@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                 |
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |       24 | 2024-05-05 | E9 esports    | W   | 1.000      | 0.143        | 0.035 (0.005)    | 0.035 (0.005)    | true (1.000)  |    13.39 | 1337x9, 3gl, Hack1ng, p5p, sausage     |
-|           11 |       37 | 2024-05-04 | E9 esports    | W   | 1.000      | 0.143        | 0.035 (0.005)    | 0.035 (0.005)    | true (1.000)  |    14.01 | 1337x9, 3gl, Hack1ng, p5p, sausage     |
-|           10 |       86 | 2024-05-04 | Sheer Conquer | W   | 1.000      | 0.143        | 0.035 (0.005)    | 0.211 (0.030)    | true (1.000)  |    14.82 | 1337x9, 3gl, Hack1ng, p5p, sausage     |
-|            9 |     1125 | 2024-04-13 | Sheer Conquer | L   | 1.000      | -            | -                | -                | -             |   -18.92 | 1337x9, 3gl, chengking, p5p, sausage   |
-|            8 |     1425 | 2024-04-06 | Team Remember | W   | 1.000      | 0.143        | 0.022 (0.003)    | 0.067 (0.010)    | false (0.000) |     8.81 | 1337x9, 3gl, chengking, p5p, sausage   |
-|            7 |     1429 | 2024-04-06 | Sheer Conquer | L   | 1.000      | -            | -                | -                | -             |   -20.70 | 1337x9, 3gl, chengking, p5p, sausage   |
-|            6 |     2522 | 2024-03-08 | E9 esports    | L   | 0.815      | -            | -                | -                | -             |   -17.17 | 1337x9, 3gl, hack1ng, p5p, PAN1K       |
-|            5 |     2583 | 2024-03-07 | Steel Helmet  | W   | 0.803      | 0.143        | 0.025 (0.003)    | 0.174 (0.020)    | false (0.000) |     6.14 | 1337x9, 3gl, hack1ng, p5p, PAN1K       |
-|            4 |     2589 | 2024-03-07 | E9 esports    | L   | 0.803      | -            | -                | -                | -             |   -17.68 | 1337x9, 3gl, hack1ng, p5p, PAN1K       |
-|            3 |     4357 | 2024-01-25 | Rare Atom     | L   | 0.524      | -            | -                | -                | -             |   -11.39 | 1337x9, chengking, hack1ng, p5p, PAN1K |
-|            2 |     4367 | 2024-01-24 | Bromo Esport  | W   | 0.522      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     0.81 | 1337x9, chengking, hack1ng, p5p, PAN1K |
-|            1 |     4967 | 2024-01-11 | WDNMD         | L   | 0.435      | -            | -                | -                | -             |   -12.51 | 1337x9, chengking, hack1ng, p5p, PAN1K |
+|           12 |       24 | 2024-05-05 | E9 esports    | W   | 1.000      | 0.143        | 0.035 (0.005)    | 0.035 (0.005)    | 1 (1.000) |    13.39 | 1337x9, 3gl, Hack1ng, p5p, sausage     |
+|           11 |       37 | 2024-05-04 | E9 esports    | W   | 1.000      | 0.143        | 0.035 (0.005)    | 0.035 (0.005)    | 1 (1.000) |    14.01 | 1337x9, 3gl, Hack1ng, p5p, sausage     |
+|           10 |       86 | 2024-05-04 | Sheer Conquer | W   | 1.000      | 0.143        | 0.035 (0.005)    | 0.211 (0.030)    | 1 (1.000) |    14.82 | 1337x9, 3gl, Hack1ng, p5p, sausage     |
+|            9 |     1125 | 2024-04-13 | Sheer Conquer | L   | 1.000      | -            | -                | -                | -         |   -18.92 | 1337x9, 3gl, chengking, p5p, sausage   |
+|            8 |     1425 | 2024-04-06 | Team Remember | W   | 1.000      | 0.143        | 0.022 (0.003)    | 0.067 (0.010)    | 0 (0.000) |     8.81 | 1337x9, 3gl, chengking, p5p, sausage   |
+|            7 |     1429 | 2024-04-06 | Sheer Conquer | L   | 1.000      | -            | -                | -                | -         |   -20.70 | 1337x9, 3gl, chengking, p5p, sausage   |
+|            6 |     2522 | 2024-03-08 | E9 esports    | L   | 0.815      | -            | -                | -                | -         |   -17.17 | 1337x9, 3gl, hack1ng, p5p, PAN1K       |
+|            5 |     2583 | 2024-03-07 | Steel Helmet  | W   | 0.803      | 0.143        | 0.025 (0.003)    | 0.174 (0.020)    | 0 (0.000) |     6.14 | 1337x9, 3gl, hack1ng, p5p, PAN1K       |
+|            4 |     2589 | 2024-03-07 | E9 esports    | L   | 0.803      | -            | -                | -                | -         |   -17.68 | 1337x9, 3gl, hack1ng, p5p, PAN1K       |
+|            3 |     4357 | 2024-01-25 | Rare Atom     | L   | 0.524      | -            | -                | -                | -         |   -11.39 | 1337x9, chengking, hack1ng, p5p, PAN1K |
+|            2 |     4367 | 2024-01-24 | Bromo Esport  | W   | 0.522      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.81 | 1337x9, chengking, hack1ng, p5p, PAN1K |
+|            1 |     4967 | 2024-01-11 | WDNMD         | L   | 0.435      | -            | -                | -                | -         |   -12.51 | 1337x9, chengking, hack1ng, p5p, PAN1K |
 
 <br />
 <span id="table2"></span><br />

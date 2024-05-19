@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     2584 | 2024-03-07 | Alliance                     | L   | 0.803      | -            | -                | -                | -             |    -3.27 | Anlelele, Buzz, cej0t, raalz, sL1m3   |
-|           10 |     3045 | 2024-02-27 | Permitta Esports             | L   | 0.743      | -            | -                | -                | -             |    -1.40 | Anlelele, Buzz, cej0t, raalz, sL1m3   |
-|            9 |     3066 | 2024-02-26 | B8                           | L   | 0.739      | -            | -                | -                | -             |    -1.74 | Anlelele, Buzz, cej0t, raalz, sL1m3   |
-|            8 |     3846 | 2024-02-07 | Metizport                    | L   | 0.611      | -            | -                | -                | -             |    -1.12 | Anlelele, Buzz, cej0t, raalz, sL1m3   |
-|            7 |     4124 | 2024-01-31 | Preasy Esport                | L   | 0.563      | -            | -                | -                | -             |    -1.24 | Anlelele, BERRY, cej0t, raalz, sL1m3  |
-|            6 |     4677 | 2024-01-18 | Guild Eagles                 | L   | 0.477      | -            | -                | -                | -             |    -0.70 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
-|            5 |     4690 | 2024-01-17 | 500                          | W   | 0.473      | 0.143        | 0.003 (0.000)    | 0.660 (0.045)    | false (0.000) |    12.56 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
-|            4 |     4697 | 2024-01-17 | GUN5 Esports                 | W   | 0.473      | 0.143        | 0.001 (0.000)    | 0.077 (0.005)    | false (0.000) |    10.83 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
-|            3 |     4710 | 2024-01-17 | ROSOMAHA                     | W   | 0.473      | 0.143        | 0.000 (0.000)    | 0.136 (0.009)    | false (0.000) |     9.99 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
-|            2 |     4927 | 2024-01-12 | TEAM ZOO BAR                 | L   | 0.439      | -            | -                | -                | -             |    -6.43 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
-|            1 |     4939 | 2024-01-12 | Balkan Bears (Romanian team) | W   | 0.439      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.12 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
+|           11 |     2584 | 2024-03-07 | Alliance                     | L   | 0.803      | -            | -                | -                | -         |    -3.27 | Anlelele, Buzz, cej0t, raalz, sL1m3   |
+|           10 |     3045 | 2024-02-27 | Permitta Esports             | L   | 0.743      | -            | -                | -                | -         |    -1.40 | Anlelele, Buzz, cej0t, raalz, sL1m3   |
+|            9 |     3066 | 2024-02-26 | B8                           | L   | 0.739      | -            | -                | -                | -         |    -1.74 | Anlelele, Buzz, cej0t, raalz, sL1m3   |
+|            8 |     3846 | 2024-02-07 | Metizport                    | L   | 0.611      | -            | -                | -                | -         |    -1.12 | Anlelele, Buzz, cej0t, raalz, sL1m3   |
+|            7 |     4124 | 2024-01-31 | Preasy Esport                | L   | 0.563      | -            | -                | -                | -         |    -1.24 | Anlelele, BERRY, cej0t, raalz, sL1m3  |
+|            6 |     4677 | 2024-01-18 | Guild Eagles                 | L   | 0.477      | -            | -                | -                | -         |    -0.70 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
+|            5 |     4690 | 2024-01-17 | 500                          | W   | 0.473      | 0.143        | 0.003 (0.000)    | 0.660 (0.045)    | 0 (0.000) |    12.56 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
+|            4 |     4697 | 2024-01-17 | GUN5 Esports                 | W   | 0.473      | 0.143        | 0.001 (0.000)    | 0.077 (0.005)    | 0 (0.000) |    10.83 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
+|            3 |     4710 | 2024-01-17 | ROSOMAHA                     | W   | 0.473      | 0.143        | 0.000 (0.000)    | 0.136 (0.009)    | 0 (0.000) |     9.99 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
+|            2 |     4927 | 2024-01-12 | TEAM ZOO BAR                 | L   | 0.439      | -            | -                | -                | -         |    -6.43 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
+|            1 |     4939 | 2024-01-12 | Balkan Bears (Romanian team) | W   | 0.439      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.12 | Anlelele, cej0t, raalz, sL1m3, Zyphon |
 
 <br />
 <span id="table2"></span><br />

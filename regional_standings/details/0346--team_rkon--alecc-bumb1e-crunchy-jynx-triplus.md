@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     3380 | 2024-02-20 | Mindfreak (Australian team) | L   | 0.696      | -            | -                | -                | -             |    -5.36 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS |
-|           14 |     3385 | 2024-02-19 | Imports                     | W   | 0.696      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.96 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS |
-|           13 |     3696 | 2024-02-13 | KZG                         | L   | 0.649      | -            | -                | -                | -             |    -4.54 | alecc, Bumb1e, Jynx, PixeL, TRIPLUS   |
-|           12 |     3699 | 2024-02-13 | G1MPS                       | W   | 0.649      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.52 | alecc, Bumb1e, Jynx, PixeL, TRIPLUS   |
-|           11 |     4411 | 2024-01-23 | Jehovah witness             | L   | 0.516      | -            | -                | -                | -             |    -7.79 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS |
-|           10 |     4579 | 2024-01-19 | DXA Esports                 | L   | 0.488      | -            | -                | -                | -             |    -9.92 | alecc, Crunchy, DINGUS, Jynx, TRIPLUS |
-|            9 |     4631 | 2024-01-18 | FlyQuest                    | L   | 0.482      | -            | -                | -                | -             |    -0.12 | alecc, Crunchy, DINGUS, Jynx, TRIPLUS |
-|            8 |     4760 | 2024-01-17 | VexX Gaming                 | L   | 0.469      | -            | -                | -                | -             |    -3.88 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS |
-|            7 |     4850 | 2024-01-15 | DXA Esports                 | L   | 0.456      | -            | -                | -                | -             |    -3.29 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS |
-|            6 |     4899 | 2024-01-13 | Mindfreak (Australian team) | L   | 0.443      | -            | -                | -                | -             |    -4.07 | alecc, Crunchy, DINGUS, Jynx, TRIPLUS |
-|            5 |     4902 | 2024-01-13 | DXA Esports                 | W   | 0.443      | 0.143        | 0.010 (0.001)    | 0.266 (0.017)    | false (0.000) |    10.86 | alecc, Crunchy, DINGUS, Jynx, TRIPLUS |
-|            4 |     4965 | 2024-01-11 | Blingus                     | W   | 0.435      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | false (0.000) |     6.00 | alecc, Crunchy, DINGUS, Jynx, TRIPLUS |
-|            3 |     5852 | 2023-12-08 | Canon Event                 | W   | 0.203      | 0.270        | 0.000 (0.000)    | 0.035 (0.002)    | false (0.000) |     2.30 | alecc, Bumb1e, GYPSY, Jynx, versa     |
-|            2 |     5901 | 2023-12-07 | Altered Edge                | W   | 0.196      | 0.270        | 0.003 (0.000)    | 0.138 (0.007)    | false (0.000) |     4.34 | alecc, Bumb1e, GYPSY, Jynx, versa     |
-|            1 |     6009 | 2023-12-05 | Mindfreak (Australian team) | L   | 0.183      | -            | -                | -                | -             |    -1.66 | alecc, Bumb1e, GYPSY, Jynx, versa     |
+|           15 |     3380 | 2024-02-20 | Mindfreak (Australian team) | L   | 0.696      | -            | -                | -                | -         |    -5.36 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS |
+|           14 |     3385 | 2024-02-19 | Imports                     | W   | 0.696      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.96 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS |
+|           13 |     3696 | 2024-02-13 | KZG                         | L   | 0.649      | -            | -                | -                | -         |    -4.54 | alecc, Bumb1e, Jynx, PixeL, TRIPLUS   |
+|           12 |     3699 | 2024-02-13 | G1MPS                       | W   | 0.649      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.52 | alecc, Bumb1e, Jynx, PixeL, TRIPLUS   |
+|           11 |     4411 | 2024-01-23 | Jehovah witness             | L   | 0.516      | -            | -                | -                | -         |    -7.79 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS |
+|           10 |     4579 | 2024-01-19 | DXA Esports                 | L   | 0.488      | -            | -                | -                | -         |    -9.92 | alecc, Crunchy, DINGUS, Jynx, TRIPLUS |
+|            9 |     4631 | 2024-01-18 | FlyQuest                    | L   | 0.482      | -            | -                | -                | -         |    -0.12 | alecc, Crunchy, DINGUS, Jynx, TRIPLUS |
+|            8 |     4760 | 2024-01-17 | VexX Gaming                 | L   | 0.469      | -            | -                | -                | -         |    -3.88 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS |
+|            7 |     4850 | 2024-01-15 | DXA Esports                 | L   | 0.456      | -            | -                | -                | -         |    -3.29 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS |
+|            6 |     4899 | 2024-01-13 | Mindfreak (Australian team) | L   | 0.443      | -            | -                | -                | -         |    -4.07 | alecc, Crunchy, DINGUS, Jynx, TRIPLUS |
+|            5 |     4902 | 2024-01-13 | DXA Esports                 | W   | 0.443      | 0.143        | 0.010 (0.001)    | 0.266 (0.017)    | 0 (0.000) |    10.86 | alecc, Crunchy, DINGUS, Jynx, TRIPLUS |
+|            4 |     4965 | 2024-01-11 | Blingus                     | W   | 0.435      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     6.00 | alecc, Crunchy, DINGUS, Jynx, TRIPLUS |
+|            3 |     5852 | 2023-12-08 | Canon Event                 | W   | 0.203      | 0.270        | 0.000 (0.000)    | 0.035 (0.002)    | 0 (0.000) |     2.30 | alecc, Bumb1e, GYPSY, Jynx, versa     |
+|            2 |     5901 | 2023-12-07 | Altered Edge                | W   | 0.196      | 0.270        | 0.003 (0.000)    | 0.138 (0.007)    | 0 (0.000) |     4.34 | alecc, Bumb1e, GYPSY, Jynx, versa     |
+|            1 |     6009 | 2023-12-05 | Mindfreak (Australian team) | L   | 0.183      | -            | -                | -                | -         |    -1.66 | alecc, Bumb1e, GYPSY, Jynx, versa     |
 
 <br />
 <span id="table2"></span><br />

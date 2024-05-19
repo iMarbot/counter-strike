@@ -34,46 +34,46 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                             |
+| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           38 |     1194 | 2024-04-10 | Take Flyte                 | W   | 1.000      | 0.477        | 0.004 (0.002)    | 0.279 (0.133)    | false (0.000) |    19.98 | danss, djay, Nifty, scar, Snakes   |
-|           37 |     1198 | 2024-04-10 | Take Flyte                 | L   | 1.000      | -            | -                | -                | -             |   -11.17 | danss, djay, Nifty, scar, Snakes   |
-|           36 |     1262 | 2024-04-09 | Nouns Esports              | L   | 1.000      | -            | -                | -                | -             |    -9.87 | danss, djay, Nifty, scar, Snakes   |
-|           35 |     1266 | 2024-04-09 | Nouns Esports              | L   | 1.000      | -            | -                | -                | -             |   -10.66 | danss, djay, Nifty, scar, Snakes   |
-|           34 |     1457 | 2024-04-04 | Party Astronauts           | L   | 0.994      | -            | -                | -                | -             |    -8.04 | danss, djay, Nifty, scar, Snakes   |
-|           33 |     1461 | 2024-04-04 | Party Astronauts           | L   | 0.994      | -            | -                | -                | -             |    -8.61 | danss, djay, Nifty, scar, Snakes   |
-|           32 |     1712 | 2024-03-27 | Limitless                  | L   | 0.941      | -            | -                | -                | -             |   -15.44 | danss, djay, Nifty, scar, Snakes   |
-|           31 |     1715 | 2024-03-27 | Limitless                  | L   | 0.941      | -            | -                | -                | -             |   -16.77 | danss, djay, Nifty, scar, Snakes   |
-|           30 |     1779 | 2024-03-26 | NRG                        | L   | 0.934      | -            | -                | -                | -             |   -17.10 | danss, djay, Nifty, scar, Snakes   |
-|           29 |     1783 | 2024-03-26 | NRG                        | L   | 0.934      | -            | -                | -                | -             |   -18.51 | danss, djay, Nifty, scar, Snakes   |
-|           28 |     2353 | 2024-03-12 | Carpe Diem                 | L   | 0.840      | -            | -                | -                | -             |   -15.56 | danss, djay, Nifty, scar, Snakes   |
-|           27 |     2592 | 2024-03-06 | LAG Gaming (American team) | L   | 0.801      | -            | -                | -                | -             |    -9.11 | danss, djay, Nifty, scar, Snakes   |
-|           26 |     2594 | 2024-03-06 | LAG Gaming (American team) | W   | 0.801      | 0.477        | 0.033 (0.013)    | 0.405 (0.155)    | false (0.000) |    16.53 | danss, djay, Nifty, scar, Snakes   |
-|           25 |     2661 | 2024-03-05 | Mythic                     | W   | 0.794      | 0.477        | 0.003 (0.001)    | 0.380 (0.144)    | false (0.000) |    10.94 | danss, djay, Nifty, scar, Snakes   |
-|           24 |     2664 | 2024-03-05 | Mythic                     | W   | 0.794      | 0.477        | 0.003 (0.001)    | 0.380 (0.144)    | false (0.000) |    11.73 | danss, djay, Nifty, scar, Snakes   |
-|           23 |     3193 | 2024-02-23 | Wildcard Gaming            | L   | 0.721      | -            | -                | -                | -             |    -6.41 | danss, djay, Nifty, scar, Snakes   |
-|           22 |     3228 | 2024-02-22 | Team Liquid                | L   | 0.714      | -            | -                | -                | -             |    -0.57 | danss, djay, Nifty, scar, Snakes   |
-|           21 |     3231 | 2024-02-22 | Take Flyte                 | W   | 0.713      | 0.143        | 0.004 (0.000)    | 0.279 (0.028)    | false (0.000) |    10.42 | danss, djay, Nifty, scar, Snakes   |
-|           20 |     3273 | 2024-02-21 | Carpe Diem                 | W   | 0.707      | 0.143        | 0.009 (0.001)    | 0.178 (0.018)    | false (0.000) |     9.38 | danss, djay, Nifty, scar, Snakes   |
-|           19 |     3515 | 2024-02-16 | Rocket                     | L   | 0.673      | -            | -                | -                | -             |   -10.50 | danss, djay, Nifty, scar, Snakes   |
-|           18 |     4413 | 2024-01-23 | Wildcard Gaming            | L   | 0.515      | -            | -                | -                | -             |    -4.90 | CLASIA, danss, djay, Nifty, scar   |
-|           17 |     4414 | 2024-01-23 | LOS                        | W   | 0.514      | -            | -                | -                | false (0.000) |     3.70 | CLASIA, danss, djay, Nifty, scar   |
-|           16 |     4639 | 2024-01-18 | Wildcard Gaming            | L   | 0.480      | -            | -                | -                | -             |    -4.98 | danss, djay, Louie, Nifty, scar    |
-|           15 |     4684 | 2024-01-17 | Party Astronauts           | W   | 0.474      | 0.143        | 0.036 (0.002)    | 0.374 (0.025)    | false (0.000) |     8.69 | danss, djay, Louie, Nifty, scar    |
-|           14 |     4825 | 2024-01-15 | Carpe Diem                 | W   | 0.460      | 0.143        | 0.009 (0.001)    | 0.178 (0.012)    | false (0.000) |     6.70 | danss, djay, Louie, Nifty, scar    |
-|           13 |     5020 | 2024-01-10 | Zomblers                   | W   | 0.428      | 0.143        | 0.007 (0.000)    | -                | -             |     5.82 | danss, djay, Nifty, scar, stamina  |
-|           12 |     5333 | 2023-12-17 | Rocket                     | W   | 0.268      | 0.143        | -                | 0.246 (0.009)    | -             |     3.62 | djay, Louie, Nifty, scar, stamina  |
-|           11 |     5337 | 2023-12-17 | LAG Gaming (American team) | W   | 0.267      | 0.143        | 0.033 (0.001)    | 0.405 (0.015)    | -             |     6.68 | djay, Louie, Nifty, scar, stamina  |
-|           10 |     5425 | 2023-12-16 | Pantsu                     | W   | 0.261      | -            | -                | -                | -             |     3.41 | djay, Louie, Nifty, scar, stamina  |
-|            9 |     5562 | 2023-12-15 | Bad News Bears             | L   | 0.254      | -            | -                | -                | -             |    -6.30 | djay, Louie, Nifty, scar, stamina  |
-|            8 |     5708 | 2023-12-10 | Revenge Nation             | L   | 0.221      | -            | -                | -                | -             |    -3.39 | djay, Louie, Nifty, scar, stamina  |
-|            7 |     5751 | 2023-12-09 | Villainous                 | W   | 0.214      | -            | -                | -                | -             |     2.11 | djay, Louie, Nifty, scar, stamina  |
-|            6 |     5860 | 2023-12-07 | Zero MarksMen              | W   | 0.201      | -            | -                | -                | -             |     0.89 | djay, Louie, Nifty, scar, stamina  |
-|            5 |     5910 | 2023-12-06 | LAG Gaming (American team) | L   | 0.194      | -            | -                | -                | -             |    -1.23 | djay, Louie, Nifty, scar, stamina  |
-|            4 |     5957 | 2023-12-05 | Spectre Tavius             | W   | 0.187      | -            | -                | -                | -             |     0.84 | djay, Louie, Nifty, scar, stamina  |
-|            3 |     6180 | 2023-11-30 | Xmplfy                     | W   | 0.154      | -            | -                | -                | true (0.154)  |     0.69 | danss, djay, Nifty, scar, stamina  |
-|            2 |     6905 | 2023-11-14 | M80                        | L   | 0.047      | -            | -                | -                | -             |    -0.06 | CLASIA, djay, Nifty, scar, stamina |
-|            1 |     6944 | 2023-11-13 | Classless                  | W   | 0.041      | -            | -                | -                | -             |     0.18 | CLASIA, djay, Nifty, scar, stamina |
+|           38 |     1194 | 2024-04-10 | Take Flyte                 | W   | 1.000      | 0.477        | 0.004 (0.002)    | 0.279 (0.133)    | 0 (0.000) |    19.98 | danss, djay, Nifty, scar, Snakes   |
+|           37 |     1198 | 2024-04-10 | Take Flyte                 | L   | 1.000      | -            | -                | -                | -         |   -11.17 | danss, djay, Nifty, scar, Snakes   |
+|           36 |     1262 | 2024-04-09 | Nouns Esports              | L   | 1.000      | -            | -                | -                | -         |    -9.87 | danss, djay, Nifty, scar, Snakes   |
+|           35 |     1266 | 2024-04-09 | Nouns Esports              | L   | 1.000      | -            | -                | -                | -         |   -10.66 | danss, djay, Nifty, scar, Snakes   |
+|           34 |     1457 | 2024-04-04 | Party Astronauts           | L   | 0.994      | -            | -                | -                | -         |    -8.04 | danss, djay, Nifty, scar, Snakes   |
+|           33 |     1461 | 2024-04-04 | Party Astronauts           | L   | 0.994      | -            | -                | -                | -         |    -8.61 | danss, djay, Nifty, scar, Snakes   |
+|           32 |     1712 | 2024-03-27 | Limitless                  | L   | 0.941      | -            | -                | -                | -         |   -15.44 | danss, djay, Nifty, scar, Snakes   |
+|           31 |     1715 | 2024-03-27 | Limitless                  | L   | 0.941      | -            | -                | -                | -         |   -16.77 | danss, djay, Nifty, scar, Snakes   |
+|           30 |     1779 | 2024-03-26 | NRG                        | L   | 0.934      | -            | -                | -                | -         |   -17.10 | danss, djay, Nifty, scar, Snakes   |
+|           29 |     1783 | 2024-03-26 | NRG                        | L   | 0.934      | -            | -                | -                | -         |   -18.51 | danss, djay, Nifty, scar, Snakes   |
+|           28 |     2353 | 2024-03-12 | Carpe Diem                 | L   | 0.840      | -            | -                | -                | -         |   -15.56 | danss, djay, Nifty, scar, Snakes   |
+|           27 |     2592 | 2024-03-06 | LAG Gaming (American team) | L   | 0.801      | -            | -                | -                | -         |    -9.11 | danss, djay, Nifty, scar, Snakes   |
+|           26 |     2594 | 2024-03-06 | LAG Gaming (American team) | W   | 0.801      | 0.477        | 0.033 (0.013)    | 0.405 (0.155)    | 0 (0.000) |    16.53 | danss, djay, Nifty, scar, Snakes   |
+|           25 |     2661 | 2024-03-05 | Mythic                     | W   | 0.794      | 0.477        | 0.003 (0.001)    | 0.380 (0.144)    | 0 (0.000) |    10.94 | danss, djay, Nifty, scar, Snakes   |
+|           24 |     2664 | 2024-03-05 | Mythic                     | W   | 0.794      | 0.477        | 0.003 (0.001)    | 0.380 (0.144)    | 0 (0.000) |    11.73 | danss, djay, Nifty, scar, Snakes   |
+|           23 |     3193 | 2024-02-23 | Wildcard Gaming            | L   | 0.721      | -            | -                | -                | -         |    -6.41 | danss, djay, Nifty, scar, Snakes   |
+|           22 |     3228 | 2024-02-22 | Team Liquid                | L   | 0.714      | -            | -                | -                | -         |    -0.57 | danss, djay, Nifty, scar, Snakes   |
+|           21 |     3231 | 2024-02-22 | Take Flyte                 | W   | 0.713      | 0.143        | 0.004 (0.000)    | 0.279 (0.028)    | 0 (0.000) |    10.42 | danss, djay, Nifty, scar, Snakes   |
+|           20 |     3273 | 2024-02-21 | Carpe Diem                 | W   | 0.707      | 0.143        | 0.009 (0.001)    | 0.178 (0.018)    | 0 (0.000) |     9.38 | danss, djay, Nifty, scar, Snakes   |
+|           19 |     3515 | 2024-02-16 | Rocket                     | L   | 0.673      | -            | -                | -                | -         |   -10.50 | danss, djay, Nifty, scar, Snakes   |
+|           18 |     4413 | 2024-01-23 | Wildcard Gaming            | L   | 0.515      | -            | -                | -                | -         |    -4.90 | CLASIA, danss, djay, Nifty, scar   |
+|           17 |     4414 | 2024-01-23 | LOS                        | W   | 0.514      | -            | -                | -                | 0 (0.000) |     3.70 | CLASIA, danss, djay, Nifty, scar   |
+|           16 |     4639 | 2024-01-18 | Wildcard Gaming            | L   | 0.480      | -            | -                | -                | -         |    -4.98 | danss, djay, Louie, Nifty, scar    |
+|           15 |     4684 | 2024-01-17 | Party Astronauts           | W   | 0.474      | 0.143        | 0.036 (0.002)    | 0.374 (0.025)    | 0 (0.000) |     8.69 | danss, djay, Louie, Nifty, scar    |
+|           14 |     4825 | 2024-01-15 | Carpe Diem                 | W   | 0.460      | 0.143        | 0.009 (0.001)    | 0.178 (0.012)    | 0 (0.000) |     6.70 | danss, djay, Louie, Nifty, scar    |
+|           13 |     5020 | 2024-01-10 | Zomblers                   | W   | 0.428      | 0.143        | 0.007 (0.000)    | -                | -         |     5.82 | danss, djay, Nifty, scar, stamina  |
+|           12 |     5333 | 2023-12-17 | Rocket                     | W   | 0.268      | 0.143        | -                | 0.246 (0.009)    | -         |     3.62 | djay, Louie, Nifty, scar, stamina  |
+|           11 |     5337 | 2023-12-17 | LAG Gaming (American team) | W   | 0.267      | 0.143        | 0.033 (0.001)    | 0.405 (0.015)    | -         |     6.68 | djay, Louie, Nifty, scar, stamina  |
+|           10 |     5425 | 2023-12-16 | Pantsu                     | W   | 0.261      | -            | -                | -                | -         |     3.41 | djay, Louie, Nifty, scar, stamina  |
+|            9 |     5562 | 2023-12-15 | Bad News Bears             | L   | 0.254      | -            | -                | -                | -         |    -6.30 | djay, Louie, Nifty, scar, stamina  |
+|            8 |     5708 | 2023-12-10 | Revenge Nation             | L   | 0.221      | -            | -                | -                | -         |    -3.39 | djay, Louie, Nifty, scar, stamina  |
+|            7 |     5751 | 2023-12-09 | Villainous                 | W   | 0.214      | -            | -                | -                | -         |     2.11 | djay, Louie, Nifty, scar, stamina  |
+|            6 |     5860 | 2023-12-07 | Zero MarksMen              | W   | 0.201      | -            | -                | -                | -         |     0.89 | djay, Louie, Nifty, scar, stamina  |
+|            5 |     5910 | 2023-12-06 | LAG Gaming (American team) | L   | 0.194      | -            | -                | -                | -         |    -1.23 | djay, Louie, Nifty, scar, stamina  |
+|            4 |     5957 | 2023-12-05 | Spectre Tavius             | W   | 0.187      | -            | -                | -                | -         |     0.84 | djay, Louie, Nifty, scar, stamina  |
+|            3 |     6180 | 2023-11-30 | Xmplfy                     | W   | 0.154      | -            | -                | -                | 1 (0.154) |     0.69 | danss, djay, Nifty, scar, stamina  |
+|            2 |     6905 | 2023-11-14 | M80                        | L   | 0.047      | -            | -                | -                | -         |    -0.06 | CLASIA, djay, Nifty, scar, stamina |
+|            1 |     6944 | 2023-11-13 | Classless                  | W   | 0.041      | -            | -                | -                | -         |     0.18 | CLASIA, djay, Nifty, scar, stamina |
 
 <br />
 <span id="table2"></span><br />

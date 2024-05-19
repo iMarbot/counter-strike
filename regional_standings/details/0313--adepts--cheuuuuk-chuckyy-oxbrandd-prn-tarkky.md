@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      191 | 2024-05-01 | Kappa Bar            | L   | 1.000      | -            | -                | -                | -             |   -18.20 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
-|            9 |      200 | 2024-05-01 | Denial (Danish team) | L   | 1.000      | -            | -                | -                | -             |   -20.33 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
-|            8 |      239 | 2024-04-30 | GenOne               | L   | 1.000      | -            | -                | -                | -             |   -17.02 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
-|            7 |      516 | 2024-04-24 | Aurora Young Blud    | L   | 1.000      | -            | -                | -                | -             |    -9.88 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
-|            6 |     2096 | 2024-03-18 | HyperSpirit          | L   | 0.878      | -            | -                | -                | -             |   -12.52 | ADRON, GEOHYPE, kritik, smekk, swiiffter |
-|            5 |     2120 | 2024-03-17 | Team OWL             | W   | 0.872      | 0.333        | 0.000 (0.000)    | 0.036 (0.011)    | false (0.000) |     7.36 | aNsavage, NeoLife, Nosik, s7xWn, Snoob   |
-|            4 |     2164 | 2024-03-16 | WOPA Esport          | L   | 0.866      | -            | -                | -                | -             |   -10.08 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
-|            3 |     2402 | 2024-03-11 | Lewandownskie        | W   | 0.832      | 0.333        | 0.004 (0.001)    | 0.181 (0.050)    | false (0.000) |    13.04 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
-|            2 |     2564 | 2024-03-07 | XI Esport            | W   | 0.806      | 0.333        | 0.002 (0.001)    | 0.313 (0.084)    | false (0.000) |    12.86 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
-|            1 |     2676 | 2024-03-05 | FALKE ESPORTS        | W   | 0.792      | 0.333        | 0.000 (0.000)    | 0.021 (0.006)    | false (0.000) |     7.64 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|           10 |      191 | 2024-05-01 | Kappa Bar            | L   | 1.000      | -            | -                | -                | -         |   -18.20 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|            9 |      200 | 2024-05-01 | Denial (Danish team) | L   | 1.000      | -            | -                | -                | -         |   -20.33 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|            8 |      239 | 2024-04-30 | GenOne               | L   | 1.000      | -            | -                | -                | -         |   -17.02 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|            7 |      516 | 2024-04-24 | Aurora Young Blud    | L   | 1.000      | -            | -                | -                | -         |    -9.88 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|            6 |     2096 | 2024-03-18 | HyperSpirit          | L   | 0.878      | -            | -                | -                | -         |   -12.52 | ADRON, GEOHYPE, kritik, smekk, swiiffter |
+|            5 |     2120 | 2024-03-17 | Team OWL             | W   | 0.872      | 0.333        | 0.000 (0.000)    | 0.036 (0.011)    | 0 (0.000) |     7.36 | aNsavage, NeoLife, Nosik, s7xWn, Snoob   |
+|            4 |     2164 | 2024-03-16 | WOPA Esport          | L   | 0.866      | -            | -                | -                | -         |   -10.08 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|            3 |     2402 | 2024-03-11 | Lewandownskie        | W   | 0.832      | 0.333        | 0.004 (0.001)    | 0.181 (0.050)    | 0 (0.000) |    13.04 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|            2 |     2564 | 2024-03-07 | XI Esport            | W   | 0.806      | 0.333        | 0.002 (0.001)    | 0.313 (0.084)    | 0 (0.000) |    12.86 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|            1 |     2676 | 2024-03-05 | FALKE ESPORTS        | W   | 0.792      | 0.333        | 0.000 (0.000)    | 0.021 (0.006)    | 0 (0.000) |     7.64 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
 
 <br />
 <span id="table2"></span><br />

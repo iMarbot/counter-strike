@@ -34,27 +34,27 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           19 |      352 | 2024-04-27 | ODDIK Academy             | L   | 1.000      | -            | -                | -                | -             |   -19.22 | Babs, dani, history, khizha, REGIANE  |
-|           18 |      643 | 2024-04-21 | Fluxo Demons              | L   | 1.000      | -            | -                | -                | -             |    -8.35 | Babs, dani, ferzy, khizha, REGIANE    |
-|           17 |     1383 | 2024-04-06 | Fluxo Demons              | W   | 1.000      | 0.250        | 0.065 (0.016)    | 0.289 (0.072)    | false (0.000) |    22.87 | Babs, dani, ferzy, khizha, REGIANE    |
-|           16 |     1386 | 2024-04-06 | HUMBLE.gg                 | W   | 1.000      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.78 | Babs, dani, ferzy, khizha, REGIANE    |
-|           15 |     1470 | 2024-04-04 | Atrix Esports             | W   | 0.993      | 0.332        | 0.010 (0.003)    | 0.165 (0.054)    | false (0.000) |    14.40 | Babs, dani, ferzy, khizha, REGIANE    |
-|           14 |     1685 | 2024-03-28 | Illusion (Brazilian team) | W   | 0.946      | 0.332        | 0.008 (0.002)    | 0.035 (0.011)    | false (0.000) |    12.36 | Babs, dani, ferzy, khizha, REGIANE    |
-|           13 |     1883 | 2024-03-23 | Floripa Stars             | L   | 0.913      | -            | -                | -                | -             |   -14.87 | Babs, dani, ferzy, khizha, REGIANE    |
-|           12 |     1886 | 2024-03-23 | MX Team                   | W   | 0.913      | 0.143        | 0.000 (0.000)    | 0.032 (0.004)    | false (0.000) |     7.06 | Babs, dani, ferzy, khizha, REGIANE    |
-|           11 |     1893 | 2024-03-23 | Martians                  | L   | 0.912      | -            | -                | -                | -             |   -17.74 | Babs, dani, ferzy, khizha, REGIANE    |
-|           10 |     2011 | 2024-03-20 | Fluxo Demons              | L   | 0.893      | -            | -                | -                | -             |    -7.57 | Babs, dani, ferzy, khizha, REGIANE    |
-|            9 |     2296 | 2024-03-13 | FURIA Esports Female      | L   | 0.846      | -            | -                | -                | -             |   -10.34 | Babs, dani, ferzy, khizha, REGIANE    |
-|            8 |     2554 | 2024-03-07 | DIVINA Female             | W   | 0.806      | 0.332        | 0.009 (0.002)    | 0.078 (0.021)    | false (0.000) |    10.88 | Babs, dani, ferzy, khizha, REGIANE    |
-|            7 |     3129 | 2024-02-24 | FURIA Esports Female      | L   | 0.726      | -            | -                | -                | -             |    -9.25 | Babs, dani, ferzy, khizha, REGIANE    |
-|            6 |     3140 | 2024-02-24 | QUASE (Brazilian team)    | L   | 0.726      | -            | -                | -                | -             |   -17.69 | Babs, dani, ferzy, khizha, REGIANE    |
-|            5 |     3148 | 2024-02-24 | Hawks (Argentinian team)  | L   | 0.725      | -            | -                | -                | -             |   -14.13 | Babs, dani, ferzy, khizha, REGIANE    |
-|            4 |     4237 | 2024-01-27 | DIVINA Female             | W   | 0.540      | 0.250        | 0.009 (0.001)    | 0.078 (0.011)    | false (0.000) |     6.78 | Babs, dani, ferzy, khizha, REGIANE    |
-|            3 |     6691 | 2023-11-18 | FURIA Esports Female      | L   | 0.073      | -            | -                | -                | -             |    -0.90 | Babs, chjna4Q, ferzy, khizha, REGIANE |
-|            2 |     6698 | 2023-11-18 | Fluxo Demons              | W   | 0.072      | 0.143        | 0.065 (0.001)    | 0.289 (0.003)    | false (0.000) |     1.71 | Babs, chjna4Q, ferzy, khizha, REGIANE |
-|            1 |     6767 | 2023-11-17 | Atrix Esports             | W   | 0.065      | 0.143        | 0.010 (0.000)    | 0.165 (0.002)    | false (0.000) |     0.88 | Babs, chjna4Q, ferzy, khizha, REGIANE |
+|           19 |      352 | 2024-04-27 | ODDIK Academy             | L   | 1.000      | -            | -                | -                | -         |   -19.22 | Babs, dani, history, khizha, REGIANE  |
+|           18 |      643 | 2024-04-21 | Fluxo Demons              | L   | 1.000      | -            | -                | -                | -         |    -8.35 | Babs, dani, ferzy, khizha, REGIANE    |
+|           17 |     1383 | 2024-04-06 | Fluxo Demons              | W   | 1.000      | 0.250        | 0.065 (0.016)    | 0.289 (0.072)    | 0 (0.000) |    22.87 | Babs, dani, ferzy, khizha, REGIANE    |
+|           16 |     1386 | 2024-04-06 | HUMBLE.gg                 | W   | 1.000      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.78 | Babs, dani, ferzy, khizha, REGIANE    |
+|           15 |     1470 | 2024-04-04 | Atrix Esports             | W   | 0.993      | 0.332        | 0.010 (0.003)    | 0.165 (0.054)    | 0 (0.000) |    14.40 | Babs, dani, ferzy, khizha, REGIANE    |
+|           14 |     1685 | 2024-03-28 | Illusion (Brazilian team) | W   | 0.946      | 0.332        | 0.008 (0.002)    | 0.035 (0.011)    | 0 (0.000) |    12.36 | Babs, dani, ferzy, khizha, REGIANE    |
+|           13 |     1883 | 2024-03-23 | Floripa Stars             | L   | 0.913      | -            | -                | -                | -         |   -14.87 | Babs, dani, ferzy, khizha, REGIANE    |
+|           12 |     1886 | 2024-03-23 | MX Team                   | W   | 0.913      | 0.143        | 0.000 (0.000)    | 0.032 (0.004)    | 0 (0.000) |     7.06 | Babs, dani, ferzy, khizha, REGIANE    |
+|           11 |     1893 | 2024-03-23 | Martians                  | L   | 0.912      | -            | -                | -                | -         |   -17.74 | Babs, dani, ferzy, khizha, REGIANE    |
+|           10 |     2011 | 2024-03-20 | Fluxo Demons              | L   | 0.893      | -            | -                | -                | -         |    -7.57 | Babs, dani, ferzy, khizha, REGIANE    |
+|            9 |     2296 | 2024-03-13 | FURIA Esports Female      | L   | 0.846      | -            | -                | -                | -         |   -10.34 | Babs, dani, ferzy, khizha, REGIANE    |
+|            8 |     2554 | 2024-03-07 | DIVINA Female             | W   | 0.806      | 0.332        | 0.009 (0.002)    | 0.078 (0.021)    | 0 (0.000) |    10.88 | Babs, dani, ferzy, khizha, REGIANE    |
+|            7 |     3129 | 2024-02-24 | FURIA Esports Female      | L   | 0.726      | -            | -                | -                | -         |    -9.25 | Babs, dani, ferzy, khizha, REGIANE    |
+|            6 |     3140 | 2024-02-24 | QUASE (Brazilian team)    | L   | 0.726      | -            | -                | -                | -         |   -17.69 | Babs, dani, ferzy, khizha, REGIANE    |
+|            5 |     3148 | 2024-02-24 | Hawks (Argentinian team)  | L   | 0.725      | -            | -                | -                | -         |   -14.13 | Babs, dani, ferzy, khizha, REGIANE    |
+|            4 |     4237 | 2024-01-27 | DIVINA Female             | W   | 0.540      | 0.250        | 0.009 (0.001)    | 0.078 (0.011)    | 0 (0.000) |     6.78 | Babs, dani, ferzy, khizha, REGIANE    |
+|            3 |     6691 | 2023-11-18 | FURIA Esports Female      | L   | 0.073      | -            | -                | -                | -         |    -0.90 | Babs, chjna4Q, ferzy, khizha, REGIANE |
+|            2 |     6698 | 2023-11-18 | Fluxo Demons              | W   | 0.072      | 0.143        | 0.065 (0.001)    | 0.289 (0.003)    | 0 (0.000) |     1.71 | Babs, chjna4Q, ferzy, khizha, REGIANE |
+|            1 |     6767 | 2023-11-17 | Atrix Esports             | W   | 0.065      | 0.143        | 0.010 (0.000)    | 0.165 (0.002)    | 0 (0.000) |     0.88 | Babs, chjna4Q, ferzy, khizha, REGIANE |
 
 <br />
 <span id="table2"></span><br />

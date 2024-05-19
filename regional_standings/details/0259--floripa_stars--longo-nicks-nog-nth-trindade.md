@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                    |
+| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      338 | 2024-04-27 | Sensei Team                | L   | 1.000      | -            | -                | -                | -             |   -12.98 | Longo, Nicks, nog, nth, trindade          |
-|           12 |      347 | 2024-04-27 | CSGONET                    | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.032 (0.005)    | false (0.000) |     7.74 | Longo, Nicks, nog, nth, trindade          |
-|           11 |      354 | 2024-04-27 | NIGERIA 96                 | L   | 1.000      | -            | -                | -                | -             |   -17.99 | Longo, Nicks, nog, nth, trindade          |
-|           10 |     1883 | 2024-03-23 | MIBR Female                | W   | 0.913      | 0.143        | 0.027 (0.004)    | 0.199 (0.026)    | false (0.000) |    14.87 | Longo, Nicks, nog, nth, trindade          |
-|            9 |     1885 | 2024-03-23 | SoJoga Academy             | W   | 0.913      | 0.143        | 0.001 (0.000)    | 0.109 (0.014)    | false (0.000) |    13.37 | Longo, Nicks, nog, nth, trindade          |
-|            8 |     1894 | 2024-03-23 | Corinthians Esports        | L   | 0.912      | -            | -                | -                | -             |   -13.60 | Longo, Nicks, nog, nth, trindade          |
-|            7 |     1899 | 2024-03-23 | Formula 1 (Brazilian team) | W   | 0.912      | 0.143        | 0.000 (0.000)    | 0.032 (0.004)    | false (0.000) |     7.88 | Longo, Nicks, nog, nth, trindade          |
-|            6 |     3128 | 2024-02-24 | SoJoga Academy             | L   | 0.727      | -            | -                | -                | -             |   -11.49 | Colt, k1not1, Patoz1k, pkN, telezin       |
-|            5 |     3135 | 2024-02-24 | NIGERIA 96                 | L   | 0.726      | -            | -                | -                | -             |   -12.67 | Longo, nog, nth, trindade, vns1           |
-|            4 |     3143 | 2024-02-24 | CSGONET                    | W   | 0.726      | 0.143        | 0.000 (0.000)    | 0.032 (0.003)    | false (0.000) |     5.52 | Longo, nog, nth, trindade, vns1           |
-|            3 |     3149 | 2024-02-24 | FURIA Esports Female       | W   | 0.725      | 0.143        | 0.048 (0.005)    | 0.205 (0.021)    | false (0.000) |    15.23 | Longo, nog, nth, trindade, vns1           |
-|            2 |     3337 | 2024-02-20 | 9z Team                    | L   | 0.699      | -            | -                | -                | -             |    -3.29 | Longo, nog, nth, trindade, vns1           |
-|            1 |     3388 | 2024-02-19 | Dusty Roots                | W   | 0.694      | 0.143        | 0.005 (0.001)    | 0.352 (0.035)    | false (0.000) |    10.80 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           13 |      338 | 2024-04-27 | Sensei Team                | L   | 1.000      | -            | -                | -                | -         |   -12.98 | Longo, Nicks, nog, nth, trindade          |
+|           12 |      347 | 2024-04-27 | CSGONET                    | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.032 (0.005)    | 0 (0.000) |     7.74 | Longo, Nicks, nog, nth, trindade          |
+|           11 |      354 | 2024-04-27 | NIGERIA 96                 | L   | 1.000      | -            | -                | -                | -         |   -17.99 | Longo, Nicks, nog, nth, trindade          |
+|           10 |     1883 | 2024-03-23 | MIBR Female                | W   | 0.913      | 0.143        | 0.027 (0.004)    | 0.199 (0.026)    | 0 (0.000) |    14.87 | Longo, Nicks, nog, nth, trindade          |
+|            9 |     1885 | 2024-03-23 | SoJoga Academy             | W   | 0.913      | 0.143        | 0.001 (0.000)    | 0.109 (0.014)    | 0 (0.000) |    13.37 | Longo, Nicks, nog, nth, trindade          |
+|            8 |     1894 | 2024-03-23 | Corinthians Esports        | L   | 0.912      | -            | -                | -                | -         |   -13.60 | Longo, Nicks, nog, nth, trindade          |
+|            7 |     1899 | 2024-03-23 | Formula 1 (Brazilian team) | W   | 0.912      | 0.143        | 0.000 (0.000)    | 0.032 (0.004)    | 0 (0.000) |     7.88 | Longo, Nicks, nog, nth, trindade          |
+|            6 |     3128 | 2024-02-24 | SoJoga Academy             | L   | 0.727      | -            | -                | -                | -         |   -11.49 | Colt, k1not1, Patoz1k, pkN, telezin       |
+|            5 |     3135 | 2024-02-24 | NIGERIA 96                 | L   | 0.726      | -            | -                | -                | -         |   -12.67 | Longo, nog, nth, trindade, vns1           |
+|            4 |     3143 | 2024-02-24 | CSGONET                    | W   | 0.726      | 0.143        | 0.000 (0.000)    | 0.032 (0.003)    | 0 (0.000) |     5.52 | Longo, nog, nth, trindade, vns1           |
+|            3 |     3149 | 2024-02-24 | FURIA Esports Female       | W   | 0.725      | 0.143        | 0.048 (0.005)    | 0.205 (0.021)    | 0 (0.000) |    15.23 | Longo, nog, nth, trindade, vns1           |
+|            2 |     3337 | 2024-02-20 | 9z Team                    | L   | 0.699      | -            | -                | -                | -         |    -3.29 | Longo, nog, nth, trindade, vns1           |
+|            1 |     3388 | 2024-02-19 | Dusty Roots                | W   | 0.694      | 0.143        | 0.005 (0.001)    | 0.352 (0.035)    | 0 (0.000) |    10.80 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
 
 <br />
 <span id="table2"></span><br />

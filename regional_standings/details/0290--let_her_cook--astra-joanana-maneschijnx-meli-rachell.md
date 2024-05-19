@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      722 | 2024-04-20 | Guild Esports              | W   | 1.000      | 0.331        | 0.010 (0.003)    | 0.194 (0.064)    | false (0.000) |    20.79 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
-|           10 |      817 | 2024-04-19 | Team Spirit Female         | W   | 1.000      | 0.331        | 0.011 (0.004)    | 0.205 (0.068)    | false (0.000) |    18.53 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
-|            9 |     1175 | 2024-04-11 | NIP Impact                 | L   | 1.000      | -            | -                | -                | -             |    -8.62 | ASTRA, Joanana, kezziwOw, meli, RacheLL    |
-|            8 |     1222 | 2024-04-10 | 1win Gang                  | L   | 1.000      | -            | -                | -                | -             |   -15.04 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
-|            7 |     1287 | 2024-04-09 | Team Spirit Female         | W   | 1.000      | 0.303        | 0.011 (0.003)    | 0.205 (0.062)    | false (0.000) |    18.86 | ASTRA, Joanana, kezziwOw, meli, RacheLL    |
-|            6 |     1414 | 2024-04-06 | Fearless Cheetahs          | L   | 1.000      | -            | -                | -                | -             |   -10.06 | ASTRA, Joanana, kezziwOw, meli, RacheLL    |
-|            5 |     1420 | 2024-04-06 | Questionmark (Female team) | W   | 1.000      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     7.77 | ASTRA, Joanana, kezziwOw, meli, RacheLL    |
-|            4 |     1533 | 2024-04-03 | NAVI Javelins              | W   | 0.985      | 0.331        | 0.062 (0.020)    | 0.328 (0.107)    | false (0.000) |    26.05 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
-|            3 |     3112 | 2024-02-25 | BIG EQUIPA                 | L   | 0.730      | -            | -                | -                | -             |    -6.93 | JennyR, juliano, kyossa, pauliiee, Zana    |
-|            2 |     3167 | 2024-02-24 | Nemesis (Female team)      | W   | 0.724      | 0.143        | 0.000 (0.000)    | 0.051 (0.005)    | false (0.000) |     9.23 | amyb, Emmy, Gaba, Lowlita, Monkey D. Julie |
-|            1 |     3178 | 2024-02-24 | Dogenjoyers                | W   | 0.723      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.57 | anniken, Glymir, KiTTy-KaT, maliTy, Mar1on |
+|           11 |      722 | 2024-04-20 | Guild Esports              | W   | 1.000      | 0.331        | 0.010 (0.003)    | 0.194 (0.064)    | 0 (0.000) |    20.79 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
+|           10 |      817 | 2024-04-19 | Team Spirit Female         | W   | 1.000      | 0.331        | 0.011 (0.004)    | 0.205 (0.068)    | 0 (0.000) |    18.53 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
+|            9 |     1175 | 2024-04-11 | NIP Impact                 | L   | 1.000      | -            | -                | -                | -         |    -8.62 | ASTRA, Joanana, kezziwOw, meli, RacheLL    |
+|            8 |     1222 | 2024-04-10 | 1win Gang                  | L   | 1.000      | -            | -                | -                | -         |   -15.04 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
+|            7 |     1287 | 2024-04-09 | Team Spirit Female         | W   | 1.000      | 0.303        | 0.011 (0.003)    | 0.205 (0.062)    | 0 (0.000) |    18.86 | ASTRA, Joanana, kezziwOw, meli, RacheLL    |
+|            6 |     1414 | 2024-04-06 | Fearless Cheetahs          | L   | 1.000      | -            | -                | -                | -         |   -10.06 | ASTRA, Joanana, kezziwOw, meli, RacheLL    |
+|            5 |     1420 | 2024-04-06 | Questionmark (Female team) | W   | 1.000      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.77 | ASTRA, Joanana, kezziwOw, meli, RacheLL    |
+|            4 |     1533 | 2024-04-03 | NAVI Javelins              | W   | 0.985      | 0.331        | 0.062 (0.020)    | 0.328 (0.107)    | 0 (0.000) |    26.05 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
+|            3 |     3112 | 2024-02-25 | BIG EQUIPA                 | L   | 0.730      | -            | -                | -                | -         |    -6.93 | JennyR, juliano, kyossa, pauliiee, Zana    |
+|            2 |     3167 | 2024-02-24 | Nemesis (Female team)      | W   | 0.724      | 0.143        | 0.000 (0.000)    | 0.051 (0.005)    | 0 (0.000) |     9.23 | amyb, Emmy, Gaba, Lowlita, Monkey D. Julie |
+|            1 |     3178 | 2024-02-24 | Dogenjoyers                | W   | 0.723      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.57 | anniken, Glymir, KiTTy-KaT, maliTy, Mar1on |
 
 <br />
 <span id="table2"></span><br />

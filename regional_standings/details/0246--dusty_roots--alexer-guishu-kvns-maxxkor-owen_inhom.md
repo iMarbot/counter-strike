@@ -34,43 +34,43 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                    |
+| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           35 |      168 | 2024-05-01 | Case Esports               | L   | 1.000      | -            | -                | -                | -             |   -10.00 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           34 |      187 | 2024-05-01 | Sensei Team                | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.409 (0.058)    | false (0.000) |    19.65 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           33 |      506 | 2024-04-24 | Vikings KR                 | L   | 1.000      | -            | -                | -                | -             |   -12.06 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           32 |      861 | 2024-04-18 | 9z Academy                 | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.237 (0.034)    | false (0.000) |    14.20 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           31 |      995 | 2024-04-16 | ODDIK Academy              | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.160 (0.023)    | false (0.000) |    14.86 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           30 |     1091 | 2024-04-13 | Sharks Youngsters          | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.211 (0.030)    | false (0.000) |    15.29 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           29 |     1094 | 2024-04-13 | 9z Academy                 | L   | 1.000      | -            | -                | -                | -             |   -15.51 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           28 |     1129 | 2024-04-12 | Vex Dragons                | W   | 1.000      | -            | -                | -                | false (0.000) |     6.42 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           27 |     1473 | 2024-04-04 | FURIA Academy              | L   | 0.992      | -            | -                | -                | -             |   -16.05 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           26 |     1597 | 2024-04-01 | Corinthians Esports        | W   | 0.972      | 0.143        | 0.005 (0.001)    | 0.346 (0.048)    | false (0.000) |    16.84 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           25 |     1688 | 2024-03-28 | Bounty Hunters Esports     | L   | 0.945      | -            | -                | -                | -             |   -18.37 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           24 |     1928 | 2024-03-22 | Intense Game               | L   | 0.906      | -            | -                | -                | -             |   -11.08 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           23 |     1971 | 2024-03-21 | Vikings KR                 | L   | 0.899      | -            | -                | -                | -             |   -12.78 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           22 |     2019 | 2024-03-20 | MIBR Academy               | W   | 0.892      | 0.262        | 0.011 (0.003)    | 0.455 (0.106)    | false (0.000) |    17.29 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           21 |     2249 | 2024-03-14 | Yawara E-Sports            | W   | 0.853      | 0.262        | 0.005 (0.001)    | 0.361 (0.080)    | false (0.000) |    15.16 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           20 |     3388 | 2024-02-19 | Floripa Stars              | L   | 0.694      | -            | -                | -                | -             |   -10.80 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           19 |     3526 | 2024-02-16 | FURIA Academy              | L   | 0.672      | -            | -                | -                | -             |   -13.51 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           18 |     3718 | 2024-02-12 | Case Esports               | L   | 0.645      | -            | -                | -                | -             |    -5.95 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           17 |     4255 | 2024-01-27 | Vex Dragons                | W   | 0.539      | 0.143        | -                | 0.015 (0.001)    | false (0.000) |     3.08 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           16 |     4259 | 2024-01-27 | Full House Gaming          | L   | 0.539      | -            | -                | -                | -             |    -9.06 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           15 |     4345 | 2024-01-25 | Flamengo Esports           | L   | 0.527      | -            | -                | -                | -             |   -10.57 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
-|           14 |     5079 | 2024-01-09 | O Plano                    | W   | 0.419      | -            | -                | -                | false (0.000) |     3.88 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|           13 |     5142 | 2024-01-08 | Os Guri da Net             | W   | 0.414      | -            | -                | -                | -             |     2.17 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|           12 |     5342 | 2023-12-17 | Overrated (Brazilian team) | W   | 0.266      | -            | -                | -                | -             |     3.21 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|           11 |     5344 | 2023-12-17 | Martians                   | W   | 0.266      | 0.143        | 0.001 (0.000)    | 0.108 (0.004)    | -             |     3.74 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|           10 |     5433 | 2023-12-16 | IMPACTgg                   | W   | 0.260      | -            | -                | -                | -             |     2.23 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|            9 |     5441 | 2023-12-16 | Overrated (Brazilian team) | L   | 0.259      | -            | -                | -                | -             |    -5.06 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|            8 |     5662 | 2023-12-12 | Case Esports               | L   | 0.233      | -            | -                | -                | -             |    -3.30 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|            7 |     6196 | 2023-11-30 | VELOX Argentina            | L   | 0.152      | -            | -                | -                | -             |    -2.76 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|            6 |     6233 | 2023-11-29 | Team Solid                 | L   | 0.147      | -            | -                | -                | -             |    -1.11 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|            5 |     6297 | 2023-11-28 | WINDINGO                   | W   | 0.139      | 0.284        | 0.004 (0.000)    | -                | -             |     2.04 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|            4 |     6347 | 2023-11-27 | 9z Academy                 | W   | 0.133      | 0.284        | 0.003 (0.000)    | 0.237 (0.009)    | -             |     1.95 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|            3 |     6459 | 2023-11-24 | W7m esports                | L   | 0.113      | -            | -                | -                | -             |    -2.23 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|            2 |     6500 | 2023-11-23 | WINDINGO                   | L   | 0.106      | -            | -                | -                | -             |    -1.81 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
-|            1 |     6857 | 2023-11-15 | Arena Jogue Fácil Esports  | L   | 0.053      | -            | -                | -                | -             |    -0.93 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|           35 |      168 | 2024-05-01 | Case Esports               | L   | 1.000      | -            | -                | -                | -         |   -10.00 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           34 |      187 | 2024-05-01 | Sensei Team                | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.409 (0.058)    | 0 (0.000) |    19.65 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           33 |      506 | 2024-04-24 | Vikings KR                 | L   | 1.000      | -            | -                | -                | -         |   -12.06 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           32 |      861 | 2024-04-18 | 9z Academy                 | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.237 (0.034)    | 0 (0.000) |    14.20 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           31 |      995 | 2024-04-16 | ODDIK Academy              | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.160 (0.023)    | 0 (0.000) |    14.86 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           30 |     1091 | 2024-04-13 | Sharks Youngsters          | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.211 (0.030)    | 0 (0.000) |    15.29 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           29 |     1094 | 2024-04-13 | 9z Academy                 | L   | 1.000      | -            | -                | -                | -         |   -15.51 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           28 |     1129 | 2024-04-12 | Vex Dragons                | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.42 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           27 |     1473 | 2024-04-04 | FURIA Academy              | L   | 0.992      | -            | -                | -                | -         |   -16.05 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           26 |     1597 | 2024-04-01 | Corinthians Esports        | W   | 0.972      | 0.143        | 0.005 (0.001)    | 0.346 (0.048)    | 0 (0.000) |    16.84 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           25 |     1688 | 2024-03-28 | Bounty Hunters Esports     | L   | 0.945      | -            | -                | -                | -         |   -18.37 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           24 |     1928 | 2024-03-22 | Intense Game               | L   | 0.906      | -            | -                | -                | -         |   -11.08 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           23 |     1971 | 2024-03-21 | Vikings KR                 | L   | 0.899      | -            | -                | -                | -         |   -12.78 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           22 |     2019 | 2024-03-20 | MIBR Academy               | W   | 0.892      | 0.262        | 0.011 (0.003)    | 0.455 (0.106)    | 0 (0.000) |    17.29 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           21 |     2249 | 2024-03-14 | Yawara E-Sports            | W   | 0.853      | 0.262        | 0.005 (0.001)    | 0.361 (0.080)    | 0 (0.000) |    15.16 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           20 |     3388 | 2024-02-19 | Floripa Stars              | L   | 0.694      | -            | -                | -                | -         |   -10.80 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           19 |     3526 | 2024-02-16 | FURIA Academy              | L   | 0.672      | -            | -                | -                | -         |   -13.51 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           18 |     3718 | 2024-02-12 | Case Esports               | L   | 0.645      | -            | -                | -                | -         |    -5.95 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           17 |     4255 | 2024-01-27 | Vex Dragons                | W   | 0.539      | 0.143        | -                | 0.015 (0.001)    | 0 (0.000) |     3.08 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           16 |     4259 | 2024-01-27 | Full House Gaming          | L   | 0.539      | -            | -                | -                | -         |    -9.06 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           15 |     4345 | 2024-01-25 | Flamengo Esports           | L   | 0.527      | -            | -                | -                | -         |   -10.57 | alexer, guishu, KvNs, maxxkor, Owen$inhoM |
+|           14 |     5079 | 2024-01-09 | O Plano                    | W   | 0.419      | -            | -                | -                | 0 (0.000) |     3.88 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|           13 |     5142 | 2024-01-08 | Os Guri da Net             | W   | 0.414      | -            | -                | -                | -         |     2.17 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|           12 |     5342 | 2023-12-17 | Overrated (Brazilian team) | W   | 0.266      | -            | -                | -                | -         |     3.21 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|           11 |     5344 | 2023-12-17 | Martians                   | W   | 0.266      | 0.143        | 0.001 (0.000)    | 0.108 (0.004)    | -         |     3.74 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|           10 |     5433 | 2023-12-16 | IMPACTgg                   | W   | 0.260      | -            | -                | -                | -         |     2.23 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|            9 |     5441 | 2023-12-16 | Overrated (Brazilian team) | L   | 0.259      | -            | -                | -                | -         |    -5.06 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|            8 |     5662 | 2023-12-12 | Case Esports               | L   | 0.233      | -            | -                | -                | -         |    -3.30 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|            7 |     6196 | 2023-11-30 | VELOX Argentina            | L   | 0.152      | -            | -                | -                | -         |    -2.76 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|            6 |     6233 | 2023-11-29 | Team Solid                 | L   | 0.147      | -            | -                | -                | -         |    -1.11 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|            5 |     6297 | 2023-11-28 | WINDINGO                   | W   | 0.139      | 0.284        | 0.004 (0.000)    | -                | -         |     2.04 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|            4 |     6347 | 2023-11-27 | 9z Academy                 | W   | 0.133      | 0.284        | 0.003 (0.000)    | 0.237 (0.009)    | -         |     1.95 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|            3 |     6459 | 2023-11-24 | W7m esports                | L   | 0.113      | -            | -                | -                | -         |    -2.23 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|            2 |     6500 | 2023-11-23 | WINDINGO                   | L   | 0.106      | -            | -                | -                | -         |    -1.81 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
+|            1 |     6857 | 2023-11-15 | Arena Jogue Fácil Esports  | L   | 0.053      | -            | -                | -                | -         |    -0.93 | gon, guishu, KvNs, maxxkor, Owen$inhoM    |
 
 <br />
 <span id="table2"></span><br />

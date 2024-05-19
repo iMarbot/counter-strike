@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      660 | 2024-04-21 | Nalakuvara        | W   | 1.000      | 0.143        | 0.027 (0.004)    | 0.070 (0.010)    | true (1.000)  |    13.44 | Biuckmt, madness, NARONE, Roninbaby, twy |
-|            9 |      674 | 2024-04-20 | Pressure Monsters | W   | 1.000      | 0.143        | 0.009 (0.001)    | 0.035 (0.005)    | true (1.000)  |    10.24 | Biuckmt, madness, NARONE, Roninbaby, twy |
-|            8 |      726 | 2024-04-20 | Team Remember     | W   | 1.000      | 0.143        | 0.022 (0.003)    | 0.067 (0.010)    | true (1.000)  |     8.59 | Biuckmt, madness, NARONE, Roninbaby, twy |
-|            7 |      784 | 2024-04-19 | Pressure Monsters | L   | 1.000      | -            | -                | -                | -             |   -20.88 | Biuckmt, madness, NARONE, Roninbaby, twy |
-|            6 |     4581 | 2024-01-19 | Rare Atom         | L   | 0.488      | -            | -                | -                | -             |   -10.47 | Biuckmt, madness, NARONE, S1kura, Xan    |
-|            5 |     4633 | 2024-01-18 | TYLOO             | L   | 0.482      | -            | -                | -                | -             |    -4.34 | Biuckmt, madness, NARONE, S1kura, Xan    |
-|            4 |     4946 | 2024-01-12 | Nirvana Esports   | W   | 0.437      | 0.143        | 0.000 (0.000)    | 0.031 (0.002)    | false (0.000) |     0.88 | Biuckmt, madness, NARONE, S1kura, Xan    |
-|            3 |     4951 | 2024-01-12 | Rare Atom         | L   | 0.437      | -            | -                | -                | -             |    -9.51 | Biuckmt, madness, NARONE, S1kura, Xan    |
-|            2 |     4958 | 2024-01-11 | 小冰龙XBL            | W   | 0.436      | 0.143        | 0.000 (0.000)    | 0.015 (0.001)    | false (0.000) |     1.30 | Biuckmt, madness, NARONE, S1kura, Xan    |
-|            1 |     4973 | 2024-01-11 | EzBoomFish        | W   | 0.435      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     0.79 | Biuckmt, madness, NARONE, S1kura, Xan    |
+|           10 |      660 | 2024-04-21 | Nalakuvara        | W   | 1.000      | 0.143        | 0.027 (0.004)    | 0.070 (0.010)    | 1 (1.000) |    13.44 | Biuckmt, madness, NARONE, Roninbaby, twy |
+|            9 |      674 | 2024-04-20 | Pressure Monsters | W   | 1.000      | 0.143        | 0.009 (0.001)    | 0.035 (0.005)    | 1 (1.000) |    10.24 | Biuckmt, madness, NARONE, Roninbaby, twy |
+|            8 |      726 | 2024-04-20 | Team Remember     | W   | 1.000      | 0.143        | 0.022 (0.003)    | 0.067 (0.010)    | 1 (1.000) |     8.59 | Biuckmt, madness, NARONE, Roninbaby, twy |
+|            7 |      784 | 2024-04-19 | Pressure Monsters | L   | 1.000      | -            | -                | -                | -         |   -20.88 | Biuckmt, madness, NARONE, Roninbaby, twy |
+|            6 |     4581 | 2024-01-19 | Rare Atom         | L   | 0.488      | -            | -                | -                | -         |   -10.47 | Biuckmt, madness, NARONE, S1kura, Xan    |
+|            5 |     4633 | 2024-01-18 | TYLOO             | L   | 0.482      | -            | -                | -                | -         |    -4.34 | Biuckmt, madness, NARONE, S1kura, Xan    |
+|            4 |     4946 | 2024-01-12 | Nirvana Esports   | W   | 0.437      | 0.143        | 0.000 (0.000)    | 0.031 (0.002)    | 0 (0.000) |     0.88 | Biuckmt, madness, NARONE, S1kura, Xan    |
+|            3 |     4951 | 2024-01-12 | Rare Atom         | L   | 0.437      | -            | -                | -                | -         |    -9.51 | Biuckmt, madness, NARONE, S1kura, Xan    |
+|            2 |     4958 | 2024-01-11 | 小冰龙XBL            | W   | 0.436      | 0.143        | 0.000 (0.000)    | 0.015 (0.001)    | 0 (0.000) |     1.30 | Biuckmt, madness, NARONE, S1kura, Xan    |
+|            1 |     4973 | 2024-01-11 | EzBoomFish        | W   | 0.435      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.79 | Biuckmt, madness, NARONE, S1kura, Xan    |
 
 <br />
 <span id="table2"></span><br />

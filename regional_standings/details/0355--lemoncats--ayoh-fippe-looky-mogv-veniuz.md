@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                              |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |       46 | 2024-05-04 | Begrip Gaming     | L   | 1.000      | -            | -                | -                | -             |   -12.72 | Ayoh, fippe, looky, mogv, veniuz    |
-|           10 |      573 | 2024-04-23 | Curlews           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |    11.88 | Ayoh, fippe, looky, mogv, veniuz    |
-|            9 |     1484 | 2024-04-04 | Young Gods        | L   | 0.992      | -            | -                | -                | -             |   -15.95 | Ayoh, fippe, looky, mogv, veniuz    |
-|            8 |     2022 | 2024-03-20 | Full Kareta       | W   | 0.892      | 0.143        | 0.000 (0.000)    | 0.035 (0.004)    | false (0.000) |    10.96 | Ayoh, fippe, looky, mogv, veniuz    |
-|            7 |     5665 | 2023-12-12 | HEYDERS           | L   | 0.232      | -            | -                | -                | -             |    -2.33 | Cham, Fraaank, otto, P1ke, Zendy    |
-|            6 |     5720 | 2023-12-10 | TOOMUCHVIDEOGAMES | L   | 0.218      | -            | -                | -                | -             |    -3.01 | Ayoh, fippe, looky, mogv, simpan    |
-|            5 |     5867 | 2023-12-07 | Oxuji Esports     | W   | 0.199      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.57 | Ayoh, fippe, looky, mogv, simpan    |
-|            4 |     5967 | 2023-12-05 | LEON Esports      | L   | 0.186      | -            | -                | -                | -             |    -1.26 | Ayoh, fippe, looky, mogv, simpan    |
-|            3 |     6675 | 2023-11-19 | Kappa Bar         | L   | 0.077      | -            | -                | -                | -             |    -0.80 | AlekS, b0bbzki, HugoXD, nomiss, zen |
-|            2 |     6925 | 2023-11-14 | Young Gods        | W   | 0.045      | 0.143        | 0.000 (0.000)    | 0.204 (0.001)    | false (0.000) |     0.77 | Focus, Lindcs, MaiL09, viz, Wonder  |
-|            1 |     7130 | 2023-11-09 | Kappa Bar         | W   | 0.012      | 0.143        | 0.001 (0.000)    | 0.009 (0.000)    | false (0.000) |     0.25 | Ayoh, fippe, looky, mogv, simpan    |
+|           11 |       46 | 2024-05-04 | Begrip Gaming     | L   | 1.000      | -            | -                | -                | -         |   -12.72 | Ayoh, fippe, looky, mogv, veniuz    |
+|           10 |      573 | 2024-04-23 | Curlews           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.88 | Ayoh, fippe, looky, mogv, veniuz    |
+|            9 |     1484 | 2024-04-04 | Young Gods        | L   | 0.992      | -            | -                | -                | -         |   -15.95 | Ayoh, fippe, looky, mogv, veniuz    |
+|            8 |     2022 | 2024-03-20 | Full Kareta       | W   | 0.892      | 0.143        | 0.000 (0.000)    | 0.035 (0.004)    | 0 (0.000) |    10.96 | Ayoh, fippe, looky, mogv, veniuz    |
+|            7 |     5665 | 2023-12-12 | HEYDERS           | L   | 0.232      | -            | -                | -                | -         |    -2.33 | Cham, Fraaank, otto, P1ke, Zendy    |
+|            6 |     5720 | 2023-12-10 | TOOMUCHVIDEOGAMES | L   | 0.218      | -            | -                | -                | -         |    -3.01 | Ayoh, fippe, looky, mogv, simpan    |
+|            5 |     5867 | 2023-12-07 | Oxuji Esports     | W   | 0.199      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.57 | Ayoh, fippe, looky, mogv, simpan    |
+|            4 |     5967 | 2023-12-05 | LEON Esports      | L   | 0.186      | -            | -                | -                | -         |    -1.26 | Ayoh, fippe, looky, mogv, simpan    |
+|            3 |     6675 | 2023-11-19 | Kappa Bar         | L   | 0.077      | -            | -                | -                | -         |    -0.80 | AlekS, b0bbzki, HugoXD, nomiss, zen |
+|            2 |     6925 | 2023-11-14 | Young Gods        | W   | 0.045      | 0.143        | 0.000 (0.000)    | 0.204 (0.001)    | 0 (0.000) |     0.77 | Focus, Lindcs, MaiL09, viz, Wonder  |
+|            1 |     7130 | 2023-11-09 | Kappa Bar         | W   | 0.012      | 0.143        | 0.001 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     0.25 | Ayoh, fippe, looky, mogv, simpan    |
 
 <br />
 <span id="table2"></span><br />

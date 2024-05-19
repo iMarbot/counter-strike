@@ -34,30 +34,30 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins     | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           22 |      380 | 2024-04-27 | G2 Esports        | L   | 1.000      | -            | -                | -                | -            |    -2.18 | dupreeh, maden, Magisk, Snappi, SunPayus |
-|           21 |      443 | 2024-04-26 | BetBoom Team      | L   | 1.000      | -            | -                | -                | -            |   -12.75 | dupreeh, maden, Magisk, Snappi, SunPayus |
-|           20 |      489 | 2024-04-25 | TYLOO             | W   | 1.000      | 0.889        | 0.131 (0.117)    | 0.592 (0.526)    | true (1.000) |     4.70 | dupreeh, maden, Magisk, Snappi, SunPayus |
-|           19 |      546 | 2024-04-24 | The MongolZ       | L   | 1.000      | -            | -                | -                | -            |    -6.96 | dupreeh, maden, Magisk, Snappi, SunPayus |
-|           18 |      933 | 2024-04-17 | RUBY              | L   | 1.000      | -            | -                | -                | -            |   -28.77 | dupreeh, maden, Magisk, Snappi, SunPayus |
-|           17 |     2603 | 2024-03-06 | Metizport         | L   | 0.799      | -            | -                | -                | -            |   -20.64 | maden, Magisk, s1mple, Snappi, SunPayus  |
-|           16 |     3549 | 2024-02-16 | AMKAL ESPORTS     | L   | 0.670      | -            | -                | -                | -            |   -15.82 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|           15 |     3602 | 2024-02-15 | Eternal Fire      | L   | 0.663      | -            | -                | -                | -            |    -2.24 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|           14 |     3622 | 2024-02-14 | FaZe Clan         | L   | 0.658      | -            | -                | -                | -            |    -0.81 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|           13 |     3636 | 2024-02-14 | 3DMAX             | W   | 0.658      | 0.143        | 0.062 (0.006)    | 0.393 (0.037)    | true (0.658) |     1.74 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|           12 |     3764 | 2024-02-10 | Team Spirit       | L   | 0.632      | -            | -                | -                | -            |    -1.55 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|           11 |     3789 | 2024-02-09 | ENCE              | W   | 0.625      | 1.000        | 0.377 (0.236)    | 0.352 (0.220)    | true (0.625) |    13.99 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|           10 |     3862 | 2024-02-06 | Natus Vincere     | W   | 0.605      | 1.000        | 1.000 (0.605)    | 0.406 (0.246)    | true (0.605) |    18.30 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|            9 |     3886 | 2024-02-05 | Complexity Gaming | W   | 0.599      | 1.000        | 0.271 (0.163)    | 0.274 (0.164)    | true (0.599) |    13.05 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|            8 |     3916 | 2024-02-04 | Rebels Gaming     | W   | 0.592      | 1.000        | 0.121 (0.072)    | 0.376 (0.222)    | true (0.592) |     4.09 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|            7 |     3999 | 2024-02-03 | Eternal Fire      | L   | 0.584      | -            | -                | -                | -            |    -1.43 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|            6 |     4337 | 2024-01-26 | Team Vitality     | L   | 0.530      | -            | -                | -                | -            |    -0.76 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|            5 |     4423 | 2024-01-23 | OG                | W   | 0.512      | 0.581        | 0.594 (0.177)    | 0.390 (0.116)    | true (0.512) |     7.28 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|            4 |     4469 | 2024-01-22 | Astralis          | L   | 0.505      | -            | -                | -                | -            |    -4.43 | BOROS, maden, Magisk, Snappi, SunPayus   |
-|            3 |     7023 | 2023-11-12 | FaZe Clan         | L   | 0.029      | -            | -                | -                | -            |    -0.03 | maden, NertZ, Snappi, SunPayus, VLDN     |
-|            2 |     7215 | 2023-11-08 | Astralis          | L   | 0.003      | -            | -                | -                | -            |    -0.08 | b0RUP, blameF, Buzz, dev1ce, Staehr      |
-|            1 |     7218 | 2023-11-07 | TYLOO             | W   | 0.001      | 0.769        | 0.131 (0.000)    | 0.592 (0.001)    | true (0.001) |     0.01 | advent, JamYoung, kaze, Mercury, Moseyuh |
+|           22 |      380 | 2024-04-27 | G2 Esports        | L   | 1.000      | -            | -                | -                | -         |    -2.18 | dupreeh, maden, Magisk, Snappi, SunPayus |
+|           21 |      443 | 2024-04-26 | BetBoom Team      | L   | 1.000      | -            | -                | -                | -         |   -12.75 | dupreeh, maden, Magisk, Snappi, SunPayus |
+|           20 |      489 | 2024-04-25 | TYLOO             | W   | 1.000      | 0.889        | 0.131 (0.117)    | 0.592 (0.526)    | 1 (1.000) |     4.70 | dupreeh, maden, Magisk, Snappi, SunPayus |
+|           19 |      546 | 2024-04-24 | The MongolZ       | L   | 1.000      | -            | -                | -                | -         |    -6.96 | dupreeh, maden, Magisk, Snappi, SunPayus |
+|           18 |      933 | 2024-04-17 | RUBY              | L   | 1.000      | -            | -                | -                | -         |   -28.77 | dupreeh, maden, Magisk, Snappi, SunPayus |
+|           17 |     2603 | 2024-03-06 | Metizport         | L   | 0.799      | -            | -                | -                | -         |   -20.64 | maden, Magisk, s1mple, Snappi, SunPayus  |
+|           16 |     3549 | 2024-02-16 | AMKAL ESPORTS     | L   | 0.670      | -            | -                | -                | -         |   -15.82 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|           15 |     3602 | 2024-02-15 | Eternal Fire      | L   | 0.663      | -            | -                | -                | -         |    -2.24 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|           14 |     3622 | 2024-02-14 | FaZe Clan         | L   | 0.658      | -            | -                | -                | -         |    -0.81 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|           13 |     3636 | 2024-02-14 | 3DMAX             | W   | 0.658      | 0.143        | 0.062 (0.006)    | 0.393 (0.037)    | 1 (0.658) |     1.74 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|           12 |     3764 | 2024-02-10 | Team Spirit       | L   | 0.632      | -            | -                | -                | -         |    -1.55 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|           11 |     3789 | 2024-02-09 | ENCE              | W   | 0.625      | 1.000        | 0.377 (0.236)    | 0.352 (0.220)    | 1 (0.625) |    13.99 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|           10 |     3862 | 2024-02-06 | Natus Vincere     | W   | 0.605      | 1.000        | 1.000 (0.605)    | 0.406 (0.246)    | 1 (0.605) |    18.30 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|            9 |     3886 | 2024-02-05 | Complexity Gaming | W   | 0.599      | 1.000        | 0.271 (0.163)    | 0.274 (0.164)    | 1 (0.599) |    13.05 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|            8 |     3916 | 2024-02-04 | Rebels Gaming     | W   | 0.592      | 1.000        | 0.121 (0.072)    | 0.376 (0.222)    | 1 (0.592) |     4.09 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|            7 |     3999 | 2024-02-03 | Eternal Fire      | L   | 0.584      | -            | -                | -                | -         |    -1.43 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|            6 |     4337 | 2024-01-26 | Team Vitality     | L   | 0.530      | -            | -                | -                | -         |    -0.76 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|            5 |     4423 | 2024-01-23 | OG                | W   | 0.512      | 0.581        | 0.594 (0.177)    | 0.390 (0.116)    | 1 (0.512) |     7.28 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|            4 |     4469 | 2024-01-22 | Astralis          | L   | 0.505      | -            | -                | -                | -         |    -4.43 | BOROS, maden, Magisk, Snappi, SunPayus   |
+|            3 |     7023 | 2023-11-12 | FaZe Clan         | L   | 0.029      | -            | -                | -                | -         |    -0.03 | maden, NertZ, Snappi, SunPayus, VLDN     |
+|            2 |     7215 | 2023-11-08 | Astralis          | L   | 0.003      | -            | -                | -                | -         |    -0.08 | b0RUP, blameF, Buzz, dev1ce, Staehr      |
+|            1 |     7218 | 2023-11-07 | TYLOO             | W   | 0.001      | 0.769        | 0.131 (0.000)    | 0.592 (0.001)    | 1 (0.001) |     0.01 | advent, JamYoung, kaze, Mercury, Moseyuh |
 
 <br />
 <span id="table2"></span><br />

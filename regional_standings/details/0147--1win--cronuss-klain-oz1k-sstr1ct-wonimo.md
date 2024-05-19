@@ -34,29 +34,29 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                     |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |     2423 | 2024-03-11 | Insilio                     | L   | 0.831      | -            | -                | -                | -             |    -6.38 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|           20 |     2463 | 2024-03-10 | VP.Prodigy                  | W   | 0.824      | 0.371        | 0.029 (0.009)    | 0.762 (0.233)    | false (0.000) |    16.10 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|           19 |     2677 | 2024-03-05 | ARCRED                      | L   | 0.792      | -            | -                | -                | -             |   -10.47 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|           18 |     2738 | 2024-03-04 | Team Space                  | L   | 0.786      | -            | -                | -                | -             |   -14.05 | 7tetsu, cronuss, klain, spiker, wonimo     |
-|           17 |     2883 | 2024-03-02 | CYBERSHOKE Esports          | W   | 0.771      | 0.371        | 0.004 (0.001)    | 0.220 (0.063)    | false (0.000) |    11.03 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|           16 |     2945 | 2024-02-29 | BLESSED (Ukrainian team)    | L   | 0.759      | -            | -                | -                | -             |    -9.85 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|           15 |     2987 | 2024-02-28 | UNiTY esports (Slovak team) | W   | 0.752      | 0.371        | 0.055 (0.015)    | 0.727 (0.203)    | false (0.000) |    14.60 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|           14 |     3104 | 2024-02-25 | VaselineWorms               | W   | 0.731      | 0.371        | 0.001 (0.000)    | 0.164 (0.045)    | false (0.000) |     7.82 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|           13 |     3296 | 2024-02-21 | Golden Sword                | W   | 0.705      | 0.371        | 0.000 (0.000)    | -                | false (0.000) |     2.41 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|           12 |     3400 | 2024-02-19 | ALTERNATE aTTaX             | W   | 0.692      | 0.371        | 0.110 (0.028)    | 0.723 (0.186)    | false (0.000) |    17.33 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|           11 |     3573 | 2024-02-15 | Copenhagen Wolves           | W   | 0.666      | 0.371        | 0.000 (0.000)    | 0.417 (0.103)    | false (0.000) |     7.15 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|           10 |     3582 | 2024-02-15 | Lemondogs                   | W   | 0.665      | 0.371        | 0.000 (0.000)    | 0.252 (0.062)    | false (0.000) |     6.06 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|            9 |     3676 | 2024-02-13 | V1dar Gaming                | W   | 0.652      | 0.371        | -                | 0.345 (0.084)    | false (0.000) |     7.29 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|            8 |     3680 | 2024-02-13 | Nemiga Gaming               | L   | 0.651      | -            | -                | -                | -             |    -0.67 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|            7 |     5037 | 2024-01-10 | V1dar Gaming                | L   | 0.426      | -            | -                | -                | -             |    -9.31 | 1mpala, 4X1s, Alv, lom1k, torox            |
-|            6 |     5048 | 2024-01-10 | DOM TOWAROWY                | W   | 0.426      | -            | -                | -                | false (0.000) |     1.78 | bonjorno, michat, misho, moonwalk, stussyy |
-|            5 |     5377 | 2023-12-17 | VP.Prodigy                  | L   | 0.264      | -            | -                | -                | -             |    -3.02 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|            4 |     5446 | 2023-12-16 | DUSTY                       | W   | 0.259      | 0.284        | 0.015 (0.001)    | 0.233 (0.017)    | -             |     4.63 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|            3 |     5502 | 2023-12-16 | ARCRED                      | L   | 0.256      | -            | -                | -                | -             |    -2.90 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|            2 |     5610 | 2023-12-14 | HEYDERS                     | W   | 0.246      | 0.284        | 0.000 (0.000)    | 0.017 (0.001)    | -             |     2.54 | cronuss, klain, oz1k, sstr1ct, wonimo      |
-|            1 |     6439 | 2023-11-25 | Team QUAZAR                 | W   | 0.117      | -            | -                | -                | -             |     0.50 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           21 |     2423 | 2024-03-11 | Insilio                     | L   | 0.831      | -            | -                | -                | -         |    -6.38 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           20 |     2463 | 2024-03-10 | VP.Prodigy                  | W   | 0.824      | 0.371        | 0.029 (0.009)    | 0.762 (0.233)    | 0 (0.000) |    16.10 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           19 |     2677 | 2024-03-05 | ARCRED                      | L   | 0.792      | -            | -                | -                | -         |   -10.47 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           18 |     2738 | 2024-03-04 | Team Space                  | L   | 0.786      | -            | -                | -                | -         |   -14.05 | 7tetsu, cronuss, klain, spiker, wonimo     |
+|           17 |     2883 | 2024-03-02 | CYBERSHOKE Esports          | W   | 0.771      | 0.371        | 0.004 (0.001)    | 0.220 (0.063)    | 0 (0.000) |    11.03 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           16 |     2945 | 2024-02-29 | BLESSED (Ukrainian team)    | L   | 0.759      | -            | -                | -                | -         |    -9.85 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           15 |     2987 | 2024-02-28 | UNiTY esports (Slovak team) | W   | 0.752      | 0.371        | 0.055 (0.015)    | 0.727 (0.203)    | 0 (0.000) |    14.60 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           14 |     3104 | 2024-02-25 | VaselineWorms               | W   | 0.731      | 0.371        | 0.001 (0.000)    | 0.164 (0.045)    | 0 (0.000) |     7.82 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           13 |     3296 | 2024-02-21 | Golden Sword                | W   | 0.705      | 0.371        | 0.000 (0.000)    | -                | 0 (0.000) |     2.41 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           12 |     3400 | 2024-02-19 | ALTERNATE aTTaX             | W   | 0.692      | 0.371        | 0.110 (0.028)    | 0.723 (0.186)    | 0 (0.000) |    17.33 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           11 |     3573 | 2024-02-15 | Copenhagen Wolves           | W   | 0.666      | 0.371        | 0.000 (0.000)    | 0.417 (0.103)    | 0 (0.000) |     7.15 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|           10 |     3582 | 2024-02-15 | Lemondogs                   | W   | 0.665      | 0.371        | 0.000 (0.000)    | 0.252 (0.062)    | 0 (0.000) |     6.06 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|            9 |     3676 | 2024-02-13 | V1dar Gaming                | W   | 0.652      | 0.371        | -                | 0.345 (0.084)    | 0 (0.000) |     7.29 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|            8 |     3680 | 2024-02-13 | Nemiga Gaming               | L   | 0.651      | -            | -                | -                | -         |    -0.67 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|            7 |     5037 | 2024-01-10 | V1dar Gaming                | L   | 0.426      | -            | -                | -                | -         |    -9.31 | 1mpala, 4X1s, Alv, lom1k, torox            |
+|            6 |     5048 | 2024-01-10 | DOM TOWAROWY                | W   | 0.426      | -            | -                | -                | 0 (0.000) |     1.78 | bonjorno, michat, misho, moonwalk, stussyy |
+|            5 |     5377 | 2023-12-17 | VP.Prodigy                  | L   | 0.264      | -            | -                | -                | -         |    -3.02 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|            4 |     5446 | 2023-12-16 | DUSTY                       | W   | 0.259      | 0.284        | 0.015 (0.001)    | 0.233 (0.017)    | -         |     4.63 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|            3 |     5502 | 2023-12-16 | ARCRED                      | L   | 0.256      | -            | -                | -                | -         |    -2.90 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|            2 |     5610 | 2023-12-14 | HEYDERS                     | W   | 0.246      | 0.284        | 0.000 (0.000)    | 0.017 (0.001)    | -         |     2.54 | cronuss, klain, oz1k, sstr1ct, wonimo      |
+|            1 |     6439 | 2023-11-25 | Team QUAZAR                 | W   | 0.117      | -            | -                | -                | -         |     0.50 | cronuss, klain, oz1k, sstr1ct, wonimo      |
 
 <br />
 <span id="table2"></span><br />

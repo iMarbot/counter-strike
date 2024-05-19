@@ -34,21 +34,21 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      169 | 2024-05-01 | Corinthians Esports    | L   | 1.000      | -            | -                | -                | -             |   -13.90 | bpg, impax, kindg, shine, spankeer      |
-|           12 |      184 | 2024-05-01 | MIBR Academy           | L   | 1.000      | -            | -                | -                | -             |   -11.23 | bpg, impax, kindg, shine, spankeer      |
-|           11 |     1879 | 2024-03-23 | 2024                   | W   | 0.913      | 0.143        | 0.001 (0.000)    | 0.130 (0.017)    | false (0.000) |    14.17 | DANVIET, farias, Lineko, PremiuM, xns   |
-|           10 |     1887 | 2024-03-23 | Corinthians Esports    | L   | 0.913      | -            | -                | -                | -             |   -11.28 | abr, CutzMeretz, desh, legy, Leomonster |
-|            9 |     1893 | 2024-03-23 | MIBR Female            | W   | 0.912      | 0.143        | 0.027 (0.004)    | 0.199 (0.026)    | false (0.000) |    17.74 | bpg, impax, kindg, shine, spankeer      |
-|            8 |     2252 | 2024-03-14 | Bounty Hunters Esports | L   | 0.852      | -            | -                | -                | -             |   -16.06 | cAnnon, impax, kindg, shine, spankeer   |
-|            7 |     2359 | 2024-03-12 | Intense Game           | L   | 0.840      | -            | -                | -                | -             |    -8.15 | bsd, ckzao, diozera, mxa, Roz           |
-|            6 |     3134 | 2024-02-24 | CSGONET                | W   | 0.726      | 0.143        | 0.000 (0.000)    | 0.032 (0.003)    | false (0.000) |     6.84 | cAnnon, impax, kindg, shine, spankeer   |
-|            5 |     3146 | 2024-02-24 | Myth e-Sports          | L   | 0.725      | -            | -                | -                | -             |   -11.37 | crownzera, Farw, MyRoN, nz1, zhoki      |
-|            4 |     4240 | 2024-01-27 | LA RUGONETA            | L   | 0.540      | -            | -                | -                | -             |   -10.45 | abizz, BK1, KAISER, naz, relentless     |
-|            3 |     5344 | 2023-12-17 | Dusty Roots            | L   | 0.266      | -            | -                | -                | -             |    -3.74 | cAnnon, impax, kindg, shine, spankeer   |
-|            2 |     5428 | 2023-12-16 | Rocket.GG              | W   | 0.260      | 0.143        | 0.001 (0.000)    | 0.070 (0.003)    | false (0.000) |     4.01 | cAnnon, impax, kindg, shine, spankeer   |
-|            1 |     5432 | 2023-12-16 | Bulls 95               | W   | 0.260      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     1.71 | cAnnon, impax, kindg, shine, spankeer   |
+|           13 |      169 | 2024-05-01 | Corinthians Esports    | L   | 1.000      | -            | -                | -                | -         |   -13.90 | bpg, impax, kindg, shine, spankeer      |
+|           12 |      184 | 2024-05-01 | MIBR Academy           | L   | 1.000      | -            | -                | -                | -         |   -11.23 | bpg, impax, kindg, shine, spankeer      |
+|           11 |     1879 | 2024-03-23 | 2024                   | W   | 0.913      | 0.143        | 0.001 (0.000)    | 0.130 (0.017)    | 0 (0.000) |    14.17 | DANVIET, farias, Lineko, PremiuM, xns   |
+|           10 |     1887 | 2024-03-23 | Corinthians Esports    | L   | 0.913      | -            | -                | -                | -         |   -11.28 | abr, CutzMeretz, desh, legy, Leomonster |
+|            9 |     1893 | 2024-03-23 | MIBR Female            | W   | 0.912      | 0.143        | 0.027 (0.004)    | 0.199 (0.026)    | 0 (0.000) |    17.74 | bpg, impax, kindg, shine, spankeer      |
+|            8 |     2252 | 2024-03-14 | Bounty Hunters Esports | L   | 0.852      | -            | -                | -                | -         |   -16.06 | cAnnon, impax, kindg, shine, spankeer   |
+|            7 |     2359 | 2024-03-12 | Intense Game           | L   | 0.840      | -            | -                | -                | -         |    -8.15 | bsd, ckzao, diozera, mxa, Roz           |
+|            6 |     3134 | 2024-02-24 | CSGONET                | W   | 0.726      | 0.143        | 0.000 (0.000)    | 0.032 (0.003)    | 0 (0.000) |     6.84 | cAnnon, impax, kindg, shine, spankeer   |
+|            5 |     3146 | 2024-02-24 | Myth e-Sports          | L   | 0.725      | -            | -                | -                | -         |   -11.37 | crownzera, Farw, MyRoN, nz1, zhoki      |
+|            4 |     4240 | 2024-01-27 | LA RUGONETA            | L   | 0.540      | -            | -                | -                | -         |   -10.45 | abizz, BK1, KAISER, naz, relentless     |
+|            3 |     5344 | 2023-12-17 | Dusty Roots            | L   | 0.266      | -            | -                | -                | -         |    -3.74 | cAnnon, impax, kindg, shine, spankeer   |
+|            2 |     5428 | 2023-12-16 | Rocket.GG              | W   | 0.260      | 0.143        | 0.001 (0.000)    | 0.070 (0.003)    | 0 (0.000) |     4.01 | cAnnon, impax, kindg, shine, spankeer   |
+|            1 |     5432 | 2023-12-16 | Bulls 95               | W   | 0.260      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.71 | cAnnon, impax, kindg, shine, spankeer   |
 
 <br />
 <span id="table2"></span><br />

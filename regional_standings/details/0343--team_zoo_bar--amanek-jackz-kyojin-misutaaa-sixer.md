@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                    |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     1366 | 2024-04-07 | GenOne               | L   | 1.000      | -            | -                | -                | -             |   -12.46 | AMANEK, JACKZ, Kyojin, misutaaa, SIXER    |
-|           14 |     4927 | 2024-01-12 | Sprout               | W   | 0.439      | 0.143        | 0.000 (0.000)    | 0.065 (0.004)    | false (0.000) |     6.43 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|           13 |     4937 | 2024-01-12 | CYBERSHOKE Esports   | W   | 0.439      | 0.143        | 0.004 (0.000)    | 0.220 (0.014)    | false (0.000) |    10.75 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|           12 |     5108 | 2024-01-09 | Gaimin Gladiators    | L   | 0.418      | -            | -                | -                | -             |    -0.07 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|           11 |     6243 | 2023-11-29 | TUSTE CHOPAKI        | L   | 0.146      | -            | -                | -                | -             |    -2.42 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|           10 |     6303 | 2023-11-28 | TY                   | W   | 0.139      | 0.371        | 0.011 (0.001)    | 0.055 (0.003)    | false (0.000) |     3.25 | fierre, maty, spardaus, tooizera, yakuza  |
-|            9 |     6314 | 2023-11-28 | Grindas              | W   | 0.138      | 0.371        | 0.002 (0.000)    | 0.332 (0.017)    | false (0.000) |     3.28 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|            8 |     6480 | 2023-11-24 | Ex-Hot Headed Gaming | W   | 0.111      | 0.371        | 0.000 (0.000)    | 0.117 (0.005)    | false (0.000) |     1.81 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|            7 |     6485 | 2023-11-24 | Nexus Gaming         | L   | 0.111      | -            | -                | -                | -             |    -0.27 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|            6 |     6509 | 2023-11-23 | Bleiz                | W   | 0.105      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     1.48 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|            5 |     6513 | 2023-11-23 | Lilmix               | L   | 0.105      | -            | -                | -                | -             |    -0.80 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|            4 |     6771 | 2023-11-17 | BAKS Esports         | W   | 0.065      | 0.371        | 0.003 (0.000)    | 0.084 (0.002)    | false (0.000) |     1.44 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|            3 |     6776 | 2023-11-17 | CYBERSHOKE Esports   | L   | 0.064      | -            | -                | -                | -             |    -0.41 | fen2k, FenomeN, flamie, Re1GN, sh1nejezzz |
-|            2 |     6878 | 2023-11-15 | Team Space           | L   | 0.052      | -            | -                | -                | -             |    -0.34 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
-|            1 |     7165 | 2023-11-08 | Verdant              | W   | 0.006      | 0.371        | 0.027 (0.000)    | 0.662 (0.001)    | false (0.000) |     0.16 | arTisT, Ducky, Extinct, Girafffe, Wolfie  |
+|           15 |     1366 | 2024-04-07 | GenOne               | L   | 1.000      | -            | -                | -                | -         |   -12.46 | AMANEK, JACKZ, Kyojin, misutaaa, SIXER    |
+|           14 |     4927 | 2024-01-12 | Sprout               | W   | 0.439      | 0.143        | 0.000 (0.000)    | 0.065 (0.004)    | 0 (0.000) |     6.43 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|           13 |     4937 | 2024-01-12 | CYBERSHOKE Esports   | W   | 0.439      | 0.143        | 0.004 (0.000)    | 0.220 (0.014)    | 0 (0.000) |    10.75 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|           12 |     5108 | 2024-01-09 | Gaimin Gladiators    | L   | 0.418      | -            | -                | -                | -         |    -0.07 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|           11 |     6243 | 2023-11-29 | TUSTE CHOPAKI        | L   | 0.146      | -            | -                | -                | -         |    -2.42 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|           10 |     6303 | 2023-11-28 | TY                   | W   | 0.139      | 0.371        | 0.011 (0.001)    | 0.055 (0.003)    | 0 (0.000) |     3.25 | fierre, maty, spardaus, tooizera, yakuza  |
+|            9 |     6314 | 2023-11-28 | Grindas              | W   | 0.138      | 0.371        | 0.002 (0.000)    | 0.332 (0.017)    | 0 (0.000) |     3.28 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|            8 |     6480 | 2023-11-24 | Ex-Hot Headed Gaming | W   | 0.111      | 0.371        | 0.000 (0.000)    | 0.117 (0.005)    | 0 (0.000) |     1.81 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|            7 |     6485 | 2023-11-24 | Nexus Gaming         | L   | 0.111      | -            | -                | -                | -         |    -0.27 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|            6 |     6509 | 2023-11-23 | Bleiz                | W   | 0.105      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.48 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|            5 |     6513 | 2023-11-23 | Lilmix               | L   | 0.105      | -            | -                | -                | -         |    -0.80 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|            4 |     6771 | 2023-11-17 | BAKS Esports         | W   | 0.065      | 0.371        | 0.003 (0.000)    | 0.084 (0.002)    | 0 (0.000) |     1.44 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|            3 |     6776 | 2023-11-17 | CYBERSHOKE Esports   | L   | 0.064      | -            | -                | -                | -         |    -0.41 | fen2k, FenomeN, flamie, Re1GN, sh1nejezzz |
+|            2 |     6878 | 2023-11-15 | Team Space           | L   | 0.052      | -            | -                | -                | -         |    -0.34 | AMANEK, devoduvek, drac, Kyojin, SIXER    |
+|            1 |     7165 | 2023-11-08 | Verdant              | W   | 0.006      | 0.371        | 0.027 (0.000)    | 0.662 (0.001)    | 0 (0.000) |     0.16 | arTisT, Ducky, Extinct, Girafffe, Wolfie  |
 
 <br />
 <span id="table2"></span><br />

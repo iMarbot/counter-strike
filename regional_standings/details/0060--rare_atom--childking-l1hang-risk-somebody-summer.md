@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                    |
+| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      656 | 2024-04-21 | ATOX Esports             | W   | 1.000      | 0.143        | 0.112 (0.016)    | 0.769 (0.110)    | false (0.000) |    21.57 | ChildKing, L1haNg, risk, somebody, Summer |
-|           10 |      675 | 2024-04-20 | High Five (Chinese team) | W   | 1.000      | 0.143        | 0.045 (0.006)    | 0.282 (0.040)    | false (0.000) |     8.33 | ChildKing, L1haNg, risk, somebody, Summer |
-|            9 |      837 | 2024-04-19 | The MongolZ              | L   | 1.000      | -            | -                | -                | -             |    -0.86 | ChildKing, L1haNg, risk, somebody, Summer |
-|            8 |      850 | 2024-04-19 | TYLOO                    | W   | 1.000      | 0.143        | 0.131 (0.019)    | 0.592 (0.085)    | false (0.000) |    21.24 | ChildKing, L1haNg, risk, somebody, Summer |
-|            7 |      887 | 2024-04-18 | Lynn Vision Gaming       | W   | 1.000      | 0.143        | 0.155 (0.022)    | 0.554 (0.079)    | false (0.000) |    26.16 | ChildKing, L1haNg, risk, somebody, Summer |
-|            6 |      902 | 2024-04-18 | The MongolZ              | L   | 1.000      | -            | -                | -                | -             |    -0.67 | ChildKing, L1haNg, risk, somebody, Summer |
-|            5 |      907 | 2024-04-18 | Lynn Vision Gaming       | W   | 1.000      | 0.143        | 0.155 (0.022)    | 0.554 (0.079)    | false (0.000) |    27.79 | ChildKing, L1haNg, risk, somebody, Summer |
-|            4 |      910 | 2024-04-17 | Rooster                  | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.312 (0.045)    | false (0.000) |    18.29 | ChildKing, L1haNg, risk, somebody, Summer |
-|            3 |      958 | 2024-04-17 | Team NKT                 | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | false (0.000) |     5.75 | ChildKing, L1haNg, risk, somebody, Summer |
-|            2 |      965 | 2024-04-17 | MIRAI Gaming             | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.246 (0.035)    | false (0.000) |    11.79 | ChildKing, L1haNg, risk, somebody, Summer |
-|            1 |     1013 | 2024-04-16 | Born In Far East         | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.138 (0.020)    | false (0.000) |    12.31 | ChildKing, L1haNg, risk, somebody, Summer |
+|           11 |      656 | 2024-04-21 | ATOX Esports             | W   | 1.000      | 0.143        | 0.112 (0.016)    | 0.769 (0.110)    | 0 (0.000) |    21.57 | ChildKing, L1haNg, risk, somebody, Summer |
+|           10 |      675 | 2024-04-20 | High Five (Chinese team) | W   | 1.000      | 0.143        | 0.045 (0.006)    | 0.282 (0.040)    | 0 (0.000) |     8.33 | ChildKing, L1haNg, risk, somebody, Summer |
+|            9 |      837 | 2024-04-19 | The MongolZ              | L   | 1.000      | -            | -                | -                | -         |    -0.86 | ChildKing, L1haNg, risk, somebody, Summer |
+|            8 |      850 | 2024-04-19 | TYLOO                    | W   | 1.000      | 0.143        | 0.131 (0.019)    | 0.592 (0.085)    | 0 (0.000) |    21.24 | ChildKing, L1haNg, risk, somebody, Summer |
+|            7 |      887 | 2024-04-18 | Lynn Vision Gaming       | W   | 1.000      | 0.143        | 0.155 (0.022)    | 0.554 (0.079)    | 0 (0.000) |    26.16 | ChildKing, L1haNg, risk, somebody, Summer |
+|            6 |      902 | 2024-04-18 | The MongolZ              | L   | 1.000      | -            | -                | -                | -         |    -0.67 | ChildKing, L1haNg, risk, somebody, Summer |
+|            5 |      907 | 2024-04-18 | Lynn Vision Gaming       | W   | 1.000      | 0.143        | 0.155 (0.022)    | 0.554 (0.079)    | 0 (0.000) |    27.79 | ChildKing, L1haNg, risk, somebody, Summer |
+|            4 |      910 | 2024-04-17 | Rooster                  | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.312 (0.045)    | 0 (0.000) |    18.29 | ChildKing, L1haNg, risk, somebody, Summer |
+|            3 |      958 | 2024-04-17 | Team NKT                 | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | 0 (0.000) |     5.75 | ChildKing, L1haNg, risk, somebody, Summer |
+|            2 |      965 | 2024-04-17 | MIRAI Gaming             | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.246 (0.035)    | 0 (0.000) |    11.79 | ChildKing, L1haNg, risk, somebody, Summer |
+|            1 |     1013 | 2024-04-16 | Born In Far East         | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.138 (0.020)    | 0 (0.000) |    12.31 | ChildKing, L1haNg, risk, somebody, Summer |
 
 <br />
 <span id="table2"></span><br />

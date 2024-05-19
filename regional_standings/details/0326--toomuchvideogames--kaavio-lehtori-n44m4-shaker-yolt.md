@@ -34,24 +34,24 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |       76 | 2024-05-04 | ENCE Academy                | L   | 1.000      | -            | -                | -                | -             |    -7.01 | kaavio, lehtori, N44M4, shaker, yolt    |
-|           15 |      363 | 2024-04-27 | RoundsGG                    | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.170 (0.024)    | false (0.000) |    20.76 | kaavio, lehtori, N44M4, shaker, yolt    |
-|           14 |      645 | 2024-04-21 | ENCE Academy                | L   | 1.000      | -            | -                | -                | -             |    -5.25 | kaavio, lehtori, N44M4, shaker, yolt    |
-|           13 |      808 | 2024-04-19 | Foxed Gaming                | L   | 1.000      | -            | -                | -                | -             |   -24.14 | kaavio, shaker, STOVVE, weaNd, yolt     |
-|           12 |     1068 | 2024-04-14 | RoundsGG                    | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.170 (0.024)    | false (0.000) |    21.39 | kaavio, lehtori, N44M4, shaker, yolt    |
-|           11 |     1106 | 2024-04-13 | MASONIC                     | L   | 1.000      | -            | -                | -                | -             |    -4.11 | kaavio, lehtori, shaker, Villeboe, yolt |
-|           10 |     1111 | 2024-04-13 | Center Gaming               | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.028 (0.004)    | false (0.000) |     8.38 | kaavio, lehtori, shaker, Villeboe, yolt |
-|            9 |     1396 | 2024-04-06 | VELLAMO                     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     9.35 | kaavio, lehtori, N44M4, shaker, yolt    |
-|            8 |     3948 | 2024-02-03 | Heimo Esports               | W   | 0.585      | 0.143        | 0.020 (0.002)    | 0.229 (0.019)    | false (0.000) |    13.86 | N44M4, shaker, STOVVE, ykis, yolt       |
-|            7 |     3955 | 2024-02-03 | Split                       | W   | 0.585      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.04 | N44M4, shaker, STOVVE, ykis, yolt       |
-|            6 |     3970 | 2024-02-03 | RoundsGG                    | W   | 0.585      | 0.143        | 0.000 (0.000)    | 0.170 (0.014)    | false (0.000) |    13.80 | N44M4, shaker, STOVVE, ykis, yolt       |
-|            5 |     5110 | 2024-01-09 | UNiTY esports (Slovak team) | L   | 0.418      | -            | -                | -                | -             |    -0.94 | kaavio, lehtori, shaker, VORMISTO, yolt |
-|            4 |     5698 | 2023-12-11 | HyperSpirit                 | L   | 0.225      | -            | -                | -                | -             |    -1.56 | kaavio, lehtori, N44M4, shaker, yolt    |
-|            3 |     5720 | 2023-12-10 | Lemoncats                   | W   | 0.218      | 0.333        | 0.000 (0.000)    | 0.076 (0.005)    | false (0.000) |     3.01 | kaavio, lehtori, N44M4, shaker, yolt    |
-|            2 |     5840 | 2023-12-08 | Rhyno Esports               | L   | 0.205      | -            | -                | -                | -             |    -0.52 | kaavio, lehtori, N44M4, shaker, yolt    |
-|            1 |     5933 | 2023-12-06 | Team Raised                 | W   | 0.192      | 0.333        | 0.000 (0.000)    | 0.007 (0.000)    | false (0.000) |     2.12 | kaavio, lehtori, N44M4, shaker, yolt    |
+|           16 |       76 | 2024-05-04 | ENCE Academy                | L   | 1.000      | -            | -                | -                | -         |    -7.01 | kaavio, lehtori, N44M4, shaker, yolt    |
+|           15 |      363 | 2024-04-27 | RoundsGG                    | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.170 (0.024)    | 0 (0.000) |    20.76 | kaavio, lehtori, N44M4, shaker, yolt    |
+|           14 |      645 | 2024-04-21 | ENCE Academy                | L   | 1.000      | -            | -                | -                | -         |    -5.25 | kaavio, lehtori, N44M4, shaker, yolt    |
+|           13 |      808 | 2024-04-19 | Foxed Gaming                | L   | 1.000      | -            | -                | -                | -         |   -24.14 | kaavio, shaker, STOVVE, weaNd, yolt     |
+|           12 |     1068 | 2024-04-14 | RoundsGG                    | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.170 (0.024)    | 0 (0.000) |    21.39 | kaavio, lehtori, N44M4, shaker, yolt    |
+|           11 |     1106 | 2024-04-13 | MASONIC                     | L   | 1.000      | -            | -                | -                | -         |    -4.11 | kaavio, lehtori, shaker, Villeboe, yolt |
+|           10 |     1111 | 2024-04-13 | Center Gaming               | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.028 (0.004)    | 0 (0.000) |     8.38 | kaavio, lehtori, shaker, Villeboe, yolt |
+|            9 |     1396 | 2024-04-06 | VELLAMO                     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.35 | kaavio, lehtori, N44M4, shaker, yolt    |
+|            8 |     3948 | 2024-02-03 | Heimo Esports               | W   | 0.585      | 0.143        | 0.020 (0.002)    | 0.229 (0.019)    | 0 (0.000) |    13.86 | N44M4, shaker, STOVVE, ykis, yolt       |
+|            7 |     3955 | 2024-02-03 | Split                       | W   | 0.585      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.04 | N44M4, shaker, STOVVE, ykis, yolt       |
+|            6 |     3970 | 2024-02-03 | RoundsGG                    | W   | 0.585      | 0.143        | 0.000 (0.000)    | 0.170 (0.014)    | 0 (0.000) |    13.80 | N44M4, shaker, STOVVE, ykis, yolt       |
+|            5 |     5110 | 2024-01-09 | UNiTY esports (Slovak team) | L   | 0.418      | -            | -                | -                | -         |    -0.94 | kaavio, lehtori, shaker, VORMISTO, yolt |
+|            4 |     5698 | 2023-12-11 | HyperSpirit                 | L   | 0.225      | -            | -                | -                | -         |    -1.56 | kaavio, lehtori, N44M4, shaker, yolt    |
+|            3 |     5720 | 2023-12-10 | Lemoncats                   | W   | 0.218      | 0.333        | 0.000 (0.000)    | 0.076 (0.005)    | 0 (0.000) |     3.01 | kaavio, lehtori, N44M4, shaker, yolt    |
+|            2 |     5840 | 2023-12-08 | Rhyno Esports               | L   | 0.205      | -            | -                | -                | -         |    -0.52 | kaavio, lehtori, N44M4, shaker, yolt    |
+|            1 |     5933 | 2023-12-06 | Team Raised                 | W   | 0.192      | 0.333        | 0.000 (0.000)    | 0.007 (0.000)    | 0 (0.000) |     2.12 | kaavio, lehtori, N44M4, shaker, yolt    |
 
 <br />
 <span id="table2"></span><br />

@@ -34,26 +34,26 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                       |
+| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |       64 | 2024-05-04 | ILLYRIANS             | L   | 1.000      | -            | -                | -                | -             |    -9.91 | ammar, gejmzilla, prelideN, rilax, v1w       |
-|           17 |       74 | 2024-05-04 | Regnum                | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.046 (0.007)    | false (0.000) |    17.20 | ammar, gejmzilla, prelideN, rilax, v1w       |
-|           16 |      116 | 2024-05-03 | Kum sa Kosova         | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     6.96 | ammar, arbnorz, gejmzilla, prelideN, rilax   |
-|           15 |      437 | 2024-04-26 | ILLYRIANS             | L   | 1.000      | -            | -                | -                | -             |   -10.37 | ammar, Dinsanety, gejmzilla, rosoneriii, v1w |
-|           14 |     1074 | 2024-04-14 | HEROES (Kosovar team) | L   | 1.000      | -            | -                | -                | -             |   -10.63 | cerber, gulito, Krabeni, makazze, rosoneriii |
-|           13 |     2733 | 2024-03-04 | HAVU Gaming           | L   | 0.786      | -            | -                | -                | -             |    -6.22 | gejmzilla, kressy, PrelideN, rilax, v1w      |
-|           12 |     4187 | 2024-01-29 | PARIVISION            | L   | 0.553      | -            | -                | -                | -             |    -3.65 | gejmzilla, PALM1, PrelideN, rilax, zur1s     |
-|           11 |     5381 | 2023-12-17 | Midnight              | L   | 0.263      | -            | -                | -                | -             |    -4.16 | ammar, cerber, deb0, gejmzilla, v1w          |
-|           10 |     5454 | 2023-12-16 | Ezezepanamera         | W   | 0.259      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | true (0.259)  |     1.65 | dilla, gmart1nii, MELLOWi, muLche, noaHH2    |
-|            9 |     5943 | 2023-12-06 | Passion UA            | L   | 0.190      | -            | -                | -                | -             |    -0.69 | jackasmo, jambo, marat2k, s-chilla, zeRRoFIX |
-|            8 |     6044 | 2023-12-03 | HamaKura              | W   | 0.171      | 0.294        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     1.09 | ammar, cerber, deb0, gejmzilla, v1w          |
-|            7 |     6139 | 2023-12-02 | The Witchers          | L   | 0.163      | -            | -                | -                | -             |    -1.58 | fear, Sdaim, smooya, soulfly, synyx          |
-|            6 |     6392 | 2023-11-26 | Zero Tenacity         | L   | 0.125      | -            | -                | -                | -             |    -0.56 | ammar, cerber, deb0, gejmzilla, v1w          |
-|            5 |     6424 | 2023-11-25 | PSYCHOACTiVE          | W   | 0.118      | 0.143        | 0.000 (0.000)    | 0.019 (0.000)    | false (0.000) |     1.31 | andr1x, DiMKE, Impulse, Katalic, sarenii     |
-|            4 |     6478 | 2023-11-24 | ILLYRIANS             | W   | 0.111      | 0.143        | 0.001 (0.000)    | 0.308 (0.005)    | false (0.000) |     2.18 | ammar, cerber, deb0, gejmzilla, v1w          |
-|            3 |     6567 | 2023-11-22 | RUR Esports           | W   | 0.098      | 0.143        | 0.000 (0.000)    | 0.006 (0.000)    | false (0.000) |     0.97 | ammar, cerber, deb0, gejmzilla, v1w          |
-|            2 |     6615 | 2023-11-20 | Zero Tenacity         | L   | 0.086      | -            | -                | -                | -             |    -0.37 | ammar, cerber, deb0, gejmzilla, v1w          |
-|            1 |     6871 | 2023-11-15 | Sashi Esport          | L   | 0.052      | -            | -                | -                | -             |    -0.64 | aizy, n1Xen, NutNut, PR1mE, Speedy           |
+|           18 |       64 | 2024-05-04 | ILLYRIANS             | L   | 1.000      | -            | -                | -                | -         |    -9.91 | ammar, gejmzilla, prelideN, rilax, v1w       |
+|           17 |       74 | 2024-05-04 | Regnum                | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.046 (0.007)    | 0 (0.000) |    17.20 | ammar, gejmzilla, prelideN, rilax, v1w       |
+|           16 |      116 | 2024-05-03 | Kum sa Kosova         | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.96 | ammar, arbnorz, gejmzilla, prelideN, rilax   |
+|           15 |      437 | 2024-04-26 | ILLYRIANS             | L   | 1.000      | -            | -                | -                | -         |   -10.37 | ammar, Dinsanety, gejmzilla, rosoneriii, v1w |
+|           14 |     1074 | 2024-04-14 | HEROES (Kosovar team) | L   | 1.000      | -            | -                | -                | -         |   -10.63 | cerber, gulito, Krabeni, makazze, rosoneriii |
+|           13 |     2733 | 2024-03-04 | HAVU Gaming           | L   | 0.786      | -            | -                | -                | -         |    -6.22 | gejmzilla, kressy, PrelideN, rilax, v1w      |
+|           12 |     4187 | 2024-01-29 | PARIVISION            | L   | 0.553      | -            | -                | -                | -         |    -3.65 | gejmzilla, PALM1, PrelideN, rilax, zur1s     |
+|           11 |     5381 | 2023-12-17 | Midnight              | L   | 0.263      | -            | -                | -                | -         |    -4.16 | ammar, cerber, deb0, gejmzilla, v1w          |
+|           10 |     5454 | 2023-12-16 | Ezezepanamera         | W   | 0.259      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.259) |     1.65 | dilla, gmart1nii, MELLOWi, muLche, noaHH2    |
+|            9 |     5943 | 2023-12-06 | Passion UA            | L   | 0.190      | -            | -                | -                | -         |    -0.69 | jackasmo, jambo, marat2k, s-chilla, zeRRoFIX |
+|            8 |     6044 | 2023-12-03 | HamaKura              | W   | 0.171      | 0.294        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.09 | ammar, cerber, deb0, gejmzilla, v1w          |
+|            7 |     6139 | 2023-12-02 | The Witchers          | L   | 0.163      | -            | -                | -                | -         |    -1.58 | fear, Sdaim, smooya, soulfly, synyx          |
+|            6 |     6392 | 2023-11-26 | Zero Tenacity         | L   | 0.125      | -            | -                | -                | -         |    -0.56 | ammar, cerber, deb0, gejmzilla, v1w          |
+|            5 |     6424 | 2023-11-25 | PSYCHOACTiVE          | W   | 0.118      | 0.143        | 0.000 (0.000)    | 0.019 (0.000)    | 0 (0.000) |     1.31 | andr1x, DiMKE, Impulse, Katalic, sarenii     |
+|            4 |     6478 | 2023-11-24 | ILLYRIANS             | W   | 0.111      | 0.143        | 0.001 (0.000)    | 0.308 (0.005)    | 0 (0.000) |     2.18 | ammar, cerber, deb0, gejmzilla, v1w          |
+|            3 |     6567 | 2023-11-22 | RUR Esports           | W   | 0.098      | 0.143        | 0.000 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     0.97 | ammar, cerber, deb0, gejmzilla, v1w          |
+|            2 |     6615 | 2023-11-20 | Zero Tenacity         | L   | 0.086      | -            | -                | -                | -         |    -0.37 | ammar, cerber, deb0, gejmzilla, v1w          |
+|            1 |     6871 | 2023-11-15 | Sashi Esport          | L   | 0.052      | -            | -                | -                | -         |    -0.64 | aizy, n1Xen, NutNut, PR1mE, Speedy           |
 
 <br />
 <span id="table2"></span><br />

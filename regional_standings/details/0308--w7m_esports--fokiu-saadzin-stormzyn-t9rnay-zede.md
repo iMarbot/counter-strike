@@ -34,31 +34,31 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                 |
+| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |      167 | 2024-05-01 | BESTIA                    | L   | 1.000      | -            | -                | -                | -             |    -8.45 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           22 |      170 | 2024-05-01 | Galorys                   | L   | 1.000      | -            | -                | -                | -             |    -5.32 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           21 |      401 | 2024-04-26 | ODDIK                     | L   | 1.000      | -            | -                | -                | -             |    -6.55 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           20 |      404 | 2024-04-26 | ODDIK                     | L   | 1.000      | -            | -                | -                | -             |    -6.95 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           19 |     1723 | 2024-03-27 | BESTIA                    | W   | 0.940      | 0.450        | 0.026 (0.011)    | 0.423 (0.179)    | false (0.000) |    22.92 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           18 |     1724 | 2024-03-27 | BESTIA                    | L   | 0.940      | -            | -                | -                | -             |    -6.29 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           17 |     2244 | 2024-03-14 | Galorys                   | L   | 0.854      | -            | -                | -                | -             |    -6.75 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           16 |     2246 | 2024-03-14 | Galorys                   | L   | 0.853      | -            | -                | -                | -             |    -7.15 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           15 |     2668 | 2024-03-05 | 2Game Esports             | L   | 0.794      | -            | -                | -                | -             |   -13.26 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           14 |     2670 | 2024-03-05 | 2Game Esports             | L   | 0.793      | -            | -                | -                | -             |   -14.21 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           13 |     3120 | 2024-02-24 | Corinthians Esports       | W   | 0.727      | 0.450        | 0.005 (0.002)    | 0.346 (0.113)    | false (0.000) |    12.17 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           12 |     3127 | 2024-02-24 | Corinthians Esports       | W   | 0.727      | 0.450        | 0.005 (0.002)    | 0.346 (0.113)    | false (0.000) |    12.97 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           11 |     3277 | 2024-02-21 | Fluxo                     | W   | 0.707      | 0.450        | 0.153 (0.049)    | 0.484 (0.154)    | false (0.000) |    19.93 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           10 |     3283 | 2024-02-21 | Fluxo                     | L   | 0.707      | -            | -                | -                | -             |    -2.21 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|            9 |     3661 | 2024-02-13 | Case Esports              | L   | 0.654      | -            | -                | -                | -             |    -4.75 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|            8 |     3664 | 2024-02-13 | Case Esports              | W   | 0.653      | 0.450        | 0.027 (0.008)    | 0.401 (0.118)    | false (0.000) |    16.20 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|            7 |     5628 | 2023-12-13 | Case Esports              | L   | 0.240      | -            | -                | -                | -             |    -2.59 | fokiu, jz, saadzin, stormzyn, zede     |
-|            6 |     5630 | 2023-12-13 | Team Solid                | W   | 0.240      | 0.143        | 0.138 (0.005)    | 0.275 (0.009)    | false (0.000) |     6.34 | fokiu, jz, saadzin, stormzyn, zede     |
-|            5 |     5918 | 2023-12-06 | WINDINGO                  | W   | 0.193      | 0.143        | 0.004 (0.000)    | 0.026 (0.001)    | false (0.000) |     3.52 | fokiu, jz, saadzin, stormzyn, zede     |
-|            4 |     5922 | 2023-12-06 | Arena Jogue Fácil Esports | L   | 0.192      | -            | -                | -                | -             |    -2.44 | fokiu, jz, saadzin, stormzyn, zede     |
-|            3 |     6459 | 2023-11-24 | Dusty Roots               | W   | 0.113      | 0.143        | 0.005 (0.000)    | 0.352 (0.006)    | false (0.000) |     2.23 | fokiu, jz, saadzin, stormzyn, zede     |
-|            2 |     6858 | 2023-11-15 | Case Esports              | W   | 0.053      | 0.143        | 0.010 (0.000)    | 0.142 (0.001)    | false (0.000) |     1.10 | fokiu, jz, saadzin, stormzyn, zede     |
-|            1 |     7158 | 2023-11-08 | Team Solid                | W   | 0.007      | 0.143        | 0.138 (0.000)    | 0.275 (0.000)    | false (0.000) |     0.18 | fokiu, jz, saadzin, stormzyn, zede     |
+|           23 |      167 | 2024-05-01 | BESTIA                    | L   | 1.000      | -            | -                | -                | -         |    -8.45 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           22 |      170 | 2024-05-01 | Galorys                   | L   | 1.000      | -            | -                | -                | -         |    -5.32 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           21 |      401 | 2024-04-26 | ODDIK                     | L   | 1.000      | -            | -                | -                | -         |    -6.55 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           20 |      404 | 2024-04-26 | ODDIK                     | L   | 1.000      | -            | -                | -                | -         |    -6.95 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           19 |     1723 | 2024-03-27 | BESTIA                    | W   | 0.940      | 0.450        | 0.026 (0.011)    | 0.423 (0.179)    | 0 (0.000) |    22.92 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           18 |     1724 | 2024-03-27 | BESTIA                    | L   | 0.940      | -            | -                | -                | -         |    -6.29 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           17 |     2244 | 2024-03-14 | Galorys                   | L   | 0.854      | -            | -                | -                | -         |    -6.75 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           16 |     2246 | 2024-03-14 | Galorys                   | L   | 0.853      | -            | -                | -                | -         |    -7.15 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           15 |     2668 | 2024-03-05 | 2Game Esports             | L   | 0.794      | -            | -                | -                | -         |   -13.26 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           14 |     2670 | 2024-03-05 | 2Game Esports             | L   | 0.793      | -            | -                | -                | -         |   -14.21 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           13 |     3120 | 2024-02-24 | Corinthians Esports       | W   | 0.727      | 0.450        | 0.005 (0.002)    | 0.346 (0.113)    | 0 (0.000) |    12.17 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           12 |     3127 | 2024-02-24 | Corinthians Esports       | W   | 0.727      | 0.450        | 0.005 (0.002)    | 0.346 (0.113)    | 0 (0.000) |    12.97 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           11 |     3277 | 2024-02-21 | Fluxo                     | W   | 0.707      | 0.450        | 0.153 (0.049)    | 0.484 (0.154)    | 0 (0.000) |    19.93 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           10 |     3283 | 2024-02-21 | Fluxo                     | L   | 0.707      | -            | -                | -                | -         |    -2.21 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|            9 |     3661 | 2024-02-13 | Case Esports              | L   | 0.654      | -            | -                | -                | -         |    -4.75 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|            8 |     3664 | 2024-02-13 | Case Esports              | W   | 0.653      | 0.450        | 0.027 (0.008)    | 0.401 (0.118)    | 0 (0.000) |    16.20 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|            7 |     5628 | 2023-12-13 | Case Esports              | L   | 0.240      | -            | -                | -                | -         |    -2.59 | fokiu, jz, saadzin, stormzyn, zede     |
+|            6 |     5630 | 2023-12-13 | Team Solid                | W   | 0.240      | 0.143        | 0.138 (0.005)    | 0.275 (0.009)    | 0 (0.000) |     6.34 | fokiu, jz, saadzin, stormzyn, zede     |
+|            5 |     5918 | 2023-12-06 | WINDINGO                  | W   | 0.193      | 0.143        | 0.004 (0.000)    | 0.026 (0.001)    | 0 (0.000) |     3.52 | fokiu, jz, saadzin, stormzyn, zede     |
+|            4 |     5922 | 2023-12-06 | Arena Jogue Fácil Esports | L   | 0.192      | -            | -                | -                | -         |    -2.44 | fokiu, jz, saadzin, stormzyn, zede     |
+|            3 |     6459 | 2023-11-24 | Dusty Roots               | W   | 0.113      | 0.143        | 0.005 (0.000)    | 0.352 (0.006)    | 0 (0.000) |     2.23 | fokiu, jz, saadzin, stormzyn, zede     |
+|            2 |     6858 | 2023-11-15 | Case Esports              | W   | 0.053      | 0.143        | 0.010 (0.000)    | 0.142 (0.001)    | 0 (0.000) |     1.10 | fokiu, jz, saadzin, stormzyn, zede     |
+|            1 |     7158 | 2023-11-08 | Team Solid                | W   | 0.007      | 0.143        | 0.138 (0.000)    | 0.275 (0.000)    | 0 (0.000) |     0.18 | fokiu, jz, saadzin, stormzyn, zede     |
 
 <br />
 <span id="table2"></span><br />

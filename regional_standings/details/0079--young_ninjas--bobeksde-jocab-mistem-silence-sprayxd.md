@@ -34,29 +34,29 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                       |
+| Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |       15 | 2024-05-05 | Team Spirit Academy | L   | 1.000      | -            | -                | -                | -             |   -25.29 | bobeksde, jocab, MisteM, Silence, sprayxd    |
-|           20 |       49 | 2024-05-04 | CYBERSHOKE Esports  | L   | 1.000      | -            | -                | -                | -             |   -27.82 | bobeksde, jocab, MisteM, Silence, sprayxd    |
-|           19 |      143 | 2024-05-02 | ARCRED              | W   | 1.000      | 0.371        | 0.004 (0.002)    | 0.825 (0.306)    | false (0.000) |    13.87 | bobeksde, jocab, MisteM, Silence, sprayxd    |
-|           18 |      631 | 2024-04-21 | Nexus Gaming        | L   | 1.000      | -            | -                | -                | -             |   -16.79 | bobeksde, jocab, MisteM, Silence, xKacpersky |
-|           17 |      699 | 2024-04-20 | Passion UA          | L   | 1.000      | -            | -                | -                | -             |   -16.12 | bobeksde, jocab, MisteM, Silence, xKacpersky |
-|           16 |      869 | 2024-04-18 | Nexus Gaming        | W   | 1.000      | 0.500        | 0.031 (0.016)    | 0.772 (0.386)    | false (0.000) |    14.00 | bobeksde, jocab, MisteM, Silence, xKacpersky |
-|           15 |     1005 | 2024-04-16 | TBA.ECF             | L   | 1.000      | -            | -                | -                | -             |   -24.12 | bobeksde, jocab, MisteM, Silence, xKacpersky |
-|           14 |     1038 | 2024-04-15 | LEON Esports        | W   | 1.000      | 0.371        | 0.003 (0.001)    | 0.357 (0.133)    | false (0.000) |     5.55 | bobeksde, jocab, MisteM, Silence, xKacpersky |
-|           13 |     1064 | 2024-04-14 | LODIS               | W   | 1.000      | 0.371        | 0.002 (0.001)    | 0.139 (0.052)    | false (0.000) |     3.23 | bobeksde, jocab, MisteM, Silence, xKacpersky |
-|           12 |     1905 | 2024-03-23 | Falcons Esport      | W   | 0.912      | 0.310        | 0.007 (0.002)    | 0.092 (0.026)    | false (0.000) |     5.16 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|           11 |     2132 | 2024-03-17 | Falcons Esport      | W   | 0.872      | 0.310        | 0.007 (0.002)    | -                | false (0.000) |     4.86 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|           10 |     2206 | 2024-03-15 | RED (German team)   | W   | 0.859      | -            | -                | -                | false (0.000) |     3.85 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|            9 |     2284 | 2024-03-14 | Ex-sYnck            | L   | 0.850      | -            | -                | -                | -             |   -23.72 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|            8 |     2464 | 2024-03-10 | 500                 | W   | 0.824      | 0.143        | -                | 0.660 (0.078)    | false (0.000) |     9.96 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|            7 |     2510 | 2024-03-09 | GODSENT             | W   | 0.817      | 0.384        | 0.026 (0.008)    | 0.423 (0.133)    | false (0.000) |     6.93 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|            6 |     2701 | 2024-03-05 | Fnatic              | L   | 0.791      | -            | -                | -                | -             |    -4.76 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|            5 |     2706 | 2024-03-05 | Permitta Esports    | L   | 0.791      | -            | -                | -                | -             |   -12.54 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|            4 |     2762 | 2024-03-04 | Aurora Gaming       | W   | 0.785      | 0.500        | 1.000 (0.392)    | 0.799 (0.313)    | false (0.000) |    23.66 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|            3 |     2784 | 2024-03-03 | BIG                 | W   | 0.779      | 0.500        | 0.470 (0.183)    | 0.400 (0.156)    | -             |    23.04 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|            2 |     2968 | 2024-02-29 | Zero Tenacity       | L   | 0.757      | -            | -                | -                | -             |   -12.52 | BluePho3nix, jocab, maxster, MisteM, Silence |
-|            1 |     3756 | 2024-02-11 | EsmagaB             | W   | 0.638      | 0.143        | 0.016 (0.001)    | 0.559 (0.051)    | -             |     7.69 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|           21 |       15 | 2024-05-05 | Team Spirit Academy | L   | 1.000      | -            | -                | -                | -         |   -25.29 | bobeksde, jocab, MisteM, Silence, sprayxd    |
+|           20 |       49 | 2024-05-04 | CYBERSHOKE Esports  | L   | 1.000      | -            | -                | -                | -         |   -27.82 | bobeksde, jocab, MisteM, Silence, sprayxd    |
+|           19 |      143 | 2024-05-02 | ARCRED              | W   | 1.000      | 0.371        | 0.004 (0.002)    | 0.825 (0.306)    | 0 (0.000) |    13.87 | bobeksde, jocab, MisteM, Silence, sprayxd    |
+|           18 |      631 | 2024-04-21 | Nexus Gaming        | L   | 1.000      | -            | -                | -                | -         |   -16.79 | bobeksde, jocab, MisteM, Silence, xKacpersky |
+|           17 |      699 | 2024-04-20 | Passion UA          | L   | 1.000      | -            | -                | -                | -         |   -16.12 | bobeksde, jocab, MisteM, Silence, xKacpersky |
+|           16 |      869 | 2024-04-18 | Nexus Gaming        | W   | 1.000      | 0.500        | 0.031 (0.016)    | 0.772 (0.386)    | 0 (0.000) |    14.00 | bobeksde, jocab, MisteM, Silence, xKacpersky |
+|           15 |     1005 | 2024-04-16 | TBA.ECF             | L   | 1.000      | -            | -                | -                | -         |   -24.12 | bobeksde, jocab, MisteM, Silence, xKacpersky |
+|           14 |     1038 | 2024-04-15 | LEON Esports        | W   | 1.000      | 0.371        | 0.003 (0.001)    | 0.357 (0.133)    | 0 (0.000) |     5.55 | bobeksde, jocab, MisteM, Silence, xKacpersky |
+|           13 |     1064 | 2024-04-14 | LODIS               | W   | 1.000      | 0.371        | 0.002 (0.001)    | 0.139 (0.052)    | 0 (0.000) |     3.23 | bobeksde, jocab, MisteM, Silence, xKacpersky |
+|           12 |     1905 | 2024-03-23 | Falcons Esport      | W   | 0.912      | 0.310        | 0.007 (0.002)    | 0.092 (0.026)    | 0 (0.000) |     5.16 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|           11 |     2132 | 2024-03-17 | Falcons Esport      | W   | 0.872      | 0.310        | 0.007 (0.002)    | -                | 0 (0.000) |     4.86 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|           10 |     2206 | 2024-03-15 | RED (German team)   | W   | 0.859      | -            | -                | -                | 0 (0.000) |     3.85 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|            9 |     2284 | 2024-03-14 | Ex-sYnck            | L   | 0.850      | -            | -                | -                | -         |   -23.72 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|            8 |     2464 | 2024-03-10 | 500                 | W   | 0.824      | 0.143        | -                | 0.660 (0.078)    | 0 (0.000) |     9.96 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|            7 |     2510 | 2024-03-09 | GODSENT             | W   | 0.817      | 0.384        | 0.026 (0.008)    | 0.423 (0.133)    | 0 (0.000) |     6.93 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|            6 |     2701 | 2024-03-05 | Fnatic              | L   | 0.791      | -            | -                | -                | -         |    -4.76 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|            5 |     2706 | 2024-03-05 | Permitta Esports    | L   | 0.791      | -            | -                | -                | -         |   -12.54 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|            4 |     2762 | 2024-03-04 | Aurora Gaming       | W   | 0.785      | 0.500        | 1.000 (0.392)    | 0.799 (0.313)    | 0 (0.000) |    23.66 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|            3 |     2784 | 2024-03-03 | BIG                 | W   | 0.779      | 0.500        | 0.470 (0.183)    | 0.400 (0.156)    | -         |    23.04 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|            2 |     2968 | 2024-02-29 | Zero Tenacity       | L   | 0.757      | -            | -                | -                | -         |   -12.52 | BluePho3nix, jocab, maxster, MisteM, Silence |
+|            1 |     3756 | 2024-02-11 | EsmagaB             | W   | 0.638      | 0.143        | 0.016 (0.001)    | 0.559 (0.051)    | -         |     7.69 | BluePho3nix, jocab, maxster, MisteM, Silence |
 
 <br />
 <span id="table2"></span><br />

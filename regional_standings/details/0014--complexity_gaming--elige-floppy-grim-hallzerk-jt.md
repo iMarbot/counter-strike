@@ -34,36 +34,36 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins     | H2H Adj. | Roster                            |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           28 |        6 | 2024-05-05 | Natus Vincere     | W   | 1.000      | 0.889        | 1.000 (0.889)    | 0.406 (0.361)    | true (1.000) |    28.48 | EliGE, floppy, Grim, hallzerk, JT |
-|           27 |      149 | 2024-05-02 | HEROIC            | W   | 1.000      | 0.889        | 0.243 (0.216)    | 0.537 (0.478)    | true (1.000) |    20.83 | EliGE, floppy, Grim, hallzerk, JT |
-|           26 |      242 | 2024-04-30 | Pera Esports      | W   | 1.000      | 0.889        | 0.065 (0.058)    | 0.324 (0.288)    | true (1.000) |     0.94 | EliGE, floppy, Grim, hallzerk, JT |
-|           25 |     1865 | 2024-03-24 | FaZe Clan         | L   | 0.917      | -            | -                | -                | -            |    -2.33 | EliGE, floppy, Grim, hallzerk, JT |
-|           24 |     1909 | 2024-03-23 | Team Vitality     | L   | 0.911      | -            | -                | -                | -            |    -3.32 | EliGE, floppy, Grim, hallzerk, JT |
-|           23 |     1944 | 2024-03-22 | MOUZ              | L   | 0.904      | -            | -                | -                | -            |    -3.09 | EliGE, floppy, Grim, hallzerk, JT |
-|           22 |     1976 | 2024-03-21 | HEROIC            | W   | 0.899      | 1.000        | 0.243 (0.218)    | 0.537 (0.483)    | true (0.899) |    21.81 | EliGE, floppy, Grim, hallzerk, JT |
-|           21 |     1990 | 2024-03-21 | PaiN Gaming       | W   | 0.897      | 1.000        | -                | 0.156 (0.140)    | true (0.897) |     2.85 | EliGE, floppy, Grim, hallzerk, JT |
-|           20 |     2570 | 2024-03-07 | OG                | L   | 0.805      | -            | -                | -                | -            |   -18.88 | EliGE, floppy, Grim, hallzerk, JT |
-|           19 |     2728 | 2024-03-04 | Team Liquid       | W   | 0.786      | 0.143        | 0.125 (0.014)    | 0.546 (0.061)    | true (0.786) |     8.31 | EliGE, floppy, Grim, hallzerk, JT |
-|           18 |     2781 | 2024-03-03 | FURIA Esports     | L   | 0.779      | -            | -                | -                | -            |    -9.08 | EliGE, floppy, Grim, hallzerk, JT |
-|           17 |     2878 | 2024-03-02 | BOSS              | W   | 0.771      | 0.143        | 0.051 (0.006)    | 0.293 (0.032)    | true (0.771) |     0.84 | EliGE, floppy, Grim, hallzerk, JT |
-|           16 |     2909 | 2024-03-01 | Elevate           | W   | 0.766      | 0.143        | 0.030 (0.003)    | 0.268 (0.029)    | true (0.766) |     0.44 | EliGE, floppy, Grim, hallzerk, JT |
-|           15 |     3886 | 2024-02-05 | Team Falcons      | L   | 0.599      | -            | -                | -                | -            |   -13.05 | EliGE, floppy, Grim, hallzerk, JT |
-|           14 |     3923 | 2024-02-04 | Team Spirit       | L   | 0.591      | -            | -                | -                | -            |    -2.70 | EliGE, floppy, Grim, hallzerk, JT |
-|           13 |     3947 | 2024-02-03 | Apeks             | W   | 0.585      | 1.000        | 0.253 (0.148)    | 0.459 (0.269)    | true (0.585) |     6.73 | EliGE, floppy, Grim, hallzerk, JT |
-|           12 |     4435 | 2024-01-23 | Ninjas in Pyjamas | L   | 0.511      | -            | -                | -                | -            |   -15.81 | EliGE, floppy, Grim, hallzerk, JT |
-|           11 |     4484 | 2024-01-22 | Natus Vincere     | L   | 0.504      | -            | -                | -                | -            |    -1.35 | EliGE, floppy, Grim, hallzerk, JT |
-|           10 |     4874 | 2024-01-13 | Party Astronauts  | W   | 0.447      | 0.143        | 0.036 (0.002)    | -                | -            |     0.25 | EliGE, floppy, Grim, hallzerk, JT |
-|            9 |     4915 | 2024-01-12 | FLUFFY AIMERS     | W   | 0.441      | -            | -                | -                | -            |     0.12 | EliGE, floppy, Grim, hallzerk, JT |
-|            8 |     5467 | 2023-12-16 | The MongolZ       | L   | 0.258      | -            | -                | -                | -            |    -2.76 | EliGE, floppy, Grim, hallzerk, JT |
-|            7 |     5572 | 2023-12-15 | The MongolZ       | L   | 0.252      | -            | -                | -                | -            |    -2.68 | EliGE, floppy, Grim, hallzerk, JT |
-|            6 |     6202 | 2023-11-30 | MOUZ              | L   | 0.152      | -            | -                | -                | -            |    -0.65 | EliGE, floppy, Grim, hallzerk, JT |
-|            5 |     6217 | 2023-11-30 | FURIA Esports     | L   | 0.151      | -            | -                | -                | -            |    -1.59 | EliGE, floppy, Grim, hallzerk, JT |
-|            4 |     6419 | 2023-11-25 | FaZe Clan         | L   | 0.119      | -            | -                | -                | -            |    -0.26 | EliGE, floppy, Grim, hallzerk, JT |
-|            3 |     6470 | 2023-11-24 | Natus Vincere     | W   | 0.112      | 0.729        | 1.000 (0.081)    | 0.406 (0.033)    | true (0.112) |     3.22 | EliGE, floppy, Grim, hallzerk, JT |
-|            2 |     6511 | 2023-11-23 | Team Vitality     | L   | 0.105      | -            | -                | -                | -            |    -0.38 | EliGE, floppy, Grim, hallzerk, JT |
-|            1 |     6566 | 2023-11-22 | Astralis          | W   | 0.098      | -            | -                | -                | -            |     0.03 | EliGE, floppy, Grim, hallzerk, JT |
+|           28 |        6 | 2024-05-05 | Natus Vincere     | W   | 1.000      | 0.889        | 1.000 (0.889)    | 0.406 (0.361)    | 1 (1.000) |    28.48 | EliGE, floppy, Grim, hallzerk, JT |
+|           27 |      149 | 2024-05-02 | HEROIC            | W   | 1.000      | 0.889        | 0.243 (0.216)    | 0.537 (0.478)    | 1 (1.000) |    20.83 | EliGE, floppy, Grim, hallzerk, JT |
+|           26 |      242 | 2024-04-30 | Pera Esports      | W   | 1.000      | 0.889        | 0.065 (0.058)    | 0.324 (0.288)    | 1 (1.000) |     0.94 | EliGE, floppy, Grim, hallzerk, JT |
+|           25 |     1865 | 2024-03-24 | FaZe Clan         | L   | 0.917      | -            | -                | -                | -         |    -2.33 | EliGE, floppy, Grim, hallzerk, JT |
+|           24 |     1909 | 2024-03-23 | Team Vitality     | L   | 0.911      | -            | -                | -                | -         |    -3.32 | EliGE, floppy, Grim, hallzerk, JT |
+|           23 |     1944 | 2024-03-22 | MOUZ              | L   | 0.904      | -            | -                | -                | -         |    -3.09 | EliGE, floppy, Grim, hallzerk, JT |
+|           22 |     1976 | 2024-03-21 | HEROIC            | W   | 0.899      | 1.000        | 0.243 (0.218)    | 0.537 (0.483)    | 1 (0.899) |    21.81 | EliGE, floppy, Grim, hallzerk, JT |
+|           21 |     1990 | 2024-03-21 | PaiN Gaming       | W   | 0.897      | 1.000        | -                | 0.156 (0.140)    | 1 (0.897) |     2.85 | EliGE, floppy, Grim, hallzerk, JT |
+|           20 |     2570 | 2024-03-07 | OG                | L   | 0.805      | -            | -                | -                | -         |   -18.88 | EliGE, floppy, Grim, hallzerk, JT |
+|           19 |     2728 | 2024-03-04 | Team Liquid       | W   | 0.786      | 0.143        | 0.125 (0.014)    | 0.546 (0.061)    | 1 (0.786) |     8.31 | EliGE, floppy, Grim, hallzerk, JT |
+|           18 |     2781 | 2024-03-03 | FURIA Esports     | L   | 0.779      | -            | -                | -                | -         |    -9.08 | EliGE, floppy, Grim, hallzerk, JT |
+|           17 |     2878 | 2024-03-02 | BOSS              | W   | 0.771      | 0.143        | 0.051 (0.006)    | 0.293 (0.032)    | 1 (0.771) |     0.84 | EliGE, floppy, Grim, hallzerk, JT |
+|           16 |     2909 | 2024-03-01 | Elevate           | W   | 0.766      | 0.143        | 0.030 (0.003)    | 0.268 (0.029)    | 1 (0.766) |     0.44 | EliGE, floppy, Grim, hallzerk, JT |
+|           15 |     3886 | 2024-02-05 | Team Falcons      | L   | 0.599      | -            | -                | -                | -         |   -13.05 | EliGE, floppy, Grim, hallzerk, JT |
+|           14 |     3923 | 2024-02-04 | Team Spirit       | L   | 0.591      | -            | -                | -                | -         |    -2.70 | EliGE, floppy, Grim, hallzerk, JT |
+|           13 |     3947 | 2024-02-03 | Apeks             | W   | 0.585      | 1.000        | 0.253 (0.148)    | 0.459 (0.269)    | 1 (0.585) |     6.73 | EliGE, floppy, Grim, hallzerk, JT |
+|           12 |     4435 | 2024-01-23 | Ninjas in Pyjamas | L   | 0.511      | -            | -                | -                | -         |   -15.81 | EliGE, floppy, Grim, hallzerk, JT |
+|           11 |     4484 | 2024-01-22 | Natus Vincere     | L   | 0.504      | -            | -                | -                | -         |    -1.35 | EliGE, floppy, Grim, hallzerk, JT |
+|           10 |     4874 | 2024-01-13 | Party Astronauts  | W   | 0.447      | 0.143        | 0.036 (0.002)    | -                | -         |     0.25 | EliGE, floppy, Grim, hallzerk, JT |
+|            9 |     4915 | 2024-01-12 | FLUFFY AIMERS     | W   | 0.441      | -            | -                | -                | -         |     0.12 | EliGE, floppy, Grim, hallzerk, JT |
+|            8 |     5467 | 2023-12-16 | The MongolZ       | L   | 0.258      | -            | -                | -                | -         |    -2.76 | EliGE, floppy, Grim, hallzerk, JT |
+|            7 |     5572 | 2023-12-15 | The MongolZ       | L   | 0.252      | -            | -                | -                | -         |    -2.68 | EliGE, floppy, Grim, hallzerk, JT |
+|            6 |     6202 | 2023-11-30 | MOUZ              | L   | 0.152      | -            | -                | -                | -         |    -0.65 | EliGE, floppy, Grim, hallzerk, JT |
+|            5 |     6217 | 2023-11-30 | FURIA Esports     | L   | 0.151      | -            | -                | -                | -         |    -1.59 | EliGE, floppy, Grim, hallzerk, JT |
+|            4 |     6419 | 2023-11-25 | FaZe Clan         | L   | 0.119      | -            | -                | -                | -         |    -0.26 | EliGE, floppy, Grim, hallzerk, JT |
+|            3 |     6470 | 2023-11-24 | Natus Vincere     | W   | 0.112      | 0.729        | 1.000 (0.081)    | 0.406 (0.033)    | 1 (0.112) |     3.22 | EliGE, floppy, Grim, hallzerk, JT |
+|            2 |     6511 | 2023-11-23 | Team Vitality     | L   | 0.105      | -            | -                | -                | -         |    -0.38 | EliGE, floppy, Grim, hallzerk, JT |
+|            1 |     6566 | 2023-11-22 | Astralis          | W   | 0.098      | -            | -                | -                | -         |     0.03 | EliGE, floppy, Grim, hallzerk, JT |
 
 <br />
 <span id="table2"></span><br />

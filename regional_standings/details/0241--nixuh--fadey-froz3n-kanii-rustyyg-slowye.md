@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                    |
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     1858 | 2024-03-24 | Kitsune Esports | W   | 0.919      | 0.250        | 0.002 (0.000)    | 0.097 (0.022)    | false (0.000) |    12.95 | Fadey, FROZ3N, kanii, RustyYG, SloWye     |
-|           13 |     1978 | 2024-03-21 | Monarch Realm   | W   | 0.899      | 0.250        | 0.002 (0.000)    | 0.095 (0.021)    | false (0.000) |    12.96 | Fadey, FROZ3N, kanii, RustyYG, SloWye     |
-|           12 |     2129 | 2024-03-17 | Kitsune Esports | L   | 0.872      | -            | -                | -                | -             |   -14.87 | Fadey, FROZ3N, kanii, RustyYG, SloWye     |
-|           11 |     2409 | 2024-03-11 | Monarch Realm   | W   | 0.832      | 0.250        | 0.002 (0.000)    | 0.095 (0.020)    | false (0.000) |    11.80 | Fadey, FROZ3N, kanii, RustyYG, SloWye     |
-|           10 |     2682 | 2024-03-05 | Adaptive Gaming | W   | 0.792      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     4.94 | Fadey, FROZ3N, kanii, RustyYG, SloWye     |
-|            9 |     4273 | 2024-01-27 | Twisted Minds   | L   | 0.538      | -            | -                | -                | -             |    -9.49 | flexeeee, FROZ3N, kanii, RustyYG, zox     |
-|            8 |     4323 | 2024-01-26 | Onyx Ravens     | L   | 0.531      | -            | -                | -                | -             |    -7.76 | flexeeee, FROZ3N, kanii, RustyYG, zox     |
-|            7 |     5091 | 2024-01-09 | Bravado Gaming  | L   | 0.418      | -            | -                | -                | -             |    -7.62 | Fadey, flexeeee, FROZ3N, kanii, RustyYG   |
-|            6 |     5151 | 2024-01-08 | The Punishers   | W   | 0.412      | 0.143        | 0.001 (0.000)    | 0.058 (0.003)    | false (0.000) |     3.92 | Fadey, flexeeee, FROZ3N, kanii, RustyYG   |
-|            5 |     5352 | 2023-12-17 | Kitsune Esports | W   | 0.265      | 0.250        | 0.002 (0.000)    | 0.097 (0.006)    | false (0.000) |     3.84 | bLazE, Fadey, flexeeee, FROZ3N, RustyYG   |
-|            4 |     5669 | 2023-12-12 | Kitsune Esports | W   | 0.232      | 0.250        | 0.002 (0.000)    | 0.097 (0.006)    | false (0.000) |     3.40 | bLazE, Fadey, flexeeee, FROZ3N, RustyYG   |
-|            3 |     5981 | 2023-12-05 | ATK Female      | W   | 0.185      | 0.250        | 0.011 (0.001)    | 0.201 (0.009)    | false (0.000) |     3.25 | bLazE, Fadey, flexeeee, FROZ3N, RustyYG   |
-|            2 |     6120 | 2023-12-02 | Monarch Realm   | L   | 0.164      | -            | -                | -                | -             |    -2.84 | Fadey, flexeeee, FROZ3N, Natural, RustyYG |
-|            1 |     6721 | 2023-11-18 | Bravado Gaming  | W   | 0.071      | 0.250        | 0.000 (0.000)    | 0.048 (0.001)    | false (0.000) |     0.93 | bLazE, Fadey, flexeeee, FROZ3N, RustyYG   |
+|           14 |     1858 | 2024-03-24 | Kitsune Esports | W   | 0.919      | 0.250        | 0.002 (0.000)    | 0.097 (0.022)    | 0 (0.000) |    12.95 | Fadey, FROZ3N, kanii, RustyYG, SloWye     |
+|           13 |     1978 | 2024-03-21 | Monarch Realm   | W   | 0.899      | 0.250        | 0.002 (0.000)    | 0.095 (0.021)    | 0 (0.000) |    12.96 | Fadey, FROZ3N, kanii, RustyYG, SloWye     |
+|           12 |     2129 | 2024-03-17 | Kitsune Esports | L   | 0.872      | -            | -                | -                | -         |   -14.87 | Fadey, FROZ3N, kanii, RustyYG, SloWye     |
+|           11 |     2409 | 2024-03-11 | Monarch Realm   | W   | 0.832      | 0.250        | 0.002 (0.000)    | 0.095 (0.020)    | 0 (0.000) |    11.80 | Fadey, FROZ3N, kanii, RustyYG, SloWye     |
+|           10 |     2682 | 2024-03-05 | Adaptive Gaming | W   | 0.792      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.94 | Fadey, FROZ3N, kanii, RustyYG, SloWye     |
+|            9 |     4273 | 2024-01-27 | Twisted Minds   | L   | 0.538      | -            | -                | -                | -         |    -9.49 | flexeeee, FROZ3N, kanii, RustyYG, zox     |
+|            8 |     4323 | 2024-01-26 | Onyx Ravens     | L   | 0.531      | -            | -                | -                | -         |    -7.76 | flexeeee, FROZ3N, kanii, RustyYG, zox     |
+|            7 |     5091 | 2024-01-09 | Bravado Gaming  | L   | 0.418      | -            | -                | -                | -         |    -7.62 | Fadey, flexeeee, FROZ3N, kanii, RustyYG   |
+|            6 |     5151 | 2024-01-08 | The Punishers   | W   | 0.412      | 0.143        | 0.001 (0.000)    | 0.058 (0.003)    | 0 (0.000) |     3.92 | Fadey, flexeeee, FROZ3N, kanii, RustyYG   |
+|            5 |     5352 | 2023-12-17 | Kitsune Esports | W   | 0.265      | 0.250        | 0.002 (0.000)    | 0.097 (0.006)    | 0 (0.000) |     3.84 | bLazE, Fadey, flexeeee, FROZ3N, RustyYG   |
+|            4 |     5669 | 2023-12-12 | Kitsune Esports | W   | 0.232      | 0.250        | 0.002 (0.000)    | 0.097 (0.006)    | 0 (0.000) |     3.40 | bLazE, Fadey, flexeeee, FROZ3N, RustyYG   |
+|            3 |     5981 | 2023-12-05 | ATK Female      | W   | 0.185      | 0.250        | 0.011 (0.001)    | 0.201 (0.009)    | 0 (0.000) |     3.25 | bLazE, Fadey, flexeeee, FROZ3N, RustyYG   |
+|            2 |     6120 | 2023-12-02 | Monarch Realm   | L   | 0.164      | -            | -                | -                | -         |    -2.84 | Fadey, flexeeee, FROZ3N, Natural, RustyYG |
+|            1 |     6721 | 2023-11-18 | Bravado Gaming  | W   | 0.071      | 0.250        | 0.000 (0.000)    | 0.048 (0.001)    | 0 (0.000) |     0.93 | bLazE, Fadey, flexeeee, FROZ3N, RustyYG   |
 
 <br />
 <span id="table2"></span><br />

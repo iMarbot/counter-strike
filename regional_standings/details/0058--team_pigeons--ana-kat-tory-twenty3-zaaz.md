@@ -34,34 +34,34 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                 |
+| Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           26 |       18 | 2024-05-05 | Crescent (Female team)      | W   | 1.000      | -            | -                | -                | false (0.000) |     5.14 | ANa, Kat, tory, twenty3, zAAz          |
-|           25 |       56 | 2024-05-04 | Nemesis (Female team)       | W   | 1.000      | -            | -                | -                | false (0.000) |     2.29 | ANa, Kat, tory, twenty3, zAAz          |
-|           24 |       61 | 2024-05-04 | YUME                        | W   | 1.000      | -            | -                | -                | false (0.000) |     1.29 | ANa, Kat, tory, twenty3, zAAz          |
-|           23 |      365 | 2024-04-27 | NIP Impact                  | W   | 1.000      | -            | -                | -                | false (0.000) |     7.88 | ANa, Kat, tory, twenty3, zAAz          |
-|           22 |      368 | 2024-04-27 | Team Spirit Female          | W   | 1.000      | -            | -                | -                | false (0.000) |     5.19 | ANa, Kat, tory, twenty3, zAAz          |
-|           21 |      374 | 2024-04-27 | VIOLET                      | W   | 1.000      | -            | -                | -                | false (0.000) |     4.63 | ANa, Kat, tory, twenty3, zAAz          |
-|           20 |      815 | 2024-04-19 | Guild Esports               | W   | 1.000      | 0.331        | 0.010 (0.003)    | 0.194 (0.064)    | -             |     7.96 | ANa, Kat, tory, twenty3, zAAz          |
-|           19 |      999 | 2024-04-16 | NAVI Javelins               | L   | 1.000      | -            | -                | -                | -             |   -18.93 | ANa, Kat, tory, twenty3, zAAz          |
-|           18 |     1066 | 2024-04-14 | NIP Impact                  | W   | 1.000      | 0.303        | 0.011 (0.003)    | 0.344 (0.104)    | -             |     8.50 | ANa, Kat, tory, twenty3, zAAz          |
-|           17 |     1115 | 2024-04-13 | NAVI Javelins               | W   | 1.000      | 0.303        | 0.062 (0.019)    | 0.328 (0.099)    | -             |    11.87 | ANa, Kat, tory, twenty3, zAAz          |
-|           16 |     1167 | 2024-04-11 | Astralis Women              | W   | 1.000      | 0.331        | 0.007 (0.002)    | -                | -             |     4.54 | ANa, Kat, tory, twenty3, zAAz          |
-|           15 |     1224 | 2024-04-10 | Astralis Women              | W   | 1.000      | -            | -                | -                | -             |     4.74 | ANa, Kat, tory, twenty3, zAAz          |
-|           14 |     1336 | 2024-04-08 | Crescent (Female team)      | W   | 1.000      | 0.303        | 0.008 (0.002)    | 0.187 (0.057)    | -             |     7.07 | ANa, Kat, tory, twenty3, zAAz          |
-|           13 |     1367 | 2024-04-07 | NIP Impact                  | W   | 1.000      | 0.262        | 0.011 (0.003)    | 0.344 (0.090)    | -             |     9.41 | ANa, Kat, tory, twenty3, zAAz          |
-|           12 |     1373 | 2024-04-07 | BIG EQUIPA                  | W   | 1.000      | 0.262        | -                | 0.300 (0.078)    | -             |     9.39 | ANa, Kat, tory, twenty3, zAAz          |
-|           11 |     1410 | 2024-04-06 | ENCE Athena                 | W   | 1.000      | 0.262        | 0.009 (0.002)    | 0.244 (0.064)    | -             |     7.77 | ANa, Kat, tory, twenty3, zAAz          |
-|           10 |     1734 | 2024-03-27 | ENCE Athena                 | W   | 0.939      | 0.331        | 0.009 (0.003)    | 0.244 (0.076)    | -             |     7.85 | ANa, Kat, tory, twenty3, zAAz          |
-|            9 |     2260 | 2024-03-14 | BIG EQUIPA                  | W   | 0.852      | 0.331        | -                | 0.300 (0.084)    | -             |     8.75 | ANa, Kat, tory, twenty3, zAAz          |
-|            8 |     2566 | 2024-03-07 | NIP Impact                  | W   | 0.805      | 0.331        | 0.011 (0.003)    | 0.344 (0.092)    | -             |     7.22 | ANa, Kat, tory, twenty3, zAAz          |
-|            7 |     3078 | 2024-02-26 | 500                         | L   | 0.737      | -            | -                | -                | -             |   -12.37 | ANa, Kat, tory, twenty3, zAAz          |
-|            6 |     3974 | 2024-02-03 | UNiTY esports (Slovak team) | L   | 0.585      | -            | -                | -                | -             |    -7.65 | Levi, luko, M1key, NIO, Pechyn         |
-|            5 |     5724 | 2023-12-10 | NAVI Javelins               | W   | 0.218      | 0.524        | 0.062 (0.007)    | -                | true (0.218)  |     3.10 | ANa, Kat, tory, twenty3, vilga         |
-|            4 |     5743 | 2023-12-10 | NOFEAR5                     | W   | 0.216      | -            | -                | -                | true (0.216)  |     2.13 | Elizabeth, f6tal, Ksu, t4tty, victoria |
-|            3 |     5771 | 2023-12-09 | HSG                         | W   | 0.211      | -            | -                | -                | true (0.211)  |     1.65 | Argent, GFi, Hazel, olga, XiaoWu       |
-|            2 |     5838 | 2023-12-08 | Fluxo Demons                | L   | 0.205      | -            | -                | -                | -             |    -2.73 | goddess, julih, nani, poppins, yungher |
-|            1 |     5855 | 2023-12-08 | HSG                         | W   | 0.203      | -            | -                | -                | true (0.203)  |     1.56 | Argent, GFi, Hazel, olga, XiaoWu       |
+|           26 |       18 | 2024-05-05 | Crescent (Female team)      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.14 | ANa, Kat, tory, twenty3, zAAz          |
+|           25 |       56 | 2024-05-04 | Nemesis (Female team)       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.29 | ANa, Kat, tory, twenty3, zAAz          |
+|           24 |       61 | 2024-05-04 | YUME                        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.29 | ANa, Kat, tory, twenty3, zAAz          |
+|           23 |      365 | 2024-04-27 | NIP Impact                  | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.88 | ANa, Kat, tory, twenty3, zAAz          |
+|           22 |      368 | 2024-04-27 | Team Spirit Female          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.19 | ANa, Kat, tory, twenty3, zAAz          |
+|           21 |      374 | 2024-04-27 | VIOLET                      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.63 | ANa, Kat, tory, twenty3, zAAz          |
+|           20 |      815 | 2024-04-19 | Guild Esports               | W   | 1.000      | 0.331        | 0.010 (0.003)    | 0.194 (0.064)    | -         |     7.96 | ANa, Kat, tory, twenty3, zAAz          |
+|           19 |      999 | 2024-04-16 | NAVI Javelins               | L   | 1.000      | -            | -                | -                | -         |   -18.93 | ANa, Kat, tory, twenty3, zAAz          |
+|           18 |     1066 | 2024-04-14 | NIP Impact                  | W   | 1.000      | 0.303        | 0.011 (0.003)    | 0.344 (0.104)    | -         |     8.50 | ANa, Kat, tory, twenty3, zAAz          |
+|           17 |     1115 | 2024-04-13 | NAVI Javelins               | W   | 1.000      | 0.303        | 0.062 (0.019)    | 0.328 (0.099)    | -         |    11.87 | ANa, Kat, tory, twenty3, zAAz          |
+|           16 |     1167 | 2024-04-11 | Astralis Women              | W   | 1.000      | 0.331        | 0.007 (0.002)    | -                | -         |     4.54 | ANa, Kat, tory, twenty3, zAAz          |
+|           15 |     1224 | 2024-04-10 | Astralis Women              | W   | 1.000      | -            | -                | -                | -         |     4.74 | ANa, Kat, tory, twenty3, zAAz          |
+|           14 |     1336 | 2024-04-08 | Crescent (Female team)      | W   | 1.000      | 0.303        | 0.008 (0.002)    | 0.187 (0.057)    | -         |     7.07 | ANa, Kat, tory, twenty3, zAAz          |
+|           13 |     1367 | 2024-04-07 | NIP Impact                  | W   | 1.000      | 0.262        | 0.011 (0.003)    | 0.344 (0.090)    | -         |     9.41 | ANa, Kat, tory, twenty3, zAAz          |
+|           12 |     1373 | 2024-04-07 | BIG EQUIPA                  | W   | 1.000      | 0.262        | -                | 0.300 (0.078)    | -         |     9.39 | ANa, Kat, tory, twenty3, zAAz          |
+|           11 |     1410 | 2024-04-06 | ENCE Athena                 | W   | 1.000      | 0.262        | 0.009 (0.002)    | 0.244 (0.064)    | -         |     7.77 | ANa, Kat, tory, twenty3, zAAz          |
+|           10 |     1734 | 2024-03-27 | ENCE Athena                 | W   | 0.939      | 0.331        | 0.009 (0.003)    | 0.244 (0.076)    | -         |     7.85 | ANa, Kat, tory, twenty3, zAAz          |
+|            9 |     2260 | 2024-03-14 | BIG EQUIPA                  | W   | 0.852      | 0.331        | -                | 0.300 (0.084)    | -         |     8.75 | ANa, Kat, tory, twenty3, zAAz          |
+|            8 |     2566 | 2024-03-07 | NIP Impact                  | W   | 0.805      | 0.331        | 0.011 (0.003)    | 0.344 (0.092)    | -         |     7.22 | ANa, Kat, tory, twenty3, zAAz          |
+|            7 |     3078 | 2024-02-26 | 500                         | L   | 0.737      | -            | -                | -                | -         |   -12.37 | ANa, Kat, tory, twenty3, zAAz          |
+|            6 |     3974 | 2024-02-03 | UNiTY esports (Slovak team) | L   | 0.585      | -            | -                | -                | -         |    -7.65 | Levi, luko, M1key, NIO, Pechyn         |
+|            5 |     5724 | 2023-12-10 | NAVI Javelins               | W   | 0.218      | 0.524        | 0.062 (0.007)    | -                | 1 (0.218) |     3.10 | ANa, Kat, tory, twenty3, vilga         |
+|            4 |     5743 | 2023-12-10 | NOFEAR5                     | W   | 0.216      | -            | -                | -                | 1 (0.216) |     2.13 | Elizabeth, f6tal, Ksu, t4tty, victoria |
+|            3 |     5771 | 2023-12-09 | HSG                         | W   | 0.211      | -            | -                | -                | 1 (0.211) |     1.65 | Argent, GFi, Hazel, olga, XiaoWu       |
+|            2 |     5838 | 2023-12-08 | Fluxo Demons                | L   | 0.205      | -            | -                | -                | -         |    -2.73 | goddess, julih, nani, poppins, yungher |
+|            1 |     5855 | 2023-12-08 | HSG                         | W   | 0.203      | -            | -                | -                | 1 (0.203) |     1.56 | Argent, GFi, Hazel, olga, XiaoWu       |
 
 <br />
 <span id="table2"></span><br />

@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                 |
+| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |       51 | 2024-05-04 | AL-QATRAO                        | L   | 1.000      | -            | -                | -                | -             |    -4.10 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
-|            9 |       69 | 2024-05-04 | The Agency Clan                  | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | false (0.000) |    16.08 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
-|            8 |       95 | 2024-05-03 | Strike Force                     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |    16.65 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
-|            7 |      733 | 2024-04-20 | Strike Force                     | L   | 1.000      | -            | -                | -                | -             |   -14.09 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
-|            6 |     2119 | 2024-03-17 | Coolermaster                     | L   | 0.872      | -            | -                | -                | -             |   -12.87 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
-|            5 |     3235 | 2024-02-22 | Enigma Esports (Portuguese team) | L   | 0.712      | -            | -                | -                | -             |   -10.88 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
-|            4 |     3297 | 2024-02-21 | ABT Esports                      | W   | 0.705      | 0.143        | 0.000 (0.000)    | 0.137 (0.014)    | false (0.000) |    14.36 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
-|            3 |     3346 | 2024-02-20 | AL-QATRAO                        | L   | 0.698      | -            | -                | -                | -             |    -3.31 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
-|            2 |     4220 | 2024-01-28 | Qlimax                           | L   | 0.544      | -            | -                | -                | -             |    -8.41 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
-|            1 |     4277 | 2024-01-27 | AL-QATRAO                        | L   | 0.538      | -            | -                | -                | -             |    -2.82 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
+|           10 |       51 | 2024-05-04 | AL-QATRAO                        | L   | 1.000      | -            | -                | -                | -         |    -4.10 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
+|            9 |       69 | 2024-05-04 | The Agency Clan                  | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.035 (0.005)    | 0 (0.000) |    16.08 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
+|            8 |       95 | 2024-05-03 | Strike Force                     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    16.65 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
+|            7 |      733 | 2024-04-20 | Strike Force                     | L   | 1.000      | -            | -                | -                | -         |   -14.09 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
+|            6 |     2119 | 2024-03-17 | Coolermaster                     | L   | 0.872      | -            | -                | -                | -         |   -12.87 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
+|            5 |     3235 | 2024-02-22 | Enigma Esports (Portuguese team) | L   | 0.712      | -            | -                | -                | -         |   -10.88 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
+|            4 |     3297 | 2024-02-21 | ABT Esports                      | W   | 0.705      | 0.143        | 0.000 (0.000)    | 0.137 (0.014)    | 0 (0.000) |    14.36 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
+|            3 |     3346 | 2024-02-20 | AL-QATRAO                        | L   | 0.698      | -            | -                | -                | -         |    -3.31 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
+|            2 |     4220 | 2024-01-28 | Qlimax                           | L   | 0.544      | -            | -                | -                | -         |    -8.41 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
+|            1 |     4277 | 2024-01-27 | AL-QATRAO                        | L   | 0.538      | -            | -                | -                | -         |    -2.82 | brA, c0mplex, Jayy2s, M1KA, MattyMyimb |
 
 <br />
 <span id="table2"></span><br />

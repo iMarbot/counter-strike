@@ -34,23 +34,23 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                 |
+| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |       18 | 2024-05-05 | Team Pigeons               | L   | 1.000      | -            | -                | -                | -             |    -5.14 | akiyanora, amore, ayaka, M4rgo, meo    |
-|           14 |       50 | 2024-05-04 | Team Spirit Female         | W   | 1.000      | 0.250        | 0.011 (0.003)    | 0.205 (0.051)    | false (0.000) |    15.13 | akiyanora, amore, ayaka, M4rgo, meo    |
-|           13 |       58 | 2024-05-04 | NOFEAR5                    | W   | 1.000      | 0.250        | 0.018 (0.004)    | 0.017 (0.004)    | false (0.000) |    19.07 | akiyanora, amore, ayaka, M4rgo, meo    |
-|           12 |      375 | 2024-04-27 | Team Spirit Female         | L   | 1.000      | -            | -                | -                | -             |   -15.56 | akiyanora, amore, ayaka, M4rgo, meo    |
-|           11 |      383 | 2024-04-27 | VForVictory                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.97 | akiyanora, amore, ayaka, M4rgo, meo    |
-|           10 |      816 | 2024-04-19 | NAVI Javelins              | L   | 1.000      | -            | -                | -                | -             |    -6.87 | akiyanora, amore, ayaka, M4rgo, meo    |
-|            9 |     1168 | 2024-04-11 | Fearless Cheetahs          | L   | 1.000      | -            | -                | -                | -             |   -13.14 | kr4sy, Ksu, t4tty, victoria, vilga     |
-|            8 |     1233 | 2024-04-10 | Permitta W                 | L   | 1.000      | -            | -                | -                | -             |   -23.11 | amyb, Gaba, Mrs_Fire, pavlla, Tynka    |
-|            7 |     1336 | 2024-04-08 | Team Pigeons               | L   | 1.000      | -            | -                | -                | -             |    -7.07 | akiyanora, amore, ayaka, M4rgo, meo    |
-|            6 |     1693 | 2024-03-28 | 1win Gang                  | W   | 0.945      | 0.331        | 0.007 (0.002)    | 0.061 (0.019)    | false (0.000) |    12.03 | akiyanora, amore, ayaka, M4rgo, meo    |
-|            5 |     2021 | 2024-03-20 | Team Spirit Female         | L   | 0.892      | -            | -                | -                | -             |   -13.69 | akiyanora, amore, ayaka, M4rgo, meo    |
-|            4 |     3165 | 2024-02-24 | NAVI Javelins              | L   | 0.724      | -            | -                | -                | -             |    -7.03 | akiyanora, amore, ayaka, M4rgo, meo    |
-|            3 |     3175 | 2024-02-24 | 1win Gang                  | W   | 0.723      | 0.143        | 0.007 (0.001)    | 0.061 (0.006)    | false (0.000) |     9.77 | Deylary, f6tal, miu_u, Potya, unknxwn  |
-|            2 |     3445 | 2024-02-18 | FORZE Ladies               | W   | 0.685      | 0.143        | 0.002 (0.000)    | 0.057 (0.006)    | false (0.000) |     9.56 | k175un4, mikeri, sosya, Stormy, wieenn |
-|            1 |     3480 | 2024-02-17 | Questionmark (Female team) | W   | 0.679      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     3.44 | ASTRA, IRBITka, Missy, oxycet, twix    |
+|           15 |       18 | 2024-05-05 | Team Pigeons               | L   | 1.000      | -            | -                | -                | -         |    -5.14 | akiyanora, amore, ayaka, M4rgo, meo    |
+|           14 |       50 | 2024-05-04 | Team Spirit Female         | W   | 1.000      | 0.250        | 0.011 (0.003)    | 0.205 (0.051)    | 0 (0.000) |    15.13 | akiyanora, amore, ayaka, M4rgo, meo    |
+|           13 |       58 | 2024-05-04 | NOFEAR5                    | W   | 1.000      | 0.250        | 0.018 (0.004)    | 0.017 (0.004)    | 0 (0.000) |    19.07 | akiyanora, amore, ayaka, M4rgo, meo    |
+|           12 |      375 | 2024-04-27 | Team Spirit Female         | L   | 1.000      | -            | -                | -                | -         |   -15.56 | akiyanora, amore, ayaka, M4rgo, meo    |
+|           11 |      383 | 2024-04-27 | VForVictory                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.97 | akiyanora, amore, ayaka, M4rgo, meo    |
+|           10 |      816 | 2024-04-19 | NAVI Javelins              | L   | 1.000      | -            | -                | -                | -         |    -6.87 | akiyanora, amore, ayaka, M4rgo, meo    |
+|            9 |     1168 | 2024-04-11 | Fearless Cheetahs          | L   | 1.000      | -            | -                | -                | -         |   -13.14 | kr4sy, Ksu, t4tty, victoria, vilga     |
+|            8 |     1233 | 2024-04-10 | Permitta W                 | L   | 1.000      | -            | -                | -                | -         |   -23.11 | amyb, Gaba, Mrs_Fire, pavlla, Tynka    |
+|            7 |     1336 | 2024-04-08 | Team Pigeons               | L   | 1.000      | -            | -                | -                | -         |    -7.07 | akiyanora, amore, ayaka, M4rgo, meo    |
+|            6 |     1693 | 2024-03-28 | 1win Gang                  | W   | 0.945      | 0.331        | 0.007 (0.002)    | 0.061 (0.019)    | 0 (0.000) |    12.03 | akiyanora, amore, ayaka, M4rgo, meo    |
+|            5 |     2021 | 2024-03-20 | Team Spirit Female         | L   | 0.892      | -            | -                | -                | -         |   -13.69 | akiyanora, amore, ayaka, M4rgo, meo    |
+|            4 |     3165 | 2024-02-24 | NAVI Javelins              | L   | 0.724      | -            | -                | -                | -         |    -7.03 | akiyanora, amore, ayaka, M4rgo, meo    |
+|            3 |     3175 | 2024-02-24 | 1win Gang                  | W   | 0.723      | 0.143        | 0.007 (0.001)    | 0.061 (0.006)    | 0 (0.000) |     9.77 | Deylary, f6tal, miu_u, Potya, unknxwn  |
+|            2 |     3445 | 2024-02-18 | FORZE Ladies               | W   | 0.685      | 0.143        | 0.002 (0.000)    | 0.057 (0.006)    | 0 (0.000) |     9.56 | k175un4, mikeri, sosya, Stormy, wieenn |
+|            1 |     3480 | 2024-02-17 | Questionmark (Female team) | W   | 0.679      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.44 | ASTRA, IRBITka, Missy, oxycet, twix    |
 
 <br />
 <span id="table2"></span><br />

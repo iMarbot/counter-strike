@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                |
+| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     4737 | 2024-01-17 | VaselineWorms          | L   | 0.472      | -            | -                | -                | -             |    -4.45 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
-|           11 |     4781 | 2024-01-16 | Endpoint               | L   | 0.466      | -            | -                | -                | -             |    -2.01 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
-|           10 |     4797 | 2024-01-16 | Turów Zgorzelec Esport | W   | 0.466      | 0.143        | 0.019 (0.001)    | 0.640 (0.043)    | false (0.000) |    12.42 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
-|            9 |     4799 | 2024-01-16 | Blue Lock              | W   | 0.465      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.23 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
-|            8 |     5002 | 2024-01-11 | IKLA                   | L   | 0.431      | -            | -                | -                | -             |    -3.11 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
-|            7 |     5042 | 2024-01-10 | Viperio                | W   | 0.426      | 0.143        | 0.000 (0.000)    | 0.321 (0.020)    | false (0.000) |     8.58 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
-|            6 |     5121 | 2024-01-09 | 9INE                   | L   | 0.418      | -            | -                | -                | -             |    -5.35 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
-|            5 |     6379 | 2023-11-27 | Ex-Anonymo Esports     | L   | 0.130      | -            | -                | -                | -             |    -0.75 | birdfromsky, JDC, niko, susp, syrsoN  |
-|            4 |     6601 | 2023-11-21 | EYEBALLERS             | L   | 0.091      | -            | -                | -                | -             |    -0.23 | birdfromsky, JDC, niko, susp, syrsoN  |
-|            3 |     6822 | 2023-11-16 | Into The Breach        | L   | 0.058      | -            | -                | -                | -             |    -0.28 | birdfromsky, JDC, niko, susp, syrsoN  |
-|            2 |     6875 | 2023-11-15 | For The Win Esports    | L   | 0.052      | -            | -                | -                | -             |    -0.46 | birdfromsky, JDC, niko, susp, syrsoN  |
-|            1 |     6900 | 2023-11-15 | BIG                    | L   | 0.050      | -            | -                | -                | -             |    -0.01 | birdfromsky, JDC, niko, susp, syrsoN  |
+|           12 |     4737 | 2024-01-17 | VaselineWorms          | L   | 0.472      | -            | -                | -                | -         |    -4.45 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
+|           11 |     4781 | 2024-01-16 | Endpoint               | L   | 0.466      | -            | -                | -                | -         |    -2.01 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
+|           10 |     4797 | 2024-01-16 | Turów Zgorzelec Esport | W   | 0.466      | 0.143        | 0.019 (0.001)    | 0.640 (0.043)    | 0 (0.000) |    12.42 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
+|            9 |     4799 | 2024-01-16 | Blue Lock              | W   | 0.465      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.23 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
+|            8 |     5002 | 2024-01-11 | IKLA                   | L   | 0.431      | -            | -                | -                | -         |    -3.11 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
+|            7 |     5042 | 2024-01-10 | Viperio                | W   | 0.426      | 0.143        | 0.000 (0.000)    | 0.321 (0.020)    | 0 (0.000) |     8.58 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
+|            6 |     5121 | 2024-01-09 | 9INE                   | L   | 0.418      | -            | -                | -                | -         |    -5.35 | birdfromsky, FASHR, JDC, syrsoN, VLDN |
+|            5 |     6379 | 2023-11-27 | Ex-Anonymo Esports     | L   | 0.130      | -            | -                | -                | -         |    -0.75 | birdfromsky, JDC, niko, susp, syrsoN  |
+|            4 |     6601 | 2023-11-21 | EYEBALLERS             | L   | 0.091      | -            | -                | -                | -         |    -0.23 | birdfromsky, JDC, niko, susp, syrsoN  |
+|            3 |     6822 | 2023-11-16 | Into The Breach        | L   | 0.058      | -            | -                | -                | -         |    -0.28 | birdfromsky, JDC, niko, susp, syrsoN  |
+|            2 |     6875 | 2023-11-15 | For The Win Esports    | L   | 0.052      | -            | -                | -                | -         |    -0.46 | birdfromsky, JDC, niko, susp, syrsoN  |
+|            1 |     6900 | 2023-11-15 | BIG                    | L   | 0.050      | -            | -                | -                | -         |    -0.01 | birdfromsky, JDC, niko, susp, syrsoN  |
 
 <br />
 <span id="table2"></span><br />

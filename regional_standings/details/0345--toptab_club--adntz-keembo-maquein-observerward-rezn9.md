@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                      |
+| Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      409 | 2024-04-26 | Kappa Bar              | L   | 1.000      | -            | -                | -                | -             |   -15.14 | ADntZ, keembo, maQuein, observerward, rezn9 |
-|           10 |      599 | 2024-04-22 | Lemondogs              | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.252 (0.094)    | false (0.000) |    17.86 | ADntZ, keembo, maQuein, observerward, rezn9 |
-|            9 |      703 | 2024-04-20 | Grindas                | L   | 1.000      | -            | -                | -                | -             |    -8.13 | ADntZ, feetje, keembo, maQuein, rezn9       |
-|            8 |     1034 | 2024-04-15 | Raptors Esports Club   | L   | 1.000      | -            | -                | -                | -             |    -4.21 | ADntZ, keembo, maQuein, observerward, rezn9 |
-|            7 |     1171 | 2024-04-11 | ARCRED                 | L   | 1.000      | -            | -                | -                | -             |    -4.93 | ADntZ, keembo, maQuein, observerward, rezn9 |
-|            6 |     2207 | 2024-03-15 | Turów Zgorzelec Esport | L   | 0.859      | -            | -                | -                | -             |    -4.62 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
-|            5 |     2367 | 2024-03-12 | Raptors Esports Club   | L   | 0.839      | -            | -                | -                | -             |    -4.05 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
-|            4 |     2687 | 2024-03-05 | DUSTY                  | W   | 0.792      | 0.333        | 0.015 (0.004)    | 0.233 (0.061)    | false (0.000) |    18.77 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
-|            3 |     5397 | 2023-12-17 | Lewandownskie          | L   | 0.263      | -            | -                | -                | -             |    -2.46 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
-|            2 |     5498 | 2023-12-16 | XGOD                   | L   | 0.256      | -            | -                | -                | -             |    -4.28 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
-|            1 |     6731 | 2023-11-18 | LEON Esports           | W   | 0.071      | 0.143        | 0.003 (0.000)    | 0.357 (0.004)    | false (0.000) |     1.62 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
+|           11 |      409 | 2024-04-26 | Kappa Bar              | L   | 1.000      | -            | -                | -                | -         |   -15.14 | ADntZ, keembo, maQuein, observerward, rezn9 |
+|           10 |      599 | 2024-04-22 | Lemondogs              | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.252 (0.094)    | 0 (0.000) |    17.86 | ADntZ, keembo, maQuein, observerward, rezn9 |
+|            9 |      703 | 2024-04-20 | Grindas                | L   | 1.000      | -            | -                | -                | -         |    -8.13 | ADntZ, feetje, keembo, maQuein, rezn9       |
+|            8 |     1034 | 2024-04-15 | Raptors Esports Club   | L   | 1.000      | -            | -                | -                | -         |    -4.21 | ADntZ, keembo, maQuein, observerward, rezn9 |
+|            7 |     1171 | 2024-04-11 | ARCRED                 | L   | 1.000      | -            | -                | -                | -         |    -4.93 | ADntZ, keembo, maQuein, observerward, rezn9 |
+|            6 |     2207 | 2024-03-15 | Turów Zgorzelec Esport | L   | 0.859      | -            | -                | -                | -         |    -4.62 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
+|            5 |     2367 | 2024-03-12 | Raptors Esports Club   | L   | 0.839      | -            | -                | -                | -         |    -4.05 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
+|            4 |     2687 | 2024-03-05 | DUSTY                  | W   | 0.792      | 0.333        | 0.015 (0.004)    | 0.233 (0.061)    | 0 (0.000) |    18.77 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
+|            3 |     5397 | 2023-12-17 | Lewandownskie          | L   | 0.263      | -            | -                | -                | -         |    -2.46 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
+|            2 |     5498 | 2023-12-16 | XGOD                   | L   | 0.256      | -            | -                | -                | -         |    -4.28 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
+|            1 |     6731 | 2023-11-18 | LEON Esports           | W   | 0.071      | 0.143        | 0.003 (0.000)    | 0.357 (0.004)    | 0 (0.000) |     1.62 | ADntZ, keembo, maQuein, rezn9, SKYLLLER     |
 
 <br />
 <span id="table2"></span><br />

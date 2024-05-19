@@ -34,20 +34,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                             |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     2412 | 2024-03-11 | IMMAPROBLEM       | W   | 0.832      | 0.143        | 0.000 (0.000)    | 0.136 (0.016)    | false (0.000) |    12.54 | Folke, Inspire, Logic, logz, mupzG |
-|           11 |     2421 | 2024-03-11 | WOPA Esport       | L   | 0.832      | -            | -                | -                | -             |    -6.23 | Folke, Inspire, Logic, logz, mupzG |
-|           10 |     2600 | 2024-03-06 | Astralis Talent   | W   | 0.799      | 0.143        | 0.030 (0.003)    | 0.613 (0.070)    | false (0.000) |    22.36 | Folke, Inspire, Logic, logz, mupzG |
-|            9 |     2608 | 2024-03-06 | Copenhagen Wolves | L   | 0.799      | -            | -                | -                | -             |    -9.28 | Folke, Inspire, Logic, logz, mupzG |
-|            8 |     2621 | 2024-03-06 | Preasy Esport     | L   | 0.799      | -            | -                | -                | -             |    -6.49 | Folke, Inspire, Logic, logz, mupzG |
-|            7 |     3025 | 2024-02-27 | XI Esport         | W   | 0.745      | 0.143        | 0.002 (0.000)    | 0.313 (0.033)    | false (0.000) |    16.26 | Folke, Inspire, Logic, logz, mupzG |
-|            6 |     3859 | 2024-02-06 | IMMAPROBLEM       | L   | 0.605      | -            | -                | -                | -             |    -9.29 | Folke, Inspire, logz, mupzG, zEden |
-|            5 |     3876 | 2024-02-05 | Sashi Esport      | W   | 0.599      | 0.143        | 0.055 (0.005)    | 0.256 (0.022)    | false (0.000) |    15.47 | Folke, Inspire, logz, mupzG, zEden |
-|            4 |     3882 | 2024-02-05 | XI Esport         | L   | 0.599      | -            | -                | -                | -             |    -5.52 | Folke, Inspire, logz, mupzG, zEden |
-|            3 |     4106 | 2024-01-31 | Astralis Talent   | L   | 0.565      | -            | -                | -                | -             |    -1.59 | Folke, Inspire, logz, mupzG, zEden |
-|            2 |     4465 | 2024-01-22 | Preasy Esport     | W   | 0.505      | 0.143        | 0.007 (0.000)    | 0.525 (0.038)    | false (0.000) |    13.12 | Folke, Inspire, logz, mupzG, zEden |
-|            1 |     4472 | 2024-01-22 | Copenhagen Wolves | L   | 0.505      | -            | -                | -                | -             |    -5.53 | Folke, Inspire, logz, mupzG, zEden |
+|           12 |     2412 | 2024-03-11 | IMMAPROBLEM       | W   | 0.832      | 0.143        | 0.000 (0.000)    | 0.136 (0.016)    | 0 (0.000) |    12.54 | Folke, Inspire, Logic, logz, mupzG |
+|           11 |     2421 | 2024-03-11 | WOPA Esport       | L   | 0.832      | -            | -                | -                | -         |    -6.23 | Folke, Inspire, Logic, logz, mupzG |
+|           10 |     2600 | 2024-03-06 | Astralis Talent   | W   | 0.799      | 0.143        | 0.030 (0.003)    | 0.613 (0.070)    | 0 (0.000) |    22.36 | Folke, Inspire, Logic, logz, mupzG |
+|            9 |     2608 | 2024-03-06 | Copenhagen Wolves | L   | 0.799      | -            | -                | -                | -         |    -9.28 | Folke, Inspire, Logic, logz, mupzG |
+|            8 |     2621 | 2024-03-06 | Preasy Esport     | L   | 0.799      | -            | -                | -                | -         |    -6.49 | Folke, Inspire, Logic, logz, mupzG |
+|            7 |     3025 | 2024-02-27 | XI Esport         | W   | 0.745      | 0.143        | 0.002 (0.000)    | 0.313 (0.033)    | 0 (0.000) |    16.26 | Folke, Inspire, Logic, logz, mupzG |
+|            6 |     3859 | 2024-02-06 | IMMAPROBLEM       | L   | 0.605      | -            | -                | -                | -         |    -9.29 | Folke, Inspire, logz, mupzG, zEden |
+|            5 |     3876 | 2024-02-05 | Sashi Esport      | W   | 0.599      | 0.143        | 0.055 (0.005)    | 0.256 (0.022)    | 0 (0.000) |    15.47 | Folke, Inspire, logz, mupzG, zEden |
+|            4 |     3882 | 2024-02-05 | XI Esport         | L   | 0.599      | -            | -                | -                | -         |    -5.52 | Folke, Inspire, logz, mupzG, zEden |
+|            3 |     4106 | 2024-01-31 | Astralis Talent   | L   | 0.565      | -            | -                | -                | -         |    -1.59 | Folke, Inspire, logz, mupzG, zEden |
+|            2 |     4465 | 2024-01-22 | Preasy Esport     | W   | 0.505      | 0.143        | 0.007 (0.000)    | 0.525 (0.038)    | 0 (0.000) |    13.12 | Folke, Inspire, logz, mupzG, zEden |
+|            1 |     4472 | 2024-01-22 | Copenhagen Wolves | L   | 0.505      | -            | -                | -                | -         |    -5.53 | Folke, Inspire, logz, mupzG, zEden |
 
 <br />
 <span id="table2"></span><br />

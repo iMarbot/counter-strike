@@ -34,22 +34,22 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                         |
+| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     2441 | 2024-03-11 | High Five (Chinese team)  | L   | 0.829      | -            | -                | -                | -             |   -10.65 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
-|           13 |     2475 | 2024-03-10 | ATOX Esports              | L   | 0.822      | -            | -                | -                | -             |    -4.28 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
-|           12 |     2521 | 2024-03-09 | High Five (Chinese team)  | W   | 0.816      | 0.143        | 0.045 (0.005)    | 0.282 (0.033)    | false (0.000) |    15.05 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
-|           11 |     2522 | 2024-03-08 | AP Gaming                 | W   | 0.815      | 0.143        | 0.082 (0.010)    | 0.152 (0.018)    | false (0.000) |    17.17 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
-|           10 |     2547 | 2024-03-08 | ATOX Esports              | L   | 0.809      | -            | -                | -                | -             |    -3.83 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
-|            9 |     2589 | 2024-03-07 | AP Gaming                 | W   | 0.803      | 0.143        | 0.082 (0.009)    | 0.152 (0.017)    | false (0.000) |    17.68 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
-|            8 |     4290 | 2024-01-27 | Team NKT                  | L   | 0.536      | -            | -                | -                | -             |    -7.57 | N1nE, neverland, salmon, T3rrymeister, Tikkkk  |
-|            7 |     4293 | 2024-01-26 | Những Chàng Trai Đeo Kính | W   | 0.536      | 0.435        | 0.007 (0.002)    | 0.054 (0.013)    | true (0.536)  |     8.17 | N1nE, neverland, salmon, T3rrymeister, Tikkkk  |
-|            6 |     4338 | 2024-01-26 | Team NKT                  | L   | 0.530      | -            | -                | -                | -             |    -7.62 | N1nE, neverland, salmon, T3rrymeister, Tikkkk  |
-|            5 |     4896 | 2024-01-13 | Change The Game           | L   | 0.443      | -            | -                | -                | -             |    -9.13 | kylin, N1nE, salmon, T3rrymeister, Tikkkk      |
-|            4 |     4903 | 2024-01-13 | TigerMan Esports          | W   | 0.442      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.80 | kylin, N1nE, salmon, T3rrymeister, Tikkkk      |
-|            3 |     5153 | 2024-01-08 | PA Esports                | W   | 0.410      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.61 | kylin, N1nE, salmon, T3rrymeister, Tikkkk      |
-|            2 |     5480 | 2023-12-16 | 川渝一棵松                     | W   | 0.258      | 0.143        | 0.001 (0.000)    | 0.009 (0.000)    | false (0.000) |     2.45 | kylin, N1nE, salmon, T3rrymeister, Tikkkk      |
-|            1 |     5494 | 2023-12-16 | Nalakuvara                | W   | 0.257      | 0.143        | 0.027 (0.001)    | 0.070 (0.003)    | false (0.000) |     4.71 | kylin, N1nE, salmon, T3rrymeister, Tikkkk      |
+|           14 |     2441 | 2024-03-11 | High Five (Chinese team)  | L   | 0.829      | -            | -                | -                | -         |   -10.65 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
+|           13 |     2475 | 2024-03-10 | ATOX Esports              | L   | 0.822      | -            | -                | -                | -         |    -4.28 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
+|           12 |     2521 | 2024-03-09 | High Five (Chinese team)  | W   | 0.816      | 0.143        | 0.045 (0.005)    | 0.282 (0.033)    | 0 (0.000) |    15.05 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
+|           11 |     2522 | 2024-03-08 | AP Gaming                 | W   | 0.815      | 0.143        | 0.082 (0.010)    | 0.152 (0.018)    | 0 (0.000) |    17.17 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
+|           10 |     2547 | 2024-03-08 | ATOX Esports              | L   | 0.809      | -            | -                | -                | -         |    -3.83 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
+|            9 |     2589 | 2024-03-07 | AP Gaming                 | W   | 0.803      | 0.143        | 0.082 (0.009)    | 0.152 (0.017)    | 0 (0.000) |    17.68 | Balzo, neverland, salmon, skrrrr, T3rrymeister |
+|            8 |     4290 | 2024-01-27 | Team NKT                  | L   | 0.536      | -            | -                | -                | -         |    -7.57 | N1nE, neverland, salmon, T3rrymeister, Tikkkk  |
+|            7 |     4293 | 2024-01-26 | Những Chàng Trai Đeo Kính | W   | 0.536      | 0.435        | 0.007 (0.002)    | 0.054 (0.013)    | 1 (0.536) |     8.17 | N1nE, neverland, salmon, T3rrymeister, Tikkkk  |
+|            6 |     4338 | 2024-01-26 | Team NKT                  | L   | 0.530      | -            | -                | -                | -         |    -7.62 | N1nE, neverland, salmon, T3rrymeister, Tikkkk  |
+|            5 |     4896 | 2024-01-13 | Change The Game           | L   | 0.443      | -            | -                | -                | -         |    -9.13 | kylin, N1nE, salmon, T3rrymeister, Tikkkk      |
+|            4 |     4903 | 2024-01-13 | TigerMan Esports          | W   | 0.442      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.80 | kylin, N1nE, salmon, T3rrymeister, Tikkkk      |
+|            3 |     5153 | 2024-01-08 | PA Esports                | W   | 0.410      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.61 | kylin, N1nE, salmon, T3rrymeister, Tikkkk      |
+|            2 |     5480 | 2023-12-16 | 川渝一棵松                     | W   | 0.258      | 0.143        | 0.001 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     2.45 | kylin, N1nE, salmon, T3rrymeister, Tikkkk      |
+|            1 |     5494 | 2023-12-16 | Nalakuvara                | W   | 0.257      | 0.143        | 0.027 (0.001)    | 0.070 (0.003)    | 0 (0.000) |     4.71 | kylin, N1nE, salmon, T3rrymeister, Tikkkk      |
 
 <br />
 <span id="table2"></span><br />

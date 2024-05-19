@@ -34,38 +34,38 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins     | H2H Adj. | Roster                                  |
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |     1691 | 2024-03-28 | FaZe Clan         | L   | 0.945      | -            | -                | -                | -            |   -12.71 | chopper, donk, magixx, sh1ro, zont1x    |
-|           29 |     1939 | 2024-03-22 | Natus Vincere     | W   | 0.905      | 1.000        | 1.000 (0.905)    | 0.406 (0.368)    | true (0.905) |    16.14 | chopper, donk, magixx, sh1ro, zont1x    |
-|           28 |     1959 | 2024-03-21 | Imperial Esports  | W   | 0.899      | 1.000        | 0.674 (0.606)    | 0.549 (0.493)    | true (0.899) |     3.35 | chopper, donk, magixx, sh1ro, zont1x    |
-|           27 |     1985 | 2024-03-21 | Cloud9            | W   | 0.898      | 1.000        | 0.487 (0.438)    | 0.419 (0.377)    | true (0.898) |     9.13 | chopper, donk, magixx, sh1ro, zont1x    |
-|           26 |     2447 | 2024-03-10 | Metizport         | W   | 0.826      | 0.535        | -                | 1.000 (0.442)    | -            |     0.41 | chopper, donk, magixx, sh1ro, zont1x    |
-|           25 |     2486 | 2024-03-09 | BIG               | W   | 0.819      | 0.535        | 0.470 (0.206)    | 0.400 (0.175)    | -            |     2.06 | chopper, donk, magixx, sh1ro, zont1x    |
-|           24 |     2534 | 2024-03-08 | Elevate           | W   | 0.811      | -            | -                | -                | -            |     0.06 | chopper, donk, magixx, sh1ro, zont1x    |
-|           23 |     3302 | 2024-02-21 | HEROIC            | W   | 0.705      | -            | -                | -                | true (0.705) |     6.17 | chopper, donk, magixx, sh1ro, zont1x    |
-|           22 |     3354 | 2024-02-20 | MOUZ              | L   | 0.698      | -            | -                | -                | -            |   -11.13 | chopper, donk, magixx, sh1ro, zont1x    |
-|           21 |     3395 | 2024-02-19 | Astralis          | W   | 0.692      | -            | -                | -                | true (0.692) |     2.90 | chopper, donk, magixx, sh1ro, zont1x    |
-|           20 |     3426 | 2024-02-19 | ENCE              | W   | 0.690      | -            | -                | -                | true (0.690) |     3.14 | chopper, donk, magixx, sh1ro, zont1x    |
-|           19 |     3755 | 2024-02-11 | FaZe Clan         | W   | 0.638      | 1.000        | 1.000 (0.638)    | 0.566 (0.361)    | true (0.638) |    13.63 | chopper, donk, magixx, sh1ro, zont1x    |
-|           18 |     3764 | 2024-02-10 | Team Falcons      | W   | 0.632      | 1.000        | 0.431 (0.273)    | -                | true (0.632) |     1.55 | chopper, donk, magixx, sh1ro, zont1x    |
-|           17 |     3861 | 2024-02-06 | FaZe Clan         | W   | 0.605      | 1.000        | 1.000 (0.605)    | 0.566 (0.342)    | true (0.605) |    13.27 | chopper, donk, magixx, sh1ro, zont1x    |
-|           16 |     3923 | 2024-02-04 | Complexity Gaming | W   | 0.591      | 1.000        | 0.271 (0.160)    | -                | true (0.591) |     2.70 | chopper, donk, magixx, sh1ro, zont1x    |
-|           15 |     3968 | 2024-02-03 | Natus Vincere     | W   | 0.585      | 1.000        | 1.000 (0.585)    | 0.406 (0.238)    | -            |    12.60 | chopper, donk, magixx, sh1ro, zont1x    |
-|           14 |     4086 | 2024-02-01 | The MongolZ       | W   | 0.570      | 1.000        | 0.292 (0.167)    | 0.663 (0.378)    | -            |     4.73 | chopper, donk, magixx, sh1ro, zont1x    |
-|           13 |     4111 | 2024-01-31 | Apeks             | W   | 0.565      | 1.000        | -                | 0.459 (0.260)    | -            |     1.53 | chopper, donk, magixx, sh1ro, zont1x    |
-|           12 |     4358 | 2024-01-25 | FaZe Clan         | L   | 0.524      | -            | -                | -                | -            |    -4.71 | baz, chopper, hally, sh1ro, zont1x      |
-|           11 |     4389 | 2024-01-24 | Team Liquid       | L   | 0.517      | -            | -                | -                | -            |   -15.10 | baz, chopper, hally, sh1ro, zont1x      |
-|           10 |     4558 | 2024-01-20 | MOUZ              | W   | 0.491      | -            | -                | -                | -            |     8.34 | chopper, donk, magixx, sh1ro, zont1x    |
-|            9 |     4610 | 2024-01-19 | Preasy Esport     | W   | 0.484      | -            | -                | -                | -            |     0.13 | chopper, donk, magixx, sh1ro, zont1x    |
-|            8 |     4648 | 2024-01-18 | Entropiq          | W   | 0.479      | -            | -                | -                | -            |     0.05 | chopper, donk, magixx, sh1ro, zont1x    |
-|            7 |     4671 | 2024-01-18 | KOI               | L   | 0.478      | -            | -                | -                | -            |   -14.86 | chopper, donk, magixx, sh1ro, zont1x    |
-|            6 |     5740 | 2023-12-10 | Virtus.pro        | W   | 0.217      | -            | -                | -                | -            |     2.19 | ArtFr0st, chopper, donk, magixx, zont1x |
-|            5 |     5774 | 2023-12-09 | MIBR              | W   | 0.210      | -            | -                | -                | -            |     1.83 | ArtFr0st, chopper, donk, magixx, zont1x |
-|            4 |     5844 | 2023-12-08 | FURIA Esports     | W   | 0.204      | -            | -                | -                | -            |     1.76 | ArtFr0st, chopper, donk, magixx, zont1x |
-|            3 |     5905 | 2023-12-07 | Virtus.pro        | L   | 0.196      | -            | -                | -                | -            |    -4.23 | ArtFr0st, chopper, donk, magixx, zont1x |
-|            2 |     5940 | 2023-12-06 | FURIA Esports     | W   | 0.191      | -            | -                | -                | -            |     1.63 | ArtFr0st, chopper, donk, magixx, zont1x |
-|            1 |     6780 | 2023-11-17 | MIBR              | W   | 0.064      | -            | -                | -                | -            |     0.54 | ArtFr0st, chopper, donk, magixx, zont1x |
+|           30 |     1691 | 2024-03-28 | FaZe Clan         | L   | 0.945      | -            | -                | -                | -         |   -12.71 | chopper, donk, magixx, sh1ro, zont1x    |
+|           29 |     1939 | 2024-03-22 | Natus Vincere     | W   | 0.905      | 1.000        | 1.000 (0.905)    | 0.406 (0.368)    | 1 (0.905) |    16.14 | chopper, donk, magixx, sh1ro, zont1x    |
+|           28 |     1959 | 2024-03-21 | Imperial Esports  | W   | 0.899      | 1.000        | 0.674 (0.606)    | 0.549 (0.493)    | 1 (0.899) |     3.35 | chopper, donk, magixx, sh1ro, zont1x    |
+|           27 |     1985 | 2024-03-21 | Cloud9            | W   | 0.898      | 1.000        | 0.487 (0.438)    | 0.419 (0.377)    | 1 (0.898) |     9.13 | chopper, donk, magixx, sh1ro, zont1x    |
+|           26 |     2447 | 2024-03-10 | Metizport         | W   | 0.826      | 0.535        | -                | 1.000 (0.442)    | -         |     0.41 | chopper, donk, magixx, sh1ro, zont1x    |
+|           25 |     2486 | 2024-03-09 | BIG               | W   | 0.819      | 0.535        | 0.470 (0.206)    | 0.400 (0.175)    | -         |     2.06 | chopper, donk, magixx, sh1ro, zont1x    |
+|           24 |     2534 | 2024-03-08 | Elevate           | W   | 0.811      | -            | -                | -                | -         |     0.06 | chopper, donk, magixx, sh1ro, zont1x    |
+|           23 |     3302 | 2024-02-21 | HEROIC            | W   | 0.705      | -            | -                | -                | 1 (0.705) |     6.17 | chopper, donk, magixx, sh1ro, zont1x    |
+|           22 |     3354 | 2024-02-20 | MOUZ              | L   | 0.698      | -            | -                | -                | -         |   -11.13 | chopper, donk, magixx, sh1ro, zont1x    |
+|           21 |     3395 | 2024-02-19 | Astralis          | W   | 0.692      | -            | -                | -                | 1 (0.692) |     2.90 | chopper, donk, magixx, sh1ro, zont1x    |
+|           20 |     3426 | 2024-02-19 | ENCE              | W   | 0.690      | -            | -                | -                | 1 (0.690) |     3.14 | chopper, donk, magixx, sh1ro, zont1x    |
+|           19 |     3755 | 2024-02-11 | FaZe Clan         | W   | 0.638      | 1.000        | 1.000 (0.638)    | 0.566 (0.361)    | 1 (0.638) |    13.63 | chopper, donk, magixx, sh1ro, zont1x    |
+|           18 |     3764 | 2024-02-10 | Team Falcons      | W   | 0.632      | 1.000        | 0.431 (0.273)    | -                | 1 (0.632) |     1.55 | chopper, donk, magixx, sh1ro, zont1x    |
+|           17 |     3861 | 2024-02-06 | FaZe Clan         | W   | 0.605      | 1.000        | 1.000 (0.605)    | 0.566 (0.342)    | 1 (0.605) |    13.27 | chopper, donk, magixx, sh1ro, zont1x    |
+|           16 |     3923 | 2024-02-04 | Complexity Gaming | W   | 0.591      | 1.000        | 0.271 (0.160)    | -                | 1 (0.591) |     2.70 | chopper, donk, magixx, sh1ro, zont1x    |
+|           15 |     3968 | 2024-02-03 | Natus Vincere     | W   | 0.585      | 1.000        | 1.000 (0.585)    | 0.406 (0.238)    | -         |    12.60 | chopper, donk, magixx, sh1ro, zont1x    |
+|           14 |     4086 | 2024-02-01 | The MongolZ       | W   | 0.570      | 1.000        | 0.292 (0.167)    | 0.663 (0.378)    | -         |     4.73 | chopper, donk, magixx, sh1ro, zont1x    |
+|           13 |     4111 | 2024-01-31 | Apeks             | W   | 0.565      | 1.000        | -                | 0.459 (0.260)    | -         |     1.53 | chopper, donk, magixx, sh1ro, zont1x    |
+|           12 |     4358 | 2024-01-25 | FaZe Clan         | L   | 0.524      | -            | -                | -                | -         |    -4.71 | baz, chopper, hally, sh1ro, zont1x      |
+|           11 |     4389 | 2024-01-24 | Team Liquid       | L   | 0.517      | -            | -                | -                | -         |   -15.10 | baz, chopper, hally, sh1ro, zont1x      |
+|           10 |     4558 | 2024-01-20 | MOUZ              | W   | 0.491      | -            | -                | -                | -         |     8.34 | chopper, donk, magixx, sh1ro, zont1x    |
+|            9 |     4610 | 2024-01-19 | Preasy Esport     | W   | 0.484      | -            | -                | -                | -         |     0.13 | chopper, donk, magixx, sh1ro, zont1x    |
+|            8 |     4648 | 2024-01-18 | Entropiq          | W   | 0.479      | -            | -                | -                | -         |     0.05 | chopper, donk, magixx, sh1ro, zont1x    |
+|            7 |     4671 | 2024-01-18 | KOI               | L   | 0.478      | -            | -                | -                | -         |   -14.86 | chopper, donk, magixx, sh1ro, zont1x    |
+|            6 |     5740 | 2023-12-10 | Virtus.pro        | W   | 0.217      | -            | -                | -                | -         |     2.19 | ArtFr0st, chopper, donk, magixx, zont1x |
+|            5 |     5774 | 2023-12-09 | MIBR              | W   | 0.210      | -            | -                | -                | -         |     1.83 | ArtFr0st, chopper, donk, magixx, zont1x |
+|            4 |     5844 | 2023-12-08 | FURIA Esports     | W   | 0.204      | -            | -                | -                | -         |     1.76 | ArtFr0st, chopper, donk, magixx, zont1x |
+|            3 |     5905 | 2023-12-07 | Virtus.pro        | L   | 0.196      | -            | -                | -                | -         |    -4.23 | ArtFr0st, chopper, donk, magixx, zont1x |
+|            2 |     5940 | 2023-12-06 | FURIA Esports     | W   | 0.191      | -            | -                | -                | -         |     1.63 | ArtFr0st, chopper, donk, magixx, zont1x |
+|            1 |     6780 | 2023-11-17 | MIBR              | W   | 0.064      | -            | -                | -                | -         |     0.54 | ArtFr0st, chopper, donk, magixx, zont1x |
 
 <br />
 <span id="table2"></span><br />

@@ -34,19 +34,19 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                         |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |       34 | 2024-05-05 | E9 esports         | L   | 1.000      | -            | -                | -                | -             |   -13.16 | chuzhongT, expSasiKi, HiNa, lan, rubeN         |
-|           10 |       73 | 2024-05-04 | Sheer Conquer      | W   | 1.000      | 0.143        | 0.035 (0.005)    | 0.211 (0.030)    | true (1.000)  |    17.94 | chuzhongT, expSasiKi, HiNa, lan, rubeN         |
-|            9 |       89 | 2024-05-03 | E9 esports         | L   | 1.000      | -            | -                | -                | -             |   -12.91 | chuzhongT, expSasiKi, HiNa, lan, rubeN         |
-|            8 |      772 | 2024-04-20 | Sheer Conquer      | L   | 1.000      | -            | -                | -                | -             |   -13.28 | chuzhongT, expSasiKi, HiNa, lan, rubeN         |
-|            7 |      785 | 2024-04-19 | Exusiai            | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.000 (0.000)    | false (0.000) |     6.35 | chuzhongT, expSasiKi, HiNa, lan, rubeN         |
-|            6 |     2384 | 2024-03-12 | TYLOO              | L   | 0.837      | -            | -                | -                | -             |    -4.77 | aliver, chuzhongT, expSasiKi, rubeN, Tw1nk1e17 |
-|            5 |     2433 | 2024-03-11 | MOLEGAN            | W   | 0.830      | 0.250        | 0.000 (0.000)    | 0.028 (0.006)    | false (0.000) |     2.70 | aliver, chuzhongT, expSasiKi, Miami, rubeN     |
-|            4 |     2540 | 2024-03-08 | Team NKT           | W   | 0.810      | 0.250        | 0.016 (0.003)    | 0.259 (0.053)    | false (0.000) |    13.38 | aliver, chuzhongT, expSasiKi, Miami, rubeN     |
-|            3 |     2644 | 2024-03-06 | Serenity Esports   | W   | 0.797      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     2.67 | aliver, chuzhongT, expSasiKi, Miami, rubeN     |
-|            2 |     4388 | 2024-01-24 | NewHappy           | L   | 0.517      | -            | -                | -                | -             |    -8.34 | chuzhongT, expSasiKi, HiNa, Nuko, rubeN        |
-|            1 |     4399 | 2024-01-24 | Myth Avenue Gaming | W   | 0.517      | 0.143        | 0.012 (0.001)    | 0.302 (0.022)    | false (0.000) |     6.83 | chuzhongT, expSasiKi, HiNa, Nuko, rubeN        |
+|           11 |       34 | 2024-05-05 | E9 esports         | L   | 1.000      | -            | -                | -                | -         |   -13.16 | chuzhongT, expSasiKi, HiNa, lan, rubeN         |
+|           10 |       73 | 2024-05-04 | Sheer Conquer      | W   | 1.000      | 0.143        | 0.035 (0.005)    | 0.211 (0.030)    | 1 (1.000) |    17.94 | chuzhongT, expSasiKi, HiNa, lan, rubeN         |
+|            9 |       89 | 2024-05-03 | E9 esports         | L   | 1.000      | -            | -                | -                | -         |   -12.91 | chuzhongT, expSasiKi, HiNa, lan, rubeN         |
+|            8 |      772 | 2024-04-20 | Sheer Conquer      | L   | 1.000      | -            | -                | -                | -         |   -13.28 | chuzhongT, expSasiKi, HiNa, lan, rubeN         |
+|            7 |      785 | 2024-04-19 | Exusiai            | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     6.35 | chuzhongT, expSasiKi, HiNa, lan, rubeN         |
+|            6 |     2384 | 2024-03-12 | TYLOO              | L   | 0.837      | -            | -                | -                | -         |    -4.77 | aliver, chuzhongT, expSasiKi, rubeN, Tw1nk1e17 |
+|            5 |     2433 | 2024-03-11 | MOLEGAN            | W   | 0.830      | 0.250        | 0.000 (0.000)    | 0.028 (0.006)    | 0 (0.000) |     2.70 | aliver, chuzhongT, expSasiKi, Miami, rubeN     |
+|            4 |     2540 | 2024-03-08 | Team NKT           | W   | 0.810      | 0.250        | 0.016 (0.003)    | 0.259 (0.053)    | 0 (0.000) |    13.38 | aliver, chuzhongT, expSasiKi, Miami, rubeN     |
+|            3 |     2644 | 2024-03-06 | Serenity Esports   | W   | 0.797      | 0.250        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.67 | aliver, chuzhongT, expSasiKi, Miami, rubeN     |
+|            2 |     4388 | 2024-01-24 | NewHappy           | L   | 0.517      | -            | -                | -                | -         |    -8.34 | chuzhongT, expSasiKi, HiNa, Nuko, rubeN        |
+|            1 |     4399 | 2024-01-24 | Myth Avenue Gaming | W   | 0.517      | 0.143        | 0.012 (0.001)    | 0.302 (0.022)    | 0 (0.000) |     6.83 | chuzhongT, expSasiKi, HiNa, Nuko, rubeN        |
 
 <br />
 <span id="table2"></span><br />

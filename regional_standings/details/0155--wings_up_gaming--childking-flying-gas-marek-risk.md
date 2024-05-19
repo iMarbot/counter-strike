@@ -34,29 +34,29 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                              |
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |     4333 | 2024-01-26 | The Huns Esports   | L   | 0.531      | -            | -                | -                | -             |    -5.21 | ChildKing, flying, gas, Marek, risk |
-|           20 |     4340 | 2024-01-26 | TYLOO              | L   | 0.530      | -            | -                | -                | -             |    -2.86 | ChildKing, flying, gas, Marek, risk |
-|           19 |     4361 | 2024-01-25 | Rare Atom          | W   | 0.523      | 0.143        | 0.026 (0.002)    | 0.259 (0.019)    | false (0.000) |     8.56 | ChildKing, flying, gas, Marek, risk |
-|           18 |     4364 | 2024-01-25 | GR Gaming          | W   | 0.523      | 0.143        | 0.006 (0.000)    | 0.495 (0.037)    | false (0.000) |     9.60 | ChildKing, flying, gas, Marek, risk |
-|           17 |     4393 | 2024-01-24 | LYG Gaming         | W   | 0.517      | 0.143        | 0.004 (0.000)    | 0.380 (0.028)    | false (0.000) |     8.70 | ChildKing, flying, gas, Marek, risk |
-|           16 |     4401 | 2024-01-24 | MIRAI Gaming       | W   | 0.517      | 0.143        | 0.000 (0.000)    | 0.246 (0.018)    | false (0.000) |     7.15 | ChildKing, flying, gas, Marek, risk |
-|           15 |     4479 | 2024-01-22 | The Huns Esports   | L   | 0.504      | -            | -                | -                | -             |    -4.66 | ChildKing, flying, gas, Marek, risk |
-|           14 |     4487 | 2024-01-22 | -72C               | W   | 0.504      | 0.143        | 0.003 (0.000)    | 0.300 (0.022)    | false (0.000) |     8.78 | ChildKing, flying, gas, Marek, risk |
-|           13 |     4577 | 2024-01-20 | Rare Atom          | L   | 0.489      | -            | -                | -                | -             |    -7.45 | ChildKing, flying, gas, Marek, risk |
-|           12 |     4625 | 2024-01-19 | Lynn Vision Gaming | L   | 0.482      | -            | -                | -                | -             |    -0.77 | ChildKing, flying, gas, Marek, risk |
-|           11 |     4628 | 2024-01-18 | Steel Helmet       | W   | 0.482      | 0.143        | 0.025 (0.002)    | 0.174 (0.012)    | false (0.000) |     7.01 | ChildKing, flying, gas, Marek, risk |
-|           10 |     5181 | 2024-01-06 | TYLOO              | L   | 0.397      | -            | -                | -                | -             |    -1.90 | ChildKing, flying, gas, Marek, risk |
-|            9 |     5183 | 2024-01-06 | ATOX Esports       | W   | 0.396      | 0.143        | 0.112 (0.006)    | 0.769 (0.043)    | false (0.000) |    10.95 | ChildKing, flying, gas, Marek, risk |
-|            8 |     5193 | 2024-01-05 | TYLOO              | L   | 0.389      | -            | -                | -                | -             |    -1.80 | ChildKing, flying, gas, Marek, risk |
-|            7 |     5195 | 2024-01-04 | NewHappy           | W   | 0.384      | 0.143        | 0.014 (0.001)    | 0.170 (0.009)    | false (0.000) |     6.98 | ChildKing, flying, gas, Marek, risk |
-|            6 |     5201 | 2024-01-03 | Team NKT           | W   | 0.382      | 0.143        | 0.016 (0.001)    | 0.259 (0.014)    | false (0.000) |     7.00 | ChildKing, flying, gas, Marek, risk |
-|            5 |     5220 | 2024-01-03 | ATOX Esports       | L   | 0.376      | -            | -                | -                | -             |    -1.31 | ChildKing, flying, gas, Marek, risk |
-|            4 |     5242 | 2024-01-01 | The Huns Esports   | W   | 0.369      | 0.143        | 0.002 (0.000)    | 0.434 (0.023)    | false (0.000) |     8.79 | ChildKing, flying, gas, Marek, risk |
-|            3 |     5275 | 2023-12-23 | Steel Helmet       | L   | 0.303      | -            | -                | -                | -             |    -5.03 | ChildKing, flying, gas, Marek, risk |
-|            2 |     5283 | 2023-12-22 | TYLOO              | L   | 0.302      | -            | -                | -                | -             |    -1.25 | ChildKing, flying, gas, Marek, risk |
-|            1 |     5285 | 2023-12-22 | MungYu Esports     | W   | 0.302      | -            | -                | -                | -             |     2.23 | ChildKing, flying, gas, Marek, risk |
+|           21 |     4333 | 2024-01-26 | The Huns Esports   | L   | 0.531      | -            | -                | -                | -         |    -5.21 | ChildKing, flying, gas, Marek, risk |
+|           20 |     4340 | 2024-01-26 | TYLOO              | L   | 0.530      | -            | -                | -                | -         |    -2.86 | ChildKing, flying, gas, Marek, risk |
+|           19 |     4361 | 2024-01-25 | Rare Atom          | W   | 0.523      | 0.143        | 0.026 (0.002)    | 0.259 (0.019)    | 0 (0.000) |     8.56 | ChildKing, flying, gas, Marek, risk |
+|           18 |     4364 | 2024-01-25 | GR Gaming          | W   | 0.523      | 0.143        | 0.006 (0.000)    | 0.495 (0.037)    | 0 (0.000) |     9.60 | ChildKing, flying, gas, Marek, risk |
+|           17 |     4393 | 2024-01-24 | LYG Gaming         | W   | 0.517      | 0.143        | 0.004 (0.000)    | 0.380 (0.028)    | 0 (0.000) |     8.70 | ChildKing, flying, gas, Marek, risk |
+|           16 |     4401 | 2024-01-24 | MIRAI Gaming       | W   | 0.517      | 0.143        | 0.000 (0.000)    | 0.246 (0.018)    | 0 (0.000) |     7.15 | ChildKing, flying, gas, Marek, risk |
+|           15 |     4479 | 2024-01-22 | The Huns Esports   | L   | 0.504      | -            | -                | -                | -         |    -4.66 | ChildKing, flying, gas, Marek, risk |
+|           14 |     4487 | 2024-01-22 | -72C               | W   | 0.504      | 0.143        | 0.003 (0.000)    | 0.300 (0.022)    | 0 (0.000) |     8.78 | ChildKing, flying, gas, Marek, risk |
+|           13 |     4577 | 2024-01-20 | Rare Atom          | L   | 0.489      | -            | -                | -                | -         |    -7.45 | ChildKing, flying, gas, Marek, risk |
+|           12 |     4625 | 2024-01-19 | Lynn Vision Gaming | L   | 0.482      | -            | -                | -                | -         |    -0.77 | ChildKing, flying, gas, Marek, risk |
+|           11 |     4628 | 2024-01-18 | Steel Helmet       | W   | 0.482      | 0.143        | 0.025 (0.002)    | 0.174 (0.012)    | 0 (0.000) |     7.01 | ChildKing, flying, gas, Marek, risk |
+|           10 |     5181 | 2024-01-06 | TYLOO              | L   | 0.397      | -            | -                | -                | -         |    -1.90 | ChildKing, flying, gas, Marek, risk |
+|            9 |     5183 | 2024-01-06 | ATOX Esports       | W   | 0.396      | 0.143        | 0.112 (0.006)    | 0.769 (0.043)    | 0 (0.000) |    10.95 | ChildKing, flying, gas, Marek, risk |
+|            8 |     5193 | 2024-01-05 | TYLOO              | L   | 0.389      | -            | -                | -                | -         |    -1.80 | ChildKing, flying, gas, Marek, risk |
+|            7 |     5195 | 2024-01-04 | NewHappy           | W   | 0.384      | 0.143        | 0.014 (0.001)    | 0.170 (0.009)    | 0 (0.000) |     6.98 | ChildKing, flying, gas, Marek, risk |
+|            6 |     5201 | 2024-01-03 | Team NKT           | W   | 0.382      | 0.143        | 0.016 (0.001)    | 0.259 (0.014)    | 0 (0.000) |     7.00 | ChildKing, flying, gas, Marek, risk |
+|            5 |     5220 | 2024-01-03 | ATOX Esports       | L   | 0.376      | -            | -                | -                | -         |    -1.31 | ChildKing, flying, gas, Marek, risk |
+|            4 |     5242 | 2024-01-01 | The Huns Esports   | W   | 0.369      | 0.143        | 0.002 (0.000)    | 0.434 (0.023)    | 0 (0.000) |     8.79 | ChildKing, flying, gas, Marek, risk |
+|            3 |     5275 | 2023-12-23 | Steel Helmet       | L   | 0.303      | -            | -                | -                | -         |    -5.03 | ChildKing, flying, gas, Marek, risk |
+|            2 |     5283 | 2023-12-22 | TYLOO              | L   | 0.302      | -            | -                | -                | -         |    -1.25 | ChildKing, flying, gas, Marek, risk |
+|            1 |     5285 | 2023-12-22 | MungYu Esports     | W   | 0.302      | -            | -                | -                | -         |     2.23 | ChildKing, flying, gas, Marek, risk |
 
 <br />
 <span id="table2"></span><br />

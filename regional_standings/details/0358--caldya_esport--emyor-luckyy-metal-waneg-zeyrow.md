@@ -34,18 +34,18 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins      | H2H Adj. | Roster                                          |
+| Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      723 | 2024-04-20 | RushOnGrandpa         | L   | 1.000      | -            | -                | -                | -             |   -10.83 | EMYOR, Luckyy, MetaL, waneG, ZeyRow             |
-|            9 |      734 | 2024-04-20 | Assos                 | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | false (0.000) |    15.53 | EMYOR, Luckyy, MetaL, waneG, ZeyRow             |
-|            8 |      746 | 2024-04-20 | Goashax Algeria       | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |    14.48 | EMYOR, Luckyy, MetaL, waneG, ZeyRow             |
-|            7 |      758 | 2024-04-20 | Mirage Talents        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |    15.33 | EMYOR, Luckyy, MetaL, waneG, ZeyRow             |
-|            6 |      764 | 2024-04-20 | 3K ESPORT             | L   | 1.000      | -            | -                | -                | -             |   -15.02 | EMYOR, Luckyy, MetaL, waneG, ZeyRow             |
-|            5 |     5202 | 2024-01-03 | 3K ESPORT             | L   | 0.379      | -            | -                | -                | -             |    -5.90 | EMYOR, Fenkiiii, MetaL, polox, waneG            |
-|            4 |     5209 | 2024-01-03 | FC GGedyh             | W   | 0.379      | 0.143        | 0.000 (0.000)    | 0.013 (0.001)    | false (0.000) |     5.94 | Bruttas, fallS, fearz, Katkamee, mAYKA          |
-|            3 |     5224 | 2024-01-02 | New Era (French team) | L   | 0.373      | -            | -                | -                | -             |    -4.50 | GuiGui, Ministro, Shinji, Tyliix, Wapoh         |
-|            2 |     5232 | 2024-01-02 | Goud guys             | W   | 0.372      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | false (0.000) |     5.86 | Charon, Pintypunky, Ragnarok4310, rikast, Wetek |
-|            1 |     6098 | 2023-12-02 | BRODA                 | L   | 0.165      | -            | -                | -                | -             |    -2.54 | EMYOR, jarod, MetaL, N4MEKz, waneG              |
+|           10 |      723 | 2024-04-20 | RushOnGrandpa         | L   | 1.000      | -            | -                | -                | -         |   -10.83 | EMYOR, Luckyy, MetaL, waneG, ZeyRow             |
+|            9 |      734 | 2024-04-20 | Assos                 | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.070 (0.010)    | 0 (0.000) |    15.53 | EMYOR, Luckyy, MetaL, waneG, ZeyRow             |
+|            8 |      746 | 2024-04-20 | Goashax Algeria       | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    14.48 | EMYOR, Luckyy, MetaL, waneG, ZeyRow             |
+|            7 |      758 | 2024-04-20 | Mirage Talents        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    15.33 | EMYOR, Luckyy, MetaL, waneG, ZeyRow             |
+|            6 |      764 | 2024-04-20 | 3K ESPORT             | L   | 1.000      | -            | -                | -                | -         |   -15.02 | EMYOR, Luckyy, MetaL, waneG, ZeyRow             |
+|            5 |     5202 | 2024-01-03 | 3K ESPORT             | L   | 0.379      | -            | -                | -                | -         |    -5.90 | EMYOR, Fenkiiii, MetaL, polox, waneG            |
+|            4 |     5209 | 2024-01-03 | FC GGedyh             | W   | 0.379      | 0.143        | 0.000 (0.000)    | 0.013 (0.001)    | 0 (0.000) |     5.94 | Bruttas, fallS, fearz, Katkamee, mAYKA          |
+|            3 |     5224 | 2024-01-02 | New Era (French team) | L   | 0.373      | -            | -                | -                | -         |    -4.50 | GuiGui, Ministro, Shinji, Tyliix, Wapoh         |
+|            2 |     5232 | 2024-01-02 | Goud guys             | W   | 0.372      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.86 | Charon, Pintypunky, Ragnarok4310, rikast, Wetek |
+|            1 |     6098 | 2023-12-02 | BRODA                 | L   | 0.165      | -            | -                | -                | -         |    -2.54 | EMYOR, jarod, MetaL, N4MEKz, waneG              |
 
 <br />
 <span id="table2"></span><br />

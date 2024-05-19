@@ -145,7 +145,7 @@ class Team {
                 // LAN
                 let id = wonMatch.match.umid;
                 let timestampModifier = context.getTimestampModifier( matchTime );
-                let lan = wonMatch.isLAN;
+                let lan = wonMatch.isLAN ? 1 : 0;
                 let matchContext = timestampModifier;
                 let scaledLan = lan * matchContext;
                 lanWins.push( { id: id, context: matchContext, base: lan, val: scaledLan } );  
