@@ -1,26 +1,26 @@
 ### Roster Details<br />
-Team Name: EsmagaB<br />
+Team Name: esmagaB<br />
 Roster: Ag1l, aragornN, P3R3IIRA, pr, rafaxF<br />
 Region: [Europe]( ../standings_europe.md)<br />
 <br />
 Global Rank: [124](../standings_global.md)<br />
-Regional Rank: [88]( ../standings_europe.md)<br />
-Final Rank Value:  812.4<br />
+Regional Rank: [86]( ../standings_europe.md)<br />
+Final Rank Value:  818.6<br />
 <br />
-Final Rank Value (812.4) = Starting Rank Value (874.7) + Head To Head Adjustments (-62.3)<br />
+Final Rank Value (818.6) = Starting Rank Value (855.7) + Head To Head Adjustments (-37.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.358[<sup>1</sup>](#table2)
-- Bounty Collected: 0.322[<sup>2</sup>](#table1)
-- Opponent Network: 0.105[<sup>2</sup>](#table1)
-- LAN Wins: 0.172[<sup>2</sup>](#table1)
+- Bounty Offered: 0.325[<sup>1</sup>](#table2)
+- Bounty Collected: 0.295[<sup>2</sup>](#table1)
+- Opponent Network: 0.145[<sup>2</sup>](#table1)
+- LAN Wins: 0.130[<sup>2</sup>](#table1)
 
-The average of these factors is 0.239<br />
+The average of these factors is 0.224<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 874.7
-- 400 + ( ( 0.239 - 0.000 ) / ( 0.806 - 0.000 ) ) * 1600 = 874.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 855.7
+- 400 + ( ( 0.224 - 0.000 ) / ( 0.786 - 0.000 ) ) * 1600 = 855.7
 
 
 #### Factors<br />
@@ -34,68 +34,82 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
+| Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           47 |      202 | 2024-05-01 | Young Gods               | W   | 1.000      | 0.371        | -                | 0.204 (0.076)    | 0 (0.000) |     5.16 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|           46 |      469 | 2024-04-25 | Grindas                  | L   | 1.000      | -            | -                | -                | -         |   -19.50 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|           45 |      521 | 2024-04-24 | RUBY                     | W   | 1.000      | 0.371        | 0.012 (0.004)    | 0.882 (0.327)    | 0 (0.000) |    22.75 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|           44 |      572 | 2024-04-23 | DMS                      | L   | 1.000      | -            | -                | -                | -         |   -16.33 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|           43 |      710 | 2024-04-20 | 1win                     | L   | 1.000      | -            | -                | -                | -         |   -17.55 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|           42 |      819 | 2024-04-19 | Team Secret              | W   | 1.000      | 0.143        | -                | 0.368 (0.053)    | 0 (0.000) |    10.53 | anarkez, Kind0, Maze, NOPEEj, Tauson          |
-|           41 |      874 | 2024-04-18 | Illuminar Gaming         | L   | 1.000      | -            | -                | -                | -         |   -15.59 | ANeraX, Furlan, keis, phr, ultimate           |
-|           40 |      946 | 2024-04-17 | 500                      | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.660 (0.094)    | 0 (0.000) |    20.85 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|           39 |     1172 | 2024-04-11 | AscendX Esports          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.71 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|           38 |     1370 | 2024-04-07 | Team PeeP                | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.96 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
-|           37 |     1749 | 2024-03-27 | 500                      | L   | 0.938      | -            | -                | -                | -         |   -11.31 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           36 |     1817 | 2024-03-26 | Fnatic                   | W   | 0.932      | 0.143        | 0.334 (0.044)    | 0.683 (0.091)    | 0 (0.000) |    26.53 | P3R3IIRA, pr, rafaxF, SeabraEZ, Sprayy        |
-|           35 |     2814 | 2024-03-03 | Rhyno Esports            | W   | 0.777      | 0.143        | 0.047 (0.005)    | 0.446 (0.050)    | 1 (0.777) |    15.42 | DDias, krazy, renatoohaxx, snapy, TMKj        |
-|           34 |     2892 | 2024-03-02 | OVERFRAG                 | W   | 0.770      | 0.143        | 0.004 (0.000)    | -                | 1 (0.770) |     5.21 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           33 |     2944 | 2024-02-29 | Zero Tenacity            | L   | 0.759      | -            | -                | -                | -         |    -7.26 | aVN, brutmonster, Cjoffo, nEMANHA, simke      |
-|           32 |     2958 | 2024-02-29 | GenOne                   | L   | 0.758      | -            | -                | -                | -         |   -18.52 | devoduvek, drac, Revol, SIXER, unshaark       |
-|           31 |     2978 | 2024-02-28 | RoundsGG                 | W   | 0.752      | 0.371        | -                | 0.170 (0.048)    | 0 (0.000) |     9.32 | Kollo, LYNXi, m0n0xx, p12, Welho              |
-|           30 |     3073 | 2024-02-26 | Nexus Gaming             | L   | 0.738      | -            | -                | -                | -         |    -8.32 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           29 |     3157 | 2024-02-24 | 500                      | L   | 0.725      | -            | -                | -                | -         |   -10.51 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           28 |     3218 | 2024-02-23 | INGLORIOUS               | L   | 0.718      | -            | -                | -                | -         |   -12.02 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           27 |     3461 | 2024-02-18 | Alliance                 | L   | 0.684      | -            | -                | -                | -         |   -10.31 | avid, b0denmaster, PlesseN, robiin, twist     |
-|           26 |     3619 | 2024-02-14 | Insilio                  | L   | 0.659      | -            | -                | -                | -         |    -6.74 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           25 |     3628 | 2024-02-14 | MOUZ NXT                 | L   | 0.658      | -            | -                | -                | -         |    -4.50 | Burmylov, Chr1zN, Neityu, PR, sirah           |
-|           24 |     3756 | 2024-02-11 | Young Ninjas             | L   | 0.638      | -            | -                | -                | -         |    -7.69 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           23 |     3819 | 2024-02-08 | Endpoint                 | L   | 0.618      | -            | -                | -                | -         |    -9.65 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher     |
-|           22 |     3838 | 2024-02-07 | BLESSED (Ukrainian team) | W   | 0.612      | 0.371        | 0.018 (0.004)    | 0.781 (0.178)    | -         |     8.10 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           21 |     3863 | 2024-02-06 | V1dar Gaming             | L   | 0.604      | -            | -                | -                | -         |   -15.43 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           20 |     3933 | 2024-02-04 | ARCRED                   | W   | 0.590      | 0.143        | 0.004 (0.000)    | 0.825 (0.070)    | -         |     8.11 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           19 |     3952 | 2024-02-03 | Rhyno Esports            | L   | 0.585      | -            | -                | -                | -         |    -8.22 | DDias, krazy, renatoohaxx, snapy, TMKj        |
-|           18 |     4073 | 2024-02-01 | AL-QATRAO                | W   | 0.571      | -            | -                | -                | -         |     4.94 | drext, frozzen, hdstr, nesto, shr             |
-|           17 |     4082 | 2024-02-01 | The Agency Clan          | W   | 0.571      | -            | -                | -                | -         |     2.13 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           16 |     4127 | 2024-01-31 | Viperio                  | W   | 0.563      | 0.333        | -                | 0.321 (0.060)    | -         |     3.50 | mAnGo, MMS, pandi7o, ReegaN, zodi             |
-|           15 |     4175 | 2024-01-29 | 500                      | L   | 0.553      | -            | -                | -                | -         |   -10.08 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           14 |     4199 | 2024-01-29 | Betera Esports           | L   | 0.551      | -            | -                | -                | -         |   -10.26 | alex666, lollipop21k, MaSvAl, nifee, sad      |
-|           13 |     4377 | 2024-01-24 | Kappa Bar                | W   | 0.519      | -            | -                | -                | -         |     3.77 | dezt, jayzaR, pupcake, TIM, upE               |
-|           12 |     4470 | 2024-01-22 | DASH                     | W   | 0.505      | -            | -                | -                | -         |     4.22 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|           11 |     4693 | 2024-01-17 | Insilio                  | L   | 0.473      | -            | -                | -                | -         |    -6.27 | faydett, FpSSS, Pipw, Polt, sugaR             |
-|           10 |     4704 | 2024-01-17 | Natus Vincere Junior     | W   | 0.473      | 0.143        | 0.025 (0.002)    | -                | -         |     6.50 | dem0n, fnl, Krabeni, Magic, makazze           |
-|            9 |     4713 | 2024-01-17 | Apeks                    | W   | 0.472      | 0.143        | 0.253 (0.017)    | -                | -         |    14.20 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|            8 |     4733 | 2024-01-17 | Infinite Gaming          | W   | 0.472      | -            | -                | -                | -         |     1.04 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|            7 |     4786 | 2024-01-16 | Aurora Young Blud        | L   | 0.466      | -            | -                | -                | -         |    -7.92 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|            6 |     4918 | 2024-01-12 | Team Walkover            | W   | 0.440      | -            | -                | -                | -         |     1.94 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|            5 |     4928 | 2024-01-12 | Kronjyllands Esport      | W   | 0.439      | -            | -                | -                | -         |     1.52 | Avou, emili0, fa1th, grumpyMonk, Jiace        |
-|            4 |     5040 | 2024-01-10 | Pera Esports             | L   | 0.426      | -            | -                | -                | -         |    -5.61 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|            3 |     5055 | 2024-01-10 | Aurora Young Blud        | W   | 0.426      | 0.143        | 0.017 (0.001)    | -                | -         |     5.88 | bl1x1, bluewh1te, Easy, sh1geo, VILBy         |
-|            2 |     5250 | 2023-12-29 | Metizport                | L   | 0.344      | -            | -                | -                | -         |    -3.44 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
-|            1 |     5257 | 2023-12-27 | The Witchers             | L   | 0.332      | -            | -                | -                | -         |    -6.58 | Dragon, fear, Sdaim, smooya, synyx            |
+|           59 |      342 | 2024-05-24 | CYBERSHOKE Esports   | L   | 1.000      | -            | -                | -                | -         |   -18.01 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           58 |      354 | 2024-05-24 | GamerLegion Academy  | W   | 1.000      | 0.372        | 0.018 (0.007)    | 0.691 (0.257)    | 0 (0.000) |    14.17 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           57 |      394 | 2024-05-23 | Team Spirit Academy  | L   | 1.000      | -            | -                | -                | -         |   -18.17 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           56 |     1070 | 2024-05-16 | VP.Prodigy           | W   | 1.000      | 0.372        | 0.008 (0.003)    | 0.752 (0.280)    | 0 (0.000) |    14.93 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           55 |     1310 | 2024-05-13 | Lilmix               | W   | 1.000      | 0.372        | 0.006 (0.002)    | 0.581 (0.216)    | 0 (0.000) |    14.79 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           54 |     1443 | 2024-05-11 | AL-QATRAO            | L   | 1.000      | -            | -                | -                | -         |   -16.94 | Ag1l, aragornN, fox, pr, rafaxF               |
+|           53 |     1624 | 2024-05-08 | RoundsGG             | W   | 1.000      | 0.372        | -                | 0.202 (0.075)    | 0 (0.000) |     5.65 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           52 |     1982 | 2024-05-01 | Young Gods           | W   | 1.000      | 0.372        | -                | 0.240 (0.089)    | 0 (0.000) |     6.68 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           51 |     2364 | 2024-04-24 | RUBY                 | W   | 0.964      | 0.372        | 0.012 (0.004)    | 0.728 (0.261)    | 0 (0.000) |    21.66 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           50 |     2415 | 2024-04-23 | DMS                  | L   | 0.957      | -            | -                | -                | -         |   -13.28 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           49 |     2577 | 2024-04-20 | 1win                 | L   | 0.937      | -            | -                | -                | -         |    -7.07 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           48 |     2697 | 2024-04-19 | Team Secret          | W   | 0.930      | -            | -                | -                | 0 (0.000) |     9.51 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           47 |     2757 | 2024-04-18 | Illuminar Gaming     | L   | 0.924      | -            | -                | -                | -         |   -14.34 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           46 |     2847 | 2024-04-17 | 500                  | W   | 0.916      | 0.143        | -                | 0.479 (0.063)    | 0 (0.000) |    18.50 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           45 |     3114 | 2024-04-11 | AscendX Esports      | W   | 0.877      | -            | -                | -                | -         |     2.65 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           44 |     3339 | 2024-04-07 | HOTU                 | L   | 0.850      | -            | -                | -                | -         |   -13.14 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           43 |     3346 | 2024-04-07 | Team PeeP            | W   | 0.849      | -            | -                | -                | -         |     6.38 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF          |
+|           42 |     3805 | 2024-03-27 | 500                  | L   | 0.777      | -            | -                | -                | -         |   -10.26 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           41 |     3883 | 2024-03-26 | Fnatic               | W   | 0.771      | 0.143        | 0.147 (0.016)    | 0.480 (0.053)    | -         |    21.12 | P3R3IIRA, pr, rafaxF, SeabraEZ, Sprayy        |
+|           40 |     5103 | 2024-03-03 | Rhyno Esports        | W   | 0.616      | 0.143        | 0.029 (0.003)    | -                | 1 (0.616) |    14.11 | DDias, krazy, renatoohaxx, snapy, TMKj        |
+|           39 |     5202 | 2024-03-02 | OVERFRAG             | W   | 0.609      | -            | -                | -                | 1 (0.609) |     5.67 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           38 |     5264 | 2024-02-29 | Zero Tenacity        | L   | 0.598      | -            | -                | -                | -         |    -3.70 | aVN, brutmonster, Cjoffo, nEMANHA, simke      |
+|           37 |     5278 | 2024-02-29 | GenOne               | L   | 0.597      | -            | -                | -                | -         |   -13.31 | devoduvek, drac, Revol, SIXER, unshaark       |
+|           36 |     5304 | 2024-02-28 | RoundsGG             | W   | 0.591      | -            | -                | -                | -         |     5.20 | Kollo, LYNXi, m0n0xx, p12, Welho              |
+|           35 |     5416 | 2024-02-26 | Nexus Gaming         | L   | 0.577      | -            | -                | -                | -         |    -6.21 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           34 |     5538 | 2024-02-24 | 500                  | L   | 0.563      | -            | -                | -                | -         |    -8.99 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           33 |     5615 | 2024-02-23 | INGLORIOUS           | L   | 0.557      | -            | -                | -                | -         |   -10.09 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           32 |     5889 | 2024-02-18 | Alliance             | L   | 0.522      | -            | -                | -                | -         |    -8.12 | avid, b0denmaster, PlesseN, robiin, twist     |
+|           31 |     6090 | 2024-02-14 | Insilio              | L   | 0.498      | -            | -                | -                | -         |    -5.22 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           30 |     6100 | 2024-02-14 | MOUZ NXT             | L   | 0.497      | -            | -                | -                | -         |    -2.98 | Burmylov, Chr1zN, Neityu, PR, sirah           |
+|           29 |     6245 | 2024-02-11 | Young Ninjas         | L   | 0.477      | -            | -                | -                | -         |    -6.13 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           28 |     6267 | 2024-02-10 | Verdant              | L   | 0.470      | -            | -                | -                | -         |    -4.36 | ArTisT, Ducky, Girafffe, Vacancy, Zax1e       |
+|           27 |     6328 | 2024-02-08 | Endpoint             | L   | 0.457      | -            | -                | -                | -         |    -5.14 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher     |
+|           26 |     6353 | 2024-02-07 | FAVBET Team          | W   | 0.451      | 0.371        | 0.008 (0.001)    | 0.666 (0.112)    | -         |     7.01 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           25 |     6382 | 2024-02-06 | V1dar Gaming         | L   | 0.443      | -            | -                | -                | -         |   -10.41 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           24 |     6434 | 2024-02-05 | ex-Anonymo Esports   | L   | 0.436      | -            | -                | -                | -         |    -8.98 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           23 |     6474 | 2024-02-04 | ARCRED               | W   | 0.429      | -            | -                | -                | -         |     5.32 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           22 |     6507 | 2024-02-03 | Rhyno Esports        | L   | 0.424      | -            | -                | -                | -         |    -3.92 | DDias, krazy, renatoohaxx, snapy, TMKj        |
+|           21 |     6670 | 2024-02-01 | AL-QATRAO            | W   | 0.410      | 0.143        | 0.007 (0.000)    | -                | -         |     4.76 | drext, frozzen, hdstr, nesto, shr             |
+|           20 |     6680 | 2024-02-01 | The Agency Clan      | W   | 0.410      | -            | -                | -                | -         |     1.68 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           19 |     6739 | 2024-01-31 | Viperio              | W   | 0.402      | -            | -                | -                | -         |     2.44 | mAnGo, MMS, pandi7o, ReegaN, zodi             |
+|           18 |     6802 | 2024-01-29 | 500                  | L   | 0.392      | -            | -                | -                | -         |    -7.23 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           17 |     6839 | 2024-01-29 | Betera Esports       | L   | 0.389      | -            | -                | -                | -         |    -6.89 | alex666, lollipop21k, MaSvAl, nifee, sad      |
+|           16 |     7109 | 2024-01-24 | Kappa Bar            | W   | 0.358      | -            | -                | -                | -         |     1.47 | dezt, jayzaR, pupcake, TIM, upE               |
+|           15 |     7228 | 2024-01-22 | DASH                 | W   | 0.344      | 0.371        | -                | 0.358 (0.046)    | -         |     2.99 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           14 |     7512 | 2024-01-17 | Insilio              | L   | 0.312      | -            | -                | -                | -         |    -4.08 | faydett, FpSSS, Pipw, Polt, sugaR             |
+|           13 |     7524 | 2024-01-17 | Natus Vincere Junior | W   | 0.312      | 0.143        | 0.010 (0.000)    | -                | -         |     4.03 | dem0n, fnl, Krabeni, Magic, makazze           |
+|           12 |     7535 | 2024-01-17 | Apeks                | W   | 0.311      | 0.143        | 0.085 (0.004)    | -                | -         |     8.80 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           11 |     7560 | 2024-01-17 | Infinite Gaming      | W   | 0.311      | -            | -                | -                | -         |     1.29 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|           10 |     7634 | 2024-01-16 | Aurora Young Blud    | L   | 0.305      | -            | -                | -                | -         |    -5.44 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|            9 |     7650 | 2024-01-16 | M1X                  | W   | 0.304      | -            | -                | -                | -         |     1.94 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|            8 |     7673 | 2024-01-16 | sappe                | W   | 0.304      | -            | -                | -                | -         |     0.72 | Bernard, G1DO, luosrevo, v1d, v1N             |
+|            7 |     7792 | 2024-01-13 | Betera Esports       | L   | 0.283      | -            | -                | -                | -         |    -4.82 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|            6 |     7825 | 2024-01-12 | Team Walkover        | W   | 0.279      | -            | -                | -                | -         |     1.22 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|            5 |     7843 | 2024-01-12 | Kronjyllands Esport  | W   | 0.278      | -            | -                | -                | -         |     1.02 | Avou, emili0, fa1th, grumpyMonk, Jiace        |
+|            4 |     7998 | 2024-01-10 | Pera Esports         | L   | 0.265      | -            | -                | -                | -         |    -3.38 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|            3 |     8019 | 2024-01-10 | Aurora Young Blud    | W   | 0.265      | -            | -                | -                | -         |     3.48 | bl1x1, bluewh1te, Easy, sh1geo, VILBy         |
+|            2 |     8309 | 2023-12-29 | Metizport            | L   | 0.183      | -            | -                | -                | -         |    -1.97 | Ag1l, aragornN, NOPEEj, pr, rafaxF            |
+|            1 |     8316 | 2023-12-27 | The Witchers         | L   | 0.171      | -            | -                | -                | -         |    -3.75 | Dragon, fear, Sdaim, smooya, synyx            |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,530.76)
-- Divide that value by the 5th highest value among all rosters ($158,437.64)
-- The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+- First, take the sum of their top 10 scaled winnings ($2,545.82)
+- Divide that value by the 5th highest value among all rosters ($300,806.11)
+- The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
+| 2024-05-12 |      1.000 | $539.35        | $539.35         |
+| 2024-03-03 |      0.616 | $3,255.19      | $2,006.47       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
