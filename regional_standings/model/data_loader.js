@@ -26,7 +26,17 @@ function sortMatches( matches, order = 'desc' ) {
 }
 
 function filterIncompleteMatches( matches ) {
-    return matches.filter( match => ( match.team1Players.length === 5 && match.team2Players.length === 5 ) );
+    let filteredOut = [];
+    matches = matches.filter( match => {
+        if (match.team1Players.length === 5 && match.team2Players.length === 5){
+            return true;
+        } else {
+            filteredOut.push(match);
+            return false;
+        }
+    } );
+    fs.writeFileSync( "../data/incomplete.json", JSON.stringify(filteredOut) );
+    return matches;
 }
 
 function filterMatchesByTime( matches, startTime, endTime )
@@ -164,11 +174,17 @@ class DataLoader
         const dataJson = JSON.parse( data );
 
         // initialize match list
-        let matches = dataJson.matches;
+        let matchesUnfiltered = dataJson.matches;
 
         // Filter matches to only the data we are interested in.
         this.setTimeFilter( versionTimestamp );
-        matches = filterIncompleteMatches( matches );
+        let matches = filterIncompleteMatches( matchesUnfiltered );
+
+        console.log("Incomplete matches filtered: " + (matchesUnfiltered.length - matches.length));
+        console.log(">5 players: " + matchesUnfiltered.filter(match => match.team1Players.length > 5 || match.team2Players.length > 5).length);
+        console.log("<5 players: " + matchesUnfiltered.filter(match => (0 < match.team1Players.length && match.team1Players.length < 5) || (0 < match.team2Players.length && match.team2Players.length < 5)).length);
+        console.log("0 players: " + matchesUnfiltered.filter(match => match.team1Players.length === 0 || match.team2Players.length === 0).length);
+
         const [startTime,endTime] = findTimeWindow( matches, this.filterEndTime, this.filterWindow );
         let graceperiod = 30 * 24 * 3600; // 1 month
         this.rankingContext.setTimeWindow( startTime, endTime - graceperiod );
