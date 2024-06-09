@@ -5,9 +5,9 @@ Region: [Asia]( ../standings_asia.md)<br />
 <br />
 Global Rank: [237](../standings_global.md)<br />
 Regional Rank: [31]( ../standings_asia.md)<br />
-Final Rank Value:  697.2<br />
+Final Rank Value:  696.7<br />
 <br />
-Final Rank Value (697.2) = Starting Rank Value (691.8) + Head To Head Adjustments (5.5)<br />
+Final Rank Value (696.7) = Starting Rank Value (691.3) + Head To Head Adjustments (5.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -19,8 +19,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.143<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 691.8
-- 400 + ( ( 0.143 - 0.000 ) / ( 0.786 - 0.000 ) ) * 1600 = 691.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 691.3
+- 400 + ( ( 0.143 - 0.000 ) / ( 0.787 - 0.000 ) ) * 1600 = 691.3
 
 
 #### Factors<br />
@@ -36,16 +36,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     3440 | 2024-04-05 | Grayfox Esports | L   | 0.837      | -            | -                | -                | -         |   -14.88 | BulleT, ExecutoR, HZI, OKay, sadbutrue              |
-|            9 |     3457 | 2024-04-05 | StrikingKats    | W   | 0.835      | 0.270        | 0.001 (0.000)    | 0.023 (0.005)    | 0 (0.000) |     6.76 | BulleT, ExecutoR, HZI, OKay, sadbutrue              |
-|            8 |     4234 | 2024-03-17 | True Rippers    | W   | 0.712      | 0.242        | 0.025 (0.004)    | 0.241 (0.042)    | 0 (0.000) |    13.33 | BulleT, ExecutoR, HZI, OKay, sadbutrue              |
-|            7 |     4264 | 2024-03-17 | opium5          | W   | 0.710      | 0.242        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.67 | BulleT, ExecutoR, HZI, OKay, sadbutrue              |
-|            6 |     6351 | 2024-02-07 | Gods Reign      | L   | 0.454      | -            | -                | -                | -         |    -6.93 | BulleT, ExecutoR, insmutje, OKay, olofmeister       |
-|            5 |     6557 | 2024-02-03 | st4rboys        | W   | 0.423      | 0.143        | 0.014 (0.001)    | 0.088 (0.005)    | 0 (0.000) |     6.69 | Ang3l10wow, Bloody, Dynamite, Scoffic, Sharpshooter |
-|            4 |     6691 | 2024-02-01 | Team Mystic     | W   | 0.409      | 0.143        | 0.000 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     2.19 | Flica, Hatz, Kamikaze, KHG, Protagonist             |
-|            3 |     6767 | 2024-01-30 | Come Mid        | L   | 0.397      | -            | -                | -                | -         |    -9.26 | BoNo, HSB, Rocky, sadbutrue, SOULM8                 |
-|            2 |     6840 | 2024-01-29 | Team Paradox    | W   | 0.389      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.92 | ackerman, aloneguy, AyaaNNNN, Psy, ShAyAaN          |
-|            1 |     6887 | 2024-01-28 | vRn             | W   | 0.382      | 0.143        | 0.000 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     1.96 | Abdur, Kriminal, Musab, Sr., traNz                  |
+|           10 |     3524 | 2024-04-05 | Grayfox Esports | L   | 0.837      | -            | -                | -                | -         |   -14.92 | BulleT, ExecutoR, HZI, OKay, sadbutrue              |
+|            9 |     3542 | 2024-04-05 | StrikingKats    | W   | 0.835      | 0.270        | 0.001 (0.000)    | 0.023 (0.005)    | 0 (0.000) |     6.77 | BulleT, ExecutoR, HZI, OKay, sadbutrue              |
+|            8 |     4339 | 2024-03-17 | True Rippers    | W   | 0.712      | 0.242        | 0.025 (0.004)    | 0.241 (0.042)    | 0 (0.000) |    13.31 | BulleT, ExecutoR, HZI, OKay, sadbutrue              |
+|            7 |     4369 | 2024-03-17 | opium5          | W   | 0.710      | 0.242        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.68 | BulleT, ExecutoR, HZI, OKay, sadbutrue              |
+|            6 |     6539 | 2024-02-07 | Gods Reign      | L   | 0.454      | -            | -                | -                | -         |    -6.93 | BulleT, ExecutoR, insmutje, OKay, olofmeister       |
+|            5 |     6760 | 2024-02-03 | st4rboys        | W   | 0.423      | 0.143        | 0.014 (0.001)    | 0.088 (0.005)    | 0 (0.000) |     6.69 | Ang3l10wow, Bloody, Dynamite, Scoffic, Sharpshooter |
+|            4 |     6900 | 2024-02-01 | Team Mystic     | W   | 0.409      | 0.143        | 0.000 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     2.19 | Flica, Hatz, Kamikaze, KHG, Protagonist             |
+|            3 |     6983 | 2024-01-30 | Come Mid        | L   | 0.397      | -            | -                | -                | -         |    -9.25 | BoNo, HSB, Rocky, sadbutrue, SOULM8                 |
+|            2 |     7056 | 2024-01-29 | Team Paradox    | W   | 0.389      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.93 | ackerman, aloneguy, AyaaNNNN, Psy, ShAyAaN          |
+|            1 |     7105 | 2024-01-28 | vRn             | W   | 0.382      | 0.143        | 0.000 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     1.96 | Abdur, Kriminal, Musab, Sr., traNz                  |
 
 <br />
 <span id="table2"></span><br />

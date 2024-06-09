@@ -5,22 +5,22 @@ Region: [Europe]( ../standings_europe.md)<br />
 <br />
 Global Rank: [27](../standings_global.md)<br />
 Regional Rank: [18]( ../standings_europe.md)<br />
-Final Rank Value:  1288.4<br />
+Final Rank Value:  1287.2<br />
 <br />
-Final Rank Value (1288.4) = Starting Rank Value (1248.6) + Head To Head Adjustments (39.8)<br />
+Final Rank Value (1287.2) = Starting Rank Value (1245.2) + Head To Head Adjustments (42.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.606[<sup>1</sup>](#table2)
-- Bounty Collected: 0.478[<sup>2</sup>](#table1)
-- Opponent Network: 0.266[<sup>2</sup>](#table1)
+- Bounty Collected: 0.477[<sup>2</sup>](#table1)
+- Opponent Network: 0.263[<sup>2</sup>](#table1)
 - LAN Wins: 0.317[<sup>2</sup>](#table1)
 
-The average of these factors is 0.417<br />
+The average of these factors is 0.416<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1248.6
-- 400 + ( ( 0.417 - 0.000 ) / ( 0.786 - 0.000 ) ) * 1600 = 1248.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1245.2
+- 400 + ( ( 0.416 - 0.000 ) / ( 0.787 - 0.000 ) ) * 1600 = 1245.2
 
 
 #### Factors<br />
@@ -36,21 +36,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |      498 | 2024-05-22 | Eternal Fire      | L   | 1.000      | -            | -                | -                | -         |    -1.98 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           14 |      563 | 2024-05-21 | AMKAL ESPORTS     | W   | 1.000      | 0.769        | 0.146 (0.113)    | 0.565 (0.435)    | 0 (0.000) |    15.53 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           13 |      927 | 2024-05-18 | Fnatic            | W   | 1.000      | 0.769        | 0.147 (0.113)    | 0.480 (0.369)    | 0 (0.000) |    11.51 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           12 |      971 | 2024-05-17 | Gaimin Gladiators | W   | 1.000      | 0.769        | 0.092 (0.071)    | 0.711 (0.546)    | 0 (0.000) |    10.94 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           11 |     1666 | 2024-05-07 | Virtus.pro        | L   | 1.000      | -            | -                | -                | -         |    -2.99 | aNdu, isak, sl3nd, Snax, volt   |
-|           10 |     1883 | 2024-05-03 | ENCE              | W   | 1.000      | 0.889        | 0.202 (0.179)    | 0.280 (0.249)    | 1 (1.000) |    19.66 | aNdu, isak, sl3nd, Snax, volt   |
-|            9 |     1908 | 2024-05-02 | FORZE Esports     | W   | 1.000      | 0.889        | 0.111 (0.099)    | 0.440 (0.392)    | 1 (1.000) |     9.93 | aNdu, isak, sl3nd, Snax, volt   |
-|            8 |     1989 | 2024-05-01 | MOUZ              | L   | 1.000      | -            | -                | -                | -         |    -0.50 | aNdu, isak, sl3nd, Snax, volt   |
-|            7 |     2038 | 2024-04-30 | ENCE              | W   | 1.000      | 0.889        | 0.202 (0.179)    | 0.280 (0.249)    | 1 (1.000) |    21.15 | aNdu, isak, sl3nd, Snax, volt   |
-|            6 |     2767 | 2024-04-18 | Sashi Esport      | L   | 0.923      | -            | -                | -                | -         |   -20.22 | aNdu, isak, sl3nd, Snax, volt   |
-|            5 |     2818 | 2024-04-17 | Copenhagen Wolves | W   | 0.918      | 0.143        | 0.000 (0.000)    | 0.309 (0.040)    | 0 (0.000) |     1.02 | aNdu, isak, sl3nd, Snax, volt   |
-|            4 |     2914 | 2024-04-16 | MOUZ NXT          | W   | 0.909      | 0.384        | 0.157 (0.055)    | 0.950 (0.332)    | 0 (0.000) |     9.01 | aNdu, isak, sl3nd, Snax, volt   |
-|            3 |     3593 | 2024-04-02 | Monte             | L   | 0.817      | -            | -                | -                | -         |   -12.50 | aNdu, isak, sl3nd, Snax, volt   |
-|            2 |     3607 | 2024-04-02 | FAVBET Team       | L   | 0.816      | -            | -                | -                | -         |   -21.68 | aNdu, isak, sl3nd, Snax, volt   |
-|            1 |     3628 | 2024-04-01 | GUN5 Esports      | W   | 0.809      | 0.384        | 0.000 (0.000)    | 0.143 (0.044)    | 0 (0.000) |     0.93 | aNdu, isak, sl3nd, Snax, volt   |
+|           15 |      505 | 2024-05-22 | Eternal Fire      | L   | 1.000      | -            | -                | -                | -         |    -1.99 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           14 |      574 | 2024-05-21 | AMKAL ESPORTS     | W   | 1.000      | 0.769        | 0.146 (0.113)    | 0.565 (0.435)    | 0 (0.000) |    15.62 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           13 |      939 | 2024-05-18 | Fnatic            | W   | 1.000      | 0.769        | 0.147 (0.113)    | 0.480 (0.369)    | 0 (0.000) |    11.64 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           12 |      983 | 2024-05-17 | Gaimin Gladiators | W   | 1.000      | 0.769        | 0.092 (0.071)    | 0.727 (0.559)    | 0 (0.000) |    11.14 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           11 |     1684 | 2024-05-07 | Virtus.pro        | L   | 1.000      | -            | -                | -                | -         |    -2.97 | aNdu, isak, sl3nd, Snax, volt   |
+|           10 |     1908 | 2024-05-03 | ENCE              | W   | 1.000      | 0.889        | 0.202 (0.179)    | 0.280 (0.249)    | 1 (1.000) |    19.81 | aNdu, isak, sl3nd, Snax, volt   |
+|            9 |     1934 | 2024-05-02 | FORZE Esports     | W   | 1.000      | 0.889        | 0.101 (0.090)    | 0.372 (0.330)    | 1 (1.000) |    10.15 | aNdu, isak, sl3nd, Snax, volt   |
+|            8 |     2019 | 2024-05-01 | MOUZ              | L   | 1.000      | -            | -                | -                | -         |    -0.50 | aNdu, isak, sl3nd, Snax, volt   |
+|            7 |     2071 | 2024-04-30 | ENCE              | W   | 1.000      | 0.889        | 0.202 (0.179)    | 0.280 (0.249)    | 1 (1.000) |    21.30 | aNdu, isak, sl3nd, Snax, volt   |
+|            6 |     2823 | 2024-04-18 | Sashi Esport      | L   | 0.923      | -            | -                | -                | -         |   -20.24 | aNdu, isak, sl3nd, Snax, volt   |
+|            5 |     2875 | 2024-04-17 | Copenhagen Wolves | W   | 0.918      | 0.143        | 0.000 (0.000)    | 0.387 (0.051)    | 0 (0.000) |     1.25 | aNdu, isak, sl3nd, Snax, volt   |
+|            4 |     2975 | 2024-04-16 | MOUZ NXT          | W   | 0.909      | 0.384        | 0.157 (0.055)    | 0.977 (0.341)    | 0 (0.000) |     9.46 | aNdu, isak, sl3nd, Snax, volt   |
+|            3 |     3682 | 2024-04-02 | Monte             | L   | 0.817      | -            | -                | -                | -         |   -12.28 | aNdu, isak, sl3nd, Snax, volt   |
+|            2 |     3697 | 2024-04-02 | FAVBET Team       | L   | 0.816      | -            | -                | -                | -         |   -21.36 | aNdu, isak, sl3nd, Snax, volt   |
+|            1 |     3720 | 2024-04-01 | GUN5 Esports      | W   | 0.809      | 0.384        | 0.000 (0.000)    | 0.143 (0.044)    | 0 (0.000) |     0.98 | aNdu, isak, sl3nd, Snax, volt   |
 
 <br />
 <span id="table2"></span><br />
